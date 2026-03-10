@@ -36,10 +36,17 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: python scripts/build_market_site.py
 
+      - name: Deploy dashboard to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: market_dashboard/site
+
       - name: Commit updated snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/market_snapshot* reports/news/ reports/us/ reports/tw/ market_dashboard/site
+          git add reports/market_snapshot* reports/news/ reports/us/ reports/tw/
           git commit -m "Automated update" || echo "No changes to commit"
           git push
