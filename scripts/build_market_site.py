@@ -72,6 +72,18 @@ def pick_change_pct(entry: Dict[str, Any]) -> Optional[float]:
     return None
 
 
+def get_status_class(category: str, pct: Optional[float]) -> str:
+    if pct is None:
+        return "neutral"
+    is_positive = pct > 0
+    prefix = "positive" if is_positive else "negative"
+    if "台股" in category or "台股期貨" in category:
+        # 台股上漲紅、下跌綠
+        return f"{prefix}-tw"
+    # 美股上漲綠、下跌紅
+    return f"{prefix}-us"
+
+
 def build_category_section(category: str, entries: List[Dict[str, Any]]) -> str:
     if not entries:
         return ""
@@ -82,20 +94,15 @@ def build_category_section(category: str, entries: List[Dict[str, Any]]) -> str:
         value = pick_value(entry)
         change = pick_change(entry)
         pct = pick_change_pct(entry)
-        status = "neutral"
-        if pct is not None:
-            if pct > 0:
-                status = "positive"
-            elif pct < 0:
-                status = "negative"
+        status_class = get_status_class(category, pct)
         rows.append(
             f"""
 <tr>
   <td>{name}</td>
   <td>{symbol}</td>
   <td>{safe_format(value)}</td>
-  <td class=\"{status}\">{safe_format(change)}</td>
-  <td class=\"{status}\">{safe_format(pct)}</td>
+  <td class=\"{status_class}\">{safe_format(change)}</td>
+  <td class=\"{status_class}\">{safe_format(pct)}</td>
   <td>{entry.get('currency', '—')}</td>
 </tr>
 """
