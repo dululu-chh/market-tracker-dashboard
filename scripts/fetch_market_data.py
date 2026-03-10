@@ -1,11 +1,16 @@
-"""Fetches quotes from Yahoo Finance for equities and futures listed in a JSON configuration."""
+"""Fetches quotes from Yahoo Finance for equities and futures with optional Finnhub fallback."""
 import argparse
 import json
+import os
 from datetime import datetime
 from pathlib import Path
 from typing import Iterable, Optional
 
+import requests
 import yfinance as yf
+
+
+FINNHUB_CONFIG = Path("config/finnhub.json")
 
 
 def load_config(config_path: Path) -> dict:
@@ -13,6 +18,38 @@ def load_config(config_path: Path) -> dict:
         with config_path.open("r", encoding="utf-8") as f:
             return json.load(f)
     return {}
+
+
+def get_finnhub_key() -> Optional[str]:
+    key = os.getenv("FINNHUB_API_KEY")
+    if key:
+        return key
+    if not FINNHUB_CONFIG.exists():
+        return None
+    conf = load_config(FINNHUB_CONFIG)
+    return conf.get("api_key")
+
+
+def fetch_finnhub_quote(symbol: str) -> Optional[dict]:
+    key = get_finnhub_key()
+    if not key:
+        return None
+    url = "https://finnhub.io/api/v1/quote"
+    resp = requests.get(url, params={"symbol": symbol, "token": key}, timeout=10)
+    if resp.status_code != 200:
+        return None
+    payload = resp.json()
+    if not payload or payload.get("c") is None:
+        return None
+    return {
+        "symbol": symbol,
+        "regularMarketPrice": payload.get("c"),
+        "regularMarketPreviousClose": payload.get("pc"),
+        "regularMarketOpen": payload.get("o"),
+        "regularMarketHigh": payload.get("h"),
+        "regularMarketLow": payload.get("l"),
+        "timestamp": datetime.now().isoformat(),
+    }
 
 
 def fetch_ticker(symbol: str) -> dict:
@@ -40,6 +77,19 @@ def fetch_ticker(symbol: str) -> dict:
         if not hist.empty:
             latest = hist.iloc[-1]
             result["regularMarketPrice"] = latest.get("Close")
+    if not result["regularMarketPrice"]:
+        fh_quote = fetch_finnhub_quote(symbol)
+        if fh_quote:
+            for key in (
+                "regularMarketPrice",
+                "regularMarketPreviousClose",
+                "regularMarketOpen",
+                "regularMarketDayHigh",
+                "regularMarketDayLow",
+            ):
+                if fh_quote.get(key) is not None:
+                    result[key] = fh_quote[key]
+            result["timestamp"] = fh_quote.get("timestamp", result["timestamp"])
     if not result["currency"]:
         info = ticker.info or {}
         result["currency"] = info.get("currency")
