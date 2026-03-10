@@ -133,8 +133,11 @@ def build_news_items(news_snapshot: Optional[Dict[str, Any]], limit: int = 6) ->
             title = item.get("title") or "(無標題)"
             summary = item.get("summary") or ""
             link = item.get("link") or "#"
+            published = item.get("published") or item.get("updated") or ""
+            digest = f" — {summary}" if summary else ""
+            meta = f" ({published})" if published else ""
             bullets.append(
-                f"<li><strong>[{feed.get('name')}]</strong> <a href=\"{link}\" target=\"_blank\">{title}</a> — {summary}</li>"
+                f"<li><strong>[{feed.get('name')}]</strong> <a href=\"{link}\" target=\"_blank\">{title}</a>{digest}{meta}</li>"
             )
             total += 1
             if total >= limit:
