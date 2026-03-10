@@ -50,23 +50,29 @@ td {
   font-size: 0.95rem;
 }
 
-.status {
-  display: inline-flex;
-  padding: 4px 10px;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+.positive-us {
+  color: #059669;
+  font-weight: 600;
 }
 
-.status.positive {
-  background: rgba(16, 185, 129, 0.1);
-  color: #047857;
+.negative-us {
+  color: #dc2626;
+  font-weight: 600;
 }
 
-.status.negative {
-  background: rgba(239, 68, 68, 0.1);
-  color: #b91c1c;
+.positive-tw {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.negative-tw {
+  color: #059669;
+  font-weight: 600;
+}
+
+.neutral {
+  color: inherit;
+  font-weight: 500;
 }
 
 .card-grid {
