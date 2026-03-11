@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-03-11T07:59:23.216304",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+          "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+          "link": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 13:26:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
+          "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes.",
+          "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 00:10:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+          "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
+          "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 19:35:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不守規定不准登機！美國聯合航空：手機看影音須用耳機",
+          "summary": "華盛頓郵報報導，美國聯合航空（United Airlines）已對用手機看影音時喜歡開擴音的乘客，祭出令大多數人額手稱慶的新規定：若不使用耳機，那就別搭機。  聯航本就有鼓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366677",
+          "published": "Wed, 11 Mar 2026 15:42:29 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "伊朗稱新最高領袖「平安無事」 紐時：空襲時雙腿受傷、藏身高度保密地點",
+          "summary": "伊朗新任最高領袖穆吉塔巴（Mojtaba Khamenei）自8日接班以來，至今尚未公開現身或發表任何形式的談話。伊朗政府11日對外表示，這位新領導人目前「平安無事」；然而《紐...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366692",
+          "published": "Wed, 11 Mar 2026 15:42:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗在荷姆茲海峽放水雷 胡采蘋揭背後「求和」真相",
+          "summary": "中東衝突升溫，據2名熟稔美國情報的消息人士指出，伊朗已開始在荷姆茲海峽（Strait of Hormuz）布放水雷，隨後美軍10日證實，已在這條關鍵水道附近摧毀16艘伊朗布雷船艦...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366358",
+          "published": "Wed, 11 Mar 2026 15:18:52 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
