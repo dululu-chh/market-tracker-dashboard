@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-11T10:09:04.945005",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+          "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
+          "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 19:35:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
+          "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes.",
+          "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 00:10:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least six dead in Switzerland bus fire",
+          "summary": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+          "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 06:13:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "逆轉！「最大內鬼」聖城軍指揮官遭處決？伊朗大使：在前線指揮戰事",
+          "summary": "美以伊衝突持續升溫，被懷疑是伊朗「最大內鬼」的革命衛隊（IRGC）旗下精銳部隊聖城軍（Quds Force）指揮官卡阿尼（Esmail Qaani）去向不明，連日來有關他已遭自己...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366770",
+          "published": "Wed, 11 Mar 2026 17:51:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "臨老入花叢？與女性有「不正當關係」 美國名校俄州大校長請辭",
+          "summary": "名列美國「公立常春藤」（Public Ivy）名校榜的俄亥俄州立大學（OSU）校長小卡特（Walter 'Ted' Carter Jr.）9日宣布請辭，理由是他與1名「為了個人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366871",
+          "published": "Wed, 11 Mar 2026 17:37:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "《紐時》：至少17處美國設施在與伊朗戰爭中遭到破壞",
+          "summary": "美國聯手以色列，對伊朗發動軍事行動，伊朗隨後反擊造成美軍傷亡。《紐約時報》根據美國官員、伊朗媒體的聲明，加上高解析度商業衛星圖像及已核實為真的社群媒體影片做出分析結果，表示至少1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366848",
+          "published": "Wed, 11 Mar 2026 17:25:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
