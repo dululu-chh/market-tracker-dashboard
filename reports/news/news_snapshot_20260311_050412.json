@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-11T05:04:11.401498",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+          "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+          "link": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 13:26:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
+          "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes.",
+          "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 00:10:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+          "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
+          "link": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Mar 2026 19:35:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "非AI！日本大阪馬路「巨水管」突破土而出 現場急封一片混亂",
+          "summary": "日本大阪知名地標梅田藍天大廈附近道路今日突發罕見意外，一根深埋地下，長約30公尺、直徑5公尺的鋼製管線，突然從地面隆起約18公尺，現場緊急封閉。不少民眾經過事發地點後駐足圍觀，相...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366382",
+          "published": "Wed, 11 Mar 2026 12:45:45 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "北韓力挺伊朗選擇新領袖 譴責美以破壞和平",
+          "summary": "伊朗最高領袖哈米尼之子穆吉塔巴（Mojtaba Khamenei），確定獲任命為伊朗最高領袖。北韓官方媒體《朝中社》今（11日）表示，北韓尊重伊朗選擇新任最高領袖的決定，並指責...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366214",
+          "published": "Wed, 11 Mar 2026 11:45:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "疑擁30億美元海外資產！ 伊朗新領袖倫敦豪宅 竟可俯瞰以色列使館",
+          "summary": "伊朗新任最高領袖穆吉塔巴（Mojtaba Khamenei）甫掌權，即有外媒調查報導指稱，他疑透過代理人在歐洲與中東持有龐大的海外資產，總值可能達30億美元（約新台幣954.9...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5366277",
+          "published": "Wed, 11 Mar 2026 11:37:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
