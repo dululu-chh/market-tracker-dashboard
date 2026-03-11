@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-11T17:40:23.403240",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+          "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 16:45:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Countries agree to record release of emergency oil reserves as prices surge",
+          "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+          "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 15:51:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+          "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+          "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 16:00:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "攻擊波灣商船　伊朗警告：迎接油價每桶200美元",
+          "summary": "伊朗軍方今天對波斯灣商船發動攻擊，並警告全世界，準備好去迎接油價每桶200美元吧！  到目前為止伊朗戰事未見緩和，船隻能否安全通過荷莫茲海峽（Strait of Hormuz）也未見明朗跡象...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5367260",
+          "published": "Thu, 12 Mar 2026 01:21:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "唯一投票反對通過《保護台灣法》 川普轟這自家議員：輸越慘越好",
+          "summary": "除了台灣九合一大選，美國今年11月也將舉行參眾議院改選。美國總統川普（Donald Trump）週三（11日）突然在社群重砲痛批自家眾議員馬西（Thomas Massie），甚至...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5367233",
+          "published": "Thu, 12 Mar 2026 00:50:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德媒批：中國經濟低迷 仍擴充軍費威嚇台灣",
+          "summary": "中國總理李強近日在政府工作報告中罕見承認多項經濟困難，包括內需不足、房地產市場低迷，以及地方政府債務居高不下等，但中國今年的國防預算仍成長7％達到1.9兆元人民幣（新台幣8.8...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5367254",
+          "published": "Thu, 12 Mar 2026 00:42:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
