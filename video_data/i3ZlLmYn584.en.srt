@@ -1,0 +1,2335 @@
+1
+00:00:01,199 --> 00:00:03,830
+
+This is how to build a polyarket trading
+
+2
+00:00:03,830 --> 00:00:03,840
+This is how to build a polyarket trading
+ 
+
+3
+00:00:03,840 --> 00:00:08,710
+This is how to build a polyarket trading
+bot using OpenClaw. And over the past
+
+4
+00:00:08,710 --> 00:00:08,720
+bot using OpenClaw. And over the past
+ 
+
+5
+00:00:08,720 --> 00:00:10,549
+bot using OpenClaw. And over the past
+three days, I've gotten a lot of
+
+6
+00:00:10,549 --> 00:00:10,559
+three days, I've gotten a lot of
+ 
+
+7
+00:00:10,559 --> 00:00:14,390
+three days, I've gotten a lot of
+questions around how did you build the
+
+8
+00:00:14,390 --> 00:00:14,400
+questions around how did you build the
+ 
+
+9
+00:00:14,400 --> 00:00:17,029
+questions around how did you build the
+Poly Market trading bot that just works
+
+10
+00:00:17,029 --> 00:00:17,039
+Poly Market trading bot that just works
+ 
+
+11
+00:00:17,039 --> 00:00:20,310
+Poly Market trading bot that just works
+on its own that you just wake up and
+
+12
+00:00:20,310 --> 00:00:20,320
+on its own that you just wake up and
+ 
+
+13
+00:00:20,320 --> 00:00:23,670
+on its own that you just wake up and
+it's made you $15 in your sleep.
+
+14
+00:00:23,670 --> 00:00:23,680
+it's made you $15 in your sleep.
+ 
+
+15
+00:00:23,680 --> 00:00:26,230
+it's made you $15 in your sleep.
+And thinking about this, I thought the
+
+16
+00:00:26,230 --> 00:00:26,240
+And thinking about this, I thought the
+ 
+
+17
+00:00:26,240 --> 00:00:28,550
+And thinking about this, I thought the
+best way of showing you how I've built
+
+18
+00:00:28,550 --> 00:00:28,560
+best way of showing you how I've built
+ 
+
+19
+00:00:28,560 --> 00:00:32,630
+best way of showing you how I've built
+it is by literally showing you how I've
+
+20
+00:00:32,630 --> 00:00:32,640
+it is by literally showing you how I've
+ 
+
+21
+00:00:32,640 --> 00:00:34,630
+it is by literally showing you how I've
+built it, by showing you the prompts
+
+22
+00:00:34,630 --> 00:00:34,640
+built it, by showing you the prompts
+ 
+
+23
+00:00:34,640 --> 00:00:37,990
+built it, by showing you the prompts
+that I used to work on this bot with
+
+24
+00:00:37,990 --> 00:00:38,000
+that I used to work on this bot with
+ 
+
+25
+00:00:38,000 --> 00:00:41,510
+that I used to work on this bot with
+Max, my AI agent. So, that being said,
+
+26
+00:00:41,510 --> 00:00:41,520
+Max, my AI agent. So, that being said,
+ 
+
+27
+00:00:41,520 --> 00:00:44,150
+Max, my AI agent. So, that being said,
+let's let's get started with literally
+
+28
+00:00:44,150 --> 00:00:44,160
+let's let's get started with literally
+ 
+
+29
+00:00:44,160 --> 00:00:48,310
+let's let's get started with literally
+the first prompt that I used on this
+
+30
+00:00:48,310 --> 00:00:48,320
+the first prompt that I used on this
+ 
+
+31
+00:00:48,320 --> 00:00:50,709
+the first prompt that I used on this
+exact project, which was I will give you
+
+32
+00:00:50,709 --> 00:00:50,719
+exact project, which was I will give you
+ 
+
+33
+00:00:50,719 --> 00:00:52,950
+exact project, which was I will give you
+a list of posts I found about us making
+
+34
+00:00:52,950 --> 00:00:52,960
+a list of posts I found about us making
+ 
+
+35
+00:00:52,960 --> 00:00:55,110
+a list of posts I found about us making
+money. And then I proceeded to send him
+
+36
+00:00:55,110 --> 00:00:55,120
+money. And then I proceeded to send him
+ 
+
+37
+00:00:55,120 --> 00:00:57,430
+money. And then I proceeded to send him
+a list of all the articles I managed to
+
+38
+00:00:57,430 --> 00:00:57,440
+a list of all the articles I managed to
+ 
+
+39
+00:00:57,440 --> 00:01:01,189
+a list of all the articles I managed to
+find that popped on my feed about Poly
+
+40
+00:01:01,189 --> 00:01:01,199
+find that popped on my feed about Poly
+ 
+
+41
+00:01:01,199 --> 00:01:04,180
+find that popped on my feed about Poly
+Market uh bots and OpenClaw
+
+42
+00:01:04,180 --> 00:01:04,190
+Market uh bots and OpenClaw
+ 
+
+43
+00:01:04,190 --> 00:01:06,630
+Market uh bots and OpenClaw
+[clears throat] making money together.
+
+44
+00:01:06,630 --> 00:01:06,640
+[clears throat] making money together.
+ 
+
+45
+00:01:06,640 --> 00:01:08,149
+[clears throat] making money together.
+And from that, it started telling me,
+
+46
+00:01:08,149 --> 00:01:08,159
+And from that, it started telling me,
+ 
+
+47
+00:01:08,159 --> 00:01:10,230
+And from that, it started telling me,
+"Got it. let me pull these tweets. It
+
+48
+00:01:10,230 --> 00:01:10,240
+"Got it. let me pull these tweets. It
+ 
+
+49
+00:01:10,240 --> 00:01:12,789
+"Got it. let me pull these tweets. It
+pulled all of the different tweets. It
+
+50
+00:01:12,789 --> 00:01:12,799
+pulled all of the different tweets. It
+ 
+
+51
+00:01:12,799 --> 00:01:15,030
+pulled all of the different tweets. It
+read through them. It understood what
+
+52
+00:01:15,030 --> 00:01:15,040
+read through them. It understood what
+ 
+
+53
+00:01:15,040 --> 00:01:18,550
+read through them. It understood what
+they're about. And next up, I told him,
+
+54
+00:01:18,550 --> 00:01:18,560
+they're about. And next up, I told him,
+ 
+
+55
+00:01:18,560 --> 00:01:22,550
+they're about. And next up, I told him,
+"Let's do the same. Ask them to make
+
+56
+00:01:22,550 --> 00:01:22,560
+"Let's do the same. Ask them to make
+ 
+
+57
+00:01:22,560 --> 00:01:26,950
+"Let's do the same. Ask them to make
+money." He always in in in my AI agents
+
+58
+00:01:26,950 --> 00:01:26,960
+money." He always in in in my AI agents
+ 
+
+59
+00:01:26,960 --> 00:01:29,590
+money." He always in in in my AI agents
+max fashion, he said, "Hell yes."
+
+60
+00:01:29,590 --> 00:01:29,600
+max fashion, he said, "Hell yes."
+ 
+
+61
+00:01:29,600 --> 00:01:31,429
+max fashion, he said, "Hell yes."
+Looking at what they're doing, they're
+
+62
+00:01:31,429 --> 00:01:31,439
+Looking at what they're doing, they're
+ 
+
+63
+00:01:31,439 --> 00:01:34,390
+Looking at what they're doing, they're
+basically three money streams. And he
+
+64
+00:01:34,390 --> 00:01:34,400
+basically three money streams. And he
+ 
+
+65
+00:01:34,400 --> 00:01:36,630
+basically three money streams. And he
+categorized the different articles.
+
+66
+00:01:36,630 --> 00:01:36,640
+categorized the different articles.
+ 
+
+67
+00:01:36,640 --> 00:01:38,469
+categorized the different articles.
+Polymarket referrals. Those are people
+
+68
+00:01:38,469 --> 00:01:38,479
+Polymarket referrals. Those are people
+ 
+
+69
+00:01:38,479 --> 00:01:40,950
+Polymarket referrals. Those are people
+who just preach that they can make
+
+70
+00:01:40,950 --> 00:01:40,960
+who just preach that they can make
+ 
+
+71
+00:01:40,960 --> 00:01:43,109
+who just preach that they can make
+money, but the real way that they're
+
+72
+00:01:43,109 --> 00:01:43,119
+money, but the real way that they're
+ 
+
+73
+00:01:43,119 --> 00:01:44,710
+money, but the real way that they're
+making money is through the poly market
+
+74
+00:01:44,710 --> 00:01:44,720
+making money is through the poly market
+ 
+
+75
+00:01:44,720 --> 00:01:46,310
+making money is through the poly market
+referral that they put in their
+
+76
+00:01:46,310 --> 00:01:46,320
+referral that they put in their
+ 
+
+77
+00:01:46,320 --> 00:01:48,230
+referral that they put in their
+articles. So, they're not really making
+
+78
+00:01:48,230 --> 00:01:48,240
+articles. So, they're not really making
+ 
+
+79
+00:01:48,240 --> 00:01:51,109
+articles. So, they're not really making
+money. Then there's copy trading bot
+
+80
+00:01:51,109 --> 00:01:51,119
+money. Then there's copy trading bot
+ 
+
+81
+00:01:51,119 --> 00:01:53,510
+money. Then there's copy trading bot
+referrals as well. Then there's actual
+
+82
+00:01:53,510 --> 00:01:53,520
+referrals as well. Then there's actual
+ 
+
+83
+00:01:53,520 --> 00:01:55,670
+referrals as well. Then there's actual
+bot trading. Some are genuinely running
+
+84
+00:01:55,670 --> 00:01:55,680
+bot trading. Some are genuinely running
+ 
+
+85
+00:01:55,680 --> 00:01:58,230
+bot trading. Some are genuinely running
+bots on Poly Market 15inut Bitcoin
+
+86
+00:01:58,230 --> 00:01:58,240
+bots on Poly Market 15inut Bitcoin
+ 
+
+87
+00:01:58,240 --> 00:02:01,109
+bots on Poly Market 15inut Bitcoin
+Ethereum markets. Here's what we can do.
+
+88
+00:02:01,109 --> 00:02:01,119
+Ethereum markets. Here's what we can do.
+ 
+
+89
+00:02:01,119 --> 00:02:02,950
+Ethereum markets. Here's what we can do.
+This is the perfect play. We already
+
+90
+00:02:02,950 --> 00:02:02,960
+This is the perfect play. We already
+ 
+
+91
+00:02:02,960 --> 00:02:05,830
+This is the perfect play. We already
+started the the bot. I gave up on it a
+
+92
+00:02:05,830 --> 00:02:05,840
+started the the bot. I gave up on it a
+ 
+
+93
+00:02:05,840 --> 00:02:09,190
+started the the bot. I gave up on it a
+couple of days ago. Basically was just a
+
+94
+00:02:09,190 --> 00:02:09,200
+couple of days ago. Basically was just a
+ 
+
+95
+00:02:09,200 --> 00:02:12,710
+couple of days ago. Basically was just a
+thought that I had back then. I didn't
+
+96
+00:02:12,710 --> 00:02:12,720
+thought that I had back then. I didn't
+ 
+
+97
+00:02:12,720 --> 00:02:15,270
+thought that I had back then. I didn't
+want to put much time into it. I was
+
+98
+00:02:15,270 --> 00:02:15,280
+want to put much time into it. I was
+ 
+
+99
+00:02:15,280 --> 00:02:16,869
+want to put much time into it. I was
+like, "Hey, listen. We have the
+
+100
+00:02:16,869 --> 00:02:16,879
+like, "Hey, listen. We have the
+ 
+
+101
+00:02:16,879 --> 00:02:20,630
+like, "Hey, listen. We have the
+groundwork. This is what we can do." I
+
+102
+00:02:20,630 --> 00:02:20,640
+groundwork. This is what we can do." I
+ 
+
+103
+00:02:20,640 --> 00:02:23,190
+groundwork. This is what we can do." I
+wanted to to to run the polyarket
+
+104
+00:02:23,190 --> 00:02:23,200
+wanted to to to run the polyarket
+ 
+
+105
+00:02:23,200 --> 00:02:25,670
+wanted to to to run the polyarket
+referral link thing at first because
+
+106
+00:02:25,670 --> 00:02:25,680
+referral link thing at first because
+ 
+
+107
+00:02:25,680 --> 00:02:27,910
+referral link thing at first because
+that's what most of the articles were
+
+108
+00:02:27,910 --> 00:02:27,920
+that's what most of the articles were
+ 
+
+109
+00:02:27,920 --> 00:02:30,470
+that's what most of the articles were
+using. They weren't actually trading. I
+
+110
+00:02:30,470 --> 00:02:30,480
+using. They weren't actually trading. I
+ 
+
+111
+00:02:30,480 --> 00:02:32,309
+using. They weren't actually trading. I
+was like, "No, I want us to run the same
+
+112
+00:02:32,309 --> 00:02:32,319
+was like, "No, I want us to run the same
+ 
+
+113
+00:02:32,319 --> 00:02:34,470
+was like, "No, I want us to run the same
+bot." He's like, "Got it. Let me check
+
+114
+00:02:34,470 --> 00:02:34,480
+bot." He's like, "Got it. Let me check
+ 
+
+115
+00:02:34,480 --> 00:02:36,470
+bot." He's like, "Got it. Let me check
+what we've already built and what we
+
+116
+00:02:36,470 --> 00:02:36,480
+what we've already built and what we
+ 
+
+117
+00:02:36,480 --> 00:02:38,630
+what we've already built and what we
+need to get the same setup. Ah, I found
+
+118
+00:02:38,630 --> 00:02:38,640
+need to get the same setup. Ah, I found
+ 
+
+119
+00:02:38,640 --> 00:02:40,390
+need to get the same setup. Ah, I found
+the markets. There are some short-term
+
+120
+00:02:40,390 --> 00:02:40,400
+the markets. There are some short-term
+ 
+
+121
+00:02:40,400 --> 00:02:43,430
+the markets. There are some short-term
+markets. Five minute, 15 minute, hourly,
+
+122
+00:02:43,430 --> 00:02:43,440
+markets. Five minute, 15 minute, hourly,
+ 
+
+123
+00:02:43,440 --> 00:02:45,110
+markets. Five minute, 15 minute, hourly,
+four hours. Let me check if we can
+
+124
+00:02:45,110 --> 00:02:45,120
+four hours. Let me check if we can
+ 
+
+125
+00:02:45,120 --> 00:02:47,430
+four hours. Let me check if we can
+actually access and trade these. Bingo.
+
+126
+00:02:47,430 --> 00:02:47,440
+actually access and trade these. Bingo.
+ 
+
+127
+00:02:47,440 --> 00:02:51,430
+actually access and trade these. Bingo.
+I can see 15minute markets over here.
+
+128
+00:02:51,430 --> 00:02:51,440
+I can see 15minute markets over here.
+ 
+
+129
+00:02:51,440 --> 00:02:53,830
+I can see 15minute markets over here.
+From that,
+
+130
+00:02:53,830 --> 00:02:53,840
+From that,
+ 
+
+131
+00:02:53,840 --> 00:02:58,229
+From that,
+let me see. So, from that, that was its
+
+132
+00:02:58,229 --> 00:02:58,239
+let me see. So, from that, that was its
+ 
+
+133
+00:02:58,239 --> 00:03:00,790
+let me see. So, from that, that was its
+entire response that I was just showing
+
+134
+00:03:00,790 --> 00:03:00,800
+entire response that I was just showing
+ 
+
+135
+00:03:00,800 --> 00:03:04,550
+entire response that I was just showing
+you. And it finishes by build from
+
+136
+00:03:04,550 --> 00:03:04,560
+you. And it finishes by build from
+ 
+
+137
+00:03:04,560 --> 00:03:06,710
+you. And it finishes by build from
+scratch. I can write a simple Python bot
+
+138
+00:03:06,710 --> 00:03:06,720
+scratch. I can write a simple Python bot
+ 
+
+139
+00:03:06,720 --> 00:03:08,949
+scratch. I can write a simple Python bot
+using our existing setup. What do you
+
+140
+00:03:08,949 --> 00:03:08,959
+using our existing setup. What do you
+ 
+
+141
+00:03:08,959 --> 00:03:11,030
+using our existing setup. What do you
+want me to do? And that's where I told
+
+142
+00:03:11,030 --> 00:03:11,040
+want me to do? And that's where I told
+ 
+
+143
+00:03:11,040 --> 00:03:13,509
+want me to do? And that's where I told
+it, what do you think? I want you to
+
+144
+00:03:13,509 --> 00:03:13,519
+it, what do you think? I want you to
+ 
+
+145
+00:03:13,519 --> 00:03:16,710
+it, what do you think? I want you to
+lead this entirely.
+
+146
+00:03:16,710 --> 00:03:16,720
+lead this entirely.
+ 
+
+147
+00:03:16,720 --> 00:03:19,589
+lead this entirely.
+So this is me getting you and giving you
+
+148
+00:03:19,589 --> 00:03:19,599
+So this is me getting you and giving you
+ 
+
+149
+00:03:19,599 --> 00:03:22,149
+So this is me getting you and giving you
+a glimpse over the behind the scenes of
+
+150
+00:03:22,149 --> 00:03:22,159
+a glimpse over the behind the scenes of
+ 
+
+151
+00:03:22,159 --> 00:03:26,070
+a glimpse over the behind the scenes of
+how I think when I develop my bot. I
+
+152
+00:03:26,070 --> 00:03:26,080
+how I think when I develop my bot. I
+ 
+
+153
+00:03:26,080 --> 00:03:27,990
+how I think when I develop my bot. I
+don't want you to look at this and
+
+154
+00:03:27,990 --> 00:03:28,000
+don't want you to look at this and
+ 
+
+155
+00:03:28,000 --> 00:03:30,869
+don't want you to look at this and
+literally copy paste what I said to it
+
+156
+00:03:30,869 --> 00:03:30,879
+literally copy paste what I said to it
+ 
+
+157
+00:03:30,879 --> 00:03:33,830
+literally copy paste what I said to it
+word by word because odds are it's going
+
+158
+00:03:33,830 --> 00:03:33,840
+word by word because odds are it's going
+ 
+
+159
+00:03:33,840 --> 00:03:36,550
+word by word because odds are it's going
+to reply to you differently.
+
+160
+00:03:36,550 --> 00:03:36,560
+to reply to you differently.
+ 
+
+161
+00:03:36,560 --> 00:03:38,470
+to reply to you differently.
+You're not going to get the exact same
+
+162
+00:03:38,470 --> 00:03:38,480
+You're not going to get the exact same
+ 
+
+163
+00:03:38,480 --> 00:03:40,149
+You're not going to get the exact same
+results. Instead, I want you to start
+
+164
+00:03:40,149 --> 00:03:40,159
+results. Instead, I want you to start
+ 
+
+165
+00:03:40,159 --> 00:03:42,149
+results. Instead, I want you to start
+thinking about
+
+166
+00:03:42,149 --> 00:03:42,159
+thinking about
+ 
+
+167
+00:03:42,159 --> 00:03:45,990
+thinking about
+how do I think and how can I help my AI
+
+168
+00:03:45,990 --> 00:03:46,000
+how do I think and how can I help my AI
+ 
+
+169
+00:03:46,000 --> 00:03:47,509
+how do I think and how can I help my AI
+agent
+
+170
+00:03:47,509 --> 00:03:47,519
+agent
+ 
+
+171
+00:03:47,519 --> 00:03:50,869
+agent
+get to the goal I desire. You are the
+
+172
+00:03:50,869 --> 00:03:50,879
+get to the goal I desire. You are the
+ 
+
+173
+00:03:50,879 --> 00:03:55,589
+get to the goal I desire. You are the
+operator. Your AI agent is the engine.
+
+174
+00:03:55,589 --> 00:03:55,599
+operator. Your AI agent is the engine.
+ 
+
+175
+00:03:55,599 --> 00:03:57,509
+operator. Your AI agent is the engine.
+With that being said, this is what it
+
+176
+00:03:57,509 --> 00:03:57,519
+With that being said, this is what it
+ 
+
+177
+00:03:57,519 --> 00:03:59,429
+With that being said, this is what it
+gave me. All right, I'll own this.
+
+178
+00:03:59,429 --> 00:03:59,439
+gave me. All right, I'll own this.
+ 
+
+179
+00:03:59,439 --> 00:04:01,670
+gave me. All right, I'll own this.
+Here's my call. My recommendation phase
+
+180
+00:04:01,670 --> 00:04:01,680
+Here's my call. My recommendation phase
+ 
+
+181
+00:04:01,680 --> 00:04:03,990
+Here's my call. My recommendation phase
+one, let's validate. Let's spend this
+
+182
+00:04:03,990 --> 00:04:04,000
+one, let's validate. Let's spend this
+ 
+
+183
+00:04:04,000 --> 00:04:06,390
+one, let's validate. Let's spend this
+week on validation. Which is why in all
+
+184
+00:04:06,390 --> 00:04:06,400
+week on validation. Which is why in all
+ 
+
+185
+00:04:06,400 --> 00:04:08,869
+week on validation. Which is why in all
+my videos I say week one is about us
+
+186
+00:04:08,869 --> 00:04:08,879
+my videos I say week one is about us
+ 
+
+187
+00:04:08,879 --> 00:04:14,789
+my videos I say week one is about us
+testing. Is about my AI agent learning.
+
+188
+00:04:14,789 --> 00:04:14,799
+testing. Is about my AI agent learning.
+ 
+
+189
+00:04:14,799 --> 00:04:18,150
+testing. Is about my AI agent learning.
+Let's fund this with $100. Let's track P
+
+190
+00:04:18,150 --> 00:04:18,160
+Let's fund this with $100. Let's track P
+ 
+
+191
+00:04:18,160 --> 00:04:21,030
+Let's fund this with $100. Let's track P
+profit and loss for three to five days.
+
+192
+00:04:21,030 --> 00:04:21,040
+profit and loss for three to five days.
+ 
+
+193
+00:04:21,040 --> 00:04:23,430
+profit and loss for three to five days.
+Phase two, let's scale and or pivot.
+
+194
+00:04:23,430 --> 00:04:23,440
+Phase two, let's scale and or pivot.
+ 
+
+195
+00:04:23,440 --> 00:04:26,150
+Phase two, let's scale and or pivot.
+Phase three, let's document, which is
+
+196
+00:04:26,150 --> 00:04:26,160
+Phase three, let's document, which is
+ 
+
+197
+00:04:26,160 --> 00:04:28,710
+Phase three, let's document, which is
+exactly what I did. I literally followed
+
+198
+00:04:28,710 --> 00:04:28,720
+exactly what I did. I literally followed
+ 
+
+199
+00:04:28,720 --> 00:04:31,749
+exactly what I did. I literally followed
+its advice. What I need from you? I need
+
+200
+00:04:31,749 --> 00:04:31,759
+its advice. What I need from you? I need
+ 
+
+201
+00:04:31,759 --> 00:04:34,550
+its advice. What I need from you? I need
+a poly market account funded. I need a
+
+202
+00:04:34,550 --> 00:04:34,560
+a poly market account funded. I need a
+ 
+
+203
+00:04:34,560 --> 00:04:36,550
+a poly market account funded. I need a
+VPS preference. Do you want to run this
+
+204
+00:04:36,550 --> 00:04:36,560
+VPS preference. Do you want to run this
+ 
+
+205
+00:04:36,560 --> 00:04:38,950
+VPS preference. Do you want to run this
+on your Mac mini or on digital ocean
+
+206
+00:04:38,950 --> 00:04:38,960
+on your Mac mini or on digital ocean
+ 
+
+207
+00:04:38,960 --> 00:04:41,430
+on your Mac mini or on digital ocean
+droplet? And what's your risk tolerance?
+
+208
+00:04:41,430 --> 00:04:41,440
+droplet? And what's your risk tolerance?
+ 
+
+209
+00:04:41,440 --> 00:04:45,270
+droplet? And what's your risk tolerance?
+And I answered these questions for it.
+
+210
+00:04:45,270 --> 00:04:45,280
+And I answered these questions for it.
+ 
+
+211
+00:04:45,280 --> 00:04:51,510
+And I answered these questions for it.
+And it got started. So that's it.
+
+212
+00:04:51,510 --> 00:04:51,520
+And it got started. So that's it.
+ 
+
+213
+00:04:51,520 --> 00:04:54,469
+And it got started. So that's it.
+over here it was saying boom it we went
+
+214
+00:04:54,469 --> 00:04:54,479
+over here it was saying boom it we went
+ 
+
+215
+00:04:54,479 --> 00:04:57,510
+over here it was saying boom it we went
+through a long setup phase of
+
+216
+00:04:57,510 --> 00:04:57,520
+through a long setup phase of
+ 
+
+217
+00:04:57,520 --> 00:05:00,390
+through a long setup phase of
+probably like an hour or two long where
+
+218
+00:05:00,390 --> 00:05:00,400
+probably like an hour or two long where
+ 
+
+219
+00:05:00,400 --> 00:05:02,790
+probably like an hour or two long where
+I was figuring out how to create Poly
+
+220
+00:05:02,790 --> 00:05:02,800
+I was figuring out how to create Poly
+ 
+
+221
+00:05:02,800 --> 00:05:05,350
+I was figuring out how to create Poly
+Market API so that it has access to my
+
+222
+00:05:05,350 --> 00:05:05,360
+Market API so that it has access to my
+ 
+
+223
+00:05:05,360 --> 00:05:08,390
+Market API so that it has access to my
+Poly Market account. I was figuring out
+
+224
+00:05:08,390 --> 00:05:08,400
+Poly Market account. I was figuring out
+ 
+
+225
+00:05:08,400 --> 00:05:11,430
+Poly Market account. I was figuring out
+how to fund the the wallet that it
+
+226
+00:05:11,430 --> 00:05:11,440
+how to fund the the wallet that it
+ 
+
+227
+00:05:11,440 --> 00:05:14,550
+how to fund the the wallet that it
+needed uh because Poly Market uses a
+
+228
+00:05:14,550 --> 00:05:14,560
+needed uh because Poly Market uses a
+ 
+
+229
+00:05:14,560 --> 00:05:16,310
+needed uh because Poly Market uses a
+different wallet than the one you sign
+
+230
+00:05:16,310 --> 00:05:16,320
+different wallet than the one you sign
+ 
+
+231
+00:05:16,320 --> 00:05:19,830
+different wallet than the one you sign
+in with. I was figuring out how to give
+
+232
+00:05:19,830 --> 00:05:19,840
+in with. I was figuring out how to give
+ 
+
+233
+00:05:19,840 --> 00:05:21,990
+in with. I was figuring out how to give
+it full access to the things it needed
+
+234
+00:05:21,990 --> 00:05:22,000
+it full access to the things it needed
+ 
+
+235
+00:05:22,000 --> 00:05:24,230
+it full access to the things it needed
+and it was helping me out through that.
+
+236
+00:05:24,230 --> 00:05:24,240
+and it was helping me out through that.
+ 
+
+237
+00:05:24,240 --> 00:05:26,390
+and it was helping me out through that.
+And then we finished by send me the URL
+
+238
+00:05:26,390 --> 00:05:26,400
+And then we finished by send me the URL
+ 
+
+239
+00:05:26,400 --> 00:05:28,870
+And then we finished by send me the URL
+of the market that you want to start
+
+240
+00:05:28,870 --> 00:05:28,880
+of the market that you want to start
+ 
+
+241
+00:05:28,880 --> 00:05:31,990
+of the market that you want to start
+with. I sent it the Bitcoin up and down
+
+242
+00:05:31,990 --> 00:05:32,000
+with. I sent it the Bitcoin up and down
+ 
+
+243
+00:05:32,000 --> 00:05:35,029
+with. I sent it the Bitcoin up and down
+15 minutes market. Found it. That market
+
+244
+00:05:35,029 --> 00:05:35,039
+15 minutes market. Found it. That market
+ 
+
+245
+00:05:35,039 --> 00:05:37,350
+15 minutes market. Found it. That market
+just ended. Let me get the full details
+
+246
+00:05:37,350 --> 00:05:37,360
+just ended. Let me get the full details
+ 
+
+247
+00:05:37,360 --> 00:05:40,230
+just ended. Let me get the full details
+and find the next active one. It found
+
+248
+00:05:40,230 --> 00:05:40,240
+and find the next active one. It found
+ 
+
+249
+00:05:40,240 --> 00:05:43,590
+and find the next active one. It found
+it. The current market up down the
+
+250
+00:05:43,590 --> 00:05:43,600
+it. The current market up down the
+ 
+
+251
+00:05:43,600 --> 00:05:46,150
+it. The current market up down the
+pattern is so on and so forth. Let me
+
+252
+00:05:46,150 --> 00:05:46,160
+pattern is so on and so forth. Let me
+ 
+
+253
+00:05:46,160 --> 00:05:48,310
+pattern is so on and so forth. Let me
+update the bot and do a test trade.
+
+254
+00:05:48,310 --> 00:05:48,320
+update the bot and do a test trade.
+ 
+
+255
+00:05:48,320 --> 00:05:50,310
+update the bot and do a test trade.
+Minimum is five shares. Let me increase
+
+256
+00:05:50,310 --> 00:05:50,320
+Minimum is five shares. Let me increase
+ 
+
+257
+00:05:50,320 --> 00:05:53,909
+Minimum is five shares. Let me increase
+the bet. First trade placed. And that
+
+258
+00:05:53,909 --> 00:05:53,919
+the bet. First trade placed. And that
+ 
+
+259
+00:05:53,919 --> 00:05:56,469
+the bet. First trade placed. And that
+was literally my first tweet. I set up
+
+260
+00:05:56,469 --> 00:05:56,479
+was literally my first tweet. I set up
+ 
+
+261
+00:05:56,479 --> 00:05:59,749
+was literally my first tweet. I set up
+my Poly Market bot wrong because what it
+
+262
+00:05:59,749 --> 00:05:59,759
+my Poly Market bot wrong because what it
+ 
+
+263
+00:05:59,759 --> 00:06:02,950
+my Poly Market bot wrong because what it
+ended up doing is it placed the bet as
+
+264
+00:06:02,950 --> 00:06:02,960
+ended up doing is it placed the bet as
+ 
+
+265
+00:06:02,960 --> 00:06:04,870
+ended up doing is it placed the bet as
+soon as the market opened. It was still
+
+266
+00:06:04,870 --> 00:06:04,880
+soon as the market opened. It was still
+ 
+
+267
+00:06:04,880 --> 00:06:08,230
+soon as the market opened. It was still
+a 5050 chance. Literally, you can see 47
+
+268
+00:06:08,230 --> 00:06:08,240
+a 5050 chance. Literally, you can see 47
+ 
+
+269
+00:06:08,240 --> 00:06:09,749
+a 5050 chance. Literally, you can see 47
+cents,
+
+270
+00:06:09,749 --> 00:06:09,759
+cents,
+ 
+
+271
+00:06:09,759 --> 00:06:12,309
+cents,
+52 cents. It was literally a coin flip
+
+272
+00:06:12,309 --> 00:06:12,319
+52 cents. It was literally a coin flip
+ 
+
+273
+00:06:12,319 --> 00:06:15,029
+52 cents. It was literally a coin flip
+that he was betting on. He didn't
+
+274
+00:06:15,029 --> 00:06:15,039
+that he was betting on. He didn't
+ 
+
+275
+00:06:15,039 --> 00:06:17,510
+that he was betting on. He didn't
+understand at that time that we needed
+
+276
+00:06:17,510 --> 00:06:17,520
+understand at that time that we needed
+ 
+
+277
+00:06:17,520 --> 00:06:20,469
+understand at that time that we needed
+to wait till the last minute. And
+
+278
+00:06:20,469 --> 00:06:20,479
+to wait till the last minute. And
+ 
+
+279
+00:06:20,479 --> 00:06:22,870
+to wait till the last minute. And
+although this was a coin flip, he
+
+280
+00:06:22,870 --> 00:06:22,880
+although this was a coin flip, he
+ 
+
+281
+00:06:22,880 --> 00:06:25,270
+although this was a coin flip, he
+managed to make the right decision. So,
+
+282
+00:06:25,270 --> 00:06:25,280
+managed to make the right decision. So,
+ 
+
+283
+00:06:25,280 --> 00:06:27,830
+managed to make the right decision. So,
+he still managed to make $20 off of his
+
+284
+00:06:27,830 --> 00:06:27,840
+he still managed to make $20 off of his
+ 
+
+285
+00:06:27,840 --> 00:06:30,390
+he still managed to make $20 off of his
+first literal bet. We're truly living in
+
+286
+00:06:30,390 --> 00:06:30,400
+first literal bet. We're truly living in
+ 
+
+287
+00:06:30,400 --> 00:06:32,150
+first literal bet. We're truly living in
+the future.
+
+288
+00:06:32,150 --> 00:06:32,160
+the future.
+ 
+
+289
+00:06:32,160 --> 00:06:35,749
+the future.
+But from that, I asked him, is this how
+
+290
+00:06:35,749 --> 00:06:35,759
+But from that, I asked him, is this how
+ 
+
+291
+00:06:35,759 --> 00:06:38,070
+But from that, I asked him, is this how
+we make money based on the articles I
+
+292
+00:06:38,070 --> 00:06:38,080
+we make money based on the articles I
+ 
+
+293
+00:06:38,080 --> 00:06:40,390
+we make money based on the articles I
+sent you? And he's like, honestly, not
+
+294
+00:06:40,390 --> 00:06:40,400
+sent you? And he's like, honestly, not
+ 
+
+295
+00:06:40,400 --> 00:06:42,309
+sent you? And he's like, honestly, not
+quite. From those articles, the real
+
+296
+00:06:42,309 --> 00:06:42,319
+quite. From those articles, the real
+ 
+
+297
+00:06:42,319 --> 00:06:44,150
+quite. From those articles, the real
+edge is exploiting the lag between
+
+298
+00:06:44,150 --> 00:06:44,160
+edge is exploiting the lag between
+ 
+
+299
+00:06:44,160 --> 00:06:46,870
+edge is exploiting the lag between
+Binance and chain link. For those of you
+
+300
+00:06:46,870 --> 00:06:46,880
+Binance and chain link. For those of you
+ 
+
+301
+00:06:46,880 --> 00:06:49,430
+Binance and chain link. For those of you
+who don't know, uh the way Poly Market
+
+302
+00:06:49,430 --> 00:06:49,440
+who don't know, uh the way Poly Market
+ 
+
+303
+00:06:49,440 --> 00:06:53,990
+who don't know, uh the way Poly Market
+works, it fetches the prices here.
+
+304
+00:06:53,990 --> 00:06:54,000
+works, it fetches the prices here.
+ 
+
+305
+00:06:54,000 --> 00:06:56,150
+works, it fetches the prices here.
+Actually, why am I bothering explaining
+
+306
+00:06:56,150 --> 00:06:56,160
+Actually, why am I bothering explaining
+ 
+
+307
+00:06:56,160 --> 00:06:57,590
+Actually, why am I bothering explaining
+when it's literally explaining right
+
+308
+00:06:57,590 --> 00:06:57,600
+when it's literally explaining right
+ 
+
+309
+00:06:57,600 --> 00:06:59,670
+when it's literally explaining right
+here? Poly Market results based on chain
+
+310
+00:06:59,670 --> 00:06:59,680
+here? Poly Market results based on chain
+ 
+
+311
+00:06:59,680 --> 00:07:01,990
+here? Poly Market results based on chain
+link price feed, but chain link updates
+
+312
+00:07:01,990 --> 00:07:02,000
+link price feed, but chain link updates
+ 
+
+313
+00:07:02,000 --> 00:07:04,230
+link price feed, but chain link updates
+slower than Binance. So, the play is
+
+314
+00:07:04,230 --> 00:07:04,240
+slower than Binance. So, the play is
+ 
+
+315
+00:07:04,240 --> 00:07:06,550
+slower than Binance. So, the play is
+watch Binance in real time. See Bitcoin
+
+316
+00:07:06,550 --> 00:07:06,560
+watch Binance in real time. See Bitcoin
+ 
+
+317
+00:07:06,560 --> 00:07:08,710
+watch Binance in real time. See Bitcoin
+moving up hard. Chain link hasn't
+
+318
+00:07:08,710 --> 00:07:08,720
+moving up hard. Chain link hasn't
+ 
+
+319
+00:07:08,720 --> 00:07:11,510
+moving up hard. Chain link hasn't
+updated yet. Poly market odds are stale.
+
+320
+00:07:11,510 --> 00:07:11,520
+updated yet. Poly market odds are stale.
+ 
+
+321
+00:07:11,520 --> 00:07:14,550
+updated yet. Poly market odds are stale.
+Buy up cheap before odds adjust. Chain
+
+322
+00:07:14,550 --> 00:07:14,560
+Buy up cheap before odds adjust. Chain
+ 
+
+323
+00:07:14,560 --> 00:07:17,350
+Buy up cheap before odds adjust. Chain
+link catches up. You win. Want me to
+
+324
+00:07:17,350 --> 00:07:17,360
+link catches up. You win. Want me to
+ 
+
+325
+00:07:17,360 --> 00:07:19,990
+link catches up. You win. Want me to
+rebuild the bot with the chain link lag
+
+326
+00:07:19,990 --> 00:07:20,000
+rebuild the bot with the chain link lag
+ 
+
+327
+00:07:20,000 --> 00:07:23,830
+rebuild the bot with the chain link lag
+exploit? Yes, please. It rebuilt it with
+
+328
+00:07:23,830 --> 00:07:23,840
+exploit? Yes, please. It rebuilt it with
+ 
+
+329
+00:07:23,840 --> 00:07:28,309
+exploit? Yes, please. It rebuilt it with
+chain link arbitrage bot working.
+
+330
+00:07:28,309 --> 00:07:28,319
+chain link arbitrage bot working.
+ 
+
+331
+00:07:28,319 --> 00:07:31,670
+chain link arbitrage bot working.
+And then after that I asked it how can I
+
+332
+00:07:31,670 --> 00:07:31,680
+And then after that I asked it how can I
+ 
+
+333
+00:07:31,680 --> 00:07:33,909
+And then after that I asked it how can I
+check on our progress man and see how
+
+334
+00:07:33,909 --> 00:07:33,919
+check on our progress man and see how
+ 
+
+335
+00:07:33,919 --> 00:07:37,029
+check on our progress man and see how
+much we're making the trades etc. And
+
+336
+00:07:37,029 --> 00:07:37,039
+much we're making the trades etc. And
+ 
+
+337
+00:07:37,039 --> 00:07:40,710
+much we're making the trades etc. And
+that birthed this next post that I made
+
+338
+00:07:40,710 --> 00:07:40,720
+that birthed this next post that I made
+ 
+
+339
+00:07:40,720 --> 00:07:43,670
+that birthed this next post that I made
+which was Max HQ. It literally went up
+
+340
+00:07:43,670 --> 00:07:43,680
+which was Max HQ. It literally went up
+ 
+
+341
+00:07:43,680 --> 00:07:48,390
+which was Max HQ. It literally went up
+and it created me this whole app uh with
+
+342
+00:07:48,390 --> 00:07:48,400
+and it created me this whole app uh with
+ 
+
+343
+00:07:48,400 --> 00:07:52,070
+and it created me this whole app uh with
+more than just polyarket tracking. It
+
+344
+00:07:52,070 --> 00:07:52,080
+more than just polyarket tracking. It
+ 
+
+345
+00:07:52,080 --> 00:07:54,150
+more than just polyarket tracking. It
+allows me to see how my Poly Market bot
+
+346
+00:07:54,150 --> 00:07:54,160
+allows me to see how my Poly Market bot
+ 
+
+347
+00:07:54,160 --> 00:07:56,230
+allows me to see how my Poly Market bot
+is doing, how my hyperlquid bot is
+
+348
+00:07:56,230 --> 00:07:56,240
+is doing, how my hyperlquid bot is
+ 
+
+349
+00:07:56,240 --> 00:07:59,189
+is doing, how my hyperlquid bot is
+doing, what I have on my agenda today,
+
+350
+00:07:59,189 --> 00:07:59,199
+doing, what I have on my agenda today,
+ 
+
+351
+00:07:59,199 --> 00:08:01,350
+doing, what I have on my agenda today,
+what it sent me as briefs, what tasks
+
+352
+00:08:01,350 --> 00:08:01,360
+what it sent me as briefs, what tasks
+ 
+
+353
+00:08:01,360 --> 00:08:04,469
+what it sent me as briefs, what tasks
+have I assigned it to it. And that was
+
+354
+00:08:04,469 --> 00:08:04,479
+have I assigned it to it. And that was
+ 
+
+355
+00:08:04,479 --> 00:08:06,710
+have I assigned it to it. And that was
+literally the first post. Finally found
+
+356
+00:08:06,710 --> 00:08:06,720
+literally the first post. Finally found
+ 
+
+357
+00:08:06,720 --> 00:08:10,469
+literally the first post. Finally found
+a way to pay for my claw subscription.
+
+358
+00:08:10,469 --> 00:08:10,479
+a way to pay for my claw subscription.
+ 
+
+359
+00:08:10,479 --> 00:08:14,869
+a way to pay for my claw subscription.
+That being said, I sent it Matic. I
+
+360
+00:08:14,869 --> 00:08:14,879
+That being said, I sent it Matic. I
+ 
+
+361
+00:08:14,879 --> 00:08:18,869
+That being said, I sent it Matic. I
+asked it to learn how to autoclaim on
+
+362
+00:08:18,869 --> 00:08:18,879
+asked it to learn how to autoclaim on
+ 
+
+363
+00:08:18,879 --> 00:08:22,710
+asked it to learn how to autoclaim on
+its own uh all of its winnings and it
+
+364
+00:08:22,710 --> 00:08:22,720
+its own uh all of its winnings and it
+ 
+
+365
+00:08:22,720 --> 00:08:26,550
+its own uh all of its winnings and it
+launched Sniperbot version two. here it
+
+366
+00:08:26,550 --> 00:08:26,560
+launched Sniperbot version two. here it
+ 
+
+367
+00:08:26,560 --> 00:08:30,469
+launched Sniperbot version two. here it
+was making some mistakes as well uh
+
+368
+00:08:30,469 --> 00:08:30,479
+was making some mistakes as well uh
+ 
+
+369
+00:08:30,479 --> 00:08:33,750
+was making some mistakes as well uh
+which mainly were that
+
+370
+00:08:33,750 --> 00:08:33,760
+which mainly were that
+ 
+
+371
+00:08:33,760 --> 00:08:37,829
+which mainly were that
+the lag detection wasn't quite working
+
+372
+00:08:37,829 --> 00:08:37,839
+the lag detection wasn't quite working
+ 
+
+373
+00:08:37,839 --> 00:08:41,269
+the lag detection wasn't quite working
+well. It made some losses. I asked it
+
+374
+00:08:41,269 --> 00:08:41,279
+well. It made some losses. I asked it
+ 
+
+375
+00:08:41,279 --> 00:08:43,110
+well. It made some losses. I asked it
+how can we what can we learn from these
+
+376
+00:08:43,110 --> 00:08:43,120
+how can we what can we learn from these
+ 
+
+377
+00:08:43,120 --> 00:08:46,630
+how can we what can we learn from these
+losses and it spun up uh V2 new strategy
+
+378
+00:08:46,630 --> 00:08:46,640
+losses and it spun up uh V2 new strategy
+ 
+
+379
+00:08:46,640 --> 00:08:49,829
+losses and it spun up uh V2 new strategy
+records price at start of window snipes
+
+380
+00:08:49,829 --> 00:08:49,839
+records price at start of window snipes
+ 
+
+381
+00:08:49,839 --> 00:08:52,470
+records price at start of window snipes
+in last 30 seconds compares current
+
+382
+00:08:52,470 --> 00:08:52,480
+in last 30 seconds compares current
+ 
+
+383
+00:08:52,480 --> 00:08:55,110
+in last 30 seconds compares current
+versus start price so on and so forth.
+
+384
+00:08:55,110 --> 00:08:55,120
+versus start price so on and so forth.
+ 
+
+385
+00:08:55,120 --> 00:08:57,430
+versus start price so on and so forth.
+So, it spun up a new strategy after the
+
+386
+00:08:57,430 --> 00:08:57,440
+So, it spun up a new strategy after the
+ 
+
+387
+00:08:57,440 --> 00:09:00,070
+So, it spun up a new strategy after the
+losses it made. Perfect. Also, why was
+
+388
+00:09:00,070 --> 00:09:00,080
+losses it made. Perfect. Also, why was
+ 
+
+389
+00:09:00,080 --> 00:09:02,310
+losses it made. Perfect. Also, why was
+there an order? Why wasn't there an
+
+390
+00:09:02,310 --> 00:09:02,320
+there an order? Why wasn't there an
+ 
+
+391
+00:09:02,320 --> 00:09:04,310
+there an order? Why wasn't there an
+order in the last 15 minutes? This was
+
+392
+00:09:04,310 --> 00:09:04,320
+order in the last 15 minutes? This was
+ 
+
+393
+00:09:04,320 --> 00:09:06,070
+order in the last 15 minutes? This was
+more me trying to understand how it
+
+394
+00:09:06,070 --> 00:09:06,080
+more me trying to understand how it
+ 
+
+395
+00:09:06,080 --> 00:09:09,750
+more me trying to understand how it
+works because I myself hadn't understood
+
+396
+00:09:09,750 --> 00:09:09,760
+works because I myself hadn't understood
+ 
+
+397
+00:09:09,760 --> 00:09:12,550
+works because I myself hadn't understood
+its full logic yet. And it literally
+
+398
+00:09:12,550 --> 00:09:12,560
+its full logic yet. And it literally
+ 
+
+399
+00:09:12,560 --> 00:09:15,190
+its full logic yet. And it literally
+just told me, you lit don't have to
+
+400
+00:09:15,190 --> 00:09:15,200
+just told me, you lit don't have to
+ 
+
+401
+00:09:15,200 --> 00:09:18,710
+just told me, you lit don't have to
+guess. You don't have to make your life
+
+402
+00:09:18,710 --> 00:09:18,720
+guess. You don't have to make your life
+ 
+
+403
+00:09:18,720 --> 00:09:21,110
+guess. You don't have to make your life
+hard. You can literally just ask it for
+
+404
+00:09:21,110 --> 00:09:21,120
+hard. You can literally just ask it for
+ 
+
+405
+00:09:21,120 --> 00:09:24,150
+hard. You can literally just ask it for
+things and it will answer you.
+
+406
+00:09:24,150 --> 00:09:24,160
+things and it will answer you.
+ 
+
+407
+00:09:24,160 --> 00:09:27,750
+things and it will answer you.
+But with that being said, that was that
+
+408
+00:09:27,750 --> 00:09:27,760
+But with that being said, that was that
+ 
+
+409
+00:09:27,760 --> 00:09:31,350
+But with that being said, that was that
+is the last slide. So that was the
+
+410
+00:09:31,350 --> 00:09:31,360
+is the last slide. So that was the
+ 
+
+411
+00:09:31,360 --> 00:09:33,190
+is the last slide. So that was the
+thought process that I used in building
+
+412
+00:09:33,190 --> 00:09:33,200
+thought process that I used in building
+ 
+
+413
+00:09:33,200 --> 00:09:37,430
+thought process that I used in building
+this. There was a V1, there was a V2 and
+
+414
+00:09:37,430 --> 00:09:37,440
+this. There was a V1, there was a V2 and
+ 
+
+415
+00:09:37,440 --> 00:09:41,509
+this. There was a V1, there was a V2 and
+yesterday it managed to lose five trades
+
+416
+00:09:41,509 --> 00:09:41,519
+yesterday it managed to lose five trades
+ 
+
+417
+00:09:41,519 --> 00:09:43,430
+yesterday it managed to lose five trades
+consecutively when the market went
+
+418
+00:09:43,430 --> 00:09:43,440
+consecutively when the market went
+ 
+
+419
+00:09:43,440 --> 00:09:46,150
+consecutively when the market went
+extremely volatile and a repeat scenario
+
+420
+00:09:46,150 --> 00:09:46,160
+extremely volatile and a repeat scenario
+ 
+
+421
+00:09:46,160 --> 00:09:48,230
+extremely volatile and a repeat scenario
+happened from the screenshot where I was
+
+422
+00:09:48,230 --> 00:09:48,240
+happened from the screenshot where I was
+ 
+
+423
+00:09:48,240 --> 00:09:51,030
+happened from the screenshot where I was
+like, hey, what happened here and what
+
+424
+00:09:51,030 --> 00:09:51,040
+like, hey, what happened here and what
+ 
+
+425
+00:09:51,040 --> 00:09:53,430
+like, hey, what happened here and what
+can we learn? and it adjusted itself and
+
+426
+00:09:53,430 --> 00:09:53,440
+can we learn? and it adjusted itself and
+ 
+
+427
+00:09:53,440 --> 00:09:56,550
+can we learn? and it adjusted itself and
+it's now at its third version. Again,
+
+428
+00:09:56,550 --> 00:09:56,560
+it's now at its third version. Again,
+ 
+
+429
+00:09:56,560 --> 00:09:59,269
+it's now at its third version. Again,
+week one is about testing,
+
+430
+00:09:59,269 --> 00:09:59,279
+week one is about testing,
+ 
+
+431
+00:09:59,279 --> 00:10:01,110
+week one is about testing,
+hypothesizing, and getting proof of
+
+432
+00:10:01,110 --> 00:10:01,120
+hypothesizing, and getting proof of
+ 
+
+433
+00:10:01,120 --> 00:10:03,990
+hypothesizing, and getting proof of
+concept, proof that this actually works.
+
+434
+00:10:03,990 --> 00:10:04,000
+concept, proof that this actually works.
+ 
+
+435
+00:10:04,000 --> 00:10:06,150
+concept, proof that this actually works.
+And then week two is about scaling it
+
+436
+00:10:06,150 --> 00:10:06,160
+And then week two is about scaling it
+ 
+
+437
+00:10:06,160 --> 00:10:08,150
+And then week two is about scaling it
+from there.
+
+438
+00:10:08,150 --> 00:10:08,160
+from there.
+ 
+
+439
+00:10:08,160 --> 00:10:10,790
+from there.
+Again, I don't want you to look at this
+
+440
+00:10:10,790 --> 00:10:10,800
+Again, I don't want you to look at this
+ 
+
+441
+00:10:10,800 --> 00:10:13,110
+Again, I don't want you to look at this
+and take the exact same prompts
+
+442
+00:10:13,110 --> 00:10:13,120
+and take the exact same prompts
+ 
+
+443
+00:10:13,120 --> 00:10:15,990
+and take the exact same prompts
+expecting the exact same results.
+
+444
+00:10:15,990 --> 00:10:16,000
+expecting the exact same results.
+ 
+
+445
+00:10:16,000 --> 00:10:19,350
+expecting the exact same results.
+I want you to take away
+
+446
+00:10:19,350 --> 00:10:19,360
+I want you to take away
+ 
+
+447
+00:10:19,360 --> 00:10:21,990
+I want you to take away
+the strategies you use in thinking when
+
+448
+00:10:21,990 --> 00:10:22,000
+the strategies you use in thinking when
+ 
+
+449
+00:10:22,000 --> 00:10:25,350
+the strategies you use in thinking when
+you speak to open claw when you speak to
+
+450
+00:10:25,350 --> 00:10:25,360
+you speak to open claw when you speak to
+ 
+
+451
+00:10:25,360 --> 00:10:28,389
+you speak to open claw when you speak to
+your AI agent. What information do you
+
+452
+00:10:28,389 --> 00:10:28,399
+your AI agent. What information do you
+ 
+
+453
+00:10:28,399 --> 00:10:30,389
+your AI agent. What information do you
+give it?
+
+454
+00:10:30,389 --> 00:10:30,399
+give it?
+ 
+
+455
+00:10:30,399 --> 00:10:32,870
+give it?
+What goal do you define for it? How well
+
+456
+00:10:32,870 --> 00:10:32,880
+What goal do you define for it? How well
+ 
+
+457
+00:10:32,880 --> 00:10:34,550
+What goal do you define for it? How well
+do you define the goal and the
+
+458
+00:10:34,550 --> 00:10:34,560
+do you define the goal and the
+ 
+
+459
+00:10:34,560 --> 00:10:37,350
+do you define the goal and the
+parameters for it to re to reach and
+
+460
+00:10:37,350 --> 00:10:37,360
+parameters for it to re to reach and
+ 
+
+461
+00:10:37,360 --> 00:10:41,430
+parameters for it to re to reach and
+achieve that goal? I hope this video has
+
+462
+00:10:41,430 --> 00:10:41,440
+achieve that goal? I hope this video has
+ 
+
+463
+00:10:41,440 --> 00:10:44,550
+achieve that goal? I hope this video has
+helped. This is quite literally how I
+
+464
+00:10:44,550 --> 00:10:44,560
+helped. This is quite literally how I
+ 
+
+465
+00:10:44,560 --> 00:10:47,670
+helped. This is quite literally how I
+built the bot. So, I hope this answers
+
+466
+00:10:47,670 --> 00:10:47,680
+built the bot. So, I hope this answers
+ 
+
+467
+00:10:47,680 --> 00:10:51,160
+built the bot. So, I hope this answers
+your questions.
+

@@ -1,0 +1,700 @@
+This is how to build a polyarket trading
+This is how to build a polyarket trading
+This is how to build a polyarket trading
+bot using OpenClaw. And over the past
+bot using OpenClaw. And over the past
+bot using OpenClaw. And over the past
+three days, I've gotten a lot of
+three days, I've gotten a lot of
+three days, I've gotten a lot of
+questions around how did you build the
+questions around how did you build the
+questions around how did you build the
+Poly Market trading bot that just works
+Poly Market trading bot that just works
+Poly Market trading bot that just works
+on its own that you just wake up and
+on its own that you just wake up and
+on its own that you just wake up and
+it's made you $15 in your sleep.
+it's made you $15 in your sleep.
+it's made you $15 in your sleep.
+And thinking about this, I thought the
+And thinking about this, I thought the
+And thinking about this, I thought the
+best way of showing you how I've built
+best way of showing you how I've built
+best way of showing you how I've built
+it is by literally showing you how I've
+it is by literally showing you how I've
+it is by literally showing you how I've
+built it, by showing you the prompts
+built it, by showing you the prompts
+built it, by showing you the prompts
+that I used to work on this bot with
+that I used to work on this bot with
+that I used to work on this bot with
+Max, my AI agent. So, that being said,
+Max, my AI agent. So, that being said,
+Max, my AI agent. So, that being said,
+let's let's get started with literally
+let's let's get started with literally
+let's let's get started with literally
+the first prompt that I used on this
+the first prompt that I used on this
+the first prompt that I used on this
+exact project, which was I will give you
+exact project, which was I will give you
+exact project, which was I will give you
+a list of posts I found about us making
+a list of posts I found about us making
+a list of posts I found about us making
+money. And then I proceeded to send him
+money. And then I proceeded to send him
+money. And then I proceeded to send him
+a list of all the articles I managed to
+a list of all the articles I managed to
+a list of all the articles I managed to
+find that popped on my feed about Poly
+find that popped on my feed about Poly
+find that popped on my feed about Poly
+Market uh bots and OpenClaw
+Market uh bots and OpenClaw
+Market uh bots and OpenClaw
+[clears throat] making money together.
+[clears throat] making money together.
+[clears throat] making money together.
+And from that, it started telling me,
+And from that, it started telling me,
+And from that, it started telling me,
+"Got it. let me pull these tweets. It
+"Got it. let me pull these tweets. It
+"Got it. let me pull these tweets. It
+pulled all of the different tweets. It
+pulled all of the different tweets. It
+pulled all of the different tweets. It
+read through them. It understood what
+read through them. It understood what
+read through them. It understood what
+they're about. And next up, I told him,
+they're about. And next up, I told him,
+they're about. And next up, I told him,
+"Let's do the same. Ask them to make
+"Let's do the same. Ask them to make
+"Let's do the same. Ask them to make
+money." He always in in in my AI agents
+money." He always in in in my AI agents
+money." He always in in in my AI agents
+max fashion, he said, "Hell yes."
+max fashion, he said, "Hell yes."
+max fashion, he said, "Hell yes."
+Looking at what they're doing, they're
+Looking at what they're doing, they're
+Looking at what they're doing, they're
+basically three money streams. And he
+basically three money streams. And he
+basically three money streams. And he
+categorized the different articles.
+categorized the different articles.
+categorized the different articles.
+Polymarket referrals. Those are people
+Polymarket referrals. Those are people
+Polymarket referrals. Those are people
+who just preach that they can make
+who just preach that they can make
+who just preach that they can make
+money, but the real way that they're
+money, but the real way that they're
+money, but the real way that they're
+making money is through the poly market
+making money is through the poly market
+making money is through the poly market
+referral that they put in their
+referral that they put in their
+referral that they put in their
+articles. So, they're not really making
+articles. So, they're not really making
+articles. So, they're not really making
+money. Then there's copy trading bot
+money. Then there's copy trading bot
+money. Then there's copy trading bot
+referrals as well. Then there's actual
+referrals as well. Then there's actual
+referrals as well. Then there's actual
+bot trading. Some are genuinely running
+bot trading. Some are genuinely running
+bot trading. Some are genuinely running
+bots on Poly Market 15inut Bitcoin
+bots on Poly Market 15inut Bitcoin
+bots on Poly Market 15inut Bitcoin
+Ethereum markets. Here's what we can do.
+Ethereum markets. Here's what we can do.
+Ethereum markets. Here's what we can do.
+This is the perfect play. We already
+This is the perfect play. We already
+This is the perfect play. We already
+started the the bot. I gave up on it a
+started the the bot. I gave up on it a
+started the the bot. I gave up on it a
+couple of days ago. Basically was just a
+couple of days ago. Basically was just a
+couple of days ago. Basically was just a
+thought that I had back then. I didn't
+thought that I had back then. I didn't
+thought that I had back then. I didn't
+want to put much time into it. I was
+want to put much time into it. I was
+want to put much time into it. I was
+like, "Hey, listen. We have the
+like, "Hey, listen. We have the
+like, "Hey, listen. We have the
+groundwork. This is what we can do." I
+groundwork. This is what we can do." I
+groundwork. This is what we can do." I
+wanted to to to run the polyarket
+wanted to to to run the polyarket
+wanted to to to run the polyarket
+referral link thing at first because
+referral link thing at first because
+referral link thing at first because
+that's what most of the articles were
+that's what most of the articles were
+that's what most of the articles were
+using. They weren't actually trading. I
+using. They weren't actually trading. I
+using. They weren't actually trading. I
+was like, "No, I want us to run the same
+was like, "No, I want us to run the same
+was like, "No, I want us to run the same
+bot." He's like, "Got it. Let me check
+bot." He's like, "Got it. Let me check
+bot." He's like, "Got it. Let me check
+what we've already built and what we
+what we've already built and what we
+what we've already built and what we
+need to get the same setup. Ah, I found
+need to get the same setup. Ah, I found
+need to get the same setup. Ah, I found
+the markets. There are some short-term
+the markets. There are some short-term
+the markets. There are some short-term
+markets. Five minute, 15 minute, hourly,
+markets. Five minute, 15 minute, hourly,
+markets. Five minute, 15 minute, hourly,
+four hours. Let me check if we can
+four hours. Let me check if we can
+four hours. Let me check if we can
+actually access and trade these. Bingo.
+actually access and trade these. Bingo.
+actually access and trade these. Bingo.
+I can see 15minute markets over here.
+I can see 15minute markets over here.
+I can see 15minute markets over here.
+From that,
+From that,
+From that,
+let me see. So, from that, that was its
+let me see. So, from that, that was its
+let me see. So, from that, that was its
+entire response that I was just showing
+entire response that I was just showing
+entire response that I was just showing
+you. And it finishes by build from
+you. And it finishes by build from
+you. And it finishes by build from
+scratch. I can write a simple Python bot
+scratch. I can write a simple Python bot
+scratch. I can write a simple Python bot
+using our existing setup. What do you
+using our existing setup. What do you
+using our existing setup. What do you
+want me to do? And that's where I told
+want me to do? And that's where I told
+want me to do? And that's where I told
+it, what do you think? I want you to
+it, what do you think? I want you to
+it, what do you think? I want you to
+lead this entirely.
+lead this entirely.
+lead this entirely.
+So this is me getting you and giving you
+So this is me getting you and giving you
+So this is me getting you and giving you
+a glimpse over the behind the scenes of
+a glimpse over the behind the scenes of
+a glimpse over the behind the scenes of
+how I think when I develop my bot. I
+how I think when I develop my bot. I
+how I think when I develop my bot. I
+don't want you to look at this and
+don't want you to look at this and
+don't want you to look at this and
+literally copy paste what I said to it
+literally copy paste what I said to it
+literally copy paste what I said to it
+word by word because odds are it's going
+word by word because odds are it's going
+word by word because odds are it's going
+to reply to you differently.
+to reply to you differently.
+to reply to you differently.
+You're not going to get the exact same
+You're not going to get the exact same
+You're not going to get the exact same
+results. Instead, I want you to start
+results. Instead, I want you to start
+results. Instead, I want you to start
+thinking about
+thinking about
+thinking about
+how do I think and how can I help my AI
+how do I think and how can I help my AI
+how do I think and how can I help my AI
+agent
+agent
+agent
+get to the goal I desire. You are the
+get to the goal I desire. You are the
+get to the goal I desire. You are the
+operator. Your AI agent is the engine.
+operator. Your AI agent is the engine.
+operator. Your AI agent is the engine.
+With that being said, this is what it
+With that being said, this is what it
+With that being said, this is what it
+gave me. All right, I'll own this.
+gave me. All right, I'll own this.
+gave me. All right, I'll own this.
+Here's my call. My recommendation phase
+Here's my call. My recommendation phase
+Here's my call. My recommendation phase
+one, let's validate. Let's spend this
+one, let's validate. Let's spend this
+one, let's validate. Let's spend this
+week on validation. Which is why in all
+week on validation. Which is why in all
+week on validation. Which is why in all
+my videos I say week one is about us
+my videos I say week one is about us
+my videos I say week one is about us
+testing. Is about my AI agent learning.
+testing. Is about my AI agent learning.
+testing. Is about my AI agent learning.
+Let's fund this with $100. Let's track P
+Let's fund this with $100. Let's track P
+Let's fund this with $100. Let's track P
+profit and loss for three to five days.
+profit and loss for three to five days.
+profit and loss for three to five days.
+Phase two, let's scale and or pivot.
+Phase two, let's scale and or pivot.
+Phase two, let's scale and or pivot.
+Phase three, let's document, which is
+Phase three, let's document, which is
+Phase three, let's document, which is
+exactly what I did. I literally followed
+exactly what I did. I literally followed
+exactly what I did. I literally followed
+its advice. What I need from you? I need
+its advice. What I need from you? I need
+its advice. What I need from you? I need
+a poly market account funded. I need a
+a poly market account funded. I need a
+a poly market account funded. I need a
+VPS preference. Do you want to run this
+VPS preference. Do you want to run this
+VPS preference. Do you want to run this
+on your Mac mini or on digital ocean
+on your Mac mini or on digital ocean
+on your Mac mini or on digital ocean
+droplet? And what's your risk tolerance?
+droplet? And what's your risk tolerance?
+droplet? And what's your risk tolerance?
+And I answered these questions for it.
+And I answered these questions for it.
+And I answered these questions for it.
+And it got started. So that's it.
+And it got started. So that's it.
+And it got started. So that's it.
+over here it was saying boom it we went
+over here it was saying boom it we went
+over here it was saying boom it we went
+through a long setup phase of
+through a long setup phase of
+through a long setup phase of
+probably like an hour or two long where
+probably like an hour or two long where
+probably like an hour or two long where
+I was figuring out how to create Poly
+I was figuring out how to create Poly
+I was figuring out how to create Poly
+Market API so that it has access to my
+Market API so that it has access to my
+Market API so that it has access to my
+Poly Market account. I was figuring out
+Poly Market account. I was figuring out
+Poly Market account. I was figuring out
+how to fund the the wallet that it
+how to fund the the wallet that it
+how to fund the the wallet that it
+needed uh because Poly Market uses a
+needed uh because Poly Market uses a
+needed uh because Poly Market uses a
+different wallet than the one you sign
+different wallet than the one you sign
+different wallet than the one you sign
+in with. I was figuring out how to give
+in with. I was figuring out how to give
+in with. I was figuring out how to give
+it full access to the things it needed
+it full access to the things it needed
+it full access to the things it needed
+and it was helping me out through that.
+and it was helping me out through that.
+and it was helping me out through that.
+And then we finished by send me the URL
+And then we finished by send me the URL
+And then we finished by send me the URL
+of the market that you want to start
+of the market that you want to start
+of the market that you want to start
+with. I sent it the Bitcoin up and down
+with. I sent it the Bitcoin up and down
+with. I sent it the Bitcoin up and down
+15 minutes market. Found it. That market
+15 minutes market. Found it. That market
+15 minutes market. Found it. That market
+just ended. Let me get the full details
+just ended. Let me get the full details
+just ended. Let me get the full details
+and find the next active one. It found
+and find the next active one. It found
+and find the next active one. It found
+it. The current market up down the
+it. The current market up down the
+it. The current market up down the
+pattern is so on and so forth. Let me
+pattern is so on and so forth. Let me
+pattern is so on and so forth. Let me
+update the bot and do a test trade.
+update the bot and do a test trade.
+update the bot and do a test trade.
+Minimum is five shares. Let me increase
+Minimum is five shares. Let me increase
+Minimum is five shares. Let me increase
+the bet. First trade placed. And that
+the bet. First trade placed. And that
+the bet. First trade placed. And that
+was literally my first tweet. I set up
+was literally my first tweet. I set up
+was literally my first tweet. I set up
+my Poly Market bot wrong because what it
+my Poly Market bot wrong because what it
+my Poly Market bot wrong because what it
+ended up doing is it placed the bet as
+ended up doing is it placed the bet as
+ended up doing is it placed the bet as
+soon as the market opened. It was still
+soon as the market opened. It was still
+soon as the market opened. It was still
+a 5050 chance. Literally, you can see 47
+a 5050 chance. Literally, you can see 47
+a 5050 chance. Literally, you can see 47
+cents,
+cents,
+cents,
+52 cents. It was literally a coin flip
+52 cents. It was literally a coin flip
+52 cents. It was literally a coin flip
+that he was betting on. He didn't
+that he was betting on. He didn't
+that he was betting on. He didn't
+understand at that time that we needed
+understand at that time that we needed
+understand at that time that we needed
+to wait till the last minute. And
+to wait till the last minute. And
+to wait till the last minute. And
+although this was a coin flip, he
+although this was a coin flip, he
+although this was a coin flip, he
+managed to make the right decision. So,
+managed to make the right decision. So,
+managed to make the right decision. So,
+he still managed to make $20 off of his
+he still managed to make $20 off of his
+he still managed to make $20 off of his
+first literal bet. We're truly living in
+first literal bet. We're truly living in
+first literal bet. We're truly living in
+the future.
+the future.
+the future.
+But from that, I asked him, is this how
+But from that, I asked him, is this how
+But from that, I asked him, is this how
+we make money based on the articles I
+we make money based on the articles I
+we make money based on the articles I
+sent you? And he's like, honestly, not
+sent you? And he's like, honestly, not
+sent you? And he's like, honestly, not
+quite. From those articles, the real
+quite. From those articles, the real
+quite. From those articles, the real
+edge is exploiting the lag between
+edge is exploiting the lag between
+edge is exploiting the lag between
+Binance and chain link. For those of you
+Binance and chain link. For those of you
+Binance and chain link. For those of you
+who don't know, uh the way Poly Market
+who don't know, uh the way Poly Market
+who don't know, uh the way Poly Market
+works, it fetches the prices here.
+works, it fetches the prices here.
+works, it fetches the prices here.
+Actually, why am I bothering explaining
+Actually, why am I bothering explaining
+Actually, why am I bothering explaining
+when it's literally explaining right
+when it's literally explaining right
+when it's literally explaining right
+here? Poly Market results based on chain
+here? Poly Market results based on chain
+here? Poly Market results based on chain
+link price feed, but chain link updates
+link price feed, but chain link updates
+link price feed, but chain link updates
+slower than Binance. So, the play is
+slower than Binance. So, the play is
+slower than Binance. So, the play is
+watch Binance in real time. See Bitcoin
+watch Binance in real time. See Bitcoin
+watch Binance in real time. See Bitcoin
+moving up hard. Chain link hasn't
+moving up hard. Chain link hasn't
+moving up hard. Chain link hasn't
+updated yet. Poly market odds are stale.
+updated yet. Poly market odds are stale.
+updated yet. Poly market odds are stale.
+Buy up cheap before odds adjust. Chain
+Buy up cheap before odds adjust. Chain
+Buy up cheap before odds adjust. Chain
+link catches up. You win. Want me to
+link catches up. You win. Want me to
+link catches up. You win. Want me to
+rebuild the bot with the chain link lag
+rebuild the bot with the chain link lag
+rebuild the bot with the chain link lag
+exploit? Yes, please. It rebuilt it with
+exploit? Yes, please. It rebuilt it with
+exploit? Yes, please. It rebuilt it with
+chain link arbitrage bot working.
+chain link arbitrage bot working.
+chain link arbitrage bot working.
+And then after that I asked it how can I
+And then after that I asked it how can I
+And then after that I asked it how can I
+check on our progress man and see how
+check on our progress man and see how
+check on our progress man and see how
+much we're making the trades etc. And
+much we're making the trades etc. And
+much we're making the trades etc. And
+that birthed this next post that I made
+that birthed this next post that I made
+that birthed this next post that I made
+which was Max HQ. It literally went up
+which was Max HQ. It literally went up
+which was Max HQ. It literally went up
+and it created me this whole app uh with
+and it created me this whole app uh with
+and it created me this whole app uh with
+more than just polyarket tracking. It
+more than just polyarket tracking. It
+more than just polyarket tracking. It
+allows me to see how my Poly Market bot
+allows me to see how my Poly Market bot
+allows me to see how my Poly Market bot
+is doing, how my hyperlquid bot is
+is doing, how my hyperlquid bot is
+is doing, how my hyperlquid bot is
+doing, what I have on my agenda today,
+doing, what I have on my agenda today,
+doing, what I have on my agenda today,
+what it sent me as briefs, what tasks
+what it sent me as briefs, what tasks
+what it sent me as briefs, what tasks
+have I assigned it to it. And that was
+have I assigned it to it. And that was
+have I assigned it to it. And that was
+literally the first post. Finally found
+literally the first post. Finally found
+literally the first post. Finally found
+a way to pay for my claw subscription.
+a way to pay for my claw subscription.
+a way to pay for my claw subscription.
+That being said, I sent it Matic. I
+That being said, I sent it Matic. I
+That being said, I sent it Matic. I
+asked it to learn how to autoclaim on
+asked it to learn how to autoclaim on
+asked it to learn how to autoclaim on
+its own uh all of its winnings and it
+its own uh all of its winnings and it
+its own uh all of its winnings and it
+launched Sniperbot version two. here it
+launched Sniperbot version two. here it
+launched Sniperbot version two. here it
+was making some mistakes as well uh
+was making some mistakes as well uh
+was making some mistakes as well uh
+which mainly were that
+which mainly were that
+which mainly were that
+the lag detection wasn't quite working
+the lag detection wasn't quite working
+the lag detection wasn't quite working
+well. It made some losses. I asked it
+well. It made some losses. I asked it
+well. It made some losses. I asked it
+how can we what can we learn from these
+how can we what can we learn from these
+how can we what can we learn from these
+losses and it spun up uh V2 new strategy
+losses and it spun up uh V2 new strategy
+losses and it spun up uh V2 new strategy
+records price at start of window snipes
+records price at start of window snipes
+records price at start of window snipes
+in last 30 seconds compares current
+in last 30 seconds compares current
+in last 30 seconds compares current
+versus start price so on and so forth.
+versus start price so on and so forth.
+versus start price so on and so forth.
+So, it spun up a new strategy after the
+So, it spun up a new strategy after the
+So, it spun up a new strategy after the
+losses it made. Perfect. Also, why was
+losses it made. Perfect. Also, why was
+losses it made. Perfect. Also, why was
+there an order? Why wasn't there an
+there an order? Why wasn't there an
+there an order? Why wasn't there an
+order in the last 15 minutes? This was
+order in the last 15 minutes? This was
+order in the last 15 minutes? This was
+more me trying to understand how it
+more me trying to understand how it
+more me trying to understand how it
+works because I myself hadn't understood
+works because I myself hadn't understood
+works because I myself hadn't understood
+its full logic yet. And it literally
+its full logic yet. And it literally
+its full logic yet. And it literally
+just told me, you lit don't have to
+just told me, you lit don't have to
+just told me, you lit don't have to
+guess. You don't have to make your life
+guess. You don't have to make your life
+guess. You don't have to make your life
+hard. You can literally just ask it for
+hard. You can literally just ask it for
+hard. You can literally just ask it for
+things and it will answer you.
+things and it will answer you.
+things and it will answer you.
+But with that being said, that was that
+But with that being said, that was that
+But with that being said, that was that
+is the last slide. So that was the
+is the last slide. So that was the
+is the last slide. So that was the
+thought process that I used in building
+thought process that I used in building
+thought process that I used in building
+this. There was a V1, there was a V2 and
+this. There was a V1, there was a V2 and
+this. There was a V1, there was a V2 and
+yesterday it managed to lose five trades
+yesterday it managed to lose five trades
+yesterday it managed to lose five trades
+consecutively when the market went
+consecutively when the market went
+consecutively when the market went
+extremely volatile and a repeat scenario
+extremely volatile and a repeat scenario
+extremely volatile and a repeat scenario
+happened from the screenshot where I was
+happened from the screenshot where I was
+happened from the screenshot where I was
+like, hey, what happened here and what
+like, hey, what happened here and what
+like, hey, what happened here and what
+can we learn? and it adjusted itself and
+can we learn? and it adjusted itself and
+can we learn? and it adjusted itself and
+it's now at its third version. Again,
+it's now at its third version. Again,
+it's now at its third version. Again,
+week one is about testing,
+week one is about testing,
+week one is about testing,
+hypothesizing, and getting proof of
+hypothesizing, and getting proof of
+hypothesizing, and getting proof of
+concept, proof that this actually works.
+concept, proof that this actually works.
+concept, proof that this actually works.
+And then week two is about scaling it
+And then week two is about scaling it
+And then week two is about scaling it
+from there.
+from there.
+from there.
+Again, I don't want you to look at this
+Again, I don't want you to look at this
+Again, I don't want you to look at this
+and take the exact same prompts
+and take the exact same prompts
+and take the exact same prompts
+expecting the exact same results.
+expecting the exact same results.
+expecting the exact same results.
+I want you to take away
+I want you to take away
+I want you to take away
+the strategies you use in thinking when
+the strategies you use in thinking when
+the strategies you use in thinking when
+you speak to open claw when you speak to
+you speak to open claw when you speak to
+you speak to open claw when you speak to
+your AI agent. What information do you
+your AI agent. What information do you
+your AI agent. What information do you
+give it?
+give it?
+give it?
+What goal do you define for it? How well
+What goal do you define for it? How well
+What goal do you define for it? How well
+do you define the goal and the
+do you define the goal and the
+do you define the goal and the
+parameters for it to re to reach and
+parameters for it to re to reach and
+parameters for it to re to reach and
+achieve that goal? I hope this video has
+achieve that goal? I hope this video has
+achieve that goal? I hope this video has
+helped. This is quite literally how I
+helped. This is quite literally how I
+helped. This is quite literally how I
+built the bot. So, I hope this answers
+built the bot. So, I hope this answers
+built the bot. So, I hope this answers
+your questions.
