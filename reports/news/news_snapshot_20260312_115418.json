@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-12T11:54:16.888706",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
+          "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy.",
+          "link": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 10:07:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+          "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school.",
+          "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 08:41:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+          "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+          "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 00:05:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "共機13天沒擾台引外媒關注 CNN：原因令人費解",
+          "summary": "國防部今（12日）公布，自昨（11日）上午6時至今日上午6時止，偵獲中共軍機5架次及共艦6艘，其中有3架次軍機逾越台海中線，進入北部及西南空域，打破13天沒有「共機擾台」的局面。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368368",
+          "published": "Thu, 12 Mar 2026 19:30:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》伊朗急喊快停火、美軍打到底！學者曝中國還會更慘",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368359",
+          "published": "Thu, 12 Mar 2026 19:26:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚見色魔機師！偷拍各航空共16空姐性愛畫面 還上傳色情網站",
+          "summary": "英國航空（British Airways）爆發駭人聽聞的性醜聞。一名 31 歲男機師遭控，在全球飛行出勤期間，利用職務之便「獵豔」，秘密拍下他與至少16名女性的性愛過程，受害者不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368094",
+          "published": "Thu, 12 Mar 2026 18:50:58 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
