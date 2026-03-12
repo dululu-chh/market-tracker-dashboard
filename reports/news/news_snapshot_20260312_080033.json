@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-12T08:00:31.943343",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil price jumps despite deal to release record amount of reserves",
+          "summary": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.",
+          "link": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 07:12:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+          "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Mar 2026 16:45:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+          "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+          "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 00:05:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中東戰火延燒！義大利基地首度遇襲 軍方證實飛彈擊中",
+          "summary": "伊拉克庫德區大城艾比爾（Erbil）的義大利軍事基地疑似遭到飛彈攻擊，義大利國防部證實遭到攻擊，不過所有人「安然無恙」，沒有傷亡。  義大利國防部在X平台上發布聲明報告：「一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368002",
+          "published": "Thu, 12 Mar 2026 15:25:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美以空襲打到「文化靈魂」！  伊朗人怒了",
+          "summary": "中東戰火持續蔓延，受災的不僅是軍事設施。據外媒報導，以色列與美國近日針對伊朗境內的空襲，已波及多處被伊朗人視為「文化靈魂」的世界級文化遺產。隨著歷史重鎮伊斯法罕與首都德黑蘭多座千...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5367979",
+          "published": "Thu, 12 Mar 2026 15:21:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "連袋子都怕！中國緊急下架IKEA「這產品」 討論貼文也被消失",
+          "summary": "全球家具巨頭IKEA（宜家家居）近期在中國市場動作頻頻，除了因調整策略關閉部分大型商場外，近日又因一款「彩虹購物袋」陷入輿論漩渦。據悉，該款色彩繽紛的袋子在中國上架後不久，緊急遭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5367760",
+          "published": "Thu, 12 Mar 2026 15:11:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
