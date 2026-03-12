@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-12T14:38:49.937583",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
+          "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.",
+          "link": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 12:49:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+          "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school.",
+          "link": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 08:41:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+          "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
+          "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 00:05:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國男「走私2千隻螞蟻」在肯亞被捕 可能抓到大魔頭",
+          "summary": "中國籍張姓男子涉嫌走私2000多隻螞蟻，在肯亞機場被逮捕。去年5月，肯亞法院曾判試圖將數千隻活體蟻后偷運出境的4名男子1年監禁或 7700美元（約新台幣24.7萬）罰款，調查人員...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368437",
+          "published": "Thu, 12 Mar 2026 22:31:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東局勢延燒虛擬世界？ 波蘭核研中心遭網攻 調查來源指向伊朗",
+          "summary": "波蘭政府週四（12日）證實，波蘭國家核子研究中心近日遭到網路攻擊，初步調查顯示攻擊源頭指向伊朗。此事件發生於中東局勢劇烈動盪之際，波蘭首座核電廠正值建設階段，國安單位對此不敢掉以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368491",
+          "published": "Thu, 12 Mar 2026 22:28:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "比哈米尼更殘暴！ 昔同窗驚爆穆吉塔巴「癡迷世界末日」",
+          "summary": "穆吉塔巴（Mojtaba Khamenei）接替亡父哈米尼（Ali Khamenei）成為伊朗最高領袖以來，至今未公開露面，有關他受重傷，甚至早已罹難，但被拿來當煙幕彈的消息層出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368476",
+          "published": "Thu, 12 Mar 2026 22:26:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
