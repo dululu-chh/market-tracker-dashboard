@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-13T05:06:52.474691",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+          "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
+          "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 00:04:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+          "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+          "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 20:32:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "French vote tests polarised electorate with right hoping to win control of Paris",
+          "summary": "The highest-profile contest is for the mayorship of Paris - which has been under left-wing control for 25 years.",
+          "link": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 00:15:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "現役最大！新加坡再撤中東公民 空軍A330運輸機自沙烏地返星",
+          "summary": "第2班協助新加坡公民撤離中東的新加坡空軍部隊軍機，已於13日清晨6時左右返抵樟宜國際機場，機上共載有81名新加坡人及其家屬。  新加坡媒體《聯合早報》報導，新加坡國防部發布聲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368741",
+          "published": "Fri, 13 Mar 2026 13:00:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日相高市身體已恢復 預計照常執行13日公務",
+          "summary": "相當於日本政府發言人的內閣官房長官木原稔今天針對日相高市早苗昨天身體微恙而取消部分行程一事說明，「她的身體狀況已經恢復，預計照常執行今天的公務」。  日本TBS電視台報導，數位大臣松本尚...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368961",
+          "published": "Fri, 13 Mar 2026 12:20:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "作用力與反作用力！ 謝金河：中國正努力幫助日本再次偉大",
+          "summary": "香港中文大學公共政策學院院長鄭永年近日撰文稱，必須預防日本成為東亞的以色列，他強調，這次美以聯手出擊，以色列儼然成為美國的「馬前卒」，提醒中國要慎防日本成為類似角色。對此財信傳媒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5368714",
+          "published": "Fri, 13 Mar 2026 11:56:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
