@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-13T11:58:21.484666",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Four crew members killed after US refuelling plane crashes in Iraq",
+          "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 11:48:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
+          "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+          "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 01:47:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+          "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+          "link": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 10:43:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "喊全面摧毀伊朗 川普嗆：看看這些精神錯亂混蛋的下場",
+          "summary": "美國總統川普今（13）日發出警告，宣稱美國正全面摧毀伊朗恐怖政權，並暗示接續將升級衝突。川普在貼文中以極其強硬的口吻寫道，伊朗的行政與軍事力量正處於崩潰邊緣，更直言要為全球受害者...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369501",
+          "published": "Fri, 13 Mar 2026 19:51:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打臉伊朗的否認！飛彈偷襲土耳其 已擊落3枚",
+          "summary": "北大西洋公約組織（NATO）13日在地中海擊落一枚從伊朗朝土耳其發射的飛彈，是美國與以色列對伊朗聯合軍事行動展開以來，土耳其附近攔截到的第三枚來自伊朗的飛彈。土耳其已經要求德黑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369469",
+          "published": "Fri, 13 Mar 2026 18:58:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "KC-135加油機墜毀伊拉克！美軍證實4人死亡  2人搜救中",
+          "summary": "負責掌管中東美軍部隊的美國中央司令部（CENTCOM）12日指出，美軍1架載有6人的KC-135空中加油機在伊拉克墜毀，並非敵方攻擊，也不是友軍誤擊。綜合外媒報導，稍早美軍證實，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369460",
+          "published": "Fri, 13 Mar 2026 18:53:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
