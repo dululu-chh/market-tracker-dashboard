@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-13T22:58:32.243061",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+          "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq.",
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 14:29:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+          "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
+          "link": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 16:12:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+          "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+          "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 22:02:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "對比川普擦鞋60年、習近平被伺候  作家點出美中巨大差異",
+          "summary": "美國總統川普預定3月底飛往中國進行訪問，將在貿易、美中關係和台灣等議題方面與中國國家主席習近平過招。海外中文網站《萬維讀者網》專欄作家「若愚」13日發表評論，從川普60年來都自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369692",
+          "published": "Sat, 14 Mar 2026 06:39:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯介入中東危機？川普坦言：普廷或許正稍微幫助伊朗",
+          "summary": "首次上稿 3-13 22:39更新時間 3-14 05:50 《華盛頓郵報》」6日披露，美國與以色列對伊朗的劇烈軍事行動中，俄羅斯向德黑蘭提供關於美國在中東軍事資產的情報。美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369643",
+          "published": "Sat, 14 Mar 2026 05:50:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本建構反擊能力 美製戰斧飛彈開始交貨",
+          "summary": "首次上稿 3-13 22:13更新時間 3-14 05:49 日本防衛相巷小泉進次郎在13日記者會上宣布，向歐美採購的長程飛彈，包括美製巡弋飛彈「戰斧」及挪威製空...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369628",
+          "published": "Sat, 14 Mar 2026 05:49:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
