@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-13T14:31:55.524133",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "All crew members killed after US refuelling plane crashes in Iraq",
+          "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq.",
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 14:29:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+          "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+          "link": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 10:43:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Cuba says it will release 51 prisoners in the coming days",
+          "summary": "Havana says it is in talks with Washington as no fuel has entered the island in three months.",
+          "link": "https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 14:17:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中東戰火不停  中國宣布升級北斗衛星導航系統",
+          "summary": "中東戰火持續之際，中國今天宣布，將於近期實施在軌升級北斗衛星導航系統，預計此舉將進一步提升北斗衛星訊號與定位的精度與穩定度。伊朗據報已改用北斗系統。  中國衛星導航系統管理辦公室13日通...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369624",
+          "published": "Fri, 13 Mar 2026 22:15:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本建構反擊能力 美製戰斧飛彈開始交貨",
+          "summary": "日本防衛相巷小泉進次郎在今天記者會上宣布，向歐美採購的長程飛彈，包括美製巡弋飛彈「戰斧」及挪威製空對艦、空對地飛彈「JSM」已開始交貨。小泉強調建構「反擊能力」的意...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369628",
+          "published": "Fri, 13 Mar 2026 22:13:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美暫時解除俄油制裁  歐洲盟國反彈",
+          "summary": "對伊朗「史詩怒火」軍事行動導致全球油價飆升，美國宣布暫時解除對俄羅斯的石油禁令，各國有30天可以購買俄羅斯滯留在海上的石油。川普政府的決定引發歐洲盟國反彈。法國總統馬克宏在與七...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369627",
+          "published": "Fri, 13 Mar 2026 22:08:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
