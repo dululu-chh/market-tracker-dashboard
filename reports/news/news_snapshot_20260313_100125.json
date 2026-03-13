@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-13T10:01:24.140389",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Four killed after US refuelling plane crashes in Iraq, military confirms",
+          "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.",
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 09:55:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+          "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
+          "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 00:04:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
+          "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+          "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 01:47:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由說新聞》魯比歐將訪中網掀昔日超霸氣金句！他曝習近平尷尬處境",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369380",
+          "published": "Fri, 13 Mar 2026 17:36:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打到骨折！ 88折設定成88％OFF 港商GSE認賠：不開除員工",
+          "summary": "今（13日）有看Nintendo eShop排行榜的人應該會很詫異，為什麼目前人氣最夯的《Pokémon Pokopia》居然被擠下前10名，甚至1至18名清一色是乙女向遊戲，原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369292",
+          "published": "Fri, 13 Mar 2026 17:25:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普訪中後傳可望批准對台軍售  北京：堅決反對",
+          "summary": "路透社報導，美國一項涵蓋先進攔截飛彈的對台大型軍售案準備呈交總統川普批准，川普可能在本月底訪問中國後簽署。對此，中國外交部今天重申既定立場表示「堅決反對」。  據陸媒澎湃新聞，中國外交部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369263",
+          "published": "Fri, 13 Mar 2026 17:19:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
