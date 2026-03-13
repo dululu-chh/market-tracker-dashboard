@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-13T08:01:07.239144",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+          "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
+          "link": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 00:04:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+          "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+          "link": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Mar 2026 20:32:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
+          "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+          "link": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 01:47:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美歐對立仍存？歐盟外交首長稱 美國企圖分裂歐洲",
+          "summary": "歐盟外交與安全政策高級代表卡拉斯（Kaja Kallas）在《金融時報》今（13）日發表的採訪中表示，美國想要分裂歐洲，且不喜歡歐盟。  根據《路透》報導，卡拉斯告訴《金融...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369171",
+          "published": "Fri, 13 Mar 2026 15:50:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗革命衛隊警告人民 抗議再起將更嚴厲鎮壓",
+          "summary": "伊朗軍方的意識形態分支、伊朗伊斯蘭革命衛隊（IRGC）13日放話，任何反對當局的新抗議活動，將遭到比今年1月更為強力的鎮壓。德黑蘭當局今年1月鎮壓蔓延全國的抗議導致數千人喪生。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369201",
+          "published": "Fri, 13 Mar 2026 15:36:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本掃雷能力頂尖！美方若要求支援荷姆茲 高市恐面臨兩難",
+          "summary": "日本首相高市早苗預計19日與美國總統川普舉行領袖會談，伊朗局勢將成為會談焦點之一，日本可能被要求在荷姆茲海峽的安全行動中提供具體協助，尤其是海上自衛隊擁有技術水準極...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369130",
+          "published": "Fri, 13 Mar 2026 14:52:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
