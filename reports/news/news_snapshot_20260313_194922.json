@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-13T19:49:19.989520",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+          "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq.",
+          "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 14:29:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+          "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
+          "link": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 16:12:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+          "summary": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago.",
+          "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 16:38:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "石油封鎖導致經濟危機加劇　古巴證實與美國對話",
+          "summary": "在美國試圖推翻古巴的共產主義政權之際，古巴總統狄亞士-卡奈（Miguel Diaz-Canel）今天證實，古巴政府已經與美國舉行會談。  法新社報導，美國總統川普已表示，在美國推翻古巴盟友、...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369693",
+          "published": "Sat, 14 Mar 2026 02:21:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍KC-135空中加油機墜毀伊拉克 6機組員全數罹難",
+          "summary": "美軍載有6人的KC-135空中加油機在伊拉克墜毀，美國中央司令部（CENTCOM）證實，機上6人不幸全數罹難。  綜合外電報導，美方最初指出，已找到4名罹難機組人員遺體，另2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369689",
+          "published": "Sat, 14 Mar 2026 00:58:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "國土防禦靠自己！加拿大宣布8100億元強化北極軍力",
+          "summary": "美國總統川普上任後，與加拿大關係緊繃，正設法降低對美國依賴的渥太華政府，12日宣佈一項350億加幣（約8100億台幣）計畫，要大幅提升該國幅員廣大的北極地區防禦能力，「不再依靠...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5369661",
+          "published": "Fri, 13 Mar 2026 23:07:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
