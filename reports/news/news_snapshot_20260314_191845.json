@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-14T19:18:44.139942",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+          "summary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
+          "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 13:34:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "More US Marines and warships being moved to Middle East, reports say",
+          "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+          "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 13:27:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+          "summary": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
+          "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 17:51:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "傳川普回絕中東盟國停戰協議　伊朗要求美以停止空襲",
+          "summary": "三位消息人士透露，美國總統川普（Donald Trump）政府已回絕中東盟國所提，試圖啟動目標是結束伊朗戰爭的外交談判。  另一方面，兩位伊朗高層向路透社表示，伊朗已明確拒絕任何停火可能性，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370541",
+          "published": "Sun, 15 Mar 2026 02:30:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "前英相蘇納克：應嚇阻台海衝突　防比中東更大衝擊",
+          "summary": "前英國首相蘇納克今天發表專欄文章提到，伊朗對荷莫茲海峽（Strait of Hormuz）航運的干擾提醒各界，一旦台灣海峽爆發衝突，對全球供應鏈的衝擊將更巨大，嚇阻台海爆發衝突至關重要。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370539",
+          "published": "Sun, 15 Mar 2026 01:30:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "馬克宏：黎巴嫩願與以色列直接對話 可在巴黎談判",
+          "summary": "法國總統馬克宏今天表示，捲入中東戰爭的黎巴嫩已準備好與鄰國以色列「直接對話」，他並提議在法國首都巴黎主持雙方談判。  法新社報導，伊朗原最高領袖哈米尼（Ali Khamenei）2月28...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370424",
+          "published": "Sat, 14 Mar 2026 23:56:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
