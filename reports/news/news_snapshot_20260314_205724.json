@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-14T20:57:22.316350",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three more Iran football team members change minds over asylum",
+          "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 20:48:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+          "summary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
+          "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 13:34:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "More US Marines and warships being moved to Middle East, reports say",
+          "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+          "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 13:27:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗指控烏克蘭挺以介入戰事　揚言發動攻擊報復",
+          "summary": "伊朗政府近日對烏克蘭發出嚴厲指控，聲稱基輔當局在當前中東衝突中支持以色列，實質上已成為參戰方，並威脅將對烏方發動軍事攻擊。  波蘭通訊社（Polska Agencja Prasowa）引述德...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370546",
+          "published": "Sun, 15 Mar 2026 04:12:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗威脅能源設施若遭攻擊　將以區域美企為報復目標",
+          "summary": "伊朗外交部長阿拉奇（Abbas Araghchi）今天表示，若在美國與以色列針對伊朗的戰爭中，伊朗的能源設施遭攻擊，伊朗將以區域內的美國企業為目標。  美國軍方13日轟炸哈格島（Kharg ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370544",
+          "published": "Sun, 15 Mar 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傳川普回絕中東盟國停戰協議　伊朗要求美以停止空襲",
+          "summary": "三位消息人士透露，美國總統川普（Donald Trump）政府已回絕中東盟國所提，試圖啟動目標是結束伊朗戰爭的外交談判。  另一方面，兩位伊朗高層向路透社表示，伊朗已明確拒絕任何停火可能性，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370541",
+          "published": "Sun, 15 Mar 2026 02:30:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
