@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-14T21:53:27.412174",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three more Iran football team members change minds over asylum",
+          "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 20:48:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+          "summary": "The Palestinian group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel.",
+          "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 13:34:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+          "summary": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
+          "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 17:51:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "夷平真主黨軍火庫 以擬擴大黎巴嫩地面攻擊",
+          "summary": "〔編譯張沛元／綜合報導〕以色列在伊朗扶植的黎巴嫩武裝組織「真主黨」（Hezbollah）誓言與以色列長期抗戰後，對黎巴嫩發動夜襲造成醫護人員死亡，此外還對以黎邊境增兵；美國媒體美Axios新聞網引述以國消息人士的話說，以色列正計畫大舉擴大在黎巴嫩的地面行動，目標是奪取鄰近以黎邊境的黎國利塔尼河（Li…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1746884",
+          "published": "Sun, 15 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷再提保管伊朗濃縮鈾 川普回絕",
+          "summary": "〔編譯林家宇／綜合報導〕美國Axios新聞網站十三日披露，俄羅斯總統普廷九日與美國總統川普的通話中，提出數個結束美國與伊朗軍事衝突的構想，包括將伊朗現有的高濃縮鈾轉移至俄國保管，但這項提案遭川普拒絕。 伊朗手握四五〇公斤的六十％濃縮鈾，若條件齊全，數週時間便能製造超過十枚核彈，奪取伊朗的濃縮鈾遂成…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1746887",
+          "published": "Sun, 15 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「史詩怒火」行動日誌",
+          "summary": "截至3/14     ◎美國中央司令部發動大規模精準打擊，摧毀伊朗能源中樞哈格島逾90個軍事目標，但島上石油設施完好無損。    ◎報復哈格島遇襲，伊朗威脅將摧毀任何與美國合作企業的石油及能源設施，並宣布阿拉伯聯合大公國港口的美軍飛彈設施為合法目標，呼籲阿聯民眾撤離美軍區與港口區。 …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1746888",
+          "published": "Sun, 15 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
