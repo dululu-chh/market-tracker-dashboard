@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-14T11:49:25.712963",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More US Marines and warships to be moved to Middle East, reports say",
+          "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+          "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 00:53:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
+          "summary": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
+          "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 05:59:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+          "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+          "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Mar 2026 22:02:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "批評烏俄戰爭得罪普廷 赫魯雪夫曾孫女被列「外國代理人」",
+          "summary": "俄羅斯政府持續擴大對批評克里姆林宮者的打壓，13日將前蘇聯領導人赫魯雪夫曾孫女、現居美國學者妮娜．赫魯雪娃（Nina Khrushcheva）列為「外國代理人」。  《路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370399",
+          "published": "Sat, 14 Mar 2026 19:26:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "搶錢！財政困難  中國地方政府競相新設國道收費站",
+          "summary": "山西省政府近日公告，同意在國道108線一個路段新設3個收費站，收費期限長達29年，再度引發民眾不滿砲轟。因為財政困難，2024年以來，中國多個地方政府把生財工具動到道路上，競相在國道、省道新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370396",
+          "published": "Sat, 14 Mar 2026 19:24:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全日本最早！高知縣宿毛市第1朵櫻花開了",
+          "summary": "每年都會發布「櫻花開花宣言」的高知縣宿毛市，今（14日）中午市商工觀光課的職員觀察到，荒瀨山山腳的1棵染井吉野櫻「標本木」已經有1朵櫻花綻放。如果在15日下午確認已開到5朵以上，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370279",
+          "published": "Sat, 14 Mar 2026 19:07:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
