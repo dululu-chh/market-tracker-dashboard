@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-14T09:05:11.185016",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More US Marines and warships to be moved to Middle East, reports say",
+          "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner.",
+          "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 00:53:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
+          "summary": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
+          "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 05:59:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
+          "summary": "The LA city council voted unanimously for an investigation into LA28 chief Casey Wasserman over his Epstein ties.",
+          "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 02:28:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "塞爾維亞購買中國飛彈  北約成員國克羅埃西亞痛批威脅區域穩定",
+          "summary": "塞爾維亞近來運送軍火的照片外洩，總統武契奇（Aleksandar Vucic）12日晚間證實購買中國的CM-400AKG空對地彈道飛彈。對此，歐盟、北約成員國克羅埃西亞，痛斥塞爾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370250",
+          "published": "Sat, 14 Mar 2026 16:48:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東抗伊朗愛國者飛彈量超過援烏4年 澤倫斯基憂基輔防空武器短缺惡化",
+          "summary": "近日到訪法國的烏克蘭總統澤倫斯基坦言，正在中東進行的戰事吸引全球目光，對於需要國際支持推動和平協議的烏克蘭並非好事，且波斯灣國家大量使用防空武器攔截伊朗飛彈、無人機，將加劇基輔...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370265",
+          "published": "Sat, 14 Mar 2026 16:48:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "早知伊朗會封鎖荷姆茲海峽！外媒爆川普堅信美軍能應對",
+          "summary": "美國與伊朗戰火持續升溫。根據《華爾街日報》揭露內幕，川普總統在發動代號「史詩憤怒行動」的攻擊前，早已接獲參謀長聯席會議主席凱恩（Dan Caine）將軍的警告，得知伊朗極可能封鎖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370226",
+          "published": "Sat, 14 Mar 2026 16:34:11 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
