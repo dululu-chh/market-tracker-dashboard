@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-15T23:57:57.808543",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+          "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+          "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 12:00:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
+          "summary": "He says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
+          "link": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 21:56:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Sweden detains captain of Russian shadow fleet ship",
+          "summary": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
+          "link": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 18:40:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美官員預測衝突數週內結束  伊朗仍嘴硬：我們沒要求停火",
+          "summary": "美國與以色列持續攻擊伊朗，而在衝突導致油價升高、使得經濟不確定性提高之際，美國能源部長萊特（Chris Wright）預測對伊朗戰爭將在幾週內結束，不過伊朗外交部長阿拉奇（Abb...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5371397",
+          "published": "Mon, 16 Mar 2026 07:29:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市訪美在即 美日可望深化第一島鏈安全承諾",
+          "summary": "日本首相高市早苗本週將訪問美國，預定19日與美國總統川普舉行峰會。國防安全研究院所長蘇紫雲表示，此行時機點正好在川普與習近平可能會晤之前，顯示華府對東亞安全的優先關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5371387",
+          "published": "Mon, 16 Mar 2026 06:00:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台日安全合作 蘇紫雲：台灣越強 朋友願意相挺",
+          "summary": "國防安全研究院所長蘇紫雲表示，外界常提到中國可能在2027年前後具備攻台能力，但所謂「時間窗口」並非固定，關鍵取決於台灣自身防衛能力，只要實力持續提升，這個時間點可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5371386",
+          "published": "Mon, 16 Mar 2026 05:46:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
