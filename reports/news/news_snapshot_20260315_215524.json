@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-15T21:55:22.851535",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+          "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
+          "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 22:55:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+          "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+          "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 12:00:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
+          "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
+          "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Mar 2026 16:12:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "台日安全合作 蘇紫雲：台灣越強 朋友願意相挺",
+          "summary": "國防安全研究院所長蘇紫雲表示，外界常提到中國可能在2027年前後具備攻台能力，但所謂「時間窗口」並非固定，關鍵取決於台灣自身防衛能力，只要實力持續提升，這個時間點可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5371386",
+          "published": "Mon, 16 Mar 2026 05:46:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗媒體：勞工部長宣布最低工資將調漲逾6成",
+          "summary": "當地媒體今天報導，伊朗勞工部長宣布，最低工資將調漲逾60%。惡劣經濟情勢於數個月前在當地引爆一波反政府抗爭。  法新社報導，伊朗每年都會根據通膨情況調整最低工資。在美國、以色列與伊朗進行中的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5371393",
+          "published": "Mon, 16 Mar 2026 05:45:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Toucan seen flying around Sin City has been rescued 在拉斯維加斯上空盤旋的巨嘴鳥已被救起",
+          "summary": "◎盧永山  A toucan that has been seen flying around Las Vegas for months has been saved, a bird rescue group said Wednesday. 1個鳥類救援組織週三表示，1隻在拉斯維加斯上空盤旋數…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747022",
+          "published": "Mon, 16 Mar 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
