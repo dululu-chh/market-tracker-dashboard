@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-15T07:56:50.743022",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+          "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\".",
+          "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 22:55:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
+          "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
+          "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 20:33:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three more Iran football team members change minds over asylum",
+          "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
+          "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Mar 2026 20:48:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "被關押逾2月  馬杜羅每晚在牢房哭喊「我是委內瑞拉總統！」",
+          "summary": "美軍今年1月閃電突襲委內瑞拉，生擒總統馬杜羅（Nicolás Maduro）夫婦，2人被一同帶往美國紐約布魯克林的一所聯邦監獄中。事發2個月後，外媒體引述消消息人士爆料，馬杜羅目...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370961",
+          "published": "Sun, 15 Mar 2026 15:53:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反政府浪潮未現  華郵：飛彈讓伊朗人「嚇到不敢動彈」",
+          "summary": "美國和以色列對伊朗發起空襲後，川普總統起初聲稱這場戰爭的目的是迫使德黑蘭政權更迭，但開戰2週以來，伊朗民眾並未起身反抗政權。《華盛頓郵報》14日報導，伊朗人大多慶祝最高領袖哈米...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370987",
+          "published": "Sun, 15 Mar 2026 15:27:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗開戰14天川普基本盤鬆動！MAGA名嘴開火 共和黨憂期中選舉",
+          "summary": "伊朗戰爭爆發滿兩週，油價上升、金融市場波動與美軍傷亡增加，正對川普政府帶來政治壓力。這項挑戰使公眾對政府的戰爭目標與退場機制產生質疑，甚至連部分支持者也開始質疑其戰爭計畫。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5370989",
+          "published": "Sun, 15 Mar 2026 15:26:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
