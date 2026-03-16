@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-16T10:38:56.023422",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+          "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+          "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 05:14:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
+          "summary": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched.",
+          "link": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 04:43:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+          "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
+          "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南海口水戰再起！菲律賓怒轟中國：主權不是靠發文就能主張",
+          "summary": "菲律賓政府今（16）日發表嚴正聲明，駁斥中國駐菲律賓大使館有關南海黃岩島主權的說法。菲國外交部強調，菲律賓對該海域擁有「不可分割且無可爭議」的主權。  據《路透》報導，上週末...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372173",
+          "published": "Mon, 16 Mar 2026 18:29:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中共統戰部高官叛逃！親揭跨國鎮壓內幕 還爆：黨內沒人喜歡習近平！",
+          "summary": "一名中國省級統戰部的中高級官員叛逃美國，日前露臉接受美媒《CNN》專訪，揭露中共統戰工作內幕和證實新疆毫無人權可言的集中營的確存在；這名官員還透露，其實大多數「體制內」的人都不喜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372046",
+          "published": "Mon, 16 Mar 2026 18:16:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "無人機事件釀燃料槽火災  杜拜機場逐步恢復起降",
+          "summary": "在伊朗持續攻擊波斯灣國家之際，原是世界最繁忙國際機場之一的杜拜機場今天因附近1個燃料槽遭「無人機相關事件」影響而起火，導致中斷起降，稍晚當局表示航班正逐步恢復。  法新社報導，杜拜機場在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372112",
+          "published": "Mon, 16 Mar 2026 17:22:42 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
