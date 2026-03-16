@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-16T18:12:24.640523",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+          "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+          "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 17:34:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran hits key UAE oil port and Dubai airport",
+          "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
+          "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 12:43:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+          "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
+          "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱伊朗軍事能力盡毀 籲各國護航荷莫茲海峽",
+          "summary": "美國總統川普今天在白宮發表談話時，重申伊朗軍事能力已被「徹底摧毀」，同時宣揚美國與以色列在這場軍事行動取得成功，並再次呼籲各國協助維護荷莫茲海峽安全。  綜合英國廣播公司（BBC）和路透社等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372438",
+          "published": "Tue, 17 Mar 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮幕僚長威爾斯罹患早期乳癌 川普力挺讚其堅韌不拔",
+          "summary": "美國總統川普16日在社群平台發文表示，白宮幕僚長威爾斯（Susie Wiles）被診斷出罹患早期乳癌，但她將在治療期間繼續工作。  川普表示，威爾斯的預後情況「極佳」，並...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372432",
+          "published": "Tue, 17 Mar 2026 01:15:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "駁斥攔截飛彈耗盡傳聞 以軍稱已為長期作戰做好準備",
+          "summary": "在與伊朗開戰2週多後，以色列軍方否認其飛彈攔截系統即將耗盡的報導，並表示已「為長期戰鬥做好準備」。  《紐約時報》報導，以色列軍方發言人修夏尼（Nadav Shoshan...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372431",
+          "published": "Tue, 17 Mar 2026 01:05:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
