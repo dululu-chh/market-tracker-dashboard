@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-16T21:03:30.794974",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+          "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.",
+          "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 17:34:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
+          "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
+          "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 06:10:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran hits key UAE oil port and Dubai airport",
+          "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
+          "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Mar 2026 12:43:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "古巴國家電力系統癱瘓　1100萬人無電可用",
+          "summary": "古巴電網營運商表示，古巴國家電力系統今天陷入癱瘓，約1100萬人無電可用。受到美國石油封鎖影響，古巴本已老舊的電網在燃料短缺壓力下全面失靈。  路透社報導，國營的聯合電力公司（Union E...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372447",
+          "published": "Tue, 17 Mar 2026 04:00:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮幕僚長威爾斯罹乳癌　川普：治療期間繼續工作",
+          "summary": "美國總統川普（Donald Trump）今天指出，現年68歲的白宮幕僚長威爾斯（Susie Wiles）遭診斷出罹患乳癌，但她會在治療期間繼續工作。   法新社報導，威爾斯是第一位女性白宮幕...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372446",
+          "published": "Tue, 17 Mar 2026 03:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：伊朗新任最高領袖生死未卜　美方無從談判",
+          "summary": "美國總統川普今天表示，有報導稱伊朗新任最高領袖穆吉塔巴．哈米尼在空襲中受傷，生死未卜；他還說，美方甚至不知道應與誰談判。  法新社報導，川普在白宮對記者說：「我們不知道…他是死了還是沒死。我...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5372445",
+          "published": "Tue, 17 Mar 2026 02:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
