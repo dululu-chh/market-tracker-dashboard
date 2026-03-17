@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-17T21:57:56.771018",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+          "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 21:48:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+          "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 18:45:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iranian security chief Ali Larijani killed in air strike",
+          "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+          "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 21:14:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美號召護航荷莫茲海峽　阿聯高官稱可能加入行列",
+          "summary": "伊朗在與以色列及美國交戰之際實際上封鎖了荷莫茲海峽（Strait of Hormuz），阿拉伯聯合大公國高階官員今天表示，阿聯可能會加入以美國為首的荷莫茲海峽護航行動。  路透社報導，阿聯元...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373725",
+          "published": "Wed, 18 Mar 2026 05:45:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "護航荷姆茲？ 高市訪美恐難迴避",
+          "summary": "〔駐日特派員林翠儀／東京十七日報導〕日本首相高市早苗將於十八日啟程訪問美國，十九日與美國總統川普舉行領袖會談。隨著中東局勢升溫，尤其是伊朗對荷姆茲海峽船舶的攻擊與實質封鎖，美方要求日本採取更積極行動，高市如何回應將成為此次會談的焦點之一。 川普近日點名包括日本在內的七國，希望協助荷姆茲海峽進行船舶…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747346",
+          "published": "Wed, 18 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "缺席奧斯卡 西恩潘再訪烏克蘭",
+          "summary": "好萊塢男星西恩潘15日榮獲本屆奧斯卡最佳男配角獎，但他並未出席頒獎典禮，而是前往烏克蘭，以實際行動表達對這個飽受戰火摧殘國家的支持。烏克蘭總統澤倫斯基發布他在基輔總統辦公室與西恩潘會面的照片。澤倫斯基說，「西恩，多虧了你，我們知道了什麼是烏克蘭真正的朋友。」在已逾4年的烏俄戰爭期間，西恩潘多次造訪烏…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747348",
+          "published": "Wed, 18 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
