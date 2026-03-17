@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-17T15:45:23.729713",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump seeks to delay meeting with Xi in China",
+          "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives",
+          "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 10:33:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
+          "summary": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks.",
+          "link": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 02:04:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+          "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC.",
+          "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 12:38:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北韓研發「少女機器人」！   對外亮相露出一抹詭異微笑......",
+          "summary": "號稱北韓自主研發的人形機器人，近日對外亮相，曝光的照片可以看到，北韓的人機器人設計成少女外觀，臉上帶著一抹詭異微笑，引發外界討論。  朝鮮勞動黨本月15日舉行最高人民會議選舉...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373328",
+          "published": "Tue, 17 Mar 2026 23:31:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗持續攻擊波灣國家 阿布達比1人因飛彈殘骸喪命",
+          "summary": "伊朗持續對波斯灣國家發動攻擊。官方表示，今天在阿拉伯聯合大公國首都阿布達比，一枚遭攔截飛彈的殘骸墜落，造成一人死亡。同日在科威特則有兩名醫護人員受傷。  法新社報導，在美國、以色列空襲伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373665",
+          "published": "Tue, 17 Mar 2026 23:15:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普政府首位！不支持對伊朗發動戰爭 美國反恐中心主任肯特辭職",
+          "summary": "美國國家反恐怖主義中心（NCTC）主任肯特（Joe Kent）17日以「良心上無法支持對伊朗的戰爭」為由宣布辭職，成為川普政府首位、也是因伊朗戰爭請辭職位最高的官員。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373675",
+          "published": "Tue, 17 Mar 2026 23:11:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
