@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-17T08:07:24.580701",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
+          "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+          "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 00:24:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens killed after Afghanistan rehab centre struck",
+          "summary": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers.",
+          "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 06:19:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Utah bereavement author found guilty of fatally poisoning her husband",
+          "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
+          "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 01:14:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗大使向川普提議！ 美國撤軍換取荷姆茲海峽通航",
+          "summary": "全球能源運輸要道荷姆茲海峽，在伊朗威脅下幾乎沒有船隻通航。對此，伊朗駐土庫曼大使魯茲貝哈尼（Ali Mojtaba Rouzbehani）16日隔空向川普提議，何不讓美方撤軍來換...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373103",
+          "published": "Tue, 17 Mar 2026 15:42:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "京都學生校外教學翻船2死 擴大到14人受傷",
+          "summary": "日本京都府一群高中生昨天在校外教學期間，乘船到沖繩縣的美軍基地預定地附近時翻船。日本海巡單位今天宣布，扣除兩名死者之外，共有14人受傷，傷者大多為學生。  「京都新聞」報導，這群高中生來...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373128",
+          "published": "Tue, 17 Mar 2026 15:40:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱「震驚」伊朗報復 美情報界：戰前早多次警告",
+          "summary": "1位美國官員與2名熟悉美國情報報告的消息人士表示，總統川普今天聲稱德黑蘭的反應令人驚訝，但其實他早在開戰前就接獲預警，得知攻擊伊朗極可能導致波斯灣盟友遭到報復。  其中一名消息人士表示，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373127",
+          "published": "Tue, 17 Mar 2026 15:35:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
