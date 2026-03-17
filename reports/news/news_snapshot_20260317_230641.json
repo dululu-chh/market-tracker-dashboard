@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-17T23:06:39.793919",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+          "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 21:48:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+          "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+          "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 18:45:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iranian security chief Ali Larijani killed in air strike",
+          "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+          "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Mar 2026 22:49:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "古巴變了！川普要求經濟開放 副總理稱願與美企建立商業關係",
+          "summary": "首次上稿 03-17 22:10更新時間 03-18 06:45 古巴副總理兼外貿及投資部長佩雷斯－奧利瓦（Oscar Pérez-Oliva Fraga）16日接受美國NB...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373631",
+          "published": "Wed, 18 Mar 2026 06:45:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普政府第一人！不支持打伊朗 美國反恐中心主任肯特辭職",
+          "summary": "首次上稿 03-17 23:11更新時間 03-18 06:23 美國國家反恐怖主義中心（NCTC）主任肯特（Joe Kent）17日自稱「良心上無法支持對伊朗的戰爭」，以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373675",
+          "published": "Wed, 18 Mar 2026 06:23:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普爆「前總統」私下力挺打伊朗 媒體猜可能是柯林頓",
+          "summary": "美國總統川普16日兩度表示，他從一位「前總統」那裡得到一種類似「告白」的說法：這位「前總統」在一次私下交談中表達悔意，後悔沒有像川普一樣有勇氣攻打伊朗。然而，美國4位仍在世的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5373707",
+          "published": "Wed, 18 Mar 2026 06:08:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
