@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-18T05:21:44.642376",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+          "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+          "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 02:12:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+          "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers.",
+          "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 04:36:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+          "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
+          "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 00:07:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "晉升名單成死亡筆記本！ 傳伊朗高層一次任命多名繼任人防斷頭",
+          "summary": "美國、以色列聯手對伊朗發動大規模軍事打擊，並持續斬首伊朗高階官員，現又1名伊朗高階官員，國家安全委員會首長拉里賈尼（Ali Larijani）遭擊斃；傳出伊朗政府已為關鍵職位指定...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5374247",
+          "published": "Wed, 18 Mar 2026 13:15:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防盜神操作！工廠深夜播放淒厲鬼叫 成功嚇跑小偷",
+          "summary": "中國湖南省長沙1家工廠近日因播放「女鬼笑聲」成功嚇跑深夜行竊的小偷，最終沒有造成財物損失，引起網友議論。  綜合媒體報導，事發在12日，1名戴頭燈男子趁半夜潛入1家廠房，不料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5374157",
+          "published": "Wed, 18 Mar 2026 13:01:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "NHK誤向3.3萬人發eMail 其他用戶電郵帳號全曝光",
+          "summary": "日本放送協會（NHK）今（18）日表示，位於東京都澀谷區的放送中心．17日晚間誤向3萬2940萬人發送電子郵件，收件者可看到其他人的電郵帳號。  據《讀賣新聞》報導，NHK方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5374229",
+          "published": "Wed, 18 Mar 2026 13:01:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
