@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-18T19:32:05.776138",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
+          "summary": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 17:05:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+          "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded.",
+          "link": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 16:04:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
+          "summary": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia.",
+          "link": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 16:39:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國軍工業與中東國家研商強化防衛　烏克蘭也有角色",
+          "summary": "中東情勢持續緊張，英國國防部今天在倫敦召集英國航太系統公司（BAE Systems）、飛彈大廠MBDA等總計13家軍工企業和產業協會代表，以及7個中東地區國家駐英大使和武官，共同研商英國可如...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375133",
+          "published": "Thu, 19 Mar 2026 02:12:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普擬延後訪中行程　白宮：中方同意改期",
+          "summary": "針對美國總統川普擬延後原訂於兩週後展開的北京訪問行程，白宮今天表示，中方已同意改期。白宮新聞秘書李威特（Karoline Leavitt）指出，將盡快敲定新的訪問日期。  白宮官員曾向媒體證...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375125",
+          "published": "Thu, 19 Mar 2026 00:48:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "顧客帶狗狗到餐廳拍照遭責難  老闆竟將600套盤子全砸爛！",
+          "summary": "近日中國河南省有人帶自家寵物犬到餐廳用餐，抱著狗靠近餐具拍影片，PO網後有大批網友質疑餐具被狗用過不衛生，儘管業者澄清狗狗根本沒有碰到餐具，但輿論還是持續燒。最後迫於無奈，老闆竟...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375092",
+          "published": "Thu, 19 Mar 2026 00:46:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
