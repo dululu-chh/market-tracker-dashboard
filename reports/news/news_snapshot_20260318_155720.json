@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-18T15:57:18.676783",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+          "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
+          "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 00:07:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+          "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers.",
+          "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 04:36:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+          "summary": "With India’s semaglutide patent expiring on 20 March, about 50 branded generics are expected to enter the market.",
+          "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Mar 2026 00:30:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "因應開齋節 巴基斯坦宣布對阿富汗暫時停火",
+          "summary": "巴基斯坦資訊部長塔拉（Attaullah Tarar）今（18）日宣布，巴基斯坦針對鄰國阿富汗的軍事行動「真理之怒」（Operation Ghazab Lil Haqq）將暫時停...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375093",
+          "published": "Wed, 18 Mar 2026 23:33:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最大天然氣田遭襲起火 布蘭特原油期貨飆破109美元",
+          "summary": "中東衝突持續升級，伊朗半官方媒體「塔斯尼姆通訊社」及國營電視台18日報導，位於伊朗南部布什爾省（Bushehr）阿薩盧耶市（Asaluyeh）的「南帕爾斯」（South Pa...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375104",
+          "published": "Wed, 18 Mar 2026 23:21:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "報復氣田設施遇襲 伊朗：鎖定波灣各地能源基礎設施",
+          "summary": "在美國和以色列對伊朗主要天然氣田設施發動攻擊後，伊朗國營電視台今天引述軍方報導，將鎖定波斯灣各地能源基礎設施為目標展開攻擊。  法新社報導，伊朗軍方作戰指揮部「哈塔姆安比亞中央總部」（K...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375105",
+          "published": "Wed, 18 Mar 2026 23:18:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
