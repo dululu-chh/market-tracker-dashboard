@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-19T14:40:30.900608",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
+          "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+          "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 14:07:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How Europe sleepwalked into yet another energy crisis",
+          "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
+          "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 05:59:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
+          "summary": "News of the invitation emerges after the monarch acknowledged \"a lot of abuse\" during the Spanish conquest of Mexico.",
+          "link": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 14:00:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川高會前夕 伊朗外長警告：助美重開荷姆茲將是戰爭共犯",
+          "summary": "美國總統川普19日將在白宮與來訪的日本首相高市早苗會談，在伊朗戰爭持續之際，中東局勢、包括荷姆茲海峽安全，將是會談焦點。在這場會面登場前，伊朗外交部長警告，美國盟邦協助重開該海...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376351",
+          "published": "Thu, 19 Mar 2026 22:24:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "戰火壟罩全球最大天然氣田 加劇川普緩和能源危機複雜性",
+          "summary": "以色列18日轟炸伊朗能源命脈、全球最大天然氣田「南帕爾斯」，激起德黑蘭對卡達等區域內國家油氣設施發動報復。為避免因荷姆茲海峽封鎖陷入危機的能源市場情形惡化，美國總統川普要求以、...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376346",
+          "published": "Thu, 19 Mar 2026 22:18:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "匈牙利阻撓援烏900億歐元貸款 歐盟領袖連環砲轟",
+          "summary": "歐盟領袖峰會今天登場，歐盟援助烏克蘭900億歐元貸款的計畫將是重要議題之一。匈牙利總理奧班仍持反對立場，引來多位歐盟領袖批評，歐洲議會議長梅特索拉呼籲奧班應履行承諾。  歐盟領袖於去年1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376328",
+          "published": "Thu, 19 Mar 2026 22:09:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
