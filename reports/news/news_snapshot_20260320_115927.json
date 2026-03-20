@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-20T11:59:25.170607",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia, China and the US – the global winners and losers of the Iran war",
+          "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+          "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 00:08:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 10:43:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+          "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+          "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 11:33:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "隨高市訪美！日外相告訴范斯：中國對台軍事施壓 會波及美國",
+          "summary": "日本首相高市早苗昨天在華府會見美國總統川普，《共同社》今天報導，隨行的日本外相茂木敏充在晚宴上告訴副總統范斯，中國對台灣施加軍事壓力，也會影響美國。  茂木敏充向范斯（JD Vance）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377259",
+          "published": "Fri, 20 Mar 2026 19:47:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓大田汽車工廠大火55傷14失聯 80％火勢控制仍難進入搜救",
+          "summary": "韓國大田廣域市的一間汽車零件製造工廠今天下午發生大型火災，更新至晚間6時共有55人輕重傷，仍有14人下落不明，雖已控制住80％火勢，但因建築物倒塌風險難以進入搜救。  根據韓聯社報導，韓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377327",
+          "published": "Fri, 20 Mar 2026 19:33:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德國邦級選舉本月第2彈 梅爾茨聯合政府政黨再逢考驗",
+          "summary": "德國西部的萊因─法耳次邦（Rhineland-Palatinate）22日舉行邦議會選舉，為德國總理梅爾茨（Friedrich Merz）所屬的保守政黨「基督教民主聯盟」（CD...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377298",
+          "published": "Fri, 20 Mar 2026 19:27:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
