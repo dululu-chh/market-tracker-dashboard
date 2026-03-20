@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-20T14:34:24.086694",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia, China and the US – the global winners and losers of the Iran war",
+          "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+          "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 00:08:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
+          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 10:43:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+          "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+          "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 11:33:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澳洲機場不速之客 禮品店絨毛娃娃裡「躲貓貓」",
+          "summary": "一隻野生負鼠近日闖入澳洲荷巴特機場禮品店，並藏身絨毛玩偶之間，這段插曲意外帶給旅客驚喜，彷彿上演一場可愛的躲貓貓戲碼。  法新社報導，澳洲塔斯馬尼亞州（Tasmania）荷巴特機場（Ho...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377411",
+          "published": "Fri, 20 Mar 2026 22:08:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "恪守中立！ 瑞士宣布暫停核准對美國出口武器",
+          "summary": "瑞士政府20日宣布，由於美國對伊朗的戰爭進行中，因此暫停向本國公司核發對美國的武器出口許可，以符合國家長年恪守的中立原則。  伯恩當局聲明表示，「在伊朗衝突期間，無法授權向...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377427",
+          "published": "Fri, 20 Mar 2026 22:04:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐日加7國發聲願助確保荷姆茲海峽安全 穩定能源市場",
+          "summary": "歐洲主要國家、日本及加拿大今天發表聯合聲明表示，他們將投入適當努力，以確保荷姆茲海峽（Strait of Hormuz）的安全通行，並將採取措施穩定能源市場。  路透社報導，繼英國、法國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377378",
+          "published": "Fri, 20 Mar 2026 21:21:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
