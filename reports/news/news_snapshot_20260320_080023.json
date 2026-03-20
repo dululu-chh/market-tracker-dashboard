@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-20T08:00:22.107764",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "The global winners and losers of the war in Iran",
+          "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+          "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 00:08:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
+          "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran.",
+          "link": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 17:50:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Several injured as turbulence hits Delta flight into Sydney",
+          "summary": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport.",
+          "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 01:26:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澳總理出席開齋節禮拜 加薩戰爭立場引民眾噓聲抗議",
+          "summary": "澳洲總理艾班尼斯今天至全國最大清真寺參加開齋節禮拜時，遭到抗議民眾質問並報以噓聲，對他在盟邦以色列進攻加薩走廊議題上的立場表達不滿。  路透報導，自加薩戰爭爆發以來，澳洲中左派政府審慎維...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377028",
+          "published": "Fri, 20 Mar 2026 15:47:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普驚人語錄+1！拿《珍珠港》開玩笑 粉專：世界級地獄梗誕生",
+          "summary": "日本首相高市早苗19日訪問白宮，受到美國總統川普熱情款待。川普被記者詢問美國在攻打伊朗前，為何未事先知會日本等盟友回應表示，這是為達到出其不意的效果，並當場大開「珍珠港事件」玩笑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376755",
+          "published": "Fri, 20 Mar 2026 15:35:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普深陷伊朗危機延後訪中 《法新社》：北京恐掌握更多關稅談判籌碼",
+          "summary": "美國總統川普深陷伊朗戰事混亂局面，促使他延後訪問中國行程。《法新社》20日分析，川普地位的削弱可能會讓北京更有本錢要求更大幅度的關稅削減，並限制華府在其他貿易問題－例如關鍵礦產...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376956",
+          "published": "Fri, 20 Mar 2026 15:34:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
