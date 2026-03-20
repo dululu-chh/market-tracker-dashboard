@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-20T05:09:04.615278",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+          "summary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+          "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 22:41:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+          "summary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
+          "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 00:04:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US considers lifting sanctions on some Iranian oil",
+          "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Mar 2026 19:55:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本熊本部署飛彈射程涵蓋上海  專家：這只是開始",
+          "summary": "日本計劃3月底前在九州熊本部署12式陸基反艦飛彈，射程約1000公里，延伸至中國上海。專家分析，這是日本首次具備對中國本土的打擊能力，熊本的部署只是開始，未來日本將推進更多同類型強化措施，使...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376760",
+          "published": "Fri, 20 Mar 2026 12:55:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "開打就不演了！伊朗翻示威者舊帳 19歲國家摔角冠軍遭公開絞刑",
+          "summary": "伊朗今年初發生大規模示威，在美國總統川普施壓下，伊朗暫停對上百名抗議者執行處決。然而，伊朗政權在與美、以開戰後徹底「不演了」，當地時間19日清晨，公開處決3名涉示威事件的男子，其...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376775",
+          "published": "Fri, 20 Mar 2026 12:43:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普大開高市早苗「珍珠港」地獄梗！徐閉：喜劇演員要失業......",
+          "summary": "日本首相高市早苗19日訪問白宮，受到美國總統川普熱情款待，在公開場合順利避開與川普在伊朗議題上可能的衝突。然而，高市還是因為日本記者的提問，遭到川普援引日本偷襲珍珠港的例子，類比...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5376618",
+          "published": "Fri, 20 Mar 2026 12:37:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
