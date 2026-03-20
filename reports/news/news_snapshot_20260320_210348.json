@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-20T21:03:45.970142",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
+          "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender.",
+          "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 15:30:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+          "summary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
+          "link": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 20:16:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel strikes Syria after Druze clashes",
+          "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty.",
+          "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 16:02:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "保護航道　英國批准美軍使用其基地攻擊伊朗飛彈陣地",
+          "summary": "英國政府今天批准美國使用英國軍事基地，對伊朗飛彈陣地發動打擊，這些飛彈陣地被用於攻擊荷莫茲海峽（Strait of Hormuz）上航行船隻。  路透社報導，根據唐寧街（Downing St...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377508",
+          "published": "Sat, 21 Mar 2026 04:12:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "兩棲攻擊艦拳師號領軍出動　美增派數千部隊趕赴中東",
+          "summary": "美以對伊朗戰爭進入第三週，美國官員今天表示，美軍正增派數千名陸戰隊員與水兵至中東。其中兩人指出，目前尚未決定派遣部隊進入伊朗本土，但此舉將增強美軍在中東未來可能行動的能力。  路透社報導，這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377501",
+          "published": "Sat, 21 Mar 2026 02:45:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台海軍力攻防 法國學者點出中國強化飛彈能力4趨勢",
+          "summary": "在軍事技術快速進化之際，精準打擊和反飛彈防禦能力牽動台灣海峽及區域安全。法國學者觀察，中國持續提升飛彈戰力，呈多元化、大規模化等趨勢；台灣則致力加強飛彈防禦能力。  法國戰略研究基金會（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377439",
+          "published": "Fri, 20 Mar 2026 23:30:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
