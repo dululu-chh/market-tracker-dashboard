@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-21T17:54:47.764329",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+          "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:34:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+          "summary": "More than 230 people have been rescued so far, the authorities said on Friday.",
+          "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 16:09:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pentagon restrictions on press violate First Amendment, judge rules",
+          "summary": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.",
+          "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 16:11:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗總統：美以立即停止侵略才能結束戰爭",
+          "summary": "伊朗駐印度大使館今天在社群平台X發文寫道，伊朗總統裴澤斯基安指出，美國和以色列的侵略行動必須「立即停止」，才能結束戰爭以及更廣泛的區域衝突。  路透社報導，裴澤斯基安（Masoud Peze...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378304",
+          "published": "Sun, 22 Mar 2026 01:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「川習會」陷僵局！ 傳待伊朗戰事降溫  川普政府才願安排",
+          "summary": "美國Politico政治新聞網站21日獨家報導，隨著美國向波斯灣增兵、伊朗戰事升溫，原定3月底舉行的「川習會」陷入僵局。據多名知情人士透露，川普政府已向外國官員表明，在伊朗戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378298",
+          "published": "Sun, 22 Mar 2026 00:12:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "應對台海變局 英軍事專家：台灣可借鏡荷姆茲海峽經驗",
+          "summary": "中東戰火持續，英國智庫「皇家聯合軍事研究所」（RUSI）印太區域安全高階研究員薛特爾-瓊斯接受中央社採訪表示，台灣可從密切追蹤、縝密研究荷姆茲海峽正在發生的事汲取寶貴教訓，為應對台灣海峽未來...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378289",
+          "published": "Sat, 21 Mar 2026 23:51:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
