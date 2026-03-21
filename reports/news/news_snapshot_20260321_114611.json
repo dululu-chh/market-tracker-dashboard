@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-21T11:46:08.838810",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+          "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:34:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Fans elated as BTS play first gig together in nearly four years",
+          "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.",
+          "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 11:22:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+          "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 10:34:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗開齋節轟清真寺 以色列外交部：自曝政權瘋狂本質",
+          "summary": "數百名穆斯林信徒昨（20日）在耶路撒冷舊城門口，舉行開齋節祈禱時與警方發生衝突，幾小時後，1枚被攔截的伊朗彈道飛彈碎片，擊中離聖殿山西牆和阿克薩清真寺約400公尺處，有1人受傷。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378138",
+          "published": "Sat, 21 Mar 2026 19:36:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英國夫婦涉間諜德黑蘭服刑  家屬控中東戰火淪「人肉盾牌」",
+          "summary": "去年1月在伊朗被控間諜罪遭監禁的一對英國夫妻，其家人20日控訴，在美國、以色列對伊朗的戰爭中，兩人被當作「人肉盾牌」，處境隨戰火持續而惡化。  《路透》20日報導，這對英國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378154",
+          "published": "Sat, 21 Mar 2026 19:26:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美主導國防產業夥伴關係 同意在日本生產飛彈引擎及區域無人機合作",
+          "summary": "美國戰爭部今天表示，美國主導的國防製造夥伴關係同意在日本啟動新的飛彈引擎生產計畫，並推動在亞洲各地的無人機合作，以及評估在菲律賓建立1條彈藥生產線的可行性。  路透社報導，美國為了降低供...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378114",
+          "published": "Sat, 21 Mar 2026 19:23:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
