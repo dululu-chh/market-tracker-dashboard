@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-21T14:57:17.219604",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+          "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:34:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "First photos as BTS make live return in front of huge crowd",
+          "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.",
+          "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 13:24:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+          "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 10:34:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "椰價崩小農破產！ 反制中資操控市場  泰國突襲「借名公司」",
+          "summary": "綜合《亞洲新聞》（AsiaNews）、《泰國詢問報》報導，泰國政府近日點名15家中資企業，涉嫌透過掛名股東控制當地的椰子買賣，並透過壓低收購價格扭曲市場，使小型椰農幾乎喪失議價...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378279",
+          "published": "Sat, 21 Mar 2026 22:50:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "間諜疑雲！男女2人組擅闖英國核潛艦基地  1人竟是伊朗人",
+          "summary": "美國與以色列對伊朗的軍事打擊行動持續之際，位於蘇格蘭的英國核潛艦基地，日前傳出外國人士試圖闖入事件，敏感的是，涉案的兩名嫌疑人包括一名伊朗人。  《美聯社》、《法新社》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378275",
+          "published": "Sat, 21 Mar 2026 22:35:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍F-35被伊朗擊中  中國官媒：遭防空戰車光電感測器鎖定",
+          "summary": "美軍一架F-35匿蹤戰機19日在伊朗上空被擊中，引發熱烈討論。中國官媒央視新聞今天引述軍事專家稱，這架F-35降低飛行高度，遭伊朗防空戰車的光電感測器捕捉到發動機所產生的紅外線熱訊號，隨後發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378245",
+          "published": "Sat, 21 Mar 2026 22:13:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
