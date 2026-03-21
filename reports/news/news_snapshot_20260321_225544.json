@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-21T22:55:42.696033",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump administration at crossroads in US-Israel war with Iran",
+          "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+          "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 22:12:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+          "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
+          "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 19:39:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump threatens to send ICE into airports unless funding deal reached",
+          "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
+          "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 20:22:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "多線激戰 伊朗戰爭瀕臨區域大戰",
+          "summary": "〔編譯孫宇青／綜合報導〕香港南華早報廿一日報導，伊朗戰爭爆發三週以來，針對能源設施的攻擊導致各條戰線衝突不斷升級，已將中東推向全面區域戰爭邊緣。隨着波斯灣各國對伊朗攻擊的耐心逐漸耗盡，專家評估德黑蘭雖在戰略上取得進展，但為避免引發美國地面行動，應不至於過度擴張戰火。 以色列於十八日攻擊伊朗全球最大…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747793",
+          "published": "Sun, 22 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "謠言終結站》美預備徵兵赴中東？ 偽川普貼文",
+          "summary": "網傳消息：美以伊衝突進入第4週，社群媒體流傳據稱來自總統川普的貼文，內容為「美國人應做好準備，若國家需要，我們可能會被徵召」。同時，另一則貼文稱，保守派智庫傳統基金會的「2025計畫」要求，所有公立高中畢業生將被納入為期兩年的徵兵計畫。  二、查證結果：不實。法新社查證，宣稱來自川普的貼文為偽造…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747798",
+          "published": "Sun, 22 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "奪取伊朗石油島 美：隨時可以",
+          "summary": "川普考慮「逐步結束」軍事行動 〔編譯孫宇青／綜合報導〕美國和以色列聯手攻擊伊朗進入第四週，雙方持續交火。美國總統川普廿日暗示考慮「逐步結束」行動，稱美國已接近實現目標，伊朗需十年才能重建。白宮同日表示，美軍隨時可「奪取」伊朗石油樞紐哈格島，以迫使伊朗重新開放荷姆茲海峽。 稱美已接近實現目標 以則…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747791",
+          "published": "Sun, 22 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
