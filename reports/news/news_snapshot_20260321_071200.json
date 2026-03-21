@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-21T07:11:59.476227",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+          "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 22:34:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+          "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+          "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Mar 2026 23:52:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Chuck Norris memes were undefeated for a generation of young fans",
+          "summary": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough guy persona.",
+          "link": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 01:03:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "被提珍珠港嘲諷！來賓笑問「是貴台記者？」日女主播尷尬反應曝",
+          "summary": "美國總統川普19日在白宮會見日本首相高市早苗，日本朝日新聞台記者當場提問川普，為何攻擊伊朗時不先知會盟友？結果被川普提「珍珠港事件」反殺。事件曝光引發大量日本網友不滿，稱他是「日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377845",
+          "published": "Sat, 21 Mar 2026 15:03:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挾荷姆茲意圖控制中東能源 伊朗自認勝券在握",
+          "summary": "《華爾街日報》（WSJ）20日報導，美國和以色列聯手攻擊伊朗屆滿3週，伊朗政權相信自己正在贏得戰爭，並有能力迫使美國接受一項協議，從而鞏固伊朗在未來幾十年對中東能源資源的統治地...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5377885",
+          "published": "Sat, 21 Mar 2026 14:33:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由觀點》伊朗亂炸杜拜房產 愛莉莎莎買了嗎？",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5375904",
+          "published": "Sat, 21 Mar 2026 14:00:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
