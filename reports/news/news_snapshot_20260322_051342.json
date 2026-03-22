@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-22T05:13:39.624119",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+          "summary": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes.",
+          "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 23:01:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump at a crossroads as US weighs tough options in Iran",
+          "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+          "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 00:50:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "National blackout hits Cuba for second time in a week",
+          "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+          "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 02:02:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "要停戰又增兵還買伊朗油？ 川普3套操作同時上演惹議",
+          "summary": "美國總統川普在不到2天內，對伊朗釋出3種互相矛盾的訊號。他一方面表示考慮縮減戰事，另一方面卻增派部隊，甚至放寬對部分伊朗石油的制裁。這組同時出現的反向政策動作，引發對美國中東戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378610",
+          "published": "Sun, 22 Mar 2026 13:03:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本高速公路巴士撞分隔島 9國中生受傷送醫",
+          "summary": "日本鹿兒島縣湧水町九州高速公路，今（22日）上午9時35分有1輛前往運動會的巴士撞擊分隔島，造成車上9名國中生受傷送醫，所幸都沒有生命危險。  據《南日本新聞》報導，這起事故...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378587",
+          "published": "Sun, 22 Mar 2026 12:56:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國重慶大學實驗室爆炸 釀學生1死3傷",
+          "summary": "中國重慶大學科學城校區虎溪校園實驗室，於20日晚間7時05分突發爆炸，造成1名學生死亡、3名學生受傷，目前傷患狀況穩定，沒有生命危險。  重慶大學21日發出情況通報，指稱經過...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378546",
+          "published": "Sun, 22 Mar 2026 12:01:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
