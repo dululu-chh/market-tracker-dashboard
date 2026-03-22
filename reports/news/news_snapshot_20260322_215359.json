@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-22T21:53:57.718936",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+          "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+          "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 21:52:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+          "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+          "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 19:05:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊和談劇本 傳川普團隊已沙盤推演",
+          "summary": "〔編譯張沛元／綜合報導〕美國新聞網站Axios廿一日引述消息人士報導，川普政府在伊朗戰爭開打三週後，已就衝突下一階段以及與伊朗和談的可能情況展開初步討論，任何結束戰爭的協議，都必須包括重新開放荷姆茲海峽、解決伊朗高濃縮鈾庫存問題，並制定關於伊朗核計畫、彈道飛彈，以及德黑蘭對區域代理人支持的長期協議。…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747920",
+          "published": "Mon, 23 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "48小時最後通牒 要求荷姆茲解封》川普威脅抹平伊朗電廠",
+          "summary": "伊朗放話 反擊美以在中東的能源設施 〔編譯孫宇青／綜合報導〕美國總統川普廿一日向伊朗下達四十八小時最後通牒，要求全面開放荷姆茲海峽，否則將「抹平」伊朗所有發電廠。伊朗軍方隨後威脅，若發電廠遭攻擊，將襲擊中東地區與美國和以色列相關所有能源基礎設施。 川普於美東廿一日晚間七時四十四分在「真實社群」發…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747918",
+          "published": "Mon, 23 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗彈襲以南城鎮 逾180傷",
+          "summary": "以色列南部城鎮狄莫納（Dimona）和阿拉德（Arad）21日遭伊朗飛彈攻擊，造成至少180人受傷，為以色列和美國對伊朗開戰以來，對以色列最具破壞性的攻擊行動。伊朗先是突破以色列飛彈防禦系統，襲擊據稱為以國核武庫所在地的狄莫納，藉此報復美以攻擊其納坦茲核設施，接著再重創鄰近的阿拉德。以方坦承，兩地都…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1747921",
+          "published": "Mon, 23 Mar 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
