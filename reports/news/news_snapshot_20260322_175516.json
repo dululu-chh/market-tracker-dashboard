@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-22T17:55:15.174578",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+          "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+          "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 17:35:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+          "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+          "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 12:15:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "National blackout hits Cuba for second time in a week",
+          "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+          "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 16:59:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "菲律賓3人涉為中國從事間諜活動遭逮 疑洩漏南海巡邏情資",
+          "summary": "至少3名與菲律賓軍方有聯繫的菲律賓人，因涉嫌為中國從事間諜活動而遭到逮捕。他們涉嫌洩漏情資，引發在南海爭議海域的海上對峙。經過調查，他們的犯罪手法也相繼曝光。  香港「南...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379130",
+          "published": "Mon, 23 Mar 2026 01:34:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全國大停電之際　古巴為美國可能攻擊做準備表態願對話",
+          "summary": "根據今天播出的訪談內容，古巴外交部副部長德柯西奧告訴美國媒體，這個共產國家正就美國可能發動攻擊進行準備，但強調古巴與華府「沒有爭端」。  法新社報導，德柯西奧（Carlos Fernande...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379128",
+          "published": "Mon, 23 Mar 2026 00:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東戰火恐使「1產品」斷供  牛津教授示警：台灣少了它就慘了！",
+          "summary": "中東情勢急遽升溫，伊朗的無差別攻擊讓全球能源運輸要道荷姆茲海峽實質陷入封鎖，但戰火的影響不僅僅只是油價波動！英國牛津大學（Oxford University）「危機研究所」（Cr...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379099",
+          "published": "Mon, 23 Mar 2026 00:46:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
