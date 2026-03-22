@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-22T07:53:04.460016",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+          "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+          "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 07:39:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Socialists battle to hold Paris as France holds mayoral elections",
+          "summary": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire.",
+          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 07:08:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Did Australia's under-16s social media ban work?",
+          "summary": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
+          "link": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 19:06:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "擴大美以道德壓力 伊朗大打AI資訊戰",
+          "summary": "為了因應美國和以色列軍事打擊，伊朗徹底調整社群媒體戰略，發起全面資訊戰，在X、Instagram和Bluesky等社群平台發布大量有針對性的文章，宣揚戰爭在美國（包括美國總統川...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378763",
+          "published": "Sun, 22 Mar 2026 15:29:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "下場慘了！中國男子稱遭搶劫 泰國警方一查直接翻車",
+          "summary": "1名中國男子赴泰國旅遊期間報稱遭搶，指護照、現金及多項貴重物品被奪，但警方調查後發現說法疑點重重，甚至查出其已持「報稱被搶」的護照出境，研判案件恐為虛構，疑似企圖詐領旅遊保險理賠...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378434",
+          "published": "Sun, 22 Mar 2026 15:13:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "悚！香港飛英國航班女子突死亡 300餘名旅客伴屍13小時聞屍臭",
+          "summary": "可怕！英國航空BA32航班空中巴士A350-1000客機，15日載著331名乘客從香港前往倫敦，孰料1名60來歲的婦人在起飛1小時後離世，由空服員轉移至機艙後段的廚房安置，又過了...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378683",
+          "published": "Sun, 22 Mar 2026 14:32:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
