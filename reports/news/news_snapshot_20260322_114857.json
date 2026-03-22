@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-22T11:48:55.554235",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+          "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+          "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 10:57:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Socialists battle to hold Paris as France holds mayoral elections",
+          "summary": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire.",
+          "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 07:08:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Did Australia's under-16s social media ban work?",
+          "summary": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
+          "link": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Mar 2026 19:06:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "卡達軍機墜毀釀7死 罹難者含3名土耳其人及軍官",
+          "summary": "首次上稿：19:18 更新時間：19:43（卡達國防部宣布尋獲失蹤者遺體）  卡達一架軍用直升機今（22）日墜毀在自家領海，造成7人死亡，卡達國防部事後指出，墜機原因是「技...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378921",
+          "published": "Sun, 22 Mar 2026 19:43:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "最高8.2億成交！街頭塗鴉藝術家「班克西」身分曝光 反推升作品價值",
+          "summary": "多年來憑藉匿名與神出鬼沒在各地街頭肆意揮灑創意的塗鴉藝術家「班克西」（Banksy），其真實身分日前曝光；儘管有人擔心「班克西」的街頭塗鴉恐因其真身曝光而受限，但部分原本因不知...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378967",
+          "published": "Sun, 22 Mar 2026 19:30:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽生死鬥：川普祭出最後通牒 黑色星期一股市恐崩盤",
+          "summary": "美國總統川普於美東時間週六（21日）發出48小時最後通牒，威脅若伊朗不全面開放荷姆茲海峽，美軍將「抹平」伊朗境內電力設施。伊朗隨即反擊，警告將鎖定美國在波斯灣的能源及資訊基礎設施...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5378876",
+          "published": "Sun, 22 Mar 2026 18:57:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
