@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-03-23T05:49:35.305072",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Asia stocks slide as US and Iran threaten to escalate war",
+          "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 05:12:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+          "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
+          "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 23:27:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紐約機場驚傳飛機撞消防車！機頭嚴重受損畫面曝 至少2死70傷",
+          "summary": "首次上稿 13:08更新時間 13:13  美國紐約拉瓜迪亞機場（LaGuardia Airport）驚傳一起飛安意外，1架加拿大航空（Air Canada）在跑道滑行時，意...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379518",
+          "published": "Mon, 23 Mar 2026 13:13:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美軍司令：伊朗領導層躲在地下掩體 正採取絕望行為",
+          "summary": "掌管中東美軍部隊的美國中央司令部（CENTCOM）司令古柏（Brad Cooper），接受媒體專訪的內容今（23日）播出，他透露伊朗領導層躲在深藏地下的掩體，近來攻擊中東平民則是...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379478",
+          "published": "Mon, 23 Mar 2026 12:50:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉嫌掩蓋金建希炒股案 南韓特檢搜索大檢察廳、首爾中央地方檢察廳",
+          "summary": "南韓前第一夫人金建希，今年1月因貪污受賄被判處1年8個月有期徒刑，她過去還涉嫌操縱BMW南韓經銷商德意志汽車的股價，但負責調查的檢方2024年裁定不起訴。對此，專責追查金建希罪行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379390",
+          "published": "Mon, 23 Mar 2026 11:42:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
