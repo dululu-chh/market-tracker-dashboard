@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-23T11:35:24.073686",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
+          "summary": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.",
+          "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 10:47:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Stocks slide and oil rises as US and Iran threaten to escalate war",
+          "summary": "The International Energy Agency chief says the war could lead to the world's worst energy crisis in decades.",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 10:02:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普宣布美伊展開對話 暫停軍事打擊伊朗能源設施5天",
+          "summary": "美國總統川普美東時間23日上午7時許（台灣同日晚間7時）透過社群平台「真實社群」發文宣布，美國和伊朗正就徹底解決敵對行動進行對話，已指示美國戰爭部（國防部）暫停對伊朗發電廠和能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380036",
+          "published": "Mon, 23 Mar 2026 19:23:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》荷姆茲恐怖平衡將被打破？專家曝美軍下一步",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379941",
+          "published": "Mon, 23 Mar 2026 18:36:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全球能源咽喉恐遭封鎖！伊朗嗆佈下「水雷陣」 回擊美48小時通牒",
+          "summary": "面對美軍與以色列的軍事壓力，伊朗防禦委員會（Defense Council）今（23日）發布強硬聲明，明確劃下戰術紅線：若伊朗沿海或領土遭到攻擊，伊朗將在波斯灣全線布設各類水雷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379896",
+          "published": "Mon, 23 Mar 2026 17:44:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
