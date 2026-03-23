@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-23T08:39:29.009610",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+          "summary": "An Air Canada Express plane suffered significant damage after the collision.",
+          "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 07:53:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Asia stocks slide as US and Iran threaten to escalate war",
+          "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 08:11:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+          "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+          "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日美峰會強調台海安全重要性 玉木雄一郎肯定「最大成果」",
+          "summary": "日本在野黨國民民主黨代表玉木雄一郎23日就日美峰會確認台海和平重要性一事表示肯定，他表示，雖然並不起眼，卻是這次會談的最大成果之一，尤其能讓美方以書面形式發出明確訊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379809",
+          "published": "Mon, 23 Mar 2026 16:29:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "若沿海或離島遭受攻擊 伊朗嗆聲用水雷封鎖整個波斯灣",
+          "summary": "伊朗國防委員會（Defense Council）今（23日）透過官媒發表聲明，指稱若伊朗的沿海或島嶼遭到攻擊，將投入水雷封鎖整個波斯灣。  據《CNN》報導，伊朗半官方媒體法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379786",
+          "published": "Mon, 23 Mar 2026 16:22:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東戰爭癱瘓物資運輸 聯合國：全球恐增4500萬飢餓人口",
+          "summary": "中東戰爭導致全球數萬噸糧食援助受阻。聯合國世界糧食計畫署（WFP）警告，航運中斷情況若持續，恐導致全球增加4500萬名急性飢餓人口，使原本已嚴峻的糧食危機進一步惡化。  根據英國「金融時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5379770",
+          "published": "Mon, 23 Mar 2026 16:11:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
