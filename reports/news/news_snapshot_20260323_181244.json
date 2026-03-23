@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-23T18:12:41.060857",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+          "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+          "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 16:50:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
+          "summary": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+          "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 04:06:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "HK police can now demand phone passwords under new national security rules",
+          "summary": "Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).",
+          "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 08:06:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "哥倫比亞運輸機墜毀　傳約80軍人據信罹難",
+          "summary": "哥倫比亞軍方今天表示，一架運輸機在哥倫比亞南部墜毀，約80名軍人據信罹難。  一名軍方消息人士告訴法新社，這架力士C-130式（Hercules C-130）運輸機在位於哥國南部邊境地區的萊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380193",
+          "published": "Tue, 24 Mar 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱若達協議將接收伊朗濃縮鈾　共管荷莫茲海峽",
+          "summary": "美國總統川普今天表示，若美國與伊朗達成協議，美國將接收伊朗濃縮鈾，並稱荷莫茲海峽（Strait of Hormuz）將由雙方共同控制。  美國有線電視新聞網（CNN）報導，川普在美國佛羅里達...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380190",
+          "published": "Tue, 24 Mar 2026 01:12:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "台人遊南韓最愛買棉被！老闆曝占9成業績：沒台灣客就倒了",
+          "summary": "台灣有不少人喜歡到南韓旅遊購物，但沒有想到近年台灣客最愛入手的商品竟然是「棉被」！首爾歷史最悠久、規模最大的知名傳統市場「廣藏市場」的一位寢具店老闆甚至直言，店內幾乎有9成客人都...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380183",
+          "published": "Tue, 24 Mar 2026 00:50:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
