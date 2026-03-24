@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-24T23:04:07.808686",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran war shows norms of international conflicts have been overturned",
+          "summary": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
+          "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 15:55:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pilots killed in LaGuardia plane crash named",
+          "summary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire tru…",
+          "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 20:34:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+          "summary": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
+          "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 21:47:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "指美國開條件如「投降協議」 以色列質疑美伊能談成",
+          "summary": "首次上稿 03-24 22:25更新時間 03-25 06:56 在美國總統川普釋放美國與伊朗已進行談判之際，以色列官員正密切注意相關的談判，不過，以國官員24日透露，美國向...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5381438",
+          "published": "Wed, 25 Mar 2026 06:56:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "他是日本現役軍官！23歲男持刀硬闖中國大使館",
+          "summary": "首次上稿 03-24 22:51更新時間 03-25 06:42  日本警方與媒體24日晚間證實，當天上午強行闖入位於東京都港區中國駐日大使館的男子，確認為日本陸上自衛隊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5381456",
+          "published": "Wed, 25 Mar 2026 06:42:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗議長卡利巴夫長袖善舞 但也深陷暴力鎮壓與貪腐指控",
+          "summary": "據稱川普政府正評估將伊朗國會議長卡利巴夫（Mohammad Bagher Ghalibaf）視為潛在的合作夥伴，美聯社報導，早在成為國會議長之前，卡利巴夫便已施展近20年的魅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5381484",
+          "published": "Wed, 25 Mar 2026 06:13:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
