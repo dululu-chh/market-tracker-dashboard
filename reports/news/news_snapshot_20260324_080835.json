@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-24T08:08:34.171695",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+          "summary": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
+          "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 02:41:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+          "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts help…",
+          "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Mar 2026 21:13:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+          "summary": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+          "link": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 00:18:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "1晚射7次！伊朗飛彈狂轟以色列 特拉維夫多地爆炸至少6傷",
+          "summary": "伊朗今午午夜起針對以色列發動多次空襲，包含特拉維夫市、海法都響起空襲警報，特拉維夫市多處遭到飛彈攻擊，許多汽車、建築被毀造成至少6人受傷。  綜合外媒報導，當地時間今（24日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380921",
+          "published": "Tue, 24 Mar 2026 15:38:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本德仁天皇夫婦感冒 取消出訪岩手縣、宮城縣行程",
+          "summary": "日本德仁天皇與雅子皇后、長女愛子公主，原定25日出訪岩手縣、26日前往宮城縣，視察2011年3月11日東日本大地震復原情況，不過由於天皇夫婦感冒，目前已取消25日、26日的行程。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380872",
+          "published": "Tue, 24 Mar 2026 15:09:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國首都華盛頓特區警車遭2槍手伏擊 1警傷",
+          "summary": "美國警方23日表示，2名槍手在首都華盛頓特區伏擊1輛未標記的警車，並槍擊1名資深警官。目前警方正搜捕這2名嫌疑人。  根據《法新社》報導，華盛頓特區的美國公園警察局局長布雷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5380614",
+          "published": "Tue, 24 Mar 2026 14:56:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
