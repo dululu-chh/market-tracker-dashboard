@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-25T08:06:27.651816",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
+          "summary": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal.",
+          "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 06:00:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+          "summary": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government.",
+          "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 07:59:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta told to pay $375m for misleading users over child safety",
+          "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
+          "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Mar 2026 23:16:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "救了100隻無尾熊！澳洲搜救神犬退休 曾挺過史上大野火",
+          "summary": "澳洲1隻搜救犬在野火期間協助救出超過100隻無尾熊，服役10年後正式退休。  據《法新社》報導，這隻現年11歲的澳洲柯利犬（Australian Koolie）名為「熊」（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382173",
+          "published": "Wed, 25 Mar 2026 15:47:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "泰國和伊朗協商後 證實1艘油輪已通過荷姆茲海峽",
+          "summary": "泰國外交部長希哈薩（Sihasak Phuangketkeow）表示，在和伊朗進行協商後，曼差石油公司（Bangchak Corporation）的油輪已通過荷姆茲海峽。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382190",
+          "published": "Wed, 25 Mar 2026 15:35:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄國、香港油輪載93萬桶石油 突更改航線不再前往古巴",
+          "summary": "古巴在遭受美國石油制裁後陷入生存危機，俄羅斯油輪阿納托利．科洛德金號（Anatoly Kolodkin）、懸掛香港旗幟的油輪海馬號（Sea Horse），總計載著大約93萬桶石油...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382077",
+          "published": "Wed, 25 Mar 2026 15:24:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
