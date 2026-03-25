@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-25T23:01:01.864649",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meta and YouTube found liable in landmark social media addiction trial",
+          "summary": "A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.",
+          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 22:59:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
+          "summary": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
+          "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 20:12:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+          "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 15:07:13 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "要搶先中國登月！ NASA直攻常駐月球 大改阿提米絲計畫時程",
+          "summary": "首次上稿 03-25 22:26更新時間 03-26 06:46 美國國家航空暨太空總署（NASA）24日宣布調整登月計畫，將投入200億美元（約新台幣6379億元）全力及早...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382725",
+          "published": "Thu, 26 Mar 2026 06:46:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普任命總統科技顧問  黃仁勳、蘇姿丰、祖克伯等13人入列",
+          "summary": "首次上稿 03-25 22:08更新時間 03-26 06:33 白宮25日宣布，總統川普已任命超微（AMD）董事長蘇姿丰、輝達（NVIDIA）執行長黃仁勳、Meta公司執行長...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382712",
+          "published": "Thu, 26 Mar 2026 06:33:27 +0800",
+          "keywords": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "伊朗無差別攻擊　阿拉伯6國發表聯合聲明強烈譴責",
+          "summary": "阿拉伯世界6國今天發表聯合聲明，譴責伊朗在中東地區一再發動攻擊，並要求伊拉克立即採取行動，阻止境內親伊朗武裝團體發動襲擊。  華爾街日報（The Wall Street Journal）與英...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382807",
+          "published": "Thu, 26 Mar 2026 05:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
