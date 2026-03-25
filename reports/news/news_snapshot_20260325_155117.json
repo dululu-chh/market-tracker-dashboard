@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-25T15:51:15.161946",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+          "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 12:27:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ghana demands compensation for slavery in landmark UN vote",
+          "summary": "Nations will vote on whether to designate the slave trade as \"the gravest crime against humanity\".",
+          "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 14:55:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+          "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 15:07:13 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美攻占哈格島策略曝光！空降奪油氣設施做「人質」 防伊朗反擊",
+          "summary": "〔國際新聞中／綜合報導〕隨著美以對伊朗戰爭進入第四週，美國五角大廈正加速向中東部署精銳部隊，並評估以地面行動奪取伊朗石油出口樞紐哈格島的可行性。此舉將使華府掌控伊朗9成原油出口，獲得重大談判籌碼，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382768",
+          "published": "Wed, 25 Mar 2026 23:38:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭利維夫歷史中心遭空襲 世界遺產受損",
+          "summary": "烏克蘭西部城市利維夫24日遭空襲，聯合國教科文組織（UNESCO）今天表示，列入世界遺產的利維夫歷史中心部分建築受損，包括伯納丁修道院周邊設施，對此表達深切憂慮。  烏克蘭官方指出，俄羅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382760",
+          "published": "Wed, 25 Mar 2026 23:34:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "煽動台人信心 路透揭中共藉中東戰火發動新認知戰",
+          "summary": "隨著中東地區戰事持續延燒，台灣國安單位警告，中國正利用美國注意力被分散的時機，採取系統性操作，透過大規模軍事侵擾與認知作戰手法，試圖動搖台灣民眾對自我防衛及美援能力的信心。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382758",
+          "published": "Wed, 25 Mar 2026 23:26:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
