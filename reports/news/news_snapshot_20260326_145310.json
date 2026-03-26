@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-26T14:53:09.294985",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+          "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+          "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 00:41:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
+          "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
+          "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 09:37:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
+          "summary": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender.",
+          "link": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 06:02:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自衛官闖中國使館路徑曝光  請假北上東京、銀座買刀",
+          "summary": "日本自衛隊員持刀闖入中國駐日本大使館遭逮，警方調查發現，23歲現役自衛官村田晃大案發前一天自宮崎出發，搭乘高速巴士前往福岡博多，再轉乘新幹線抵達東京，並在銀座購買刀具、在網咖過夜，隔天翻牆侵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384039",
+          "published": "Thu, 26 Mar 2026 22:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍部署奪伊朗哈格島 專家示警傷亡風險",
+          "summary": "美軍近期向中東增派數千名陸戰隊軍力，為可能發動的地面軍事行動做好準備，主要目標為處理伊朗9成石油出口的能源樞紐哈格島。美國有線電視新聞網（CNN）引述情報人士說法，伊朗也在近幾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384031",
+          "published": "Thu, 26 Mar 2026 22:35:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "一擊雙滅革命衛隊海軍司令、情報首長 以色列重創伊朗指揮體系",
+          "summary": "以色列國防部長和軍方26日證實，以軍空襲擊斃伊朗伊斯蘭革命衛隊（IRGC）海軍司令湯西里（Alireza Tangsiri），同時也殲滅革命衛隊海軍情報首長，和其他多名領導高層...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384030",
+          "published": "Thu, 26 Mar 2026 22:21:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
