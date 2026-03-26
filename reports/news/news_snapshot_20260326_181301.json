@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-26T18:12:59.504282",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+          "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+          "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 17:57:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Judge told Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+          "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan government funds to pay their lawyers.",
+          "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 17:51:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+          "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+          "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 17:16:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱伊朗得說服美國停止作戰　否認渴望達成協議",
+          "summary": "美國總統川普（Donald Trump）今天對與伊朗達成和平協議的可能性表示懷疑，同時警告，伊朗領導人必須說服他停止作戰。  他說，伊朗「懇求達成協議」，「我不知道我們有沒有辦法做到，我也不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384094",
+          "published": "Fri, 27 Mar 2026 02:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防中俄破壞衛星！德澳簽署太空安全協議 打造全球預警系統",
+          "summary": "德國與澳洲26日同意簡化雙方互駐部隊的程序，並在太空防禦領域合作，計畫透過聯合感測器網絡，建立一個防範衛星遭破壞的全球預警系統，以提升太空安全。  綜合《法新社》與《法新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384086",
+          "published": "Fri, 27 Mar 2026 01:02:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗戰事消耗太大 傳美國考慮挪用烏克蘭軍援",
+          "summary": "3名知情人士透露，隨著伊朗戰爭耗盡美軍部分最關鍵的彈藥，五角大廈正考慮是否將原訂運往烏克蘭的武器轉往中東。  《華盛頓郵報》26日獨家報導，儘管尚未做出轉移裝備的最終決定...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384080",
+          "published": "Fri, 27 Mar 2026 00:36:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
