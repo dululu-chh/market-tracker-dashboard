@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-26T00:05:06.329735",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meta and YouTube found liable in landmark social media addiction trial",
+          "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 22:59:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
+          "summary": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
+          "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 20:12:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+          "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 15:07:13 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "恐終身監禁！狂轟蕾哈娜豪宅20槍 加州語言治療師拒認罪",
+          "summary": "國際巨星蕾哈娜（Rihanna）在美國加州洛杉磯的豪宅日前遭到槍擊，35歲的女性犯嫌歐提茲（Ivanna Lisette Ortiz）被控謀殺未遂罪。《路透》報導，歐提茲25日拒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382826",
+          "published": "Thu, 26 Mar 2026 07:56:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗稱擊落F/A-18戰機 美軍：沒有任何美軍戰機被伊朗擊落",
+          "summary": "中東戰事持續進行，伊朗革命衛隊（IRGC）宣稱擊落美軍一架F/A-18E/F「超級大黃蜂」戰鬥機，不過負責掌管中東美軍部隊的美國中央司令部（CENTCOM）澄清，並否認此事。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382817",
+          "published": "Thu, 26 Mar 2026 07:07:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "火花四濺！美軍再襲加勒比海運毒船釀4死 攻擊畫面曝",
+          "summary": "美國軍方25日證實，美軍在加勒比海空襲1艘涉嫌運毒的船隻，造成4名涉嫌運毒的男子當場遭擊斃。  《路透》報導，美軍南方司令部（U.S. Southern Command）在社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5382814",
+          "published": "Thu, 26 Mar 2026 07:05:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
