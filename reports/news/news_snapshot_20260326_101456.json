@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-26T10:14:54.064820",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Who wants what and why from US-Iran peace talks?",
+          "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
+          "link": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Mar 2026 21:37:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+          "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+          "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 00:41:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+          "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 09:43:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗保代理勢力 停戰條件「綁」以色列停止打擊真主黨",
+          "summary": "中東區域國家正居間斡旋美國和伊朗和談，近日傳出雙方各自開出的條件，《路透》25日報導，伊朗向調停者表示，任何與美國、以色列的停火協議，都必須涵蓋黎巴嫩的軍事行動，這項要求意即將...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5383722",
+          "published": "Thu, 26 Mar 2026 17:59:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "為最壞做打算？ 彭博：川普團隊檢視油價飆至200美元後果",
+          "summary": "《彭博》報導，知情人士透露，川普政府官員正釐清油價飆漲至每桶200美元對經濟的衝擊，此顯示美國高級官員正研擬伊朗戰爭極端狀況的可能後果。過去半個世紀以來，經通膨調整，原油達到該...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5383682",
+          "published": "Thu, 26 Mar 2026 17:57:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國開嗆台日菲 卻呼籲中東和平",
+          "summary": "中國國防部發言人蔣斌26日在例行記者會上重砲開嗆台灣、日本與菲律賓，包括怒罵賴清德總統「媚日戀殖醜態令人不齒」、批評日本不曾反省侵略史還妄想「再軍事化」，以及反嗆高舉「南海仲裁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5383653",
+          "published": "Thu, 26 Mar 2026 17:15:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
