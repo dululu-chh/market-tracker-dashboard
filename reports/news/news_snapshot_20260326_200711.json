@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-26T20:07:09.703995",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+          "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 18:24:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+          "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+          "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 17:57:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+          "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+          "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Mar 2026 18:49:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍基地遭放炸彈　嫌犯潛逃中國同夥在美遭逮",
+          "summary": "美國聯邦調查局（FBI）局長巴特爾（Kash Patel）今天表示，一名涉嫌在佛羅里達州一座美軍中央司令部所在軍事基地放置土製炸彈的男子，已逃往中國。  法新社報導，根據今天解封的起訴書，阿...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384107",
+          "published": "Fri, 27 Mar 2026 04:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗稱願接受西班牙請求　暗示可通行荷莫茲海峽",
+          "summary": "伊朗駐西班牙大使館今天表示，因西班牙尊重國際法，對於西班牙提出關於荷莫茲海峽（Strait of Hormuz）的任何請求，伊朗會願意接受。這是伊朗首次對歐盟成員國做出這類讓步。  路透社報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384105",
+          "published": "Fri, 27 Mar 2026 03:45:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "英國打擊陳志犯罪網絡　李添負責在台洗錢列制裁名單",
+          "summary": "英國政府加強打擊網路詐騙洗錢，以東南亞為根據地的犯罪網絡被納入打擊重點，今天宣布制裁4個實體和6名個人，大多與首腦陳志有關，負責在台灣為陳志洗錢的李添也遭制裁。  1987年生於北京的李添是...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5384103",
+          "published": "Fri, 27 Mar 2026 03:06:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
