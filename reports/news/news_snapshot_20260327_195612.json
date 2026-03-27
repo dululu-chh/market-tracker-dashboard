@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-27T19:56:09.858782",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+          "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+          "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 13:25:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+          "summary": "A hacker group shares Patel's purported resume and  photos of him on its website, information, the FBI says, is \"historical in nature\".",
+          "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 19:21:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spanish woman who died through euthanasia failed by state, say critics",
+          "summary": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
+          "link": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 12:09:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "盧比歐：伊朗未回應停戰提案　美行動目標兩週內完成",
+          "summary": "美國國務卿盧比歐今天指出，伊朗尚未正式回應結束戰爭的提案，但已傳遞出一些「訊息」，顯示對外交抱持興趣。他說，無論是否派遣地面部隊，美國對伊朗戰爭目標預計在未來兩週內完成。  綜合法新社報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385200",
+          "published": "Sat, 28 Mar 2026 03:30:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "狗版「越獄風雲」點閱率數千萬 中國官媒潑冷水：假的",
+          "summary": "愛刷網路短影音的人近日一定看過這段影片：1群包括黃金獵犬、疑似受傷的德國牧羊犬，以及可愛的短腿柯基犬在內的7隻狗兒，在逃離狗肉販子的魔爪後徘徊於公路邊緣，相互依偎扶持結伴踏上返...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385184",
+          "published": "Fri, 27 Mar 2026 23:41:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "影片曝！抹香鯨分娩非「單打獨鬥」  眾雌鯨合力助鯨寶寶第1次換氣",
+          "summary": "當一隻母抹香鯨臨盆時，這不會是牠自己的事，而是所屬群體大家來幫忙。根據26日發表的兩份研究報告，海洋生物學家首次記錄抹香鯨分娩時，其他多隻雌鯨主動圍繞「產婦」，合力把新生幼鯨托...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385175",
+          "published": "Fri, 27 Mar 2026 23:01:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
