@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-27T14:33:34.785282",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+          "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+          "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 09:30:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+          "summary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
+          "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 13:17:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+          "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+          "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Mar 2026 13:25:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國、以色列恐發動地面戰  伊朗集結逾百萬戰鬥人員",
+          "summary": "一名伊朗軍方消息人士告訴塔斯尼姆通訊社，隨著伊朗當局日益擔憂美國和以色列可能發動地面戰，德黑蘭已動員逾100萬名戰鬥人員投入戰備。  伊朗塔斯尼姆通訊社（Tasnim News Agen...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385096",
+          "published": "Fri, 27 Mar 2026 21:27:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍入住就打！伊朗警告攻擊中東旅店 促民眾盡速離開",
+          "summary": "繼威脅攻擊全球旅遊勝地後，伊朗軍方連兩天針對平民設施發出警告，揚言中東地區有美軍下榻的旅館飯店，都會是伊朗的攻擊目標，力促該區域民眾盡快離開有美軍駐紮的區域。  《美國有線...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385123",
+          "published": "Fri, 27 Mar 2026 21:25:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "纏訟8年！受託驅熊卻遭吊銷執照  日本最高院撤銷處分判77歲獵人勝訴",
+          "summary": "日本去年爆發史上最嚴重熊害，各地政府委託民間獵人協助，卻頻頻爆出獵人被惡意刁難。其中2018年受委託驅逐棕熊，事後被控訴朝住宅區開槍，導致獵槍執照被吊銷的資深獵人池上治男，日本最...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385034",
+          "published": "Fri, 27 Mar 2026 21:20:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
