@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-28T14:04:02.445844",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+          "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+          "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 00:05:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Gaza peace doubts deepen as attention shifts to Iran",
+          "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+          "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:00:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tiger Woods released on bail after DUI arrest",
+          "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Flori…",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:47:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "再批盟友作壁上觀  白宮：川普一向對北約直言不諱",
+          "summary": "與北大西洋公約組織（NATO）時有齟齬的美國總統川普，不滿北約對正在進行的伊朗戰爭作壁上觀，27日表明歐洲人犯下「巨大錯誤」，揚言可能不再對盟國提供保護。  被問及川普對北...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385980",
+          "published": "Sat, 28 Mar 2026 21:54:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列威脅擴大打擊行動 空襲伊朗核設施",
+          "summary": "以色列27日威脅升高、擴大打擊行動後，聲稱轟炸伊朗彈道飛彈及其他軍火生產地，破壞西部的飛彈發射器和儲存設施，以及對伊朗中部一座重水反應爐及鈾處理廠發動空襲。  伊朗原子能組...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385979",
+          "published": "Sat, 28 Mar 2026 21:48:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國跨境鎮壓！史丹佛女大生眾院作證 揭遭疑似中共特務跟騷",
+          "summary": "美國史丹佛大學一名女學生在聯邦眾議院委員會的聽證會上揭露，她遭疑似中國共產黨特工跟蹤的經歷，對方甚至提及她的母親、要求她刪除手機內的資料，還打大量電話騷擾她。  《紐約郵報》（New Y...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385816",
+          "published": "Sat, 28 Mar 2026 21:19:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
