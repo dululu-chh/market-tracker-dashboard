@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-03-28T07:57:43.886416",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+          "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+          "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:58:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+          "summary": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
+          "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 01:06:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tiger Woods charged with driving under influence after crash",
+          "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Flori…",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:47:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本東京櫻花盛開了！ 比去年提前2天",
+          "summary": "日本氣象廳表示，東京千代田區靖國神社用來觀察開花情況的染井吉野櫻，今（28日）已達到盛開標準，因此宣布「東京櫻花盛開」，比去年早了2天。  據《NHK》報導，東京櫻花提早盛開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385624",
+          "published": "Sat, 28 Mar 2026 15:05:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本賣淫女稱台灣人錢多！近來有大量櫻花妹來台接客",
+          "summary": "中國千萬粉網紅「食貧道」近日在微博上傳採訪日本賣淫女的影片，她除了抱怨日本奇葩客人不少，還透露台灣客人錢很多，所以聽說最近很多女孩子（櫻花妹）都去那邊接客。  日本賣淫女表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385569",
+          "published": "Sat, 28 Mar 2026 14:46:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國軍方帳號盜用畫作攻擊日本 繪師維權竟遭刪帳",
+          "summary": "中國軍方海外帳號China Military Bugle，26日在X發文指責日本企圖重新走向軍國主義，但附圖被挖出是盜用他人畫作再以AI改圖，受害的中國繪師試圖維權後，目前傳出已...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385522",
+          "published": "Sat, 28 Mar 2026 13:48:58 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
