@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-28T09:56:34.011377",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+          "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+          "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 00:05:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+          "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+          "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:58:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+          "summary": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
+          "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 01:06:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由說新聞》烏軍猛轟俄國石油設施！中國留學生揭全境「大斷網」慘況：真的絕望了",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385786",
+          "published": "Sat, 28 Mar 2026 17:33:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "親伊朗人士遭拘留後死亡 美國盟友巴林當局展開調查",
+          "summary": "美國在波斯灣地區的親密盟友、位於波斯灣的中東國家巴林27日表示，正在對1名涉嫌為伊朗從事「間諜活動」的伊斯蘭教什葉派倡議人士被捕後死於拘留期間，進行調查。  總部位於倫敦的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385768",
+          "published": "Sat, 28 Mar 2026 17:23:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗飛彈剩多少？川普稱所剩無幾 美情報官吐實：僅確認摧毀3成",
+          "summary": "美國、以色列對伊朗開戰即將屆滿一個月，美國總統川普日前宣稱伊朗僅剩「極少數火箭」，但最新情報顯示，情況可能並不樂觀。知情人士指出，美國情報單位目前僅能確定摧毀了伊朗約3分之1的飛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385733",
+          "published": "Sat, 28 Mar 2026 16:57:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
