@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-28T11:03:51.597486",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+          "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+          "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 00:05:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+          "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+          "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:58:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+          "summary": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
+          "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 01:06:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "每人限帶2行動電源、機上禁充電 國際民航組織新規即日生效",
+          "summary": "聯合國民航主管機關對搭機攜帶鋰電池行動電源，祭出新的限制措施，每名旅客最多攜帶兩個行動電源，並且禁止在飛行途中為行動電源充電。這項新規已於27日起生效。  《路透》27日報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385864",
+          "published": "Sat, 28 Mar 2026 18:53:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗宣布「成功擊中美軍艦」！目前傷亡不明",
+          "summary": "中東戰火持續延燒，伊朗《塔斯尼姆通訊社》指出，伊朗伊斯蘭革命衛隊（IRGC）今日表示，他們成功擊中了一艘停在阿曼薩拉拉港（Salalah Port）附近的美國軍事支援艦（US s...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385835",
+          "published": "Sat, 28 Mar 2026 18:42:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "因應中東戰爭 巴基斯坦、沙烏地、土耳其、埃及外長4/30將舉行會談",
+          "summary": "巴基斯坦政府28日表示，巴基斯坦、沙烏地阿拉伯、土耳其與埃及的外交部長將在巴國首都伊斯蘭馬巴德（Islamabad）舉行會談，討論已滿1個月的中東衝突。  巴國外長達爾（I...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385817",
+          "published": "Sat, 28 Mar 2026 18:04:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
