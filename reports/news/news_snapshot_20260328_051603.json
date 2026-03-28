@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-28T05:16:01.244024",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+          "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+          "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 03:37:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+          "summary": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
+          "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 01:06:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tiger Woods charged with driving under influence after crash",
+          "summary": "The 15-time major champion faces charges of driving under the influence after rolling his car in Florida.",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 01:00:35 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱還要打擊伊朗3554個目標 傳布希號航艦已奔赴中東",
+          "summary": "美國總統川普27日表示，美方在伊朗還有3554個目標尚待攻擊，而且這件事情很快就會處理完。另外，消息人士指稱美軍布希號航空母艦，已被派往伊朗附近的區域。  據《CNN》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385476",
+          "published": "Sat, 28 Mar 2026 12:50:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "東勢椪柑、燕巢芭樂進軍加拿大超市 台灣水果人見人愛",
+          "summary": "加拿大主流超市PriceSmart與台灣水果進口商Taione Trading合辦的2026台灣水果嘉年華於27日，在有最多華人居住的列治文分店盛大揭幕。加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385477",
+          "published": "Sat, 28 Mar 2026 12:42:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "扯！日男酒駕去警署辦事 渾身酒味當場被捕",
+          "summary": "離譜！日本兵庫縣神戶市須磨區56歲男子，27日下午1時許酒駕前往須磨警察署想辦理停車證，結果被警員聞到渾身都是酒味，當場將其逮捕。  據《神戶新聞》報導，須磨警察署表示，男子...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385402",
+          "published": "Sat, 28 Mar 2026 12:26:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
