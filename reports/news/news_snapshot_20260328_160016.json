@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-28T16:00:14.679530",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+          "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+          "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 00:05:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Gaza peace doubts deepen as attention shifts to Iran",
+          "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+          "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:00:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tiger Woods released on bail after DUI arrest",
+          "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Flori…",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 06:47:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不滿美發布旅行安全警告  中國駐港公署約見美總領事提出嚴正交涉",
+          "summary": "美國26日針對香港推出的國安新規發布旅行安全警告後，中國外交部駐港公署昨天約見美國駐港總領事伊珠麗表示強烈不滿，敦促美方停止干涉中國內政。  香港當局23日修改國安法第43條實施細則，明...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386004",
+          "published": "Sat, 28 Mar 2026 23:47:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中菲軍艦3天前又險碰撞 南海問題磋商會議在中國泉州登場",
+          "summary": "中菲南海問題雙邊磋商機制（BCM）第11次會議今天在中國福建省泉州市登場，據中方發布，雙方就南海形勢「坦誠、建設性地交換了意見」，同意加強涉海溝通對話，妥善管控海上局勢。3天前，中菲軍艦在南...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5385891",
+          "published": "Sat, 28 Mar 2026 23:38:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗安全部隊補新血  招募12歲童投入戰時任務",
+          "summary": "美國和以色列對伊朗展開聯合軍事行動後，伊朗首都德黑蘭廣設民兵檢查哨，加強控制國內情勢。掌握權力的伊斯蘭革命衛隊，近日公開招募年紀最小僅12歲的新血，在這些檢查哨值勤或投入其他戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386030",
+          "published": "Sat, 28 Mar 2026 23:14:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
