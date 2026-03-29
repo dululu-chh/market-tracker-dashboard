@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-03-29T17:06:50.835610",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+          "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 00:02:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+          "summary": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 13:32:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+          "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 07:51:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "談完就秀肌肉！菲中南海磋商剛落幕 共軍隨即赴黃岩島強勢巡邏",
+          "summary": "中國與菲律賓近日在南海齟齬頻傳。雙方3月27日至28日在福建泉州重啟外交對話，接連舉行第24次外交部磋商（FMC）及「南海問題雙邊磋商機制」（BCM）第11次會議，同意妥善管...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386820",
+          "published": "Mon, 30 Mar 2026 00:54:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列總理宣布　對黎巴嫩南部侵略行動將予擴大",
+          "summary": "以色列總理尼坦雅胡今天宣布，以色列將擴大對黎巴嫩南部的侵略行動。  美聯社報導，以軍持續打擊伊朗支持的什葉派基本教義民兵組織真主黨（Hezbollah）之際，尼坦雅胡（Benjamin Ne...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386821",
+          "published": "Mon, 30 Mar 2026 00:48:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挽救出生率  中國2025發放育兒補貼4200億元廣東居冠",
+          "summary": "為挽救愈發低迷的生育率，中國2025年起對3歲以下嬰幼兒每人每月發放人民幣300元補貼。據中國財政部公布資訊，2025年中國中央政府向各地發放的育兒補貼共達人民幣903.58億元（約新台幣4...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386619",
+          "published": "Mon, 30 Mar 2026 00:18:45 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
