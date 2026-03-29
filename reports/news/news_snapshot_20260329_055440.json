@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-03-29T05:54:38.415197",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump is waging war based on instinct and it isn't working",
+          "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
+          "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 00:02:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+          "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+          "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Mar 2026 21:50:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "One ant for $220: the new frontier of wildlife trafficking",
+          "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
+          "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 00:01:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本名古屋網咖包廂驚見嬰屍 20歲女子被捕",
+          "summary": "日本愛知縣名古屋市中區一處網咖，本月下旬在包廂內驚見1具包裹在毛巾裡的嬰屍，警方經過追查後，今（29日）依照遺棄遺體罪嫌逮捕1名20歲女子。  據《讀賣新聞》報導，愛知縣中警...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386289",
+          "published": "Sun, 29 Mar 2026 13:05:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國山西省太原大樓火災延燒 釀3死23傷",
+          "summary": "中國山西省太原市小店區親賢北街「茂業天地」商圈1棟商業大樓，於28日晚間竄出大火，目前已知造成3人死亡、23人受傷，其中9人傷勢較重，至於起火原因仍在調查中。  綜合中媒報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386242",
+          "published": "Sun, 29 Mar 2026 12:18:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美密西西比州貨運列車撞廂型車 釀5死慘劇",
+          "summary": "美國密西西比州斯通郡（Stone County）1列貨運列車，27日和1輛廂型車相撞，造成廂型車上5人死亡、1名23歲女乘客受傷送醫，至於事故原因還在調查中。  據《美聯社》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5386212",
+          "published": "Sun, 29 Mar 2026 11:40:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
