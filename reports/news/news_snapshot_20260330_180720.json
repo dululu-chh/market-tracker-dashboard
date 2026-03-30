@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-30T18:07:18.810634",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "How the US could try to seize Iran's Kharg Island",
+          "summary": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
+          "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 14:54:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Spain closes airspace to US aircraft involved in Iran war",
+          "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 15:29:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it.",
+          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 14:46:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗襲以色列最大煉油廠　川普警告將迅速回應",
+          "summary": "伊朗對以色列最大煉油廠發動攻擊後，美國總統川普今天向伊朗與伊朗國會議長下達一週的最後通牒，敦促他們與美方合作，並向「紐約郵報」表示，他「很快」將做出回應。  伊朗升高對基礎設施的攻勢，襲擊科...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387916",
+          "published": "Tue, 31 Mar 2026 01:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "最高法院將審出生公民權 川普喊話：出生公民權不是為中國富豪利益服務",
+          "summary": "在聯邦最高法院預定就限制出生公民權行政命令的合憲性展開審理前夕，美國總統川普30日強調，出生公民權原本是為了保障奴隸子女的權益而設定，而不是為了中國和全球各地富豪的利益。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387910",
+          "published": "Tue, 31 Mar 2026 01:15:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏無人機落芬蘭帶未爆彈 戰火蔓延後院緊急引爆",
+          "summary": "烏克蘭兩架長程無人機週日偏航落入芬蘭東南部，其中一架掛著未爆彈頭，芬蘭刑警局深夜緊急引爆。這是烏俄戰爭爆發以來，烏克蘭武器首度落在芬蘭土地。  據「國家廣播公司」（Yle）報導，昨日清晨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387880",
+          "published": "Tue, 31 Mar 2026 00:57:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
