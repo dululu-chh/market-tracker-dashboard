@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-30T14:55:50.403789",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Why does the US have Iran's Kharg Island in its sights?",
+          "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+          "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 12:11:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
+          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 14:46:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spain closes airspace to US aircraft involved in Iran war",
+          "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 12:27:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美以重創伊朗武器設施 專家仍認難根除德黑蘭飛彈能力",
+          "summary": "據華盛頓郵報及專家分析伊朗戰爭期間所拍攝的衛星影像，顯示美國與以色列的轟炸確實重創德黑蘭飛彈能力，大幅毀損4個關鍵彈道飛彈生產區和至少29個飛彈發射場。即便如此，專家仍對「徹底...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387866",
+          "published": "Mon, 30 Mar 2026 22:50:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "網曝：北京每年砸2200至3200億元在全球做大外宣",
+          "summary": "名為Jay T@Jay83214566的Ｘ平台用戶近日發文指出，中國每年在全球宣傳方面的總支出高達70億美元至100億美元（新台幣2240億元至3200億元），包括美國、歐洲和...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387859",
+          "published": "Mon, 30 Mar 2026 22:16:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "已轟炸1.3萬個目標！川普：美伊停火協議可能很快實現",
+          "summary": "美國總統川普對德黑蘭設下4月6日達成協議結束戰爭，否則轟炸該國能源設施的時限。得以開通關鍵能源航道荷姆茲海峽的停火協議是否近在咫尺？川普不願說明細節，強調美軍已轟炸伊朗1.3萬...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387842",
+          "published": "Mon, 30 Mar 2026 21:47:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
