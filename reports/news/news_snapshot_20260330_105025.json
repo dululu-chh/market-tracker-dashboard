@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-03-30T10:50:23.716969",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Why does the US have Iran's Kharg Island in its sights?",
+          "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+          "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 04:06:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
+          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 09:46:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Photos show heavily damaged US radar jet at Saudi base",
+          "summary": "US Central Command has not yet publicly commented on the incident.",
+          "link": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 29 Mar 2026 18:42:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊拉克最大機場深夜多次爆炸！官方證實遇襲 1架軍用運輸機炸毀",
+          "summary": "中東戰火持續延燒，伊拉克最大機場巴格達國際機場（Baghdad International Airport）今日凌晨傳出附近發生多起爆炸事件，伊拉克國防部於台灣時間30日下午證實...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387680",
+          "published": "Mon, 30 Mar 2026 18:35:34 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "萬那杜外海規模7.3地震 無海嘯威脅",
+          "summary": "美國地質調查所（USGS）通報，南太平洋島國萬那杜外海今天發生規模7.3地震。根據太平洋海嘯警報中心（PTWC），這起地震未引發海嘯威脅。  法新社報導，美國地質調查所指出，這起地震發生...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387675",
+          "published": "Mon, 30 Mar 2026 18:19:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "快沒油了！南韓擬推全國「汽車輪休」 車牌尾號不對禁上路",
+          "summary": "隨中東戰雲密佈推升能源風險，南韓政府週日（29日）表示，若國際油價持續攀升，不排除將原僅限於公家機關的「汽車限行」措施擴大至全體國民。這是南韓自1991年波斯灣戰爭以來，時隔逾3...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387575",
+          "published": "Mon, 30 Mar 2026 18:05:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
