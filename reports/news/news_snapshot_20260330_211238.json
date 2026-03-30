@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-03-30T21:12:37.430898",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain closes airspace to US aircraft involved in Iran war",
+          "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+          "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 15:29:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+          "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it.",
+          "link": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 14:46:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+          "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 30 Mar 2026 17:53:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "大戰前夕？ 美國務院更新旅行警示 伊朗列最高第4級「切勿前往」",
+          "summary": "隨著美國和以色列針對伊朗發起的軍事行動進入第二個月，美國國務院28日發佈1份更新後的全球旅行警示，伊朗已被列為最高第4級警示國家，即「切勿前往」地區。  被列入同一警示級...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387915",
+          "published": "Tue, 31 Mar 2026 04:46:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "奪島戰蓄勢待發！路透：美軍第82空降師數千名官兵抵達中東",
+          "summary": "就在美國總統川普評估對伊朗的下一步行動之際，2名美國官員30日向路透表示，美國陸軍精銳第82空降師（82nd Airborne Division）的數千名官兵，已開始抵達中東...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387921",
+          "published": "Tue, 31 Mar 2026 04:33:35 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "盧比歐稱伊朗政府分裂　美檯面下接獲正面訊息",
+          "summary": "美國國務卿盧比歐（Marco Rubio）今天表示，美國對於與伊朗政府內部某些勢力合作抱持希望，並透露美方已在檯面下收到正面訊息。  法新社報導，盧比歐指出，伊朗伊斯蘭共和國內部出現「分裂」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5387923",
+          "published": "Tue, 31 Mar 2026 03:21:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
