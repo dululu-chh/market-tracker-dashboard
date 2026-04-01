@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-01T23:04:28.391799",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+          "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+          "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 16:31:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+          "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 10:33:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Families cram into Greek court for trial into deadliest train crash",
+          "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+          "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 16:30:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗總統公開信向美人民溫情喊話！質疑川普不以美國為優先",
+          "summary": "中東戰火尚未平息，伊朗總統裴澤斯基安（Masoud Pezeshkian）1日在一份「致美國民眾的公開信」中強調，伊朗對普通美國人並無敵意，美國與伊朗的戰爭並不符合美國利益。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390647",
+          "published": "Thu, 02 Apr 2026 06:54:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱伊朗「新總統」請求停火  革命衛隊強硬回嗆荒謬",
+          "summary": "首次上稿 04-02 00:18更新時間 04-02 06:20 美國總統川普週三（4/1）宣稱，伊朗的「新總統」請求停火，但只有荷姆茲海峽重新開放，美國才會考慮停止對伊朗的行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390615",
+          "published": "Thu, 02 Apr 2026 06:20:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "隔53年再奔月！NASA阿提米絲2號載人繞月 06:36升空",
+          "summary": "美國國家航空暨太空總署（NASA）週一（30日）啟動「阿提米絲二號」（Artemis II）任務的倒數計時，這是相隔53年來人類首次再度載人飛往月球軌道。原本預計「阿提米絲二號」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390644",
+          "published": "Thu, 02 Apr 2026 06:18:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
