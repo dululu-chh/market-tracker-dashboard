@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-01T14:57:17.746181",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China is trying to play peacemaker in the Iran war - will it work?",
+          "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+          "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 07:16:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+          "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 10:33:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Peter Magyar, the former Orban ally vying for power in Hungary",
+          "summary": "Magyar represents the biggest threat to Viktor Orban's rule in Hungary since he won the first of four consecutive victories in 2010.",
+          "link": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 13:43:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國官媒爆料中學黨委書記性侵學生被捕  報導被下架",
+          "summary": "中國新聞週刊今天爆料，河北邯鄲市某中學的喬姓黨委書記涉嫌性侵15歲高一女學生，被家長發現後還試圖以人民幣20萬元私了遭拒，前天被檢方批准逮捕。消息傳出引發中國社群關注與公憤後，這篇報導被下架...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390550",
+          "published": "Wed, 01 Apr 2026 22:26:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "拒絕保證不再打 川普：將很快撤離伊朗但有必要會再定點打擊",
+          "summary": "美國總統川普1日接受《路透》訪問，表示美國將「相當快」撤離伊朗，但是若有需要會重返，進行鎖定特定目標的「定點打擊」（spot hits）。  川普預定美東時間1日晚間發表全...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390560",
+          "published": "Wed, 01 Apr 2026 22:13:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "奈良美智名作《無可奈何》3.18億成交  創南韓藝術品拍賣紀錄",
+          "summary": "南韓媒體報導，首爾拍賣行（Seoul Auction）3月31日在首爾江南中心舉行的「當代藝術拍賣會」， 日本藝術家奈良美智（Yoshitomo Nara）2016年的作品《無...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390559",
+          "published": "Wed, 01 Apr 2026 22:13:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
