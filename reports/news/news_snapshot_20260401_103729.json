@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-01T10:37:28.376681",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China is trying to play peacemaker in the Iran war - will it work?",
+          "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+          "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 07:16:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian military plane crash kills 29 in occupied Crimea",
+          "summary": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+          "link": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Apr 2026 09:55:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+          "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 21:08:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗通過荷姆茲收費方案！估年收3.2兆  美國、以色列籍船隻禁行",
+          "summary": "伊朗國會3月30日批准荷姆茲海峽通行費徵收管理方案，意味了伊朗將正式控制這條石油和天然氣輸出的重要水道，全球每日有近4分之1至5分之1的石油和天然氣必須經由荷姆茲海峽運出，若上...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390308",
+          "published": "Wed, 01 Apr 2026 18:12:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全日空載323人客機引擎過熱故障 緊急迫降北海道",
+          "summary": "日本全日空（ANA）一架載有323人的客機今（1）日從東京羽田機場起飛後，單側引擎故障，緊急迫降北海道新千歲機場，所幸機上乘客和機組人員均未受傷，也未傳出火災等通報。  綜合...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390124",
+          "published": "Wed, 01 Apr 2026 17:36:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瑞典改善治安有成 2025年殺人案降至10年新低",
+          "summary": "瑞典3月31日公布年度統計數據，2025年謀殺、過失殺人案件數降至10年新低，顯示出2022年承諾改善幫派暴力的右翼政府上台後施政收穫成效。  瑞典國家犯罪防治委員會（BR...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5390160",
+          "published": "Wed, 01 Apr 2026 17:01:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
