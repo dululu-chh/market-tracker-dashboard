@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-01T06:14:06.106806",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran using children in security roles in war, reports and witnesses say",
+          "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+          "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 12:56:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+          "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+          "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 18:57:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+          "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 31 Mar 2026 21:08:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由觀點》戰爭敲響能源危機 波浪發電應積極推動",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5389895",
+          "published": "Wed, 01 Apr 2026 13:57:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "首發！ FBI拍反間諜影片：赴中國工作須知",
+          "summary": "美中關係日益複雜，繼美國中情局（CIA）發布影片鼓勵中共官員為美國提供情報後，美國聯邦調查局（FBI）近日也發布首個反情報計畫影片，提醒美國人前往中國應了解的安全風險，並警告美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5389693",
+          "published": "Wed, 01 Apr 2026 13:29:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挖山躲起來也沒用！美軍曝鑽地彈精準炸翻伊朗地下設施震撼畫面",
+          "summary": "伊朗戰爭進入第5週，美軍持續針對伊朗目標進行空襲，美軍中央司令部（CENTCOM）最新公布1支打擊影片，針對伊朗山區深處的地下軍事目標進行精準打擊的爆炸畫面。  中央司令部臉...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5389616",
+          "published": "Wed, 01 Apr 2026 13:13:25 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
