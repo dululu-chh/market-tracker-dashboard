@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-02T21:55:57.049735",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+          "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+          "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 16:09:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+          "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
+          "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 17:01:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump removes US Attorney General Pam Bondi",
+          "summary": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
+          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 20:39:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "逼歐洲加入護航 川普擬停止烏國軍援",
+          "summary": "〔編譯林家宇／綜合報導〕英國金融時報引述知情人士說法，為了迫使歐洲國家出手打通關鍵能源運輸航道荷姆茲海峽，美國總統川普以烏俄戰爭要脅，若不願加入「志願聯盟」重啟航道，可能退出由美國負責供應武器的「烏克蘭優先需求清單」（PURL）機制。 川普上月要求派出北大西洋公約組織（NATO）協助美方重啟荷姆茲…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749395",
+          "published": "Fri, 03 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》White House discussing ‘options’ to acquire Greenland",
+          "summary": "◎ 張沛元  The White House said Tuesday that President Donald Trump is “discussing a range of options” to acquire Greenland, making clear that using the…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749350",
+          "published": "Fri, 03 Apr 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "日法峰會首度聲明：台海須和平穩定 敦促透過建設性對話 和平解決兩岸問題",
+          "summary": "〔國際新聞中心／綜合報導〕日本首相高市早苗一日在東京與來訪的法國總統馬克宏（Emmanuel Macron）舉行領袖會談。雙方會後發布聯合聲明，強調台灣海峽和平穩定的重要性，敦促透過建設性對話，和平解決兩岸問題。雙方也針對中東局勢、強化重要礦物供應鏈及雙邊國防合作，達成多項共識。  這是日法兩國…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749342",
+          "published": "Fri, 03 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
