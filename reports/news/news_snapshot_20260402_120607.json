@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-02T12:06:06.089287",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+          "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+          "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 03:22:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Oh my goodness, that is spectacular!': See BBC science editor react to launch",
+          "summary": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
+          "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 08:40:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Man dies in storm as Saharan dust shrouds Crete",
+          "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete.",
+          "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 07:54:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不滿淫魔艾普斯坦案處理方式  川普考慮開除司法部長邦迪",
+          "summary": "根據美國《有線電視新聞網》（CNN）、《紐約時報》等多家媒體1日報導，多名知情人士透露，由於對美司法部長邦迪（Pamela Bondi ）的領導表現及處理已故淫魔富豪艾普斯坦（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391721",
+          "published": "Thu, 02 Apr 2026 19:57:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "外國人赴日犯罪連3年增長！竊盜案最大宗、「這國」排第1",
+          "summary": "日本警察廳今（2日）公布統計2025年赴日外國人（不含永住者等）涉及犯罪的查緝件數高達2萬5480件（較去年增16.9%），涉及人數為1萬2777人（增5.0%），兩項數據皆為連...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391599",
+          "published": "Thu, 02 Apr 2026 19:45:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "向北約核威懾！俄軍西伯利亞演習   出動「亞爾斯」洲際彈道飛彈",
+          "summary": "俄羅斯國防部於週四（2日）表示，俄國戰略飛彈部隊已在西伯利亞地區舉行軍事演習，出動可攜帶核彈頭的「亞爾斯」（Yars）洲際彈道飛彈。此次演習被視為向北約（NATO）發出明確的核威...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5391606",
+          "published": "Thu, 02 Apr 2026 19:34:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
