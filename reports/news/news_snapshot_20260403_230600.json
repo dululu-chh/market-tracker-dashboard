@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-03T23:05:58.247952",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "How elite US teams tackle combat rescue missions",
+          "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 20:42:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Artemis II crew take 'spectacular' image of Earth",
+          "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 21:44:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Burkina Faso must 'forget' about democracy, military leader says",
+          "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
+          "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 11:11:42 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "傳美軍A-10墜毀飛行員獲救 伊朗擊落F-15一獲救一失聯",
+          "summary": "「紐約時報」引述兩名美國官員報導，美國空軍一架A-10雷霆二式攻擊機今天在波斯灣地區墜毀，飛行員獲救。此外，美國和伊朗官員表示，伊朗擊落一架美軍戰機，據稱一名機員彈射後獲救，另一人下落不明。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392787",
+          "published": "Sat, 04 Apr 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "緬甸軍頭政變5年洗白 當選總統",
+          "summary": "〔編譯張沛元／綜合報導〕緬甸軍政府領導人敏昂萊三日在國會總統大選中，以壓倒性票數當選新總統，從五年前的政變領袖轉型為民選總統。儘管他已依法卸下國防軍總司令一職，但選舉被批不過是作秀，其政府骨子裡仍是軍事政權。 敏昂萊選舉被批作秀 緬甸於去年底與今年初分階段舉行自二〇二一年軍事政變以來首場國會大選…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749538",
+          "published": "Sat, 04 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "前新疆黨委書記落馬",
+          "summary": "中共中央3日證實，政治局委員馬興瑞因涉嫌「嚴重違紀違法」正接受調查，成為國家主席習近平反腐行動中最新落馬的「大老虎」。官方未公布案情，但外界推測，可能牽涉其在航太系統、廣東任內或相關利益網路問題。  馬興瑞為中共二十大以來第三位被查的政治局成員。此前，中央軍委副主席何衛東已遭處分，另一名中央軍委副…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749539",
+          "published": "Sat, 04 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
