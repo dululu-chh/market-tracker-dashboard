@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-03T14:29:10.896333",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+          "summary": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+          "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 13:16:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+          "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+          "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 11:12:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France's Muslim gathering ban overturned by courts",
+          "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+          "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 12:20:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "與以色列、烏克蘭總統通話 教宗良十四世呼籲和平",
+          "summary": "羅馬天主教宗良十四世今天分別與以色列、烏克蘭總統通話，討論當前戰爭情勢及和平的必要性。  法新社報導，梵蒂岡表示，美國出生的教宗良十四世（Pope Leo XIV）分別與以色列總統赫佐格...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392695",
+          "published": "Fri, 03 Apr 2026 22:01:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不只協助反無人機 澤倫斯基：烏克蘭經驗可助重開荷姆茲海峽",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）2日表示，願意提供烏克蘭維護黑海航行自由的經驗，協助給正在考慮如何在當前中東衝突期間，維持荷姆茲海峽開放的國家。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392714",
+          "published": "Fri, 03 Apr 2026 22:00:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普宣示再打伊朗2至3週  官員示警：可打擊目標所剩無幾",
+          "summary": "政治新聞網站「Politico」引述現任與前任國防官員指出，即便美國總統川普堅稱會在接下來2至3週持續重擊德黑蘭，但美軍能夠打擊的重要戰略目標卻所剩無幾。  兩名現任國防官...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392712",
+          "published": "Fri, 03 Apr 2026 22:00:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
