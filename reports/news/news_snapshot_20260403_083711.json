@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-03T08:37:09.569705",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Artemis II blasts ever closer to the far side of the Moon",
+          "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+          "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 03:35:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump removes US Attorney General Pam Bondi",
+          "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
+          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 00:31:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+          "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+          "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Apr 2026 16:09:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "緬甸軍政府領袖敏昂萊當選總統 以文人身分延續統治",
+          "summary": "緬甸國會宣布，國會議員今天投票選出軍政府領導人敏昂萊擔任總統。這位前武裝部隊總司令5年前發動武力政變奪權後，如今將以文人身分持續掌權。  法新社報導，緬甸上下議院今天在首都奈比多（Nay...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392379",
+          "published": "Fri, 03 Apr 2026 15:50:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "燃料危機加劇 澳洲人取消復活節旅行計畫",
+          "summary": "復活節長週末通常是澳洲出行高峰之一。市場研究公司摩根（Roy Morgan）預計，2025年有超過450萬人出行，旅行支出達111億澳元（約台幣2450億元）。但今年澳洲許多人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392351",
+          "published": "Fri, 03 Apr 2026 15:42:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗稱擊落第二架「美軍F-35」！解體殘骸照曝光",
+          "summary": "中東戰火持續延燒，伊朗半官方媒體法斯通訊社（Fars News Agency）今日報導指出，伊朗已擊落第二架美軍F-35戰鬥機，並隨後釋出殘骸照片，立刻在網路上掀起熱議。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5392354",
+          "published": "Fri, 03 Apr 2026 15:31:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
