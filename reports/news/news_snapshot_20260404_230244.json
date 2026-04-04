@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-04T23:02:42.947451",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+          "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+          "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 22:54:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Search for missing airman presents serious test for US",
+          "summary": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
+          "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 20:13:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+          "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 21:29:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "又來？川普下通牒倒數48小時  警告伊朗「地獄即將降臨」",
+          "summary": "首次上稿 04-04 22:28更新時間 04-05 06:20 美國總統川普今日發文說，他之前曾警告伊朗必須在10天之內開放荷姆茲海峽或與美國達成協議，如今時間所剩不多，「倒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393532",
+          "published": "Sun, 05 Apr 2026 06:20:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "艾爾段會晤澤倫斯基　商討能源航運安全與終結戰爭",
+          "summary": "土耳其總統府表示，土耳其總統艾爾段今天在伊斯坦堡會見烏克蘭總統澤倫斯基，針對能源與航運安全，以及結束與俄羅斯戰爭的努力進行會談。  法新社報導，澤倫斯基（Volodymyr Zelensky...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393575",
+          "published": "Sun, 05 Apr 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "史詩怒火行動",
+          "summary": "截至4/4  ◎伊朗擊落兩架美軍戰機，分別是一架F-15E雙座戰鬥機和一架A-10攻擊機。  ◎伊朗布什爾核電廠遭遇第四次空襲，導致一名警衛死亡，一棟附屬建築受損，但國際原子能總署表示未偵測到輻射洩漏。  ◎伊朗革命衛隊針對杜拜的甲骨文大樓發動無人機攻擊。此前伊朗的無人機襲擊已造成位於阿…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1749654",
+          "published": "Sun, 05 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
