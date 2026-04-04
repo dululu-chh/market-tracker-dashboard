@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-04T16:01:04.781619",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+          "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 10:41:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian attack on Ukraine market kills five",
+          "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+          "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 14:00:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+          "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 06:42:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗布什爾核電廠又遭襲1員工死於彈片 俄企再撤198人",
+          "summary": "數家俄羅斯通訊社報導，俄羅斯國營核子企業（Rosatom）今天依原定計畫從伊朗的布什爾（Bushehr）核電廠再撤離198名員工。這座電廠今天傳出1名職員遭射彈碎片擊中身亡。  路透社報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393551",
+          "published": "Sat, 04 Apr 2026 23:49:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "酸爆川普「天才」！伊朗議長：戰爭從政權更換 變「幫找美飛官」",
+          "summary": "伊朗國會議長卡利巴夫（Mohammad Baqer Qalibaf）昨（3日）發文，開酸美國總統川普是「天才」，他嘲笑川普雖然嘴上說美軍「一直贏」，實際上戰爭目標卻已經從「更換伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393534",
+          "published": "Sat, 04 Apr 2026 23:13:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "《TIME》：白宮幕僚長憂美化戰報誤導川普 籲直言不諱",
+          "summary": "美國與以色列2月28日對伊朗開戰，戰事打滿5週仍不見盡頭。時代雜誌披露，白宮幕僚長對幕僚向總統川普彙報的戰情與衝擊評估「過度美化」感到擔憂，認應告訴老闆實話。  川普4月1日晚間在全國演...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393433",
+          "published": "Sat, 04 Apr 2026 22:55:45 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
