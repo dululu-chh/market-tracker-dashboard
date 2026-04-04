@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-04T08:00:45.808764",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+          "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+          "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 02:52:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+          "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 06:42:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+          "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+          "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Apr 2026 23:04:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗釋出擊落影片！F-15E釋放干擾彈 空中激烈迴避畫面曝光",
+          "summary": "伊朗官方媒體昨日宣布擊毀一架美軍F-35戰機，不過軍方人士比對特徵後表示該機應為美軍F-15E戰鬥機。伊朗也釋出軍方攻擊該架戰機的影片，可見戰機在遭到攻擊時，不斷翻騰閃避，並放出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393225",
+          "published": "Sat, 04 Apr 2026 15:51:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "金屬水瓶砸頭！美12歲童霸凌同學致死 涉謀殺罪被捕",
+          "summary": "美國加州洛杉磯一名12歲學生，今年2月在校內霸凌他人時，以金屬水瓶重擊同齡女同學丘吉帕（Khimberly Zavaleta Chuquipa）頭部，導致這名女學生最終傷重不治，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393166",
+          "published": "Sat, 04 Apr 2026 15:32:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "恐怖！中國男以為被嘲笑 伏擊南韓民眾筷子插臉恐害失明",
+          "summary": "太可怕了！南韓首爾永登浦警察署今（4日）表示，1名50多歲的中國男子，3月27日在永登浦區某餐館以為遭到一群韓籍客人嘲笑，竟拿筷子在店外伏擊，導致1人重傷恐失明。  據《朝鮮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393220",
+          "published": "Sat, 04 Apr 2026 15:26:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
