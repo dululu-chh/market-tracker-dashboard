@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-05T08:05:01.878444",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Man charged over fatal shooting of baby in pram in New York",
+          "summary": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+          "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 23:28:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+          "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 21:29:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "German males under 45 may need military approval for long stays abroad",
+          "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+          "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 21:16:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍搜救爆激戰！ 伊朗宣稱擊落C-130與2架黑鷹 證實境內5死",
+          "summary": "美軍針對墜機飛官的敵後搜救行動爆發激烈交火。伊朗官方宣稱，在此過程中擊落包含C-130運輸機與黑鷹直升機在內的多架敵軍軍機，並證實美軍的夜間空襲造成5名伊朗人死亡。  根據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393981",
+          "published": "Sun, 05 Apr 2026 15:44:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "CNN：第2名獲救飛行員 3日已和美軍取得聯繫",
+          "summary": "美國1架F-15E戰鬥機3日傳出在伊朗境內遭到擊落，第1名飛行員獲救後，今（5日）第2名飛行員也順利救出，《CNN》透露後者其實在3日就已和美軍取得聯繫。  《CNN》美國國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393961",
+          "published": "Sun, 05 Apr 2026 15:27:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "死裡逃生！西雅圖男子月台滑手機 帽T男猛力一推驚悚畫面瘋傳",
+          "summary": "美國西雅圖日前險些發生奪命落軌事件。一名男子在月台候車滑手機時，遭另一名26歲男子梅蘭德斯（Elisio Melendez）從後方蓄意推向軌道，所幸受害者及時穩住平衡，與進站列車...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5393810",
+          "published": "Sun, 05 Apr 2026 14:55:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
