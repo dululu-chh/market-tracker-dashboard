@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-05T14:05:49.297713",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know so far about rescue of US airman in Iran",
+          "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 10:07:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Man charged over fatal shooting of baby in pram in New York",
+          "summary": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+          "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 23:28:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+          "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+          "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Apr 2026 21:29:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "削弱德黑蘭飛彈、核子計畫 美媒：川普幕僚建議摧毀伊朗基礎設施",
+          "summary": "美國「華爾街日報」引述美方官員說法指出，近日有高階幕僚私下向美國總統川普提出，伊朗發電設施和橋梁是合法軍事目標，因為摧毀這些目標可削弱伊朗的飛彈及核子計畫。  華爾街日報（The Wal...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394275",
+          "published": "Sun, 05 Apr 2026 21:58:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲收費站設在「這座島」 伊朗逐艘審查嚴格控管",
+          "summary": "《CNBC》報導，在伊朗封鎖荷姆茲海峽同時，悄悄在拉臘克島（Larak Island）北端建立一條實質的安全運輸航道，並設置「收費站」機制，逐艘審查欲通行的船隻，以此牟利。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394277",
+          "published": "Sun, 05 Apr 2026 21:45:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "肅清伊朗滲透！革命衛隊已故名將親屬在美被捕 魯比歐：撤銷綠卡",
+          "summary": "美國國務院於週六證實，已故的伊朗革命衛隊特種部隊「聖城軍」指揮官蘇萊曼尼（Qasem Soleimani）的胞妹及外甥女，因涉嫌移民詐欺及散布伊朗政權宣傳，已在美國遭到逮捕。國務...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394178",
+          "published": "Sun, 05 Apr 2026 21:11:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
