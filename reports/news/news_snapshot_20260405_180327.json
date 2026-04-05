@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-05T18:03:26.001599",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Seriously wounded US airman rescued from Iran, Trump says",
+          "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
+          "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 16:46:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "How downed F-15 US airman was rescued inside Iran",
+          "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+          "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 17:15:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+          "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+          "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Apr 2026 16:38:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗持續空襲鄰國　阿聯：準備好加入美國為首行動",
+          "summary": "伊朗持續對鄰國空襲之際，阿拉伯聯合大公國總統顧問加爾加希今天表示，伊朗的區域戰略將導致以色列在波斯灣地區影響力提升。他證實阿聯準備好「加入任何美國為首行動」。  法新社報導，加爾加希（Anw...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394333",
+          "published": "Mon, 06 Apr 2026 00:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美飛官負傷爬2133米山稜線！戰機轟炸掩護特戰兵 自毀2架運輸機",
+          "summary": "獨自躲在敵後山區的受傷美國飛行員，深知自己該做什麼：求生與躲避追捕。他一度攀越崎嶇地形，抵達海拔2133.6公尺的山稜線；當時他身上僅配備一把手槍、一台通訊設備與一個追蹤器。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394330",
+          "published": "Mon, 06 Apr 2026 00:43:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國再傳多起「獻忠事件」 瀋陽當街砍頭釀6死",
+          "summary": "中國遼寧省瀋陽市和平區太原街附近4月4日發生駭人的持刀砍人事件，網傳有6人死亡、十幾人受傷，其中1名男子當場遭砍頭身亡，凶手隨後跳樓身亡。此案是近期中國各地接連發生的報復社會暴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394325",
+          "published": "Mon, 06 Apr 2026 00:26:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
