@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-06T14:17:14.732016",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "How rescue of US airman in remote part of Iran unfolded",
+          "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 12:22:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+          "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+          "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 00:23:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+          "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
+          "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 11:48:29 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "捷克街頭實驗：給街友15萬或社工支持 1年後多數就業有住房",
+          "summary": "捷克科學家進行一項街頭實驗，他們無條件給予街友10萬克朗（約新台幣15萬元），或提供社工的專業支持。結果顯示，沒有人立即將這筆錢花光，且1年後，這2組參與實驗的街友，其生活狀況皆有改善，大多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5394907",
+          "published": "Mon, 06 Apr 2026 22:04:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基持續拓展外交版圖  訪土耳其談深化安全合作",
+          "summary": "烏克蘭總統澤倫斯基近期強化發展與非西方國家安全合作關係。4日訪問伊斯坦堡與土耳其總統艾多根（Recep Tayyip Erdogan）會晤，雙方同意在深化烏、土安全合作議題上採...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395067",
+          "published": "Mon, 06 Apr 2026 21:25:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "給伊朗慘痛教訓！美前司令：深入敵境救同袍 美軍「不會拋下任何人」",
+          "summary": "美伊戰事正酣之際，美軍成功救出在伊朗境內落單的戰機武器系統官。前美軍中央司令部司令稱這是給伊朗的「慘痛教訓」，還說要建立不拋下任何人的軍隊傳統，需要200年的時間。  美軍一架F-15E...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395050",
+          "published": "Mon, 06 Apr 2026 21:06:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
