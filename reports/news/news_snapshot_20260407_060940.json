@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-07T06:09:39.069622",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+          "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+          "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "JD Vance due in Hungary to back Orban's re-election bid",
+          "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+          "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 01:45:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "China is winning one AI race, the US another - but either might pull ahead",
+          "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
+          "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 05:13:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "要出大事？以色列警示伊朗民眾今晚9點前別搭火車",
+          "summary": "要發生大事了？以色列軍方在X發布伊朗官方語言波斯語文章，警示伊朗民眾在當地時間7日晚間9點（台灣時間8日凌晨1點30分）之前不要搭火車。  據《美聯社》報導，以色列警告伊朗人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395684",
+          "published": "Tue, 07 Apr 2026 13:54:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "油罐車爆炸致1死2傷 巴拿馬美洲大橋暫停通行",
+          "summary": "巴拿馬當局稱，1輛油罐車6日在巴拿馬運河1座橋梁旁發生爆炸，造成1人死亡與2人受傷。  根據《法新社》報導，事故發生在美洲大橋旁的油罐車燃料供應站，該大橋橫跨巴拿馬運河。監...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395503",
+          "published": "Tue, 07 Apr 2026 13:49:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普威脅媒體「不交人就坐牢」 追查披露「第2名飛官失蹤」洩密者",
+          "summary": "美國總統川普6日威脅媒體交出報導機密消息的來源，否則可能面臨入獄。這項警告主要針對媒體披露「第二名美軍飛官失蹤」的機密資訊，川普認為報導已危及國家安全，並讓伊朗掌握相關情況，增...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395634",
+          "published": "Tue, 07 Apr 2026 13:45:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
