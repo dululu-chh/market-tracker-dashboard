@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-07T18:11:50.744258",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+          "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
+          "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 17:15:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+          "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+          "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 18:10:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Has Artemis II shown we can land on the Moon again?",
+          "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
+          "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 15:23:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "聯合國人權部門：蓄意攻擊民用設施構成戰爭罪",
+          "summary": "聯合國人權事務負責人今天譴責中東戰爭出現的「煽動性言論」，同時警告蓄意攻擊平民與民用基礎設施，構成「戰爭罪」。  法新社報導，聯合國人權事務高級專員圖克（Volker Turk）在聲明中表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396385",
+          "published": "Wed, 08 Apr 2026 02:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "聯合國安理會荷莫茲海峽決議　遭中俄否決",
+          "summary": "俄羅斯與中國今天對聯合國安理會（UNSC）一項重啟荷莫茲海峽（Strait of Hormuz）決議草案動用否決權。該案於表決前已刪除可能動用武力的措辭，最後仍未通過。  綜合法新社與路透社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396384",
+          "published": "Wed, 08 Apr 2026 01:54:04 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "借鏡中東局勢 中國審視美軍優缺點 台灣擬經濟嚇阻抗中",
+          "summary": "香港「南華早報」7日報導，無論美國與以色列對伊朗的戰爭是迅速落幕，還是陷入泥淖，其所引發的效應將在未來數年持續震盪，重塑戰爭型態、地緣政治、能源安全，以及全球對美國戰術與戰略...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396380",
+          "published": "Wed, 08 Apr 2026 01:27:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
