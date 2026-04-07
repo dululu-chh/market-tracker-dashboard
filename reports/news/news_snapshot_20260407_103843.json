@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-07T10:38:41.672944",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+          "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+          "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 07:19:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+          "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+          "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 09:55:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Music giant Universal gets $64bn takeover offer",
+          "summary": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
+          "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 10:35:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "首次稱呼總統！ 向南韓遞出橄欖枝  金正恩讚李在明「坦率大度」",
+          "summary": "在近期邊境軍事緊張升溫之際，北韓領導人金正恩出乎意料地對南韓總統李在明發表正面評價，讚賞其就無人機入侵北韓領空事件表達遺憾的態度，為朝鮮半島局勢帶來短暫的降溫訊號。  　...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396126",
+          "published": "Tue, 07 Apr 2026 18:26:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "最高領袖失能？英媒：穆吉塔巴疑重症昏迷 伊朗權力恐現異常",
+          "summary": "據英國《泰晤士報》報導，伊朗最高領袖穆吉塔巴（Mojtaba Khamenei）疑似因重症在聖城庫姆（Qom）接受治療，並可能已失去參與政權決策的能力。報導引述基於美國與以色列...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396077",
+          "published": "Tue, 07 Apr 2026 18:22:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國高速列車與卡車相撞 1死27傷",
+          "summary": "法國官員表示，一班法國高速列車（TGV）今天與一輛卡車相撞，造成列車駕駛喪生，另有27人受傷。  法新社報導，法國國家鐵路公司（SNCF）表示，這起事故發生在法國北部加萊省（Pas-de...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396034",
+          "published": "Tue, 07 Apr 2026 17:44:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
