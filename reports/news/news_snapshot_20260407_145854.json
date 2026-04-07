@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-07T14:58:52.669593",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+          "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
+          "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 14:51:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+          "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
+          "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 14:53:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+          "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+          "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Apr 2026 10:57:44 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普最後通牒倒數 巴基斯坦仍力促美伊談判",
+          "summary": "在美國總統川普對伊朗的最後通牒即將截止之際，美軍加劇攻擊伊朗，兩名巴基斯坦知情人士今天告訴路透社，巴方仍在力促美伊談判。  路透社報導，其中一位消息人士是高階安全官員，據稱伊朗夜間攻擊沙...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396328",
+          "published": "Tue, 07 Apr 2026 22:51:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "東京近郊川崎市港區12層高鷹架倒塌 3工人重傷1失蹤",
+          "summary": "日本神奈川縣川崎市港區今天發生鷹架倒塌意外，這座鷹架高40公尺、約12層樓，位於日本JFE鋼鐵公司的1座工廠，當時正在進行起重機拆卸，事故已造成3名工人重傷，仍有1人失聯。  法新社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396323",
+          "published": "Tue, 07 Apr 2026 22:25:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "支撐德黑蘭經濟命脈 WSJ：中國去年進口伊朗逾8成石油",
+          "summary": "「華爾街日報」專文解析，美國總統川普第一任期對伊朗「極限施壓」，切斷該國石油與全球能源市場連結，藉此阻斷德黑蘭主要收益管道。然而，在華盛頓加劇對德黑蘭的制裁程度後，中國進口伊朗...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5396318",
+          "published": "Tue, 07 Apr 2026 22:14:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
