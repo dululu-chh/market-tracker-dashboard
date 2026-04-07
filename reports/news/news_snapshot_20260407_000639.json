@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-07T00:06:37.851996",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+          "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
+          "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 21:55:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+          "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+          "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+          "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+          "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Apr 2026 19:11:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "復活節油價創新高 德國研議現金補貼",
+          "summary": "德國復活節期間油價持續攀升，柴油價格創下歷史新高。在既有油價調控新規未見明顯成效下，德國政府正研議於節後推出新一輪紓困措施，包括直接發放現金補貼，以減輕民眾加油負擔。  根據德國汽車俱樂...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395189",
+          "published": "Tue, 07 Apr 2026 08:03:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "跨越56年里程碑！阿提米絲2號奔月 改寫人類離地球最遠紀錄",
+          "summary": "美國航太總署（NASA）的「阿提米絲2號」（Artemis II）任務於本月1日升空啟航，NASA於6日指出，阿提米絲2號團隊打破1970年阿波羅13號（Apollo 13）任務...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395175",
+          "published": "Tue, 07 Apr 2026 07:34:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "停火談判期限倒數！川普放話「轟炸伊朗所有電廠及橋樑」",
+          "summary": "美國總統川普（Donald Trump）6日表示，除非德黑蘭同意在停火談判期限前達成協議，否則他將下令對伊朗所有的發電廠、橋樑等基礎建設發起全面攻擊。  路透報導，川普在白宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5395165",
+          "published": "Tue, 07 Apr 2026 07:17:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
