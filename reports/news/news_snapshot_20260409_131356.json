@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-09T13:13:54.799909",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+          "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
+          "link": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 11:46:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+          "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+          "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
+          "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 20:54:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「呼叫器行動」重演？ 以色列襲擊黎巴嫩  10分鐘轟逾百真主黨目標",
+          "summary": "美國和伊朗達成停火共識才一天，就陷入危機，以色列堅持美國和伊朗停火範圍不包括黎巴嫩，8日對黎國展開對伊朗開戰以來最猛烈攻擊，升高打擊伊朗代理團體「真主黨」（Hezbollah）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398882",
+          "published": "Thu, 09 Apr 2026 21:08:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不甩美以要求 伊朗核能首長：鈾濃縮計畫不會設限",
+          "summary": "伊朗原子能組織（Atomic Energy Organization，AOEI）主席艾斯拉米今天表示，不會對伊朗鈾濃縮計畫設下任何限制，還說美國和以色列提出的相關要求「不會實現」。  法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398853",
+          "published": "Thu, 09 Apr 2026 20:54:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列轟黎巴嫩254死  聯合國人權專員：「屠殺」規模駭人聽聞",
+          "summary": "以色列在美國與伊朗停火後數小時，對黎巴嫩發動大規模空襲，造成254人死亡。聯合國人權事務官員發表聲明，譴責這場「屠殺」規模「十足駭人聽聞」。  人在黎巴嫩的聯合國人權事務高...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398869",
+          "published": "Thu, 09 Apr 2026 20:52:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
