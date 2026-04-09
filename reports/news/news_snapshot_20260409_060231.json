@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-09T06:02:30.151411",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+          "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+          "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+          "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 03:30:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know about the two-week ceasefire between the US and Iran",
+          "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
+          "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Apr 2026 20:25:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "宏都拉斯前總統葉南德茲獲特赦 法院撤銷定罪",
+          "summary": "美國聯邦巡迴上訴法院今天駁回宏都拉斯前總統葉南德茲（Juan Orlando Hernandez）上訴，同時撤銷他先前定罪。葉南德茲去年12月已獲得美國總統川普特赦。  綜合法新社與路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398223",
+          "published": "Thu, 09 Apr 2026 13:56:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "停火運量反創4月新低！ 荷姆茲海峽24小時僅4貨船通過 油輪掛零",
+          "summary": "美國與伊朗停火後，荷姆茲海峽是否恢復通行引發關注，不過在宣布停火24小時後，許多船隻仍在觀望，僅有4艘貨輪通過海峽，油輪更是0艘。  綜合外媒報導，航運數據公司Kpler資料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398203",
+          "published": "Thu, 09 Apr 2026 13:46:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伸手拍打空服員臀部 中國男被警強制帶下機狂扯「中馬友好」",
+          "summary": "馬來西亞航空昨（8）日發生1起突發事故，女空服員在飛機起飛前通報航警，控訴機艙1名中國男子拍打她的臀部，航警獲報迅速登機，並將男子強制帶下機調查，然而這名男子不僅拚命抵抗、辯稱自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5398031",
+          "published": "Thu, 09 Apr 2026 13:22:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
