@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-10T14:18:28.958201",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+          "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+          "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 02:10:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+          "summary": "Both sides have reason to end the war but share no common ground.",
+          "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+          "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+          "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 08:37:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "送油又親訪力挺盟邦古巴 俄副外長：莫斯科不會離開西半球",
+          "summary": "古巴遭美國總統川普以關稅進行實質石油封鎖加強施壓之際，俄羅斯副外交部長雷雅布可夫（Sergey Ryabkov）9日到訪，力挺盟邦，強調俄羅斯不可能背棄古巴，也不會離開西半球。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400118",
+          "published": "Fri, 10 Apr 2026 22:14:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮官員：馬克宏「懇求」川普出席G7峰會",
+          "summary": "根據消息人士與白宮官員透露，法國總統馬克宏（Emmanuel Macron）已邀請美國總統川普（Donald Trump）參加今年6月的七大工業國組織（G7）峰會以及峰會後的凡爾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5399950",
+          "published": "Fri, 10 Apr 2026 22:07:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「孤立主義」合德黑蘭胃口？范斯認為自己能在談判中發揮作用",
+          "summary": "由美國副總統范斯率領的代表團11日在巴基斯坦首都伊斯蘭馬巴德與伊朗展開長期停火協商。「美聯社」報導，鑒於領銜談判的美國副總統范斯缺乏專業外交背景，過往美國參與的戰爭中，似乎也沒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400108",
+          "published": "Fri, 10 Apr 2026 22:06:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
