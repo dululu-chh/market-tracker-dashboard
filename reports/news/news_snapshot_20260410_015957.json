@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-10T01:59:55.515719",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+          "summary": "Both sides have reason to end the war but share no common ground.",
+          "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+          "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+          "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 22:27:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK says Russia ran submarine operation over cables and pipelines",
+          "summary": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+          "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Apr 2026 17:09:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普對伊朗軍事行動引爭議 共和黨阻止民主黨戰爭權力決議",
+          "summary": "美國眾議院共和黨9日阻止了民主黨試圖終止美國對伊朗軍事行動的努力。紐澤西州共和黨眾議員史密斯（Chris Smith）主持1場簡短的「形式性」眾議院會議，在民主黨議員試圖以一致...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5399082",
+          "published": "Fri, 10 Apr 2026 09:53:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "同意談判但未對黎巴嫩停火 納坦雅胡：先解除真主黨武裝",
+          "summary": "美國、伊朗達成協議停火2週，以色列卻持續對黎巴嫩真主黨據點狂轟猛炸，以色列總理納坦雅胡（Benjamin Netanyahu）9日雖透露已指示政府展開談判，但也強調目前對「黎巴嫩...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5399063",
+          "published": "Fri, 10 Apr 2026 09:13:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷特使悄赴美！俄烏宣布復活節假期停火 澤倫斯基曝「和平在望」",
+          "summary": "俄羅斯總統普廷9日宣布，將於東正教復活節假期期間與烏克蘭實施停火，長達32小時；烏克蘭總統澤倫斯基則表示，基輔將遵守停火協議，且和平在望。根據俄羅斯與烏克蘭普遍採行的東正教曆法，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5399028",
+          "published": "Fri, 10 Apr 2026 08:58:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
