@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-10T22:32:24.102072",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanon and Israel officials to meet in US on Tuesday",
+          "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
+          "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 20:51:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The five big sticking points in US-Iran talks",
+          "summary": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
+          "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 18:13:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+          "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
+          "link": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 17:08:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鄭麗文反感日本殖民卻熱愛京都 日媒這樣解讀",
+          "summary": "首次上稿 4-10 22:59更新時間 4-11 06:03  中國國民黨主席鄭麗文訪問中國，到中山陵謁陵時細數日本殖民統治台灣、發動侵華戰爭，還說兩岸被日本帝國主義大刀砍劈...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5399943",
+          "published": "Sat, 11 Apr 2026 06:03:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊談判前先嗆聲 伊朗議長：「這2件事」做到再說",
+          "summary": "首次上稿 00:57更新時間 05:48  美國與伊朗雙方即將在巴基斯坦談判停火，伊方代表之一的國會議長卡利巴夫先跳出來嗆聲，美國先達成2個關鍵條件，談判才有可能開始。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400178",
+          "published": "Sat, 11 Apr 2026 05:48:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "避免破壞美伊停火 以黎下週談判",
+          "summary": "〔編譯管淑平／綜合報導〕以色列在美國與伊朗停火後依然猛烈轟炸黎巴嫩，造成超過三百人死亡後，以國總理納坦雅胡九日表示，已經授權「盡快」與黎巴嫩直接談判，以解除伊朗支持的「真主黨」武裝，並且為兩國建立和平關係。  將在美國務院展開和談  一名美國官員和熟悉相關規劃的消息人士表示，以黎兩國預計下週…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1750400",
+          "published": "Sat, 11 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
