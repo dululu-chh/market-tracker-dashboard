@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-11T15:28:28.867461",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Artemis crew home safely after completing historic mission to the Moon",
+          "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
+          "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 07:53:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
+          "summary": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
+          "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 00:17:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Frontrunner for California governor denies sexual assault allegations",
+          "summary": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\".",
+          "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 14:24:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "談判前伊朗開嗆   若著重以色列利益「就沒協議」",
+          "summary": "美國和伊朗11日在巴基斯坦談判，雙方直接談判前都有強硬言論，美國總統川普發文指伊朗「沒有牌」；伊朗官員則警告，若談判採以色列利益優先，就不會有協議。  率領伊朗談判團的國會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400880",
+          "published": "Sat, 11 Apr 2026 21:38:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美、伊談判會前會   伊朗定下「紅線」曝光",
+          "summary": "美國和伊朗的談判11日在巴基斯坦登場前，雙方談判團隊先分別與巴國總理夏立夫（Shehbaz Sharif）會談。據悉伊朗已將談判條件交給巴國，當中定出幾條「紅線」，包括戰爭賠償...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400873",
+          "published": "Sat, 11 Apr 2026 21:19:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最高領袖遲無聲影  核心圈人士：重傷毀容但仍可決策",
+          "summary": "伊朗新任最高領袖穆吉塔巴（Mojtaba Khamenei）遲未露面，僅發出書面聲明，引起各方揣測。《路透》11日報導引述3名接近穆吉塔巴核心圈人士說法，穆吉塔巴在開戰當天的空...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400851",
+          "published": "Sat, 11 Apr 2026 20:50:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
