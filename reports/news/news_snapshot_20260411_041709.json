@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-11T04:17:08.023417",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
+          "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
+          "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 23:46:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Final push for votes as challenger to Hungary's Orbán scents victory",
+          "summary": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
+          "link": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 00:17:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lebanon and Israel officials to meet in US on Tuesday",
+          "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
+          "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Apr 2026 22:43:03 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "捲土重來？賀錦麗考慮投入2028美國總統大選",
+          "summary": "美國民主黨2024總統大選候選人、前副總統賀錦麗（Kamala Harris），10日出席活動時透露自己考慮投入2028美國總統選舉，引發在場聽眾的熱烈呼聲。  據《CNN》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400370",
+          "published": "Sat, 11 Apr 2026 11:52:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "陰謀論發酵！阿提米絲畫面曝光 網瘋傳「NASA用AI造假」",
+          "summary": "人類再次飛近月球，卻沒有讓所有人信服。隨著美國航太總署（NASA）公布「阿提米絲2號」（Artemis II）的太空畫面，網路上開始出現大量「造假說」，甚至有人認為整個任務是A...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400363",
+          "published": "Sat, 11 Apr 2026 11:49:38 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "白種元再傳爭議！旗下2咖啡店傳壓迫打工學生引眾怒 連忙停業止血",
+          "summary": "南韓美食家白種元靠著《黑白大廚》爆紅全球，但他的餐飲品牌The Born Korea再度傳出爭議，被稱為「白種元咖啡」的連鎖店Paik's Coffee，傳出有2間門市壓迫打工學...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5400334",
+          "published": "Sat, 11 Apr 2026 11:22:11 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
