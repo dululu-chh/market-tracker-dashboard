@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-12T15:33:00.652660",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "After Iran talks falter, the big question is 'what happens next?'",
+          "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.",
+          "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 12:48:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+          "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 10:03:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+          "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 11:53:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "他玩《寶可夢冠軍》氣喊「換我上場打」 真實身分驚呆3500萬人",
+          "summary": "日本任天堂8日推出全新對戰遊戲《寶可夢冠軍》（Pokémon Champions），即便評價兩極，仍吸引各國粉絲遊玩。多次摘下國際大賽獎牌、前日本花式滑冰好手宇野昌磨，也加入這波...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401300",
+          "published": "Sun, 12 Apr 2026 23:14:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊協商破局未撕破臉 雙方互留餘地",
+          "summary": "美國與伊朗代表團11日在巴基斯坦首都伊斯蘭馬巴德進行談判。歷經21個小時的馬拉松協商後，雙方在濃縮鈾處置與關鍵能源航道荷姆茲海峽兩大核心議題上無法達成共識，協商宣告破局。美國副...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401692",
+          "published": "Sun, 12 Apr 2026 22:39:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "46億打造「四川鐵達尼號」成爛尾  過度投資20年中國夢碎",
+          "summary": "香港《南華早報》報導，中國四川省「七星能源投資集團」負責人蘇紹俊，希望趁1997年好萊塢電影《鐵達尼號》在中國創造的2億美元（新台幣63.5億元）票房旋風，建造一艘與鐵達尼號原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401694",
+          "published": "Sun, 12 Apr 2026 22:20:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
