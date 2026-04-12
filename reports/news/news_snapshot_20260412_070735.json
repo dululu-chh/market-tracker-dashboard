@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-12T07:07:34.024145",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+          "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood.",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 04:02:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+          "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+          "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 04:20:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+          "summary": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
+          "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 05:22:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊停火後首次！ 3艘超級油輪滿載駛離荷姆茲海峽",
+          "summary": "隨著美伊暫時停火，荷姆茲海峽航運開始有復甦跡象，3艘可裝載200桶石油的超級油輪，在11日通過荷姆茲海峽；過去36小時內，至少有10艘船隻通過，還有7艘正在通過中。  綜合外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401310",
+          "published": "Sun, 12 Apr 2026 14:49:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "扯！法國9歲童被狠父關在車內1年半 與垃圾、排泄物相伴",
+          "summary": "太離譜！法國檢方11日表示，靠近德國邊界的市鎮阿根巴克（Hagenbach），有1名9歲男童從2024年11月起被父親關在廂型車內．直到本月6日才獲救，男童由於明顯營養不良已送往...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401294",
+          "published": "Sun, 12 Apr 2026 14:27:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "停火死線逼近！ 美伊談21小時仍無共識 下一步「三條路」浮現",
+          "summary": "美國與伊朗代表進行超過21小時的談判仍未達成協議，外媒指出，雙方面臨的選項已逐漸集中為三條路：包括延長談判、恢復軍事行動，或讓荷姆茲海峽的通行情況持續受限。  根據《紐約時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401313",
+          "published": "Sun, 12 Apr 2026 14:27:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
