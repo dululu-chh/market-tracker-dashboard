@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-12T05:19:39.117466",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+          "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood.",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 04:02:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+          "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+          "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 04:20:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+          "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 21:23:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國拒與賴清德對話 美方發聲：北京應停止對台軍事威脅",
+          "summary": "在中國拒絕與總統賴清德政府對話之際，美國駐台代表公開呼籲北京停止對台軍事施壓，並強調應與台灣的民選領袖保持溝通，以避免誤判並穩定兩岸局勢。《路透》報導。指出這項發言出現在國民黨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401242",
+          "published": "Sun, 12 Apr 2026 13:12:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓莞島海鮮加工廠火災 2消防員受困殉職",
+          "summary": "南韓全羅南道莞島郡的海鮮加工廠冷凍庫，今（12日）上午8時25分許發生火災，9時02分有2名進入火場的消防員失聯，不幸的是目前皆已尋獲遺體。  據《韓聯社》報導，這2名打火弟...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401178",
+          "published": "Sun, 12 Apr 2026 12:12:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「台灣熱新聞」創刊 以日文為台灣發聲",
+          "summary": "為深化台日關係，印太戰略智庫11日晚間在東京舉行「台日友好之夜」，並同步舉辦日語新媒體「台灣熱新聞」（Taiwan Hot News）實體報紙創刊儀式。  「台...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401186",
+          "published": "Sun, 12 Apr 2026 12:06:56 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
