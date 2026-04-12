@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-12T02:02:10.934597",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+          "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood.",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 23:25:42 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+          "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+          "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Apr 2026 21:23:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+          "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+          "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 00:30:44 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美副總統范斯：沒有和伊朗達成任何協議",
+          "summary": "美國副總統范斯率領代表團，前往巴基斯坦與伊朗進行停戰協商，不過，范斯稍早召開記者會，透露美方沒有與伊朗達成任何協議。  據《CNN》報導，范斯在記者會上說了1個好消息和1個壞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401044",
+          "published": "Sun, 12 Apr 2026 09:55:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "卡達宣布波斯灣全面恢復航行 但不代表荷姆茲海峽已開放",
+          "summary": "中東國家卡達宣布，當地時間12日將在波斯灣全面恢復（fully resume）航行，但這「不代表荷姆茲海峽已開放」，目前這處能源運輸要道還是鮮少有船隻通行。  據《CNN》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401028",
+          "published": "Sun, 12 Apr 2026 09:34:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "海外伊朗人：希望戰爭持續到推翻現有政權",
+          "summary": "美國、伊朗在巴基斯坦展開和談，不過，居住在加州洛杉磯的伊朗男子拉維（Rezi Ravi）透露，他留在伊國境內的家人們，都希望戰爭持續到推翻現有的伊斯蘭政權。  據《CNN》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401004",
+          "published": "Sun, 12 Apr 2026 09:09:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
