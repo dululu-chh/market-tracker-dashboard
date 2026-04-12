@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-12T10:35:09.152527",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
+          "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+          "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 09:31:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+          "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+          "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 10:03:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+          "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+          "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 09:19:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "談判破局後川普出招！暗示美軍將全面管控荷姆茲海峽",
+          "summary": "美伊談判確認未達共識，美國總統川普12日轉發一篇文章，內容將下一步行動指向荷姆茲海峽。相關發文出現在雙方於巴基斯坦伊斯蘭馬巴德進行超過21小時會談、但未取得結果之後，引發各界對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401455",
+          "published": "Sun, 12 Apr 2026 17:27:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭重判17年又被打斷牙！異議人士、俄前官員「獄中絕食」抗議普廷",
+          "summary": "俄羅斯知名異議人士、前莫斯科州地方官員謝斯通（Alexander Shestun）因不滿獄方長期非人道對待，近日在獄中發起絕食抗議。謝斯通指控獄政單位不僅取消家屬探視，甚至對其施...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401343",
+          "published": "Sun, 12 Apr 2026 16:57:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本京都小學生離奇失蹤多天 山區疑似尋獲鞋子",
+          "summary": "就讀於日本京都府南丹市園部小學的11歲男孩安達結希，3月23日由父親開車載他上學，孰料在校外下車後就此失蹤至今，就算出動大量警力也找不到太多線索，引起日本全國關注，今（12日）傳...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5401431",
+          "published": "Sun, 12 Apr 2026 16:49:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
