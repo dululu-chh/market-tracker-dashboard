@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-13T09:51:31.189803",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+          "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 06:25:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+          "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+          "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 08:28:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's threat raises risks and leaves predicaments unchanged",
+          "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+          "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 22:57:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "西班牙總理桑傑士四度訪中 視北京為戰略盟友引發白宮不滿",
+          "summary": "西班牙總理桑傑士（Pedro Sanchez）於週一（13）展開四年內第4次訪中行程。在美國總統川普將中國視為地緣政治對手之際，桑傑士卻主張將中國視為戰略盟友，此舉已引起白宮方面...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402465",
+          "published": "Mon, 13 Apr 2026 17:28:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼國防部：正與美討論允美軍飛越領空提案",
+          "summary": "印尼國防部今天表示，印尼與美國正討論一項允許美國軍機飛越印尼領空的提案，不過雙方尚未達成協議。  多家媒體昨天指出，美方正爭取其軍機在印尼領空的「全面夜間通行權」，報導並稱印尼總統普拉伯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402498",
+          "published": "Mon, 13 Apr 2026 17:20:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「看不見的國家」阿根廷首映  觀眾：台灣應該被看見",
+          "summary": "由美國導演葛靜文（Vanessa Hope）執導的紀錄片「看不見的國家」11日晚間於布宜諾斯艾利斯市區電影院舉行首映。多名觀眾表示，影片以烏俄戰爭為對照，使台灣議題更具現實感，進一步加深對台...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402424",
+          "published": "Mon, 13 Apr 2026 17:08:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
