@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-13T11:14:34.045509",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+          "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 11:03:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+          "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+          "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 08:28:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+          "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+          "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 10:20:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞360》匈牙利親中政權慘敗民眾狂歡！學者：一帶一路變窮途末路",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402627",
+          "published": "Mon, 13 Apr 2026 18:30:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍轉向中東？美聯社：亞洲兵力被抽調 台海穩定恐受影響",
+          "summary": "當美軍將資源與注意力轉向中東戰場，亞洲的軍事部署是否出現空隙？成為各界關注焦點。尤其在印太地區緊張局勢持續之際，相關變化也被認為可能牽動台海安全的戰略平衡。  《美聯社》分...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402510",
+          "published": "Mon, 13 Apr 2026 18:08:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》中國「真實版煉獄」曝光牆內全嚇壞！網敲碗查「人礦真相」官方急封殺！",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402592",
+          "published": "Mon, 13 Apr 2026 18:05:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
