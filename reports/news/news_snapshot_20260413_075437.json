@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-13T07:54:36.194974",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+          "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 06:25:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+          "summary": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest.",
+          "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 01:58:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's threat raises risks and leaves predicaments unchanged",
+          "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+          "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Apr 2026 22:57:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不只對峙還下毒？ 菲律賓指控中國漁船在南海投放氰化物",
+          "summary": "南海緊張局勢出現新變數。菲律賓官方指控，中國漁船在爭議海域投放氰化物（cyanide），可能影響當地生態並波及駐守在該區的菲國軍人食物來源。這項指控由菲律賓國家安全委員會（NS...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402270",
+          "published": "Mon, 13 Apr 2026 15:35:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美維吉尼亞州驚傳槍響 8人中彈送醫、2槍手逃逸",
+          "summary": "美國維吉尼亞州城市「維吉尼亞海灘（Virginia Beach）」，於當地時間11日晚間9時50分許傳出槍響，造成8人中彈送醫，其中4人為青少年，目前還有2名槍手在逃。  據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402230",
+          "published": "Mon, 13 Apr 2026 14:24:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷在歐洲最強內應垮台！奧班敗選下台 歐盟3兆援烏預算可望放行",
+          "summary": "匈牙利總理奧班（Viktor Orban）長年以來在歐盟內部扮演「踩煞車」的角色。隨著他在12日的國會大選中承認敗選，歐盟高層對此結果表示歡迎。外媒分析指出，這位經常阻擋歐盟重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5402232",
+          "published": "Mon, 13 Apr 2026 14:09:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
