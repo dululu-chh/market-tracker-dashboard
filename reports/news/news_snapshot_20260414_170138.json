@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-04-14T17:01:36.136245",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+          "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
+          "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 14:01:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+          "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+          "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 15:04:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell",
+          "summary": "He denies claims of sexual assault but admits \" mistakes\" and says he will resign.",
+          "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 15:20:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普與莫迪通話　強調維持荷莫茲海峽開放重要性",
+          "summary": "印度總理莫迪（Narendra Modi）今天在社群平台X上發文表示，美國總統川普今天與他通話時，兩人強調保持荷莫茲海峽（Strait of Hormuz）開放與安全的重要性。  率先報導這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404018",
+          "published": "Wed, 15 Apr 2026 00:39:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美伊新一輪談判現曙光　美媒：川普稱可能兩天內舉行",
+          "summary": "紐約郵報（New York Post）今天報導，美國總統川普受訪時指出，美方與伊朗的新一輪談判「可能於接下來兩天內」在巴基斯坦舉行。  川普告訴紐約郵報：「你們真的應該留在那裡，因為接下來兩...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404013",
+          "published": "Wed, 15 Apr 2026 00:15:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "帕蘭泰爾AI系統助攻美軍 伊朗戰爭首日產逾千打擊方案",
+          "summary": "在美軍轟炸伊朗首日，帕蘭泰爾技術公司人工智慧（AI）系統Maven在短時間內分析大量資料，提供美軍逾千個打擊方案。伊朗戰爭可能成為全球首個由AI即時支援軍事行動決策的大規模實例。  新德...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403958",
+          "published": "Wed, 15 Apr 2026 00:04:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
