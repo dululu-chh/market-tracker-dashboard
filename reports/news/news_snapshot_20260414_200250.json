@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-14T20:02:48.218716",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+          "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
+          "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 14:01:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+          "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+          "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 15:04:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+          "summary": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
+          "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 19:54:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "盟友撕破臉　川普砲轟義總理：戰爭中不助美、沒勇氣",
+          "summary": "義大利總理梅洛尼昨天表態反對美國總統川普批評教宗的言論，川普今天接受義媒專訪時反擊，「梅洛尼不想在戰爭中幫助我們，我對她感到震驚，我以為她有勇氣，但我錯了。」兩位昔日立場親近的政治盟友公開撕...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404023",
+          "published": "Wed, 15 Apr 2026 02:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍封鎖伊朗頭24小時 成功攔截6船離港 受制裁中船掉頭",
+          "summary": "美國軍方14日表示，在對伊朗實施海上封鎖的頭24小時內，已成功攔截6艘駛出伊朗港口的船隻。  綜合法新社和彭博報導，負責中東美軍事務的中央司令部（CENTCOM）表示，超...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404022",
+          "published": "Wed, 15 Apr 2026 02:15:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以黎數十年首度直接會談　盧比歐籲把握歷史契機",
+          "summary": "以色列與黎巴嫩在華府舉行數十年來首次直接會談，美國國務卿盧比歐（Marco Rubio）今天呼籲雙方把握「歷史性機會」促成和平。  法新社報導，盧比歐在國務院歡迎兩國大使時表示：「這是一個歷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404021",
+          "published": "Wed, 15 Apr 2026 01:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
