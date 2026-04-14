@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-14T11:58:27.975600",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+          "summary": "The Lebanese government go into peace talks with limited influence over the group.",
+          "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 23:26:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+          "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.",
+          "link": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Apr 2026 23:27:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+          "summary": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+          "link": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 05:02:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "失蹤近3週！日本警方證實尋獲遺體是「11歲男童安達結希」",
+          "summary": "住在日本京都府南丹市的11歲男童安達結希，3月底在上學途中突然下落不明，警方在他離奇失蹤將近3週後，才在昨（13）日於一處偏僻山區尋獲一具部分腐敗的兒童遺體。警方今（14）日證實...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403743",
+          "published": "Tue, 14 Apr 2026 19:52:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不滿以色列襲擊黎巴嫩 義大利取消雙方防務協議",
+          "summary": "義大利總理梅若尼（Giorgia Meloni）今（14日）宣布，由於中東戰事因素，政府決定暫停與以色列防務合作協議的自動續約。  《路透》報導，梅若尼領導的右翼政府，是以色...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403813",
+          "published": "Tue, 14 Apr 2026 19:40:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》美封荷姆茲再出招！目標「麻六甲海峽」掐喉中國！",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403818",
+          "published": "Tue, 14 Apr 2026 19:20:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
