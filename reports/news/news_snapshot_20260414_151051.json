@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-14T15:10:49.951848",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+          "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
+          "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 14:01:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+          "summary": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
+          "link": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 14:18:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retrial over death of Argentina legend Maradona to begin",
+          "summary": "The first trial - which saw members of Maradona's medical team accused of poor care - collapsed after a judge let cameras into the court.",
+          "link": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 10:21:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "教宗訪聖奧古斯丁出生地 向反戰理論神學家致敬",
+          "summary": "近日因反戰立場而與美國總統川普互批的教宗良十四世，今天來到曾定義戰爭正義與否的天主教神學家聖奧古斯丁位於北非阿爾及利亞的出生地，向自己的信仰根源致敬。  路透社報導，正在非洲進行為期10...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403979",
+          "published": "Tue, 14 Apr 2026 22:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "列車故障釀禍！泰國貓咪熱到抓狂   狠咬飼主手部",
+          "summary": "天氣逐漸變熱，帶毛小孩出門要三思！今（14日）泰國有隻疑似熱到抓狂的貓咪，咬傷牠的飼主，最後在3位工作人員用床單覆蓋壓制，花費超過20分鐘才成功控制貓咪，此外列車還因機械故障2次...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403790",
+          "published": "Tue, 14 Apr 2026 22:41:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "選前站台匈牙利總理奧班 范斯：感謝他在歐洲捍衛美國利益",
+          "summary": "執政16年的匈牙利總理奧班（Viktor Orban）在12日國會大選失利，外界視此結果為美國總統川普、俄羅斯總統普廷等人所代表的右翼、威權主義挫敗。選前替奧班站台的美副總統范...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5403946",
+          "published": "Tue, 14 Apr 2026 22:25:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
