@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-15T10:13:14.880681",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+          "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+          "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 19:47:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel and Lebanon hold first direct talks since 1993",
+          "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
+          "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 20:42:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+          "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
+          "link": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 09:19:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普評匈牙利準總理馬格雅「會做得很好」 談前盟友奧班「是好人」",
+          "summary": "美國總統川普14日表示，他喜歡匈牙利準總理馬格雅（Peter Magyar），並認為馬格雅「會做得很好」；至於敗選的右派總理奧班（Viktor Orban）「是個好人」。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404939",
+          "published": "Wed, 15 Apr 2026 17:55:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "經濟艙也能躺平睡覺！ 紐西蘭航空將推出「3層睡眠艙」",
+          "summary": "長途飛行時坐經濟艙總會覺得腰痠背痛，想讓椅背斜一點又擔心後面的人有意見，紐西蘭航空（Air New Zealand）將在今年11月起，開放部分航班上的經濟艙乘客「加價」使用睡眠艙...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404806",
+          "published": "Wed, 15 Apr 2026 17:30:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "匈牙利變天後出重手！新任總理馬格雅擬修媒體法 廢除親政府宣傳機器",
+          "summary": "匈牙利日前舉行國會大選，反對黨「尊重與自由黨」（Tisza）取得壓倒性勝利，終結強人總理奧班（Viktor Orban）長達16年的執政。候任總理馬格雅（Peter Magyar...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404865",
+          "published": "Wed, 15 Apr 2026 17:27:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
