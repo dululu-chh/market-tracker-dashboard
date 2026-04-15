@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-15T06:52:37.889700",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+          "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
+          "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 19:47:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel and Lebanon hold first direct talks since 1993",
+          "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
+          "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 20:42:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+          "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
+          "link": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Apr 2026 23:13:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共官媒唬爛機器人「健步如飛」 民眾直擊畫面流出狠打臉",
+          "summary": "2026中國北京亦莊半程馬拉松預計19日登場，屆時將邀請26個品牌的300台人形機器人與3萬名人類一同比賽。主辦方近日特地為了機器人展開賽前夜跑測試，測試過程卻鬧出一連串笑話，更...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404465",
+          "published": "Wed, 15 Apr 2026 14:32:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：伊朗戰爭「非常接近結束」 稱對方急於達成協議",
+          "summary": "美國總統川普14日表示，持續數週的美伊衝突已「非常接近結束」，並稱伊朗方面「急於達成協議」。在美軍封鎖與空襲持續之際，相關說法引發外界關注。  《美聯社》報導，川普在接受《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404547",
+          "published": "Wed, 15 Apr 2026 14:14:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "等不到奇蹟！日本新潟女國中生離奇失蹤2個多月後遺體尋獲",
+          "summary": "日本新潟縣十日町市15歲（失蹤時14歲）女國中生，1月26日從家裡外出後離奇人間蒸發，4月9日在同縣長岡市信濃川發現一具無名女屍，今（15日）確認就是失蹤的女孩。  據《TB...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5404536",
+          "published": "Wed, 15 Apr 2026 13:41:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
