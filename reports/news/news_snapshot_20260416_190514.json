@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-16T19:05:13.189022",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 18:40:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 15:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
+          "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+          "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 13:53:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "義大利驚傳銀行搶案25人遭挾持2小時　歹徒得手逃逸",
+          "summary": "一名義大利警方消息人士告訴法新社，3名搶匪今天闖入那不勒斯（Naples）一家銀行，挾持25名人質長達2小時，隨後帶著保險箱內的財物透過地道逃逸。  消息人士說，這些蒙面搶匪在上午11時30...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406618",
+          "published": "Fri, 17 Apr 2026 02:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本Panchi翻版！墨西哥赤猴寶寶遭遺棄 緊抱絨毛狗尋母愛",
+          "summary": "在墨西哥，6週大的赤猴（patas monkey）「Yuji」每天醒來，都緊緊抱著一隻絨毛玩具狗。這不只是一個玩具，在這個小靈長類動物被親生母親「卡瑪莉亞」（Kamaria）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406611",
+          "published": "Fri, 17 Apr 2026 01:37:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "因應中東情勢 日本擬釋出5000萬副醫療手套供應需求",
+          "summary": "中東戰爭影響石油相關產品供應，日本政府啟動應對措施，首相高市早苗16日晚間宣布，將自5月起釋出5000萬副國家儲備的醫療用手套，優先供應面臨短缺的醫療機構，穩定醫療體系運作。  日本富士新聞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406612",
+          "published": "Fri, 17 Apr 2026 01:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
