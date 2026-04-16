@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-16T15:24:31.571377",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 13:59:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 15:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ex-keeper Manninger dies after car hit by train",
+          "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+          "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 13:53:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國維州前副州長槍殺牙醫妻後自戕 兩青少年子女報警",
+          "summary": "警方表示，曾在副州長任內被控性侵而聲名狼藉的美國維吉尼亞州前副州長費爾法克斯（Justin Fairfax），在家中開槍殺害妻子瑟琳娜（Cerina Fairfax）後自殺身亡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406568",
+          "published": "Thu, 16 Apr 2026 23:09:59 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普自比耶穌、怒嗆教宗  基督教保守派鐵票傳裂痕",
+          "summary": "美國華盛頓郵報16日報導指出，總統川普近來行為愈發脫序，正將基督教右翼勢力的核心支持者容忍度推向極限。從自比耶穌、公然槓上教宗，到在復活節貼文使用粗鄙言詞，川普一連串舉動，讓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406561",
+          "published": "Thu, 16 Apr 2026 22:55:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "環太平洋地震帶發威！紐西蘭北方外海6.0地震 無海嘯威脅",
+          "summary": "南太平洋地區於當地時間17日凌晨1時30分（台灣時間16日晚間9時30分）發生強烈地震。根據美國地質調查所（USGS）觀測顯示，這起芮氏規模6.0的地震震央位於紐西蘭北方的克馬德...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406565",
+          "published": "Thu, 16 Apr 2026 22:52:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
