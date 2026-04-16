@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-16T05:27:13.878293",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+          "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+          "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 21:10:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Former US Marine pilot loses appeal against extradition from Australia",
+          "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
+          "link": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 02:17:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+          "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+          "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 11:25:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "旅韓注意！南韓航空公司擬漲國際線燃油費 創歷史新高",
+          "summary": "受中東戰爭持續影響，南韓航空公司5月預計調整國際航線客運燃油附加費，將飆漲至歷史新高。  韓聯社16日引述南韓航空業消息人士報導，今年3月16日至4月15日，新加坡航空燃油（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405583",
+          "published": "Thu, 16 Apr 2026 13:22:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "趁美赴中東……中國派船圍黃岩島硬槓菲律賓 衛星照曝光！",
+          "summary": "趁美軍對伊朗作戰撤出部分在印度、太平洋部署的兵力，《路透》取得的衛星影像顯示，中國出動多艘漁船及海上浮動屏障等，圍住與菲律賓有主權爭議的黃岩島入口水域。韓媒憂心，美軍的缺位很可能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405679",
+          "published": "Thu, 16 Apr 2026 12:59:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "土耳其校園槍擊案釀9死13傷 疑自戕襲擊者曾提及美國槍手",
+          "summary": "土耳其15日發生重大校園槍擊案，1名14歲少年在卡赫拉曼馬拉什省（Kahramanmaras）的1所學校開槍，造成9人死亡與13人受傷，而槍手也已經死亡。警方調查結果顯示，疑似...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405661",
+          "published": "Thu, 16 Apr 2026 12:22:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
