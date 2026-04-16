@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-16T02:06:14.732901",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+          "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+          "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 21:10:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+          "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+          "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 11:25:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Frank Gardner: What is China's role in the Iran war?",
+          "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+          "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Apr 2026 18:54:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "封鎖48小時無船突破！伊朗貨船沿海岸線偷雞 遭美驅逐艦攔截",
+          "summary": "美國軍方宣布，在對伊朗實施海上封鎖48小時內，已成功攔截10艘駛出伊朗港口的船隻。  美軍中央司令部在台灣時間今晨（16日）於社群平台X的1篇貼文中表示，昨1艘懸掛伊朗旗幟的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405476",
+          "published": "Thu, 16 Apr 2026 10:01:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "因應全球衝突升級 澳洲國防開支提高至GDP占比3％",
+          "summary": "澳洲政府今（16）日表示，鑑於全球武裝衝突不斷升級，澳洲將在2033年前將國防開支提高至GDP的3%。  根據《法新社》報導，澳洲國防部長馬勒斯（Richard Marle...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405433",
+          "published": "Thu, 16 Apr 2026 09:40:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "土耳其再爆校園槍擊案！14歲學生持槍掃射釀9死13傷 疑犯案後自戕",
+          "summary": "土耳其兩天內發生兩起重大校園槍擊案！東南部一所中學15日發生槍擊案，該校的14歲學生攜帶多把槍械到學校犯案，至少造成9死13傷，而這名14歲學生也已經死亡，疑似犯案後自戕。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5405365",
+          "published": "Thu, 16 Apr 2026 08:37:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
