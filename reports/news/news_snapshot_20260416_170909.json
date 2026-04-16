@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-16T17:09:07.644381",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 17:05:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 15:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
+          "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+          "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 13:53:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "促成以色列、黎巴嫩停火10天 川普邀雙方領袖白宮會談",
+          "summary": "美國總統川普16日宣布，以色列與黎巴嫩已同意停火10天，預計美東時間下午5點開始。在此之前，以色列與黎巴嫩境內受伊朗支持的武裝組織「真主黨」（Hezbollah）已交戰1個多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406605",
+          "published": "Fri, 17 Apr 2026 01:00:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：以色列和黎巴嫩將展開10天停火",
+          "summary": "美國總統川普（Donald Trump）今天宣布，以色列與黎巴嫩將自美東時間16日下午5時起，實施為期10天的停火。  美國有線電視新聞網（CNN）及國家廣播公司新聞網（NBC News）等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406609",
+          "published": "Fri, 17 Apr 2026 00:54:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日媒：警方透過繼父手機APP鎖定地點　終發現男童遺體",
+          "summary": "日本京都府南丹市11歲男童死亡事件，日媒採訪多名調查相關人士得知，警方利用男童繼父安達優季的智慧型手機應用程式（APP）取得移動資訊進行分析，進而鎖定關鍵搜尋地點，最終發現遺體及相關證物。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406608",
+          "published": "Fri, 17 Apr 2026 00:54:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
