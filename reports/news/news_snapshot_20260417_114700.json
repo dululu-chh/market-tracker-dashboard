@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-17T11:46:58.858504",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+          "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
+          "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 22:55:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
+          "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+          "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 08:15:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+          "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
+          "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 10:22:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "高市早苗上台首次！日本自衛隊護衛艦「雷」 17日通過台灣海峽",
+          "summary": "海上自衛隊護衛艦「雷」17日通過台灣海峽。日媒報導，這是海自艦艇第4次通過台灣海峽，前3次為2024年9月、2025年2月及同年6月之後。「雷」號通過台灣海峽後，將...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407485",
+          "published": "Fri, 17 Apr 2026 19:40:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "整頓「幽靈外賣」！中國開鍘拼多多等7電商平台 重罰166億餘元",
+          "summary": "為整頓網路餐飲外賣造假亂象，中國市場監管總局17日以違反食物外送安全規定為由，宣布開鍘包括「拼多多」與「美團」等7家電商平台，總計罰款與沒收人民幣35.97億元（約台幣166....…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407479",
+          "published": "Fri, 17 Apr 2026 19:20:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍史上最糟？中東戰場前線 「的黎波里號」士兵伙食慘照曝光",
+          "summary": "美國總統川普宣布，自美東時間13日上午10點（台灣時間13日晚間10點）起，封鎖荷姆茲海峽船隻通行。不過，美軍補給似乎遭遇困難。近日有外媒披露，目前位在前線的美軍兩棲突擊艦「的黎...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407358",
+          "published": "Fri, 17 Apr 2026 19:06:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
