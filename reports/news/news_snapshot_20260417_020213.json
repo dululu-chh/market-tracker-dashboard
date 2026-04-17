@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-17T02:02:10.951619",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Singer D4vd arrested in connection with death of missing teen girl",
+          "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+          "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 01:43:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 18:40:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 15:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "聯合國秘書長歡迎以黎停火 敦促各方尊重協議",
+          "summary": "美國總統川普16日宣布，以色列與黎巴嫩已同意停火10天，自16日下午5時開始。聯合國秘書長古特瑞斯（Antonio Guterres）對此表達歡迎，並敦促各方尊重停火協議。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406692",
+          "published": "Fri, 17 Apr 2026 09:36:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽遭封鎖 G7：準備好因應經濟衝擊",
+          "summary": "法國財政部長勒斯鳩（Roland Lescure）今天表示，荷莫茲海峽必須重新開放，「但不能不計代價」。他強調七大工業國集團（G7）領袖已做好準備，因應戰爭帶來的經濟衝擊。  國際貨幣基...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406695",
+          "published": "Fri, 17 Apr 2026 09:25:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "男童曾怨「怪叔叔」成最後警訊？京都殺人繼父求學經歷曝光！",
+          "summary": "日本京都府南丹市的11歲男童安達結希失蹤近3週後，13日被發現陳屍山區，繼父安達優季16日被捕，坦承犯行，相關調查仍在進行中。日本媒體與網友陸續披露繼父與安達結希相關的細節，指出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406670",
+          "published": "Fri, 17 Apr 2026 08:50:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
