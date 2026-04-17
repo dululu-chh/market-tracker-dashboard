@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-17T05:24:11.680825",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Singer D4vd arrested in connection with death of missing teen girl",
+          "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+          "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 01:43:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+          "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+          "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 18:40:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Turkish police detain 162 people over online posts about school shootings",
+          "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Apr 2026 15:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "赫格塞斯引聖經批媒體 稱反川記者「摧毀耶穌」",
+          "summary": "美國戰爭部長赫格塞斯（Pete Hegseth），今天引用聖經抨擊質疑伊朗戰事的媒體。他稱記者為密謀「摧毀耶穌」的猶太公敵法利賽人，白宮與教宗之間的關係更形矛盾。  路透社報導，赫格塞斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406950",
+          "published": "Fri, 17 Apr 2026 13:00:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美情資揭中國考慮供伊朗先進雷達 俄分享情報",
+          "summary": "美國媒體報導，美國與以色列對伊朗的戰爭爆發後幾天，美國情報單位發現有跡象顯示戰事可能擴大到戰場以外區域，俄羅斯與中國試圖協助伊朗削弱美以軍事行動。  美國哥倫比亞廣播公司新聞網（CBS ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406970",
+          "published": "Fri, 17 Apr 2026 12:55:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "二戰後大解禁！日本武器掀美國盟友「強烈興趣」 兩國最積極",
+          "summary": "隨著美國總統川普對盟友的安全承諾動搖，加上俄烏與中東戰爭導致美軍軍援吃緊，日本政府近期大幅放寬武器出口規定，引發國際高度關注。外媒指出，多國已對採購「日本製造」的先進武裝表現出強...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5406834",
+          "published": "Fri, 17 Apr 2026 11:58:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
