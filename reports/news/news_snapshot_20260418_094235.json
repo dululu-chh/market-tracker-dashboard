@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-18T09:42:33.977345",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices plunge as Iran says Strait 'open'",
+          "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+          "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 06:06:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+          "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 14:31:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+          "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+          "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 08:52:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "重新開放不到1天！ 伊朗軍方宣布：恢復封鎖荷姆茲海峽",
+          "summary": "伊朗昨天（17日）才宣布在與美以暫時停火期間開放荷姆茲海峽商業航運，但不到一天時間伊朗又轉彎，今天（18日）又宣布全面恢復對荷姆茲的嚴密監控與實質控制。  綜合外媒報導，負責...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408204",
+          "published": "Sat, 18 Apr 2026 17:31:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "泰國潑水節驚傳被噴「迷姦藥」 受害正妹稱：不只她受害",
+          "summary": "日前有名泰國女性在社群平台「TikTok」，貼出就醫畫面與藥檢證明，控訴她在曼谷參加潑水節活動時，疑似被摻有GHB（俗稱迷姦藥）的水槍擊中，昏倒在醫院，院方也證實，在她體內驗出相...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408215",
+          "published": "Sat, 18 Apr 2026 17:28:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "色膽包天！球場旁男球迷忘情狂揉女伴胸部 臉紅畫面全被播出",
+          "summary": "美國職棒大聯盟（MLB）日前一場比賽，在關鍵時刻場邊卻出現令人臉紅心跳的畫面。一名男球迷在觀眾席上狂揉身邊女伴的胸部，還大力甩動，而這一幕全被現場攝影機捕捉下來。  外媒報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408148",
+          "published": "Sat, 18 Apr 2026 17:22:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
