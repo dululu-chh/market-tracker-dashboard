@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-18T01:53:27.469903",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices plunge as Iran says Strait 'open'",
+          "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+          "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 21:41:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+          "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 14:31:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Kanye West concert in Poland cancelled over antisemitic comments",
+          "summary": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+          "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Apr 2026 18:19:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊戰首次 以色列24小時無空襲警報",
+          "summary": "以色列2月28日和美國聯手空襲伊朗，隨後遭到伊朗、黎巴嫩真主黨、葉門青年運動（另譯胡塞武裝）不斷回擊，從17日清晨至今天（18日）為止，是首次24小時內沒有空襲警報。  據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407746",
+          "published": "Sat, 18 Apr 2026 09:22:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱協議將含濃縮鈾移往美國 伊朗否認外運",
+          "summary": "美國總統川普今天表示，美國與伊朗達成的任何和平協議將包括雙方以挖掘機從伊朗核設施移除鈾，之後轉移至美國境內。伊朗則否認會將濃縮鈾運出國。  法新社報導，伊朗外交部稍早表示，伊朗濃縮鈾庫存...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407730",
+          "published": "Sat, 18 Apr 2026 09:19:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日艦過台海、春季不參拜靖國神社 矢板明夫讚高市：具備彈性的現實主義",
+          "summary": "一艘日本自衛隊艦艇昨日駛入台灣海峽，成為日本首相高市早苗政府上台後，首次派遣護衛艦通過台海的案例。對此資深媒體人矢板明夫表示，除了護衛艦通過台海，日前高市決定在本月靖國神社春季例...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5407721",
+          "published": "Sat, 18 Apr 2026 08:45:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
