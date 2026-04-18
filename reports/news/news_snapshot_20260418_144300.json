@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-18T14:42:58.718579",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+          "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+          "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 10:32:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+          "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+          "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 13:00:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Millions listen to Ethiopian star's song taking swipe at government",
+          "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track.",
+          "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 13:13:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "聯合國維和部隊遭真主黨襲擊 法國士兵1死3傷",
+          "summary": "法國總統馬克宏（Emmanuel Macron）今（18日）表示，聯合國駐黎巴嫩臨時部隊（UNIFIL）今日上午遭到黎巴嫩政治和武裝組織真主黨（Hezbollah）攻擊，造成1名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408319",
+          "published": "Sat, 18 Apr 2026 21:43:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗對「這3國」散播疑美論   美外交電文示警：輿論戰不夠力",
+          "summary": "根據新聞網站《政客》（Politico）17日獨家報導，美國國務院外交電報顯示，伊朗利用美國和以色列對伊朗的戰爭，發動影響力行動，正在多層面損害美國利益，包括危及美國的全球安全...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408405",
+          "published": "Sat, 18 Apr 2026 21:35:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗海軍再度關閉荷莫茲海峽 2船隻通報遭開火射擊",
+          "summary": "路透社引述航運消息人士報導，多艘商船今天試圖通過荷莫茲海峽（Strait of Hormuz）時收到伊朗海軍無線電訊息，被告知不得通行，同時有2艘船隻通報遭到槍擊。  路透社報導，多艘商...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408400",
+          "published": "Sat, 18 Apr 2026 21:19:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
