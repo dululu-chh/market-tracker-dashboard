@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-19T07:13:07.636464",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
+          "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
+          "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+          "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 18:09:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 16:44:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "旅日注意！日本仙台市中心 驚見「熊出沒」",
+          "summary": "日本宮城縣仙台市今（19）日驚傳市中心有一頭熊出沒，導致現場一片騷動。地方政府表示，這頭熊出現在鄰近縣政府大樓附近的住宅區，目前躲在一處公寓內部，警方與獵友會獲報後，已趕往現場設...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408785",
+          "published": "Sun, 19 Apr 2026 15:03:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "為救2000隻米格魯！美國上千人衝入實驗場 警放催淚瓦斯",
+          "summary": "約1000名人士衝入美國威斯康辛州1處實驗設施，試圖帶走場內2000隻米格魯犬。現場警方隨後發射催淚瓦斯與橡膠子彈驅離人群，並逮捕多名衝擊者。  根據《美聯社報》導，這起衝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408798",
+          "published": "Sun, 19 Apr 2026 14:14:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "悚！千里達墓地驚見56具棄屍 大部分都是嬰兒",
+          "summary": "可怕！加勒比海島國千里達及托巴哥，18日在千里達島庫穆托（Cumuto）墓地發現56具棄屍，其中有50具是嬰屍，警方目前正在調查遺體來源。  據《美聯社》報導，千里達警方表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408787",
+          "published": "Sun, 19 Apr 2026 13:59:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
