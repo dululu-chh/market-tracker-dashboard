@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-19T13:57:33.798199",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australia's most-decorated soldier vows to fight war crime charges",
+          "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
+          "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 07:47:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+          "summary": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
+          "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 12:52:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗：4/20重新開放東北部麥什赫德機場國際航班",
+          "summary": "伊朗民航局表示，明天起恢復東北部麥什赫德機場（Mashhad Airport）的國際航班。  伊朗國營電視台引述民航局的話表示：「麥什赫德機場國際客運航班，已獲准自明天起營運。」  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409162",
+          "published": "Sun, 19 Apr 2026 21:31:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "教宗抵安哥拉主持彌撒籲民眾消弭隔閡 估10萬人參加",
+          "summary": "羅馬天主教教宗良十四世抵達非洲4國行第3站安哥拉後，今天在首都魯安達近郊的基蘭巴市空地主持彌撒，現場估10萬人參加，他敦促民眾克服數十年來血腥衝突造成的隔閡。  路透社報導，這場彌撒預料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409104",
+          "published": "Sun, 19 Apr 2026 21:03:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美再爆校園槍擊案 愛荷華大學「多人」受傷",
+          "summary": "警方表示，美國中西部高等學府愛荷華大學（University of Iowa）19日凌晨發生槍擊案，「多人」受傷。愛大校方此前曾發布警報，指稱校園附近夜生活熱區傳出槍聲。目前還...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409090",
+          "published": "Sun, 19 Apr 2026 19:44:37 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
