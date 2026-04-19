@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-19T23:32:19.171040",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+          "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+          "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 21:39:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Eight children killed in Louisiana shooting, police say",
+          "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+          "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 22:54:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+          "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+          "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 21:09:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "拒停就開火！ 美軍驅逐艦砲打伊朗貨輪 砲擊瞬間畫面曝光",
+          "summary": "美國持續對伊朗執行海上封鎖，美國總統川普19日社群平台「真實社群」（Truth Social）發文宣布，美軍驅逐艦「史普魯恩斯號」（USS Spruance）攻擊伊朗貨輪「圖斯卡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409269",
+          "published": "Mon, 20 Apr 2026 07:17:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打臉！川普宣布美伊重啟談判 伊朗官媒：德黑蘭沒打算參加",
+          "summary": "美國總統川普19日宣布美伊雙方立即重啟談判，將派遣談判代表前往巴基斯坦首都伊斯蘭馬巴德（Islamabad）。數小時後，伊朗國營媒體19日報導，德黑蘭目前沒有計劃要參與對美國的新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409266",
+          "published": "Mon, 20 Apr 2026 06:59:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瑞典國寶變調！Volvo找胡錫進代言 挨批「靈魂賣給中共」",
+          "summary": "瑞典汽車製造商「富豪」（Volvo，中國稱「沃爾沃」）最近宣布新的品牌大使，居然是前中共黨媒「環球時報」總編輯胡錫進！瑞典「快報」（Expressen）常駐台灣的記者悠野（J...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409252",
+          "published": "Mon, 20 Apr 2026 06:08:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
