@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-19T02:06:11.033897",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+          "summary": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
+          "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 21:19:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+          "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 18:09:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 16:44:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊熊好兇！阿拉斯加山區演習遇棕熊 美軍2傷",
+          "summary": "小心熊隻！美國阿拉斯加2名陸軍士兵，16日在安克拉治山區演習時遭遇棕熊後受傷，目前正在接受治療，至於傷勢要等到通知家屬後才會對外說明。  據《美聯社》報導，這2名士兵參與了愛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408551",
+          "published": "Sun, 19 Apr 2026 09:39:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北韓發射數枚飛彈 南韓軍方分析數據中",
+          "summary": "南韓聯合參謀本部今日（19日）指出，北韓在當地時間今早6點10分針對朝鮮半島東部海域發射數枚型號不明的彈道飛彈，目前正對其具體數據與射程進行分析。  根據南韓《韓聯社》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408516",
+          "published": "Sun, 19 Apr 2026 09:37:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "意外高價！1912年鐵達尼號用過的救生衣拍賣 2850萬成交",
+          "summary": "1912年4月15日鐵達尼號沉沒時乘客所穿的1件救生衣，18日在英國迪韋齊斯（Devizes）進行拍賣，原本估價為25萬至35萬英鎊（約新台幣1064萬至1490萬元），沒想到最...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408536",
+          "published": "Sun, 19 Apr 2026 09:11:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
