@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-19T11:31:31.116562",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australia's most-decorated soldier vows to fight war crime charges",
+          "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
+          "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+          "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+          "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Apr 2026 18:09:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope says 'tyrants' speech was not aimed at Trump",
+          "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+          "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 07:47:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "委內瑞拉反對派領袖馬查多 不後悔把諾貝爾獎送給川普",
+          "summary": "委內瑞拉反對派領袖馬查多今天在西班牙首都馬德里舉行的記者會中表示，今年1月她象徵性地將所獲得的諾貝爾和平獎獎章贈予美國總統川普，對此她「毫不後悔」。  法新社報導，馬查多（Maria C...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409033",
+          "published": "Sun, 19 Apr 2026 19:23:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬來西亞水上村落暗夜陷火海 燒毀約200戶民宅",
+          "summary": "馬來西亞的官方新聞社馬新社（Bernama）報導，沙巴州（Sabah）一處沿海村莊今天發生大火，燒毀約200戶民宅，數百人被迫撤離。  馬新社報導，山打根（Sandakan）地區消防單位...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5408986",
+          "published": "Sun, 19 Apr 2026 19:06:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "曾拔擢「富豪淫魔」艾普斯坦密友  英國首相施凱爾獲內閣力挺",
+          "summary": "英國首相施凱爾（Keir Starmer）即將就任命與美國已故富豪淫魔艾普斯坦（Jeffrey Epstein）有長年私交的曼德森（Peter Mandelson）出使美國一事...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409051",
+          "published": "Sun, 19 Apr 2026 18:43:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
