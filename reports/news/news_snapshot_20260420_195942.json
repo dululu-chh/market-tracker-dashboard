@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-20T19:59:39.784001",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+          "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
+          "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 18:57:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US singer D4vd charged with murder stemming from death of missing teenage girl",
+          "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case.",
+          "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 19:23:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+          "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+          "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 14:54:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "少女陳屍車內案發7月後　美國歌手D4vd被控謀殺",
+          "summary": "美國洛杉磯郡檢察署今天宣布，歌手D4vd因涉嫌殺害14歲少女李華斯（Celeste Rivas Hernandez）遭到起訴。7個月前他名下疑似遭棄置的特斯拉車內發現這名少女腐爛遺體。  美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410328",
+          "published": "Tue, 21 Apr 2026 03:00:05 +0800",
+          "keywords": [
+            "特斯拉"
+          ]
+        },
+        {
+          "title": "每月砍1.5萬個製造工作！德國將閒置車廠轉為軍工廠力圖自救",
+          "summary": "作為歐洲數十年的製造引擎，面臨中國競爭與需求下滑的德國陷入二次世界大戰以來最漫長的經濟停滯期，然而在重整軍備與振興經濟的努力下，柏林正將閒置的汽車廠改造為軍工廠，期待將工業衰退...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410309",
+          "published": "Tue, 21 Apr 2026 00:02:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "鬆口氣！日本規模7.7地震 海嘯警報全面解除",
+          "summary": "日本氣象廳今天晚間宣布，針對下午青森縣觀測到最大震度5強地震所發布的海嘯注意報已全面解除，範圍涵蓋北海道至福島縣沿岸地區。  氣象廳說明，這起地震發生於日本當地時間下午4時53分（台灣時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410307",
+          "published": "Mon, 20 Apr 2026 23:47:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
