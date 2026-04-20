@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-20T05:36:05.121385",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+          "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+          "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 04:10:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil prices rise after Trump says Iranian ship seized",
+          "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+          "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 02:29:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+          "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+          "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Apr 2026 21:09:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美路易斯安那州槍擊案8童身亡  狠父犯案前才曬與女兒出遊照",
+          "summary": "美國路易斯安那州19日發生大規模槍擊事件，造成8名兒童喪生。媒體報導，槍擊案疑與家庭糾紛有關，凶嫌是7名死者的父親，案發前數小時，他才剛發布了1張與女兒出遊的照片。  路易斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409411",
+          "published": "Mon, 20 Apr 2026 13:32:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "2台人墜機魂斷阿蘇火山 日本政府擬出動「特殊技術」回收遺體",
+          "summary": "日本熊本縣阿蘇火山1月20日發生直升機墜機意外，造成2名台灣遊客與1名64歲日籍機師不幸罹難。由於失事地點位於火山活動頻繁且地形極度險峻的火山口內，搜救行動被迫暫時停止。目前相關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409478",
+          "published": "Mon, 20 Apr 2026 13:25:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不滿貨輪遭美艦砲擊  伊朗對美軍發動無人機襲擊",
+          "summary": "美國持續對伊朗執行海上封鎖，美軍驅逐艦「史普魯恩斯號」（USS Spruance）19日執行封鎖任務時，攔截伊朗貨輪「圖斯卡號」（Touska）並多次警告，後續「史普魯恩斯號」砲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5409660",
+          "published": "Mon, 20 Apr 2026 13:24:25 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
