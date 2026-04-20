@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-20T17:01:10.100175",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+          "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week,",
+          "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 14:54:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+          "summary": "Three boys and five girls, aged between three to 11, were killed in the shooting on Sunday, officials say.",
+          "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 12:56:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil prices rise after Trump says Iranian ship seized",
+          "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+          "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 14:41:33 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "每月砍1.5萬個製造工作！德國將閒置車廠轉為軍工廠力圖自救",
+          "summary": "作為歐洲數十年的製造引擎，面臨中國競爭與需求下滑的德國陷入二次世界大戰以來最漫長的經濟停滯期，然而在重整軍備與振興經濟的努力下，柏林正將閒置的汽車廠改造為軍工廠，期待將工業衰退...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410309",
+          "published": "Tue, 21 Apr 2026 00:02:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "鬆口氣！日本規模7.7地震 海嘯警報全面解除",
+          "summary": "日本氣象廳今天晚間宣布，針對下午青森縣觀測到最大震度5強地震所發布的海嘯注意報已全面解除，範圍涵蓋北海道至福島縣沿岸地區。  氣象廳說明，這起地震發生於日本當地時間下午4時53分（台灣時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410307",
+          "published": "Mon, 20 Apr 2026 23:47:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黎巴嫩總統：與以色列談判旨在終結戰事及占領",
+          "summary": "黎巴嫩總統奧恩今天指出，預計與以色列舉行的會談，其目的在於終結戰事及以色列對黎國南部的占領，他並任命前駐美大使領導談判代表團。  法新社報導，奧恩（Joseph Aoun）透過聲明表示，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410262",
+          "published": "Mon, 20 Apr 2026 23:32:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
