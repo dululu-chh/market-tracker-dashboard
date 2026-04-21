@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-21T11:02:22.957187",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+          "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+          "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 21:52:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+          "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
+          "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 05:57:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+          "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+          "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 10:13:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞360》美國抓包、中共急跳腳！談判前夕學者曝伊朗盤算恐破滅",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411360",
+          "published": "Tue, 21 Apr 2026 18:51:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "直升機墜入阿蘇火山 日本環境署要求營運商移除殘骸",
+          "summary": "今年1月下旬，日本熊本縣阿蘇火山發生一起觀光直升機墜落事故，造成2名台灣籍遊客、1名日籍駕駛不幸罹難。目前機體殘骸已在火山口內尋獲，當局擬出動「無人機重機具」回收遺體及直升機殘骸...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411155",
+          "published": "Tue, 21 Apr 2026 18:46:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "港府聲請法院充公黎智英財產  總金額逾5億元",
+          "summary": "香港政府本月初向法院申請充公壹傳媒集團創辦人黎智英涉及國安罪行的相關財產。入稟狀顯示，港府要求充公的財產包括黎智英名下17家公司的股份與多個銀行帳戶存款，目前已知總金額超過港幣1.27億元（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411125",
+          "published": "Tue, 21 Apr 2026 18:02:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
