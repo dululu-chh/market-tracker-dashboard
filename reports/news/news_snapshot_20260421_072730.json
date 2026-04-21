@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-21T07:27:29.027769",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+          "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+          "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 21:52:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+          "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
+          "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 05:57:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+          "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cu…",
+          "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 03:33:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "原定今年退役！「疣豬」攻擊機痛擊伊朗船艦 美空軍宣布服役到2030年",
+          "summary": "服役近50年的A-10「雷霆二式」（A-10 Thunderbolt II）攻擊機原定在今年退役，不過在伊朗戰爭爆發後，A-10仍在戰場上表現亮眼，美國空軍部長梅因克（Troy ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410940",
+          "published": "Tue, 21 Apr 2026 15:02:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國男埋伏通風管道9小時竊走680萬元黃金 3次變裝犯案全都錄",
+          "summary": "中國四川1起竊案近日引起關注。位於1間商場內的金飾店日前價值人民幣140多萬元（約新台幣680萬）的金飾不翼而飛，而商場內未有遭破壞的痕跡。警方隨後逮捕1名竊賊，發現他曾做過該商...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410876",
+          "published": "Tue, 21 Apr 2026 14:57:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "好大官威！中國國企董事長、總會計師 醉酒搭機還強迫升等",
+          "summary": "好大的官威！中國航空器材集團董事長、黨委書記任宇，和公司總會計師兼黨委趙保輝等人，2024年3月21日在德國法蘭克福機場準備搭機時，竟不顧趙保輝喝得酩酊大醉強行要求搭機，導致航班...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410919",
+          "published": "Tue, 21 Apr 2026 14:38:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
