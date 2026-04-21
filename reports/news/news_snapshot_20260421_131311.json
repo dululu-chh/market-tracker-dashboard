@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-21T13:13:09.438036",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+          "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+          "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 11:37:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+          "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
+          "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 12:28:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+          "summary": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+          "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 10:13:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "地圖曝光！非洲「這3國」卡總統專機  賴清德出訪史瓦帝尼被迫暫緩",
+          "summary": "由於中國介入施壓，總統府今（21日）傍晚發布，總統賴清德原訂明（22日）出訪非洲友邦史瓦帝尼暫緩，並說明因專機航程途經的塞席爾等3個非洲國家，無預警取消飛航許可，由於史瓦帝尼是非...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411335",
+          "published": "Tue, 21 Apr 2026 20:35:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴基斯坦官員證實 伊朗國會議長將出席美伊談判",
+          "summary": "儘管美國與伊朗都未公開說明美伊第2輪談判的舉行日期，不過巴基斯坦官員私下證實，伊朗方面將派出國會議長卡利巴夫（Mohammad Bagher Qalibaf）參與談判，預計他週三...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411429",
+          "published": "Tue, 21 Apr 2026 20:25:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "海事風險公司示警：有歹徒冒充伊朗 稱付錢可過荷姆茲",
+          "summary": "伊朗封鎖荷姆茲海峽，導致大批商船受困該海域的僵局仍未解，詐騙活動卻已趁虛而入。希臘海事風險管理公司20日警告，一些有貨輪受困該海域的航運公司，接獲冒充伊朗政府的詐騙訊息，宣稱支...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411423",
+          "published": "Tue, 21 Apr 2026 20:04:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
