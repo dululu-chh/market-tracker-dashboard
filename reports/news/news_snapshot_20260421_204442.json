@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-21T20:44:40.216394",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran sees mass redundancies from war with US and Israel",
+          "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+          "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 16:05:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+          "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+          "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 16:13:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+          "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
+          "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 16:25:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊談判進展未明　川普：美方處於有利位置",
+          "summary": "美國總統川普今天表示，美國在與伊朗的談判中處於有利地位；與此同時，美方代表團將在巴基斯坦與伊朗展開第2輪談判。  法新社報導，川普接受財經媒體CNBC訪問時說：「我們最終會達成一個很棒的協議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411620",
+          "published": "Wed, 22 Apr 2026 04:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "范斯仍未啟程赴巴基斯坦　美伊會談前景不明",
+          "summary": "隨著美國與伊朗為期2週停火進入倒數，預計率代表團赴巴基斯坦與德黑蘭會談的美國副總統范斯今天尚未離開華府，伊朗也未決定是否參與會談，雙方談判前景益發不明。  法新社報導，美伊對停火屆滿的時間點...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411619",
+          "published": "Wed, 22 Apr 2026 04:12:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "停火倒數美伊和談急煞車！美副總統范斯巴基斯坦之行取消 談判恐生變",
+          "summary": "隨著臨時停火協議即將到期，伊朗仍未決定是否參與和平談判，預定率領美國代表團前往巴基斯坦的副總統范斯（JD Vance），21日仍未離開華府。美國官員表示，范斯的行程已被取消並...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411615",
+          "published": "Wed, 22 Apr 2026 03:10:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
