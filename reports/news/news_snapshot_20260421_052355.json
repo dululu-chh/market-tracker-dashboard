@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-21T05:23:53.598529",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+          "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+          "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 21:52:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Apple names new chief executive to replace Tim Cook",
+          "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
+          "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Apr 2026 22:55:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+          "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cu…",
+          "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Apr 2026 03:33:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "航跡圖曝！又1艘伊朗貨輪通過荷姆茲海峽 企圖硬闖美軍封鎖",
+          "summary": "伊朗貨輪「圖斯卡號」（Touska）不聽美軍勸導，企圖強行通過封鎖，遭到美驅逐艦「史普魯恩斯號」（USS Spruance）開火癱瘓，現被美軍扣留；不過仍有再度有伊朗貨輪企圖硬闖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410861",
+          "published": "Tue, 21 Apr 2026 13:19:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本東京巨蛋城遊樂園驚傳員工摔落昏迷 今臨時停業",
+          "summary": "日本東京都文京區「東京巨蛋城遊樂園」，今（21日）有1名員工在進行檢查作業時不慎摔落，救護人員到場時發現他昏迷不醒，遊樂園隨後宣布臨時停業。  綜合日媒報導，這名員工是在東京...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410783",
+          "published": "Tue, 21 Apr 2026 13:18:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "怒罵緝毒犬「誤把泡麵當禁藥」 墨西哥海關被全網炎上",
+          "summary": "世界各國機場、港口、邊境等國境口岸，除了會駐守專業海關人員，還會派駐嗅覺靈敏的工作犬值勤，防止有害人事物入侵。近期傳出，一名日本旅客在墨西哥機場過境期間，行李被一隻阿金緝毒犬大聲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5410689",
+          "published": "Tue, 21 Apr 2026 13:08:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
