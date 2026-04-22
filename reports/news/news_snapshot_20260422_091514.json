@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-22T09:15:13.468846",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+          "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
+          "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 00:32:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+          "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+          "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 08:35:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+          "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+          "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 04:01:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "宇宙95％仍看不見！NASA新望遠鏡將找出數萬行星 直探「隱形世界」",
+          "summary": "人類可能即將找到數萬個全新世界。美國航太總署（NASA）21日公布新一代「羅曼太空望遠鏡」（Roman Space Telescope），預計找出數萬顆太陽系外行星，並探索構成...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412456",
+          "published": "Wed, 22 Apr 2026 17:09:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏戰重啟和談露曙光？烏克蘭外長：已要求土耳其主辦「澤普會」",
+          "summary": "烏克蘭積極尋求推動重啟陷入停滯的和平談判之際，外交部長西比哈指出，已經要求土耳其協助主辦總統澤倫斯基與俄羅斯總統普廷會談。  路透報導，西比哈（Andrii Sybiha）昨天向記者表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412477",
+          "published": "Wed, 22 Apr 2026 17:08:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「友誼」輸油管修復 烏克蘭將重啟俄油供應",
+          "summary": "烏克蘭1位官員告訴《法新社》，烏克蘭將在今（22）日「幾小時內」恢復向匈牙利和斯洛伐克輸送俄羅斯石油。  根據《法新社》報導，因俄羅斯襲擊而受損的「友誼」輸油管（Druzh...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412403",
+          "published": "Wed, 22 Apr 2026 16:50:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
