@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-22T05:21:47.186213",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+          "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+          "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 00:32:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+          "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+          "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 04:01:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+          "summary": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
+          "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 02:24:41 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "駭客變國家金庫！北韓靠加密竊案撐核武 近百億只是最新一筆",
+          "summary": "北韓駭客不只是網路犯罪者，更被外界視為國家資金來源之一。外媒指出，平壤當局長期透過加密貨幣竊案累積資金，相關收入被認為可用於支撐核武計畫，而近日近3億美元（約新台幣94億元）的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412070",
+          "published": "Wed, 22 Apr 2026 13:12:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "今年最大加密貨幣竊案！趁週末偷走近94億 疑北韓駭客下手",
+          "summary": "據受加密貨幣竊取事件影響方透露，某個聲名狼藉的北韓駭客組織很可能是上週末近3億美元（約台幣94億元）加密貨幣被盜事件的幕後黑手，這是今年已知最大的加密貨幣盜竊案。  根據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411991",
+          "published": "Wed, 22 Apr 2026 12:25:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "廣州麥當勞改掛「牡丹樓」招牌！半天被拆 原因藏驚人暗語",
+          "summary": "中國廣州一家麥當勞近日爆紅，原來是其大玩粵語諧音梗，掛上「牡丹樓」中文招牌，同時將紅膠凳、大葵扇等懷舊粵式元素搬入店內，迅速成為網紅打卡地點，但「牡丹樓」招牌掛出僅半天即被拆下，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5411922",
+          "published": "Wed, 22 Apr 2026 11:55:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
