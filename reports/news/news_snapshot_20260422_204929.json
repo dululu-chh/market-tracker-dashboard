@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-22T20:49:26.357748",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+          "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+          "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 16:19:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+          "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+          "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 18:10:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+          "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+          "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 17:04:33 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊會談前景未明　川普稱伊朗撤銷處決8名女性計畫",
+          "summary": "美國總統川普今天表示，在他呼籲伊朗釋放8名因參與反政府抗議而被捕的女性、以促進和平談判後，伊朗已終止原定的處決計畫。  法新社報導，川普在自家社群媒體「真實社群」（Truth Social）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412936",
+          "published": "Thu, 23 Apr 2026 04:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反制日艦過台海？ 共軍驅逐艦編隊經與那國島水道返航",
+          "summary": "中國軍方聲稱，包含1艘驅逐艦在內的數艘海軍艦艇編隊，在結束遠海能力測試返航途中，22日通過由日本沖繩縣管轄的兩座島嶼之間的水道。  《路透》報導，負責管轄中國東部、東海與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412928",
+          "published": "Thu, 23 Apr 2026 03:20:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英國網安首長示警　中俄伊已成最嚴重網攻威脅來源",
+          "summary": "英國國家網路安全中心（NCSC）首長霍恩今天發表演說時指出，英國當前遭遇的最嚴重網路攻擊是由俄羅斯、伊朗與中國等敵意國家發動。  美聯社報導，霍恩（Richard Horne）警告，英國正經...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412930",
+          "published": "Thu, 23 Apr 2026 02:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
