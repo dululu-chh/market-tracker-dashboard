@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-22T16:06:20.433468",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump family's crypto firm sued over alleged 'extortion'",
+          "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+          "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 15:57:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+          "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+          "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 11:19:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+          "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+          "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Apr 2026 15:00:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "消失的最高領袖 變伊朗戰時最佳緩衝",
+          "summary": "美國有線電視新聞網（CNN）22日分析指出，伊朗最高領袖穆吉塔巴．哈米尼在上任逾6週後，仍未公開露面，在伊朗政權面臨近半世紀以來最嚴峻生存危機之際，最高領袖的「缺席」格外引人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412906",
+          "published": "Wed, 22 Apr 2026 23:49:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "後備軍人年齡上限提高到「70歲」 德國提議引發辯論",
+          "summary": "德國後備軍人協會新任主席提出，應將後備軍人年齡上限提高至70歲，因應兵源不足問題，引發社會辯論。反對者認為，高齡者參軍將增加訓練與醫療負擔；支持者則表示，年齡不應成為參軍障礙，高齡者可從事工...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412900",
+          "published": "Wed, 22 Apr 2026 23:40:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "緬甸軍政府敏昂萊當選總統 考慮給翁山蘇姬「一些好消息」",
+          "summary": "泰國外交部長希哈薩今天表示，緬甸新任總統敏昂萊告訴他，遭到監禁的前文人政府實質領袖翁山蘇姬目前受到良好照顧，並說政府正就「一些好消息」進行考慮。  路透社報導，希哈薩（Sihasak P...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5412894",
+          "published": "Wed, 22 Apr 2026 23:15:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
