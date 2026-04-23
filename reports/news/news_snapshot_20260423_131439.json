@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-23T13:14:37.195622",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+          "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+          "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 11:08:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+          "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+          "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 04:25:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+          "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+          "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 08:37:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍攔截伊朗走私油輪 船隻目的地直指中國舟山",
+          "summary": "美國戰爭部（國防部）今（23）日宣布，美軍在印度洋攔截並扣押了一艘走私伊朗石油的油輪。這艘油輪原先目的地是中國浙江省舟山。  《美聯社》報導，戰爭部發文說，這艘偷運伊朗石油的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413980",
+          "published": "Thu, 23 Apr 2026 20:29:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗流亡王儲訪柏林被潑紅色液體 人無恙",
+          "summary": "流亡的伊朗反對派人物、前國王之子芮沙．巴勒維（Reza Pahlavi），23日訪問德國時，在柏林舉行記者會後，遭人潑紅色液體，所幸巴勒維並未受傷。  《美聯社》23日報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413995",
+          "published": "Thu, 23 Apr 2026 20:13:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗流亡王儲遇襲 男潑不明液體被逮",
+          "summary": "伊朗流亡王儲巴勒維（Reza Pahlavi）今（23）日在德國首都柏林遭一名男子潑灑不明橘紅色液體，所幸並無大礙，而肇事男子則當場被警方制伏逮捕。  《美聯社》報導，巴勒維...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413936",
+          "published": "Thu, 23 Apr 2026 20:00:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
