@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-23T19:02:09.830997",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+          "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+          "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 17:36:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "In Tehran, money is short and a return to war looms over daily life",
+          "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+          "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 11:26:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+          "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
+          "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 16:52:44 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "以色列防長：準備好恢復對伊朗戰爭　待美國開綠燈",
+          "summary": "以色列國防部長卡茲今天表示，以色列「已準備好恢復對伊朗的戰爭」，正在等待美國同意把伊朗打回「石器時代」。  法新社報導，卡茲（Israel Katz）透過影片發布如下聲明：「以色列國防軍（I...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414157",
+          "published": "Fri, 24 Apr 2026 01:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿拉斯加深海神秘「金色球體」 證實為巨型海葵基部殘骸",
+          "summary": "美國哥倫比亞廣播公司新聞網（CBS News）23日報導，2023年在阿拉斯加灣深海發現、曾引發全球關注的神秘「金色球體」，其身分終於揭曉。美國國家海洋暨大氣總署（NOAA）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414141",
+          "published": "Thu, 23 Apr 2026 23:45:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗新任最高領袖說話困難、需裝義肢！紐時揭遲未現身現聲原因",
+          "summary": "《紐約時報》23日根據多名伊朗現任、前任官員，以及熟悉內情消息人士說法，披露目前伊朗權力結構變化，也透露出新任最高領袖穆吉塔巴（Mojtaba Khamenei）傷勢。穆吉塔巴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414135",
+          "published": "Thu, 23 Apr 2026 23:30:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
