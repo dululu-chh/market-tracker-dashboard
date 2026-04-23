@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-23T15:48:31.782556",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+          "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+          "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 15:34:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "In Tehran, money is short and a return to war looms over daily life",
+          "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+          "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 11:26:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+          "summary": "Opposition parties accused security forces but the official report does not say who was responsible.",
+          "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 15:33:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗新任最高領袖說話困難、需裝義肢！紐時揭遲無聲影原因",
+          "summary": "《紐約時報》23日根據多名伊朗現任、前任官員，以及熟悉內情消息人士說法，披露目前伊朗權力結構變化，也透露出新任最高領袖穆吉塔巴（Mojtaba Khamenei）傷勢。穆吉塔巴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414135",
+          "published": "Thu, 23 Apr 2026 23:30:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗權力重心倒向革命衛隊 穆吉塔巴僅掛名「最高」領袖",
+          "summary": "《紐約時報》23日報導，獲選為伊朗新任最高領袖的穆吉塔巴（Mojtaba Khamenei），儘管接替遭美國和以色列狙殺的亡父哈米尼（Ali Khamenei）領導位置，但是迄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414132",
+          "published": "Thu, 23 Apr 2026 23:14:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不可能取代伊朗踢世界盃 義大利打臉美特使：資格必須在賽場贏得",
+          "summary": "美國特使尚波里接受英媒訪問，建議讓義大利取代伊朗參加世界盃足球賽。此建議在義大利體壇遭到一致反對，體育部長阿波狄、奧會主席布翁菲以奧今天都表態拒絕，認為晉級資格應在賽場取得，否則會感到被冒犯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414115",
+          "published": "Thu, 23 Apr 2026 23:00:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
