@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-23T11:04:11.708006",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+          "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+          "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 09:03:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+          "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+          "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 04:25:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+          "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+          "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 08:37:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "他曬出大馬機場「隱藏小秘密」 台日網友秒懂︰有人會靠杯！",
+          "summary": "中共政府對台動作頻頻，甚至以「一中原則」等名義脅迫友邦，從各方面極力打壓台灣在國際社會能見度。近期網紅攝影師「科七」出國旅遊，期間特意到馬來西亞機場一處「隱藏地點」打卡，畫面曝光...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413244",
+          "published": "Thu, 23 Apr 2026 18:52:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "這個手勢代表「厭男」？南韓陸軍徵兵海報上架3天急撤",
+          "summary": "南韓陸軍近日因一張徵兵海報引發爭議，內容中女兵以拇指與食指做出「捏合手勢」，被部分民眾解讀為帶有貶抑男性的象徵意涵。該海報張貼於首爾龍山站等交通樞紐僅3天，即於21日全面撤下...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413846",
+          "published": "Thu, 23 Apr 2026 18:23:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗已向荷姆茲海峽收通行費  法新社：僅放行少量船隻",
+          "summary": "伊朗已開始向通過荷姆茲海峽的船隻收取通行費，首筆款項已進入中央銀行帳戶。《法新社》23報導，這條全球能源要道目前僅有少量船隻被允許通過。  報導引述伊朗半官方《塔斯尼姆通訊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5413796",
+          "published": "Thu, 23 Apr 2026 17:53:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
