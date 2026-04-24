@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-24T13:11:10.062845",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+          "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 10:14:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+          "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+          "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 12:20:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+          "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+          "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 10:41:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "非洲之角！索馬利蘭戰略地位攀升 BBC：台灣布局盼聯美制中",
+          "summary": "總統賴清德近日原定訪問非洲友邦史瓦帝尼，但因中國干預而暫緩。外媒則指出，台灣正與索馬利蘭加速靠攏，並遊說美國為首夥伴投入更多關注，盼形成「區域聯防」反制中國施壓。  英國廣播公司新聞網（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415098",
+          "published": "Fri, 24 Apr 2026 21:04:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普政府重拳打擊詐騙園區 起訴2中國人、制裁柬埔寨富豪議員符國安",
+          "summary": "美國政府23日宣布針對東南亞跨國詐騙網的一系列行動，制裁一名涉及詐騙網的柬埔寨參議員及多名相關人士，另起訴兩名被控管理緬甸詐騙園區的中國公民。這波行動並凍結涉嫌用於洗錢的逾7億...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415105",
+          "published": "Fri, 24 Apr 2026 20:54:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國祕密入侵智慧裝置建大型惡意網路 英美10國示警",
+          "summary": "英國、美國、日本等總計10個國家聯合示警，與中國有關的惡意行為者常利用相對容易入侵的網路設備，例如手機等智慧型裝置，隱匿網路攻擊實際來源，以提高究責難度，且惡意行為者包含位於中國或與中國有關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415074",
+          "published": "Fri, 24 Apr 2026 20:47:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
