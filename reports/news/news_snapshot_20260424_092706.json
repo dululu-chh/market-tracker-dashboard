@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-24T09:27:04.403141",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+          "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+          "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 03:03:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Epstein housed abuse victims in London flats, BBC reveals",
+          "summary": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
+          "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 05:00:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+          "summary": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians.",
+          "link": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 09:01:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "抹除史達林恐怖統治記憶？受難者紀念地遭拆 引東歐國家抗議",
+          "summary": "「路透」報導，俄羅斯西伯利亞地區用於悼念蘇聯史達林時期處決受害者的紀念地，一夜之間遭到拆除，遭批評意在抹去史達林血腥統治的歷史記憶，使得冷戰時期深受蘇聯影響的波蘭、拉脫維亞、立...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414851",
+          "published": "Fri, 24 Apr 2026 17:16:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不滿涉及對台軍售 中國制裁7家歐盟實體列出口管制管控名單",
+          "summary": "中國商務部24日以涉及對台灣軍售，即日起將7家歐盟實體列入出口管制管控名單；列入名單的業者被禁止從中國進口或取得原產於中國的軍民兩用商品。  根據中媒，中國商務部以為維護國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414808",
+          "published": "Fri, 24 Apr 2026 17:03:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊停火協議如履薄冰！爆美軍已制定新計畫 「攻擊目標」曝光",
+          "summary": "美國與伊朗的停火協議岌岌可危。知情人士透露，美軍已經在著手制定計畫，準備在協議破裂時針對伊朗在荷姆茲海峽的軍事能力進行打擊。這些選項包括特別側重於對伊朗在荷姆茲海峽、南阿拉伯灣及...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414426",
+          "published": "Fri, 24 Apr 2026 15:09:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
