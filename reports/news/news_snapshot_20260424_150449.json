@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-24T15:04:48.401554",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+          "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 14:44:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+          "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+          "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 14:17:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+          "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+          "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 10:41:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊第2輪會談有望 伊朗官媒證實外長將赴巴基斯坦",
+          "summary": "伊朗國營媒體證實，伊朗外交部長阿拉奇今天將前往巴基斯坦；有美媒引述消息人士指出，巴方預期美國和伊朗將舉行第2輪談判。巴國近來一直在美伊間斡旋，以終結當前中東衝突。  在一名巴基斯坦官員透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415154",
+          "published": "Fri, 24 Apr 2026 22:56:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中方干預? 塞內加爾公告台灣獎學金不到一天撤銷",
+          "summary": "塞內加爾首都達卡市政府公告開放申請台北市提供的獎學金，隔天卻稱公告「無效」，還特意提及與中國的邦交。當地一名記者說，教育交流本身沒有問題，但外交關係複雜難料。  Senego、Senen...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415161",
+          "published": "Fri, 24 Apr 2026 22:20:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "本有機會防止荷姆茲海峽遭封鎖 CNN：川普政府低估伊朗決心",
+          "summary": "儘管美國總統川普宣稱，對伊朗軍事行動取得全面性的勝利，但德黑蘭封鎖關鍵能源航道荷姆茲海峽，迫使全球能源供應陷入動盪。美國有線電視新聞網（CNN）指出，川普政府在戰前低估了德黑蘭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415155",
+          "published": "Fri, 24 Apr 2026 22:01:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
