@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-24T05:31:03.468366",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+          "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+          "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 03:03:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+          "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+          "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 20:45:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Masked Iranian forces appear to seize ships in staged video",
+          "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
+          "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Apr 2026 18:15:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美媒Axios：旁觀伊朗戰爭 北京坐收漁利",
+          "summary": "美國與以色列對伊朗的戰爭不見盡頭。有分析指美國消耗大量先進彈藥、北京免費觀摩AI融入作戰，另靠綠能供應鏈優勢與充沛戰略儲油，讓中國成為這場衝突的隱形獲益者。  Axios新聞網的分析指出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414495",
+          "published": "Fri, 24 Apr 2026 13:22:48 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "狂灑逾3400萬！韓媒：酷澎個資外洩後全力遊說美政界",
+          "summary": "電商平台酷澎（coupang）去年發生大規模會員個資外洩事件。南韓媒體披露，事件爆發後，酷澎便全力向美國政界展開遊說。  路透報導，本月21日，美國聯邦議員聯名致函南韓駐美大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414275",
+          "published": "Fri, 24 Apr 2026 13:18:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中峰會在即 川普盟友戴恩斯下週率團訪中試水溫",
+          "summary": "「南華早報」今天引述消息人士報導，在5月14日至15日美中峰會前夕，美國總統川普的盟友、聯邦參議員戴恩斯下週將率領跨黨派代表團訪問中國。華府此時正就貿易、科技競爭以及中國與伊朗關係等議題，加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5414531",
+          "published": "Fri, 24 Apr 2026 13:00:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
