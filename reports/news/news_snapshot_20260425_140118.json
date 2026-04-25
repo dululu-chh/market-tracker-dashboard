@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-25T14:01:16.554283",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+          "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
+          "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 11:21:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Seven dead in major Russian attack on Ukraine",
+          "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+          "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 12:29:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+          "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+          "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 10:52:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中東戰火最大贏家？美國每日石油出口近1290萬桶創新高",
+          "summary": "中東關鍵能源航道荷姆茲海峽遭伊朗封鎖，切斷全球能源供應，使能源大國美國從中受益，上週的原油及石油產品出口量創下新高，達到每日近1290萬桶。  「華爾街日報」（WSJ）報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415936",
+          "published": "Sat, 25 Apr 2026 21:21:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "告別美麗的痛苦！南韓多家航空公司擬廢高跟鞋 允空姐穿運動鞋",
+          "summary": "空姐穿高跟鞋的傳統即將走入歷史。為減輕空姐的身體負擔並強化機內工作效率，包括行業龍頭大韓航空（Korean Air）在內的多家南韓航空公司，正陸續修改服裝規定，准許空姐穿著運動鞋...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415892",
+          "published": "Sat, 25 Apr 2026 20:57:42 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "白堊紀大海怪！長達19公尺、遠古巨型章魚有「利齒」",
+          "summary": "恐龍稱霸陸地的白堊紀年代，海洋中的頂級掠食者可能不只有鯊魚、滄龍和蛇頸龍。根據一份23日發表的研究，一種體型如北歐傳說中的大海怪「克拉肯」（Kraken）般巨大的章魚，生活在白...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415912",
+          "published": "Sat, 25 Apr 2026 20:37:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
