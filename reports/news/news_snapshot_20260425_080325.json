@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-25T08:03:23.943689",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+          "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 16:04:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+          "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor.",
+          "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 00:10:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+          "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+          "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Apr 2026 22:55:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "赴南韓濟州島旅遊小心！中國扒手橫行 警為此成立專案小組",
+          "summary": "南韓旅遊勝地濟州島對中國旅客免簽，但近來不斷發生中國人四處扒竊的案件，濟州島警方為此成立了專案小組，專門處理中國扒手的犯罪行為。  據韓媒《中央日報》報導，1名40多歲的中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415629",
+          "published": "Sat, 25 Apr 2026 15:19:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬克宏稱美中俄領袖強烈反歐 籲歐洲覺醒團結",
+          "summary": "法國總統馬克宏（Emmanuel Macron）今天將美國總統川普、俄羅斯總統普丁（Vladimir Putin）及中國國家主席習近平相提並論，稱這3位世界領袖均「強烈反對」歐洲的立場。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415561",
+          "published": "Sat, 25 Apr 2026 14:48:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美16歲少女姦殺案44年未破 如今靠「這方法」逮捕4嫌",
+          "summary": "美國路易斯安那州16歲少女夏普（Roxanne Sharp），1982年遭姦殺陳屍在聖坦曼尼教區（St. Tammany Parish）的樹林裡，此後多年難以偵破。不過，有關夏普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5415581",
+          "published": "Sat, 25 Apr 2026 14:37:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
