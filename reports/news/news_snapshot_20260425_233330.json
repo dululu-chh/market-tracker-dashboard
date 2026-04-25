@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-25T23:33:27.254395",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+          "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+          "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+          "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
+          "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 21:13:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+          "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+          "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 17:40:51 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊會談破局！川普突撤美方代表團 狠批德黑蘭高層內鬥混亂",
+          "summary": "美國總統川普25日突然宣布，取消與伊朗代表原定於巴基斯坦首都伊斯蘭馬巴德（Islamabad）舉行的會談。這場會議原本被外界視為雙方針對終結美伊戰爭、推動全面停火協議的關鍵協...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5416024",
+          "published": "Sun, 26 Apr 2026 06:03:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "星期專論》川普的伊朗戰爭正悄悄改寫中國的侵台劇本",
+          "summary": "◎謝蘭尼（Brahma Chellaney）   這場始於二月廿八日針對伊朗的軍事行動，迅速演變為當代規模最大的能源供應中斷事件。有別於一九七〇年代產油國發動禁運所引發的石油危機，美國總統川普成為現代史上，透過直接軍事行動引發骨牌效應般全球能源危機的第一人。   在此過程中，川普也讓台灣…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752392",
+          "published": "Sun, 26 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽封鎖 美能源出口創新高",
+          "summary": "〔編譯林家宇／綜合報導〕華爾街日報廿五日報導，受波斯灣能源斷供衝擊，亞洲與歐洲將目光轉向美國，推動美能源出口大幅提升，上週的原油及石油產品出口量創下新高，達到每日近一二九〇萬桶。近日有超過六十艘準備載運石油的超級油輪駛入墨西哥灣，約是伊朗戰爭前的三倍，代表美國的能源出口將持續高漲一段時間。 在這波…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752426",
+          "published": "Sun, 26 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
