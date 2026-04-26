@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-26T15:38:32.611173",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+          "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+          "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 04:22:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+          "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+          "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+          "summary": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+          "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 00:34:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "黎巴嫩真主黨反駁以色列指控 反嗆以違反停火協議",
+          "summary": "黎巴嫩激進組織「真主黨」（Hezbollah）26日駁斥以色列總理納坦雅胡（Benjamin Netanyahu）稱該組織危害停火協議的指控，並稱將持續對以色列違反停火協議與佔...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5416809",
+          "published": "Sun, 26 Apr 2026 23:27:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮記者晚宴槍擊案 英王查爾斯訪美規劃恐生變",
+          "summary": "美國白宮記者協會25日舉行的晚宴驚傳槍擊事件，總統川普與第一夫人梅蘭妮亞（Melania Trump）安全撤離。白金漢宮26日表示，英國國王查爾斯三世（King Charle...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5416810",
+          "published": "Sun, 26 Apr 2026 23:25:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮記協槍擊案驚魂 川普趁機力推白宮頂級維安宴會廳",
+          "summary": "白宮記者協會（WHCA）25日舉行年度晚宴，不料卻發生槍擊事件。美國總統川普趁機推銷他的白宮宴會廳計畫，聲稱若有這座固若金湯的宴會廳，槍擊事件就不會發生。  川普26日在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5416805",
+          "published": "Sun, 26 Apr 2026 23:16:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
