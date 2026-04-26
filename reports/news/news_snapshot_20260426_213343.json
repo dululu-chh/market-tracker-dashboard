@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-26T21:33:41.882803",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+          "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+          "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 18:37:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+          "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+          "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 04:22:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+          "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+          "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中英對照讀新聞》Volunteers turn a fan’s recordings of 10,000 concerts into an online treasure trove 志工將1位歌迷錄製的1萬場演唱會 整理成1個線上寶庫",
+          "summary": "◎盧永山  On July 8, 1989, a young music fan named Aadam Jacobs, with a compact Sony cassette recorder in his pocket, went to see an up-and-coming rock …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752531",
+          "published": "Mon, 27 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "展現韌性不改行程 川普自嘲「總統是危險職業」",
+          "summary": "「脫險清單」再添一筆紀錄 美媒︰美國總統無人可相提並論 〔國際新聞中心／綜合報導〕美國總統川普廿五日晚間出席白宮記者協會年度晚宴時，宴會廳外驚傳槍響。雖然川普在特勤人員護衛下安全撤離，但這起驚魂事件再度引發國際社會對美國政治暴力升溫的關注。川普則展現政治韌性，強調自己無意減少公開露面或改變行程。\r…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752553",
+          "published": "Mon, 27 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普出席 白宮記協晚宴傳槍響",
+          "summary": "美國總統川普與第一夫人梅蘭妮亞25日晚間出席白宮記者協會晚宴時，一名槍手闖入華盛頓希爾頓飯店宴會廳外的安檢站，與警方爆發槍戰，特勤人員隨即掩護川普夫婦與內閣首長等要員緊急撤離，現場數百名政要與賓客驚恐躲避。從事電玩開發的31歲槍手已遭當局逮捕。\b（國際新聞中心）  …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752494",
+          "published": "Mon, 27 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
