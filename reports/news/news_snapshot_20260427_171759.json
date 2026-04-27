@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-04-27T17:17:58.253709",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says King will be 'very safe' during US visit after security talks",
+          "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 09:19:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pakistan accused of attacking Afghan university",
+          "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+          "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 16:54:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Gunmen raid Nigerian orphanage and kidnap children",
+          "summary": "The attack saw 23 children and the facility's proprietress kidnapped by gunmen on Sunday.",
+          "link": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 15:39:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "普丁接見伊朗外長　稱將全力協助中東和平",
+          "summary": "俄羅斯總統普丁今天在聖彼得堡（Saint Petersburg）接見伊朗外交部長阿拉奇時表示，俄國將盡一切努力協助實現中東和平。  法新社報導，阿拉奇（Abbas Araghchi）抵達俄羅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417860",
+          "published": "Tue, 28 Apr 2026 00:54:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "2025全球軍費飆升逼近2.9兆美元創新高 亞太國家軍事支出創16年來最大增幅",
+          "summary": "瑞典斯德哥爾摩國際和平研究所（SIPRI）27日發布最新報告指出，由於全球不安全感加劇與各國重新武裝的趨勢，2025年全球軍事支出總額已逼近2.9兆美元（約新台幣91兆元），...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417856",
+          "published": "Tue, 28 Apr 2026 00:42:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼首都近郊驚傳火車對撞事故　受害者人數不明",
+          "summary": "印尼多家媒體報導，首都雅加達附近勿加西市（Bekasi）今天發生兩列火車對撞事故。國營印尼鐵路公司（KAI）表示，現場有受害者，目前正進行疏散作業。  法新社報導，印尼鐵路公司發言人安恩（A...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417854",
+          "published": "Tue, 28 Apr 2026 00:18:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
