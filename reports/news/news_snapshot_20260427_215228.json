@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-27T21:52:26.782966",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 21:14:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says King will be 'very safe' during US visit after security talks",
+          "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 09:19:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pakistan accused of attacking Afghan university",
+          "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+          "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 16:54:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "肩並肩軍演 多國軍艦排開 氣勢壯觀",
+          "summary": "〔駐日特派員林翠儀／綜合報導〕日本自衛隊今年首次正式參加美國和菲律賓的年度「肩並肩」（Balikatan）聯合演習，防衛省統合幕僚監部在社群平台X張貼「多國間海上訓練」的海上大合照，顯示美國、日本、菲律賓、加拿大和澳洲等國多艘船艦一字排開，極為壯觀。  統合幕僚監部在貼文中表示，自衛隊將持續透過…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752629",
+          "published": "Tue, 28 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "紐時踢爆Labubu用新疆棉 面臨列美黑名單",
+          "summary": "在全球掀起熱潮的「Labubu」玩偶，被紐約時報踢爆部分產品含有來自中國新疆維吾爾自治區的棉花，可能導致生產Labubu的中國品牌「泡泡瑪特」，遭美國列入進口黑名單。紐時指出，相關檢測是由台灣機構執行。根據美國2021年通過的「維吾爾強迫勞動預防法」，全面禁止進口全部或部分在新疆生產的產品，除非進口…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752660",
+          "published": "Tue, 28 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮記協晚宴槍手鎖定政要 可能含川普",
+          "summary": "〔編譯林家宇／綜合報導〕美國政要齊聚一堂的白宮記者協會晚宴，發生槍手試圖闖入的嚴重維安事件，引發國際社會關注。美國代理司法部長布蘭希（Todd Blanche）廿六日公布初步調查結果，顯示槍手鎖定的對象為政府要員，可能還包括總統川普本人。 布蘭希在國家廣播公司（NBC）節目中透露，調查人員已從槍手…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1752661",
+          "published": "Tue, 28 Apr 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
