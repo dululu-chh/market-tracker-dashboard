@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-27T08:13:16.695775",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+          "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
+          "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 02:31:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil prices rise as US-Iran peace talks stall",
+          "summary": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+          "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 06:03:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+          "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
+          "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 05:03:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "白宮晚宴突發槍擊現場現混亂 神秘女子淡定「搜刮紅酒」引熱議",
+          "summary": "25日晚間，美國白宮記者協會晚宴突發槍擊案，導致晚宴中斷。正當與會的政要、貴賓與記者在驚恐中倉皇逃命時，現場卻捕捉到極其突兀的畫面。一名身穿黑色皮草的女子被拍到在混亂現場中，竟淡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417350",
+          "published": "Mon, 27 Apr 2026 16:08:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗外長指責美國要求過高 導致上一輪談判失敗",
+          "summary": "在原定於巴基斯坦舉行的第二輪美伊會談破裂後，擬與俄羅斯總統普廷會晤的伊朗外交部長阿拉奇（Abbas Araghchi）今（27）日抵達俄羅斯，並指責美國導致上一輪和平談判失敗。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417390",
+          "published": "Mon, 27 Apr 2026 16:07:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓疑出現蛇蠍女模仿犯！她約會對4男下藥竊走百萬元財物",
+          "summary": "南韓20歲蛇蠍女金素英（김소영，音譯），去年底至今年2月約出男性到汽車旅館後下藥，導致2人死亡後被捕，沒想到如今疑似出現模仿犯，1名27歲高姓女子分別對約會的4名男性下藥並洗劫財...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417382",
+          "published": "Mon, 27 Apr 2026 15:48:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
