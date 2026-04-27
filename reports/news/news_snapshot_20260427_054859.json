@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-27T05:48:57.952994",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says he 'wasn't worried' during Washington press dinner shooting",
+          "summary": "CBS News, the BBC's US partner, reports the suspect wrote a document saying he wanted to target Trump administration officials. He is due in court on Monday.",
+          "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 04:24:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+          "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+          "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Apr 2026 04:22:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+          "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+          "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「看不見的國家」巴西放映 民主自由感動僑胞與網紅",
+          "summary": "南美三國巴拉圭、阿根廷、巴西串連，四月份接力放映「看不見的國家紀錄片」。由巴西台灣同鄉會主辦、巴西台灣文化協會（ICBT）協辦的壓軸場，25日假聖保羅僑教中心放映，吸引...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417198",
+          "published": "Mon, 27 Apr 2026 12:43:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本國道巴士驚傳歹徒持刀 警方衝進車內逮人",
+          "summary": "日本26日晚間從東京車站出發開往山口縣萩市的高速公路巴士，今（27日）清晨5時25分許駛至廣島縣時驚傳有乘客持刀，警方獲報後衝入車內逮人。  綜合日媒報導，這輛巴士開到廣島縣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417160",
+          "published": "Mon, 27 Apr 2026 12:41:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白宮晚宴槍手鎖定川普內閣！歐巴馬發聲 籲美國人拒絕暴力",
+          "summary": "美國白宮記者協會美東時間25日舉行晚宴，期間驚傳槍響，總統川普（Donald Trump）等人緊急撤離現場，隨後嫌犯當場被捕。前總統歐巴馬（Barack Obama）26日呼籲美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417080",
+          "published": "Mon, 27 Apr 2026 12:20:45 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
