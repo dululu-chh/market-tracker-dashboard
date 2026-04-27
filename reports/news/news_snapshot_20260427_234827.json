@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-27T23:48:25.726489",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 21:14:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says King will be 'very safe' during US visit after security talks",
+          "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 09:19:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pakistan accused of attacking Afghan university",
+          "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+          "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 16:54:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗提重啟荷姆茲  魯比歐解析其背後真意：對美國來說無法接受",
+          "summary": "美國新聞網站「Axios」27日報導揭露，伊朗透過巴基斯坦向美國提交新協商方案，同意重啟荷姆茲海峽、藉此結束戰爭，但也要求華府結束對德黑蘭的海上封鎖，被美國視為頭號目標的核協議則...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417893",
+          "published": "Tue, 28 Apr 2026 07:40:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷會晤伊朗外長 稱將全力協助中東和平",
+          "summary": "原定於巴基斯坦舉行的第二輪美伊會談破裂後，美國與伊朗之間的和平努力陷入僵局，伊朗外交部長阿拉奇（Abbas Araghchi）更前往俄國與俄羅斯總統普廷會晤，並指責是美國導致談判...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417902",
+          "published": "Tue, 28 Apr 2026 07:32:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "最重無期徒刑！白宮記協晚宴槍手首出庭 被控暗殺川普未遂",
+          "summary": "美國總統川普及多名內閣要員25日出席白宮記者協會晚宴時驚傳槍響。涉嫌開槍的男子艾倫（Cole Tomas Allen）27日被控暗殺川普未遂，若罪名成立，他最重將面臨無期徒刑。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5417888",
+          "published": "Tue, 28 Apr 2026 07:28:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
