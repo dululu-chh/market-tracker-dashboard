@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-28T08:14:49.361207",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+          "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+          "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:41:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+          "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+          "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:19:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 06:09:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "太離奇！日本神栖市長選舉同票用抽籤決定後又宣布當選無效",
+          "summary": "曲折離奇！日本茨城縣神栖市去年11月舉行市長選舉，由尋求連任的67歲市長石田進對決65歲前市議員木內敏之，雙方皆拿到1萬6724票，以抽籤決定是木內敏之當選，不過茨城縣選舉委員會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418566",
+          "published": "Tue, 28 Apr 2026 16:08:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉操縱股價罪名逆轉改判有罪 南韓前第一夫人金建希二審加重判刑4年",
+          "summary": "南韓前第一夫人金建希涉嫌貪污受賄案，今（28日）進行二審宣判，其中涉嫌操縱德意志汽車股價部分，一審判決無罪，二審認定她並非單純的「金主」或「幫助犯」，而是積極參與操縱市場行為的共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418500",
+          "published": "Tue, 28 Apr 2026 15:49:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "接觸南韓娛樂恐喪命！ 北韓在新冠疫情期間處決人數大幅上升",
+          "summary": "南韓人權組織「轉型正義工作組」（Transitional Justice Working Group）今（28）日發布的1份報告顯示，北韓在新冠疫情期間大幅增加了死刑執行數量，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418505",
+          "published": "Tue, 28 Apr 2026 15:43:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
