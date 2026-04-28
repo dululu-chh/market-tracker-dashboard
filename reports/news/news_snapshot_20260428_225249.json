@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-28T22:52:47.728422",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Comey charged with threatening Trump's life in Instagram post",
+          "summary": "The charge stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 22:51:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "United Arab Emirates to quit oil cartel Opec",
+          "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
+          "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 16:24:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+          "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+          "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 19:43:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美期中選舉倒數壓力大 路透：川普恐片面宣布對伊朗戰爭勝利",
+          "summary": "美國官員與知情人士透露，美國情報機構正在評估，若總統川普針對歷時兩個月的伊朗戰爭片面宣布獲勝，德黑蘭方面將會作何反應。由於這場造成數千人喪生的戰事已成為白宮的政治包袱，並可能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419142",
+          "published": "Wed, 29 Apr 2026 06:34:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美海上封鎖奏效！伊朗石油出不去 面臨無處可放窘境",
+          "summary": "首次上稿 04-28 22:16更新時間 04-29 06:30 華爾街日報（WSJ）報導，美伊軍事停戰後進入消耗戰階段，德黑蘭目標是要爭取時間，使國際能源市場早一步崩盤。倫...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419070",
+          "published": "Wed, 29 Apr 2026 06:30:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊喬不攏！ 川普：伊朗自稱「陷入崩潰」求開放荷姆茲",
+          "summary": "首次上稿 04-28 22:14更新時間 04-29 06:22 美國與伊朗的和談陷入僵局之際，美國總統川普28日發文，表示伊朗向他表示該國陷入「崩潰狀態」，希望美國盡快打開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419072",
+          "published": "Wed, 29 Apr 2026 06:22:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
