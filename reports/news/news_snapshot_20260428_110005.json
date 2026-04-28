@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-28T11:00:03.257945",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+          "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+          "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:41:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+          "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+          "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:19:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 06:09:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "歐盟代表會晤東協外長 籲勿買俄油「資助侵烏」",
+          "summary": "歐盟外交和安全政策高級代表卡拉斯（Kaja Kallas）週二（28日）呼籲東南亞盟友，在因應中東衝突引發的燃油短缺時，切勿轉向俄羅斯購買石油。卡拉斯強調，俄國的石油收益將用於侵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418710",
+          "published": "Tue, 28 Apr 2026 18:53:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "戰爭看不到盡頭？ 以軍總參謀長警告：2026年仍可能3線持續作戰",
+          "summary": "在美國和伊朗和談陷入僵局之際，以色列國防軍總參謀長薩米（Eyal Zamir）27日警告，以國軍方2026年仍可能在加薩走廊與哈瑪斯（Hamas）的戰爭、對伊朗和黎巴嫩真主黨（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418854",
+          "published": "Tue, 28 Apr 2026 18:40:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "詭！「飯後吃西瓜」一家4口不適送醫全喪命 警不排除謀殺",
+          "summary": "印度人口最多的城市孟買（Mumbai），近日發生一起引發網路熱議的「滅門」慘案！一戶人家在家裡吃完飯後，一起享用西瓜，沒想到當天一家四口人全都喪命。目前警方懷疑是食物中毒，已將案...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418668",
+          "published": "Tue, 28 Apr 2026 18:08:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
