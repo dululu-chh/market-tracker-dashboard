@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-28T05:54:40.608004",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 21:14:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says King will be 'very safe' during US visit after security talks",
+          "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+          "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 09:19:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pakistan accused of attacking Afghan university",
+          "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
+          "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Apr 2026 16:54:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本廣島製藥廠爆炸起火 5人受傷送醫",
+          "summary": "日本廣島縣三次市南畑敷町的「丸善製藥」工廠，今（28日）中午11時35分許（台灣時間上午10時35分）驚傳廠區內有2個儲槽爆炸並起火，造成5人受傷送醫。  綜合日媒報導，三次...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418373",
+          "published": "Tue, 28 Apr 2026 13:35:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "詐領能登地震保險金80萬 社會福利法人前理事長辯稱：誤解制度",
+          "summary": "2024年元旦能登半島地震後，石川縣輪島市的社會福祉法人「弘和會」前理事長畝和弘，因涉嫌詐領石川縣羽咋市福祉避難所約400萬日圓（約新台幣80萬元）的人事費用，被以詐欺罪起訴。該...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418312",
+          "published": "Tue, 28 Apr 2026 13:34:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "購菸年齡每年加1歲！ 英國禁菸法本週上路 電子煙另行管制",
+          "summary": "英國將實施一項前所未見的控菸制度。新法透過「購菸年齡每年調高一歲」的設計，使2009年後出生者終身無法合法購買香菸。該法案已完成國會程序，預計於本週稍晚獲得王室御准後正式成為法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5418330",
+          "published": "Tue, 28 Apr 2026 13:20:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
