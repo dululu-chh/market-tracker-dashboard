@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-28T15:25:15.260272",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+          "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+          "link": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:41:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+          "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+          "link": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 00:19:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+          "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+          "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 15:08:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國反政府暴力創30年新高 極左派攻擊數首超極右",
+          "summary": "美國總統川普26日晚間出席在華府舉行的白宮記者協會晚宴時發生槍擊事件，震驚各界。美國媒體分析，美國反政府暴力事件創30年新高，極左派攻擊數去年首度超越極右派。  華爾街日報（The Wa...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419047",
+          "published": "Tue, 28 Apr 2026 23:16:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲學者：中國於南海續建人工島  鞏固實際控制格局",
+          "summary": "澳洲西雪梨大學（Western Sydney University）國際法學者包蒂斯塔向中央社指出，隨著中國近期於西沙群島羚羊礁填海造地，顯示中國試圖再次藉由改造該區地形，鞏固對南海的實際控...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419086",
+          "published": "Tue, 28 Apr 2026 23:03:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿聯不願受限退出OPEC 凸顯與沙烏地決策分歧",
+          "summary": "阿拉伯聯合大公國今天宣布將退出石油輸出國家組織（OPEC）及石油輸出國家組織與夥伴國（OPEC+）聯盟，被視為反映阿聯尋求更大能源決策空間，也凸顯其與沙烏地阿拉伯長年來在產量與區域政治的分歧...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419081",
+          "published": "Tue, 28 Apr 2026 22:54:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
