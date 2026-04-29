@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-29T22:59:42.367188",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+          "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+          "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 22:49:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+          "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 20:24:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+          "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
+          "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 19:51:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普和普廷通話1.5小時  俄羅斯想幫美國處理伊朗濃縮鈾",
+          "summary": "美國與伊朗之間的協議遲遲未能達到共識，美國總統川普29日與俄羅斯總統普廷通話約1.5小時，兩人除了談到烏俄戰爭，也談到目前美伊戰爭陷入的僵局。川普提到，普廷在電話中提出可幫助美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420461",
+          "published": "Thu, 30 Apr 2026 06:47:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前　美參議員擬封殺中國製汽車及零組件進口",
+          "summary": "在美國總統川普即將於數週後會晤中國國家主席習近平之際，美國兩名聯邦參議員今天提出一項跨黨派法案，擬禁止中國製汽車及其零組件進口。  美國國家廣播公司新聞網（NBC News）報導，俄亥俄州共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420454",
+          "published": "Thu, 30 Apr 2026 05:45:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "紐約市長見英王先放話！促歸還印度「光之山」巨鑽",
+          "summary": "英國國王查爾斯三世（King Charles III）與王后卡蜜拉（Queen Camilla），目前正在美國訪問。然而，紐約市長曼達尼（Zohran Mamdani）29日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420444",
+          "published": "Thu, 30 Apr 2026 05:40:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
