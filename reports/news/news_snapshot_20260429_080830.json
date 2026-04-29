@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-04-29T08:08:27.083902",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five takeaways from the King's historic address to Congress",
+          "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+          "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 06:23:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Comey charged with threatening Trump's life in Instagram post",
+          "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 00:24:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+          "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
+          "link": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Apr 2026 15:55:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "赫格塞斯將赴國會作證 議員質詢聚焦中東戰火",
+          "summary": "美國國防部長赫格塞斯將於今（29）日在國會作證，面對議員就中東戰火進行質詢。這會是赫格塞斯自伊朗戰爭爆發後首次出席國會聽證會。  根據《法新社》報導，赫格塞斯將出席眾議院軍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419813",
+          "published": "Wed, 29 Apr 2026 15:54:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "違法戒嚴後阻擋逮捕行動  尹錫悅妨害拘留二審判7年",
+          "summary": "南韓前總統尹錫悅涉嫌妨害拘留案二審29日宣判，首爾高等法院專門負責內亂案審判的刑事審判第一庭，判處尹錫悅有期徒刑7年。  根據韓媒，尹錫悅被控在去年1月透過隨扈妨害高級公職...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419833",
+          "published": "Wed, 29 Apr 2026 15:53:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小心！日本東京暴力男釀8傷 與警對峙後逃逸",
+          "summary": "若有台灣旅客在附近要小心！日本東京都福生市加美平地區，今（29日）上午7時30分左右有1名40來歲男子在街上打傷高中生，逃回家後還朝警方噴灑化學藥劑，一共造成8人受傷，警方衝進屋...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5419772",
+          "published": "Wed, 29 Apr 2026 15:29:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
