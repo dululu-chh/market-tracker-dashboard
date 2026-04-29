@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-29T15:09:01.255044",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+          "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
+          "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 02:01:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Will King's US visit lead to lasting reset in relations with UK?",
+          "summary": "As applause fades and banquet plates are cleared, it's up to politicians to build on Charles's historic trip.",
+          "link": "https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 12:36:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+          "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
+          "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 13:01:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊斯法罕核設施雖被炸 伊朗大量高濃縮鈾可能還在那",
+          "summary": "聯合國核監督機構負責人告訴美聯社，伊朗大部分高濃縮鈾很可能仍然存放在伊斯法罕核設施。當地去年遭轟炸，今年又在美國聯手以色列的戰事中受到強度較低的攻擊。  美聯社報導，國際原子能總署（IA...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420359",
+          "published": "Wed, 29 Apr 2026 22:47:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "菲律賓政爭升溫！副總統薩拉面臨彈劾 眾院司法委員會無異議通過",
+          "summary": "菲律賓眾議院司法委員會29日裁定，針對副總統薩拉‧杜特蒂（Sara Duterte）涉及財產來源不明、挪用公款，以及威脅暗殺總統小馬可仕（Ferdinand Marcos J...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420387",
+          "published": "Wed, 29 Apr 2026 22:35:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "回應俄國經濟間諜指控 英國驅逐俄外交官",
+          "summary": "英國外交部今（29）日宣布將一名俄羅斯外交官驅逐出境，以回應俄國3月份驅逐並指控一名英國外交官從事經濟間諜行為的舉動。  《路透》報導，一名英國政府發言人指出，英國強烈譴責俄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420355",
+          "published": "Wed, 29 Apr 2026 22:22:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
