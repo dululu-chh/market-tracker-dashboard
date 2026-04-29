@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-04-29T23:58:22.793359",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+          "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 20:24:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
+          "summary": "US Defence Secretary Pete Hegseth sparred with Democratic lawmakers during a nearly six-hour-long hearing, in his first time facing questions under oath since …",
+          "link": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 22:22:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+          "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+          "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Apr 2026 22:59:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "NASA在他卸任前再度登月？川普：有「很大機會」",
+          "summary": "美國總統川普（Donald Trump）29日接見剛完成阿提米絲2號（Artemis2）繞月任務的4名太空人時稱，他認為在他卸任前美國國家航空暨太空總署（NASA）有「很大機會」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420478",
+          "published": "Thu, 30 Apr 2026 07:34:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊戰爭後赫格塞斯首度出席聽證會 挨批「該為美軍死亡而辭職」",
+          "summary": "美國戰爭部（國防部長）長赫格塞斯29日出席眾議院軍事委員會聽證會，面對議員針對中東戰火進行質詢，這也是赫格塞斯自美伊戰爭爆發後首次出席國會聽證會。由於在3月1日有6名陸軍士兵在科...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420463",
+          "published": "Thu, 30 Apr 2026 07:32:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反擊！德總理批美開戰無方 川普：正評估從德國撤軍",
+          "summary": "美國總統川普29日表示，美國政府正在評估縮減駐德國美軍規模的可能性，並補充將很快做出決定。  川普29日在自家社群媒體平台「真實社群」（Truth Social）發文表示，「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5420476",
+          "published": "Thu, 30 Apr 2026 07:22:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
