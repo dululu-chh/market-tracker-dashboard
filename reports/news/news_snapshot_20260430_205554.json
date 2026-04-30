@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-30T20:55:52.424799",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 16:38:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 18:05:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US House votes to end government shutdown over immigration operations",
+          "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
+          "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 20:53:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美官員證實　盧比歐和王毅在川普訪中前通話",
+          "summary": "美國總統川普預計5月中旬訪問北京，會晤中國國家主席習近平。中國官媒報導，中國外交部長王毅今天與美國國務卿盧比歐（Marco Rubio）通電話；一名美國官員以背景方式回應中央社記者提問時簡短...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421735",
+          "published": "Fri, 01 May 2026 04:45:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "倫敦反猶恐攻事件後　英國調升安全威脅警示",
+          "summary": "倫敦29日發生兩名猶太男性遭持刀攻擊事件，警方已定調此事件為恐怖攻擊，英國政府今天進一步對英國全境調升安全威脅警示，最新的恐攻警戒等級為「嚴峻」（severe），這是第2高、僅次於「危急」（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421732",
+          "published": "Fri, 01 May 2026 04:00:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國土安全部經費法案通過　結束75天創紀錄停擺",
+          "summary": "美國國會今天通過國土安全部（DHS）大部分業務的經費，結束了一場創下紀錄、導致多個重要機構運作受阻逾2個月的政府局部停擺。  綜合法新社與國家廣播公司新聞網（NBC News）報導，繼聯邦參...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421730",
+          "published": "Fri, 01 May 2026 03:45:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
