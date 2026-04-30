@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-30T17:15:11.677116",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 14:29:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 16:38:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+          "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
+          "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 14:32:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普酸德國總理：管好自己國家 別來嘴掃除伊朗核威脅的人",
+          "summary": "德國總理梅爾茨27日重砲批評美國毫無戰略打伊朗，被人羞辱，開戰未徵詢北約盟友，又要歐洲國家護航荷姆茲海峽；搞到不知如何收手。美國總統川普29日怒嗆縮減駐德國美軍規模，30日再酸梅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421714",
+          "published": "Fri, 01 May 2026 00:52:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台灣亞洲第1！2026世界新聞自由調查 香港險被敘利亞超車......",
+          "summary": "無國界記者組織（RSF）週四（4/30）發布最新的各國新聞自由調查報告，台灣高居亞洲第一名！不過報告直指，當前全球新聞環境跌至新低點，令人不勝唏噓的是，曾經被譽為亞太地區「新聞自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421690",
+          "published": "Fri, 01 May 2026 00:35:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "4/30伊朗「波斯灣日」 國會議長發文這樣嗆美國",
+          "summary": "4月30日是伊朗的「波斯灣日」，伊朗國會議長發文慶祝，說明這個節日的由來，他還說，今日的伊朗透過控制荷姆茲海峽，確保伊朗和鄰國享有免於美國侵門踏戶和干涉的珍貴未來。  伊朗國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421710",
+          "published": "Thu, 30 Apr 2026 23:58:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
