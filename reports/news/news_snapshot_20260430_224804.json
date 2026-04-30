@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-04-30T22:48:02.486658",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 16:38:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 18:05:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US House votes to end record shutdown over immigration enforcement",
+          "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
+          "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 20:53:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "台灣亞洲第1！2026世界新聞自由調查 香港險被敘利亞超車......",
+          "summary": "首次上稿 00:35更新時間 05:50 無國界記者組織（RSF）週四（4/30）發布最新的各國新聞自由調查報告，台灣高居亞洲第一名！不過報告直指，當前全球新聞環境跌至新低點，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421690",
+          "published": "Fri, 01 May 2026 05:50:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "180萬兌1美元! 伊朗貨幣貶至新低",
+          "summary": "美海上封鎖加速經濟崩潰 通膨惡化加劇 〔編譯管淑平／綜合報導〕美國對伊朗港口的海上封鎖，正加劇德黑蘭早已百廢待舉的經濟困境，伊朗貨幣里亞爾匯率四月廿九日貶到一八〇萬兌一美元，創新低。 根據追蹤里亞爾在黑市匯率的網站Bonbast數據，里亞爾一週來已貶值約十二％，廿九日達到一八〇萬兌一美元的歷史新…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753048",
+          "published": "Fri, 01 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打通荷姆茲航運 美號召組新聯盟",
+          "summary": "〔編譯管淑平／綜合報導〕伊朗戰爭導致荷姆茲海峽航運受阻至今，美國華爾街日報四月廿九日披露，根據美國近日向駐外使館發出的電報，美國打算號召籌組新國際聯盟，共同協助讓船隻通行這條全球能源運輸要道。  這批廿八日發出的電報，要求外交人員力促外國政府加入這項由美國率領的「海上自由架構」（Maritime…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753051",
+          "published": "Fri, 01 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
