@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-04-30T10:50:56.502481",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 10:50:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+          "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+          "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 03:25:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Police say they believe abducted child was murdered as body found in Outback",
+          "summary": "The five-year-old girl was last seen on Saturday at an Aboriginal town camp near Alice Springs.",
+          "link": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Apr 2026 06:29:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "尷尬！中國醫師投書國際頂尖醫學期刊 用AI圖露餡火速被撤稿",
+          "summary": "中國北京2名醫師近日投書頂尖醫學期刊《新英格蘭醫學雜誌》（NEJM），提到中國一名老年男子在森林大火中吸入大量濃煙，肺部出現廣泛的黑色支氣管管型。然而，該期刊刊出後，國外網友立刻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421263",
+          "published": "Thu, 30 Apr 2026 18:18:39 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "這也找得到？墨國女子失蹤 警尋人海報「照騙」連親友都認不出",
+          "summary": "墨西哥近日一起失蹤案意外引發社群媒體修圖與濾鏡過度使用的激烈辯論。奇亞帕斯州一名30歲女子本月中旬失蹤後，警方依程序用她社群媒體的照片製作成協尋海報，卻被發現海報上的相片與本人落...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421286",
+          "published": "Thu, 30 Apr 2026 17:54:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "就是要去南韓！ 2中國人遭驅逐  又偷渡入境再被逮",
+          "summary": "南韓濟州島近年頻傳中國人偷渡入境，2名中國人一年前才因此遭南韓驅逐出境，近日再次偷渡到南韓，又遭逮捕。  南韓韓聯社30日報導，濟州警察廳30日表示，日前以涉嫌違反《出入境...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5421389",
+          "published": "Thu, 30 Apr 2026 17:51:25 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
