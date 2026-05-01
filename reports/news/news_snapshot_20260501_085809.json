@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-01T08:58:03.610327",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Violence in Australian town after arrest of man over girl's murder",
+          "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+          "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 04:08:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+          "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 04:11:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oscar goes missing after Academy Award winner is blocked from taking it on flight",
+          "summary": "The airline said it regrets the situation and was doing an urgent \"comprehensive internal search\" for the award.",
+          "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 03:02:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澤倫斯基控以國進口俄占區「被盜穀物」 放話制裁涉案者",
+          "summary": "烏克蘭週二（28日）公開指控以色列允許進口俄羅斯從烏國淪陷區盜取的穀物，引發兩國官員激烈言詞交鋒。烏國總統澤倫斯基警告，購買贓物需負法律責任，烏方正準備針對涉案公司與個人實施制裁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422247",
+          "published": "Fri, 01 May 2026 16:52:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市早苗啟程訪越澳 新版FOIP構想內容曝光",
+          "summary": "日本首相高市早苗今天下午啟程訪問越南和澳洲，她在出發前向媒體表示，將就能源與重要物資供應鏈等方面，提出確保各國自主性與韌性的具體合作方案。高市預定在越南公布升級版的「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422325",
+          "published": "Fri, 01 May 2026 16:50:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "譴責以色列攔截加薩物資船隊  義大利要求立即釋放船員",
+          "summary": "以色列4月29日在希臘周邊海域攔截開往加薩的人道援助船隊，扣押船隻並拘留船員。此舉引發義大利等國不滿，譴責以國並要求立即釋放遭「非法拘留」的船員。  致力突破以色列封鎖，為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422331",
+          "published": "Fri, 01 May 2026 16:40:42 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
