@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-01T13:07:29.409878",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+          "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 08:41:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+          "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+          "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 11:05:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Violence in Australian town after arrest of man over girl's murder",
+          "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+          "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 04:08:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美密西根州立大學臨時換考場 竟是有人在教室製毒！",
+          "summary": "美國密西根州立大學（Michigan State University）近日緊急調整部分期末考試的場地，此前警方表示，在該校最大的教學大樓內發現一男子，身上攜帶了可用於製造甲基安...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422526",
+          "published": "Fri, 01 May 2026 20:37:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "土耳其51勞動節各地上街抗議遊行 警發射催淚瓦斯伊斯坦堡近200人被捕",
+          "summary": "土耳其全國各地1日有成千上萬人走上街頭慶祝五一勞動節，其中在最大城伊斯坦堡示威的群眾還被警方發射催淚瓦斯、噴防狼噴霧與推倒在地，數百人被捕。  根據土耳其的「進步派律師協會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422518",
+          "published": "Fri, 01 May 2026 20:24:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國海軍引入AI技術  荷姆茲「獵雷」幾天內搞定",
+          "summary": "為排除荷姆茲海峽的水雷，美國海軍正加速提升人工智慧（AI）能力。根據最新合約顯示，美國海軍已與舊金山AI公司「Domino Data Lab」簽署近1億美元的合約，透過加速機器學...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422477",
+          "published": "Fri, 01 May 2026 20:03:28 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
