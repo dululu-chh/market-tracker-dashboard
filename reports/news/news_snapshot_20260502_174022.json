@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-02T17:40:20.860202",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+          "summary": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.",
+          "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 16:35:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+          "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+          "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 14:18:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+          "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+          "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 16:51:18 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "戰爭衝擊經濟 學者：東南亞對美信任降低、強化不選邊站",
+          "summary": "中東衝突引發能源危機，衝擊東南亞各國經濟，有分析指出，美國在東南亞的信任度及形象正在下滑，泰國外長希哈薩日前更罕見公開批評華府未給予援助。學者認為，東南亞各國未來將更傾向維持戰略彈性，避免在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423371",
+          "published": "Sun, 03 May 2026 00:55:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "座頭鯨「提米」擱淺1個多月救援成功 順利返回大海",
+          "summary": "1個多月前在德國沿岸擱淺、奮力求生的座頭鯨，在救援組織數週來的搶救後，經由注水駁船運送到丹麥附近的北海（North Sea）放生，今天終於順利返回大海。  法新社報導，救援組織成員華特-...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423431",
+          "published": "Sun, 03 May 2026 00:39:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿聯預防措施解除 空中交通恢復正常",
+          "summary": "阿拉伯聯合大公國（UAE）國家通訊社今天報導，民航總局表示，隨著2月28日美伊戰爭爆發後實施的各項預防性措施解除，全國空中交通已經恢復正常。  路透社報導，阿拉伯聯合大公國的民航總局（G...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423434",
+          "published": "Sat, 02 May 2026 23:46:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
