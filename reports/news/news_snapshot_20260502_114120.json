@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-02T11:41:19.037079",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+          "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 08:14:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+          "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 00:41:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+          "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+          "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 11:03:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "奈良規模5.7地震撼動日本西部 未發布海嘯警報",
+          "summary": "日本氣象廳表示，日本西部今天發生規模5.7地震，沒有發布海嘯警報。  共同社報導，根據氣象廳，當地時間晚間6時28分發生的這起地震震央位在奈良縣，震源深度70公里。在三重、奈良與和歌山等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423327",
+          "published": "Sat, 02 May 2026 19:26:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "簡訊威脅美軍「飛彈部隊盯著你」  伊朗駭客遭反嗆:祝好運",
+          "summary": "在美國和伊朗的和談持續膠著之際，伊朗似乎正對美軍進行心理戰。美國海軍1日表示，有多名陸戰隊人員、文職雇員及其家屬，收到與伊朗有關連的駭客組織發出威脅簡訊，意圖製造恐懼。不過，一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423288",
+          "published": "Sat, 02 May 2026 18:44:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "Switch 2傳「史無前例災情」 任天堂驚訝喊：寄回讓團隊研究",
+          "summary": "任天堂的Switch 2上市後全球熱賣，不過，有日本玩家買主機才約3個半月，螢幕突然出現嚴重破圖與大片雜訊，完全無法玩。任天堂官方檢視後，也直言這種狀況是「史無前例」，希望玩家能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423183",
+          "published": "Sat, 02 May 2026 18:28:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
