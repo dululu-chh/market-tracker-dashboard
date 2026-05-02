@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-02T09:00:51.984777",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+          "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 08:14:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+          "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 00:41:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+          "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+          "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 05:02:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本旭山動物園變焚屍場！男員工殺妻後仍上班  夜搬「神祕物」曝光",
+          "summary": "日本北海道知名景點旭山動物園驚傳命案，33歲男員工鈴木達也涉嫌殺害結婚10年的同齡妻子鈴木由衣後，將遺體運入園內焚化爐毀損，於昨遭逮捕後，今（2日）正式移送檢方偵辦。目前警方已扣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423097",
+          "published": "Sat, 02 May 2026 16:57:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美布魯克林124年麵包店關門 居民痛心",
+          "summary": "美國紐約布魯克林由義大利西西里島移民世代傳承的卡普托烘焙店（Caputo’s Bake Shop），在經營124年後於4月27日停止營業，當地居民得知消息後痛心不已。  據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423158",
+          "published": "Sat, 02 May 2026 16:53:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國財政部警告業者勿向伊朗支付通行費 否則面臨制裁風險",
+          "summary": "承擔全球20％海運能源的荷姆茲海峽受制於伊朗武力威脅，德黑蘭研議常態化收取通行費，引發國際社會反彈。對此，美國財政部外國資產控制辦公室（OFAC）警告業者，以任何形式向伊朗支付...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423185",
+          "published": "Sat, 02 May 2026 16:48:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
