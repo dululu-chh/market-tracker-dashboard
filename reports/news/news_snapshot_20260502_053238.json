@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-02T05:32:36.572759",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+          "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 01 May 2026 22:35:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+          "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 00:41:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+          "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+          "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 05:02:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "外媒：中國東航132死空難黑盒子公開 機師主動將操縱桿往下推",
+          "summary": "中國東方航空MU5735號航班波音737-800客機，2022年3月21日在廣西壯族自治區梧州市藤縣墜毀，機上123名乘客、9名機組人員全數死亡，由於事發前飛機被拍到機頭朝下俯衝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422959",
+          "published": "Sat, 02 May 2026 13:18:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普談近日扣押伊朗船隻 稱美國海軍如海盜",
+          "summary": "美國總統川普談及美國海軍最近開火並扣押伊朗貨船事件時，形容美國海軍有點「像海盜」，在美國與以色列對伊朗戰爭期間，對伊朗港口執行美國的海上封鎖。  美國有線電視新聞網（CNN）報導，川普今...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422958",
+          "published": "Sat, 02 May 2026 12:39:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓再傳醫療能量不足悲劇！孕婦被6間醫院當人球釀胎兒死亡",
+          "summary": "南韓再度發生醫療能量不足事件，忠清北道清州市1名30來歲懷胎29週左右的孕婦，1日深夜11時03分許因出血就醫，但接連被6間醫院踢皮球，最終導致胎兒死亡。  綜合韓媒報導，清...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422939",
+          "published": "Sat, 02 May 2026 12:25:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
