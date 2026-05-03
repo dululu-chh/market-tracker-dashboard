@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-03T09:18:38.020524",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+          "summary": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
+          "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 08:41:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+          "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+          "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:17:17 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏逾60架無人機突襲 俄石油出口港釀火警",
+          "summary": "值此烏克蘭對俄羅斯全國各地目標發動一系列空襲之際，俄國西北部列寧格勒州（Leningrad）州長卓茲登柯（Alexander Drozdenko）表示，該州的波羅的海港口城市普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424049",
+          "published": "Sun, 03 May 2026 17:13:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列持續打擊真主黨 籲黎巴嫩南部11城鎮居民撤離",
+          "summary": "以色列軍方今天向黎巴嫩南部11個城鎮和村莊居民發出迫切警告，敦促他們撤離家園，至少轉移到1000公尺外的寬闊地區。  路透社報導，以色列軍方表示，黎巴嫩武裝組織真主黨（Hezbollah...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424029",
+          "published": "Sun, 03 May 2026 17:09:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍海上封鎖20天 五角大廈官員估伊朗損失近1600億石油收入",
+          "summary": "美軍自4月13日對伊朗執行海上封鎖，已經攔截40多艘企圖進出伊朗港口的貨船，五角大廈官員預估，20天的封鎖讓德黑蘭損失近50億美元（約新台幣1582億）的石油收入。  美國新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424058",
+          "published": "Sun, 03 May 2026 17:09:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
