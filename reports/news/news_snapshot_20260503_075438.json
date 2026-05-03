@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-03T07:54:37.209410",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
+          "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+          "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 04:09:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+          "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+          "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:17:17 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "真主黨領袖遭憤怒鳥惡搞 黎巴嫩電視台影片挨批",
+          "summary": "黎巴嫩LBCI電視台最近發布一段影片，內容以手機遊戲角色「憤怒鳥」惡搞真主黨領袖與戰士，引發真主黨（Hezbollah）強烈批評，指這段影片「冒犯」。  真主黨的支持者在社群媒體上痛批這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423949",
+          "published": "Sun, 03 May 2026 15:47:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不只拒伊朗提案！川普鬆口「可能再動武」 中東局勢再添變數",
+          "summary": "編譯陳成良／綜合報導〕美國總統川普3日表示，將審視伊朗最新提出的和平方案，但直言難以接受，並未排除再度對伊朗採取軍事行動。停火後的美伊僵局因這項表態再添變數。  根據《法新社》報導，伊朗透過巴基斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5423904",
+          "published": "Sun, 03 May 2026 14:44:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由觀點》戰場雜活交給它！烏2.5萬機器人助攻",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5422358",
+          "published": "Sun, 03 May 2026 14:00:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
