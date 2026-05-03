@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-03T15:41:57.836193",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+          "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+          "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 08:41:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+          "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+          "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 13:43:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nigeria summons South African envoy over attacks on its nationals",
+          "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+          "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 10:16:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "高市早苗抵澳將晤艾班尼斯  商討因應中國稀土施壓",
+          "summary": "日本首相高市早苗今晚抵達澳洲，展開繼越南之後的第二站訪問行程，明天將在坎培拉與澳洲總理艾班尼斯（Anthony Albanese）會談，預料將聚焦經濟安全、能源及安全保障等議題，並協調發表聯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424271",
+          "published": "Sun, 03 May 2026 23:28:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "教廷消息人士：魯比歐預計5/7赴義大利晉見教宗",
+          "summary": "梵蒂岡高層消息人士今天透露，美國國務卿魯比歐預計7日前往義大利晉見羅馬天主教教宗良十四世（Pope Leo XIV）。美國總統川普近日頻頻抨擊教宗，引發各界人士批評。  路透報導，根據這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424263",
+          "published": "Sun, 03 May 2026 22:29:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "矮化台灣中配拍抖音曬「國旗證照」 反遭小粉紅砲轟出征",
+          "summary": "近年發生多起中配透過社群平台，大肆宣揚武統台灣言論，移民署接獲民眾檢舉，依法廢止依親居留許可並遣送回中國的案例，然而仍有不少中配持續做出類似行為。一名主動在社群矮化台灣主權的中配...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424227",
+          "published": "Sun, 03 May 2026 22:24:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
