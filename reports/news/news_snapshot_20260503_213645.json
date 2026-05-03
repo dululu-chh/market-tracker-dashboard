@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-03T21:36:43.328346",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says US has responded to its latest peace proposal",
+          "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+          "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 21:28:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 20:36:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國社長做「假投資真移民」生意 搞垮大批日本飯店、長照設施",
+          "summary": "低價併購、再高價賣中客 〔國際新聞中心／綜合報導〕日本近期爆發一連串飯店與長照設施的惡性停業潮。日本媒體追查發現，一家由中國出身社長主導的企業，自二〇二〇年起於關東地區大舉收購至少卅七處設施，其中高達廿四處在併購後陸續停業或關閉，疑似是利用「投資換取日本居留簽證」的龐大騙局，不僅留下大筆欠薪，更讓…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753421",
+          "published": "Mon, 04 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Foreign investors keep selling Chinese bonds despite it’s resilience 外資持續拋售中國債券，即使其債市展現韌性",
+          "summary": "◎盧永山  Foreign investors have pulled about $180 billion from Chinese bonds over the past year, underscoring how hard it is to retain overseas capital…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753468",
+          "published": "Mon, 04 May 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "謠言終結站》網傳紅豆、牛肉營養價值比較 為錯誤說法",
+          "summary": "網傳內容：相同重量的紅豆相較於牛肉，含有相同蛋白質、更多纖維與礦物質，且無膽固醇，更加經濟實惠？ 查證結果：MyGoPen查證指出，牛肉、黃豆、毛豆是「豆魚蛋肉類」，紅豆是澱粉，是「全穀雜糧類」，各自在日常飲食中扮演不同角色，不同類別不應直接比較，傳言為錯誤說法。 …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753423",
+          "published": "Mon, 04 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
