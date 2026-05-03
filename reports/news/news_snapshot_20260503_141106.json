@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-03T14:11:04.420446",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+          "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+          "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 08:41:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+          "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+          "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 13:43:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nigeria summons South African envoy over attacks on its nationals",
+          "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+          "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 10:16:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中菲再為南海互槓 菲律賓控中國船從事非法科研，將驅離",
+          "summary": "中國今天指控，菲律賓人員登上南海主權爭議的無人沙洲鐵線礁；菲律賓海岸防衛隊反控，4艘中國船隻在菲國水域從事非法海洋科學研究，將部署飛機與艦艇予以驅離。  綜合路透社與彭博（Bloombe...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424139",
+          "published": "Sun, 03 May 2026 21:39:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中菲南海又交鋒！中國控非法登陸鐵線礁 菲律賓要驅離科研船",
+          "summary": "中國與菲律賓近期在南海的領土與主權爭議，正因一連串的行動與相互指控而進一步惡化。中國海警局3日指控菲律賓人員「非法」登陸南海無人居住的「鐵線礁」（Sandy Cay）；菲律賓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424245",
+          "published": "Sun, 03 May 2026 21:27:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列批准軍購案 將向美國採購F-35與F-15IA戰機",
+          "summary": "以色列國防部今天表示，該國部長級採購委員會已批准一項軍購案，將向美國洛克希德馬丁（Lockheed Martin）及波音公司（Boeing）採購兩個新編戰鬥機中隊的F-35與F-15IA先進...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424167",
+          "published": "Sun, 03 May 2026 21:24:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
