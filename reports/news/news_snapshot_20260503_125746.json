@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-03T12:57:44.467022",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+          "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+          "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 08:41:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+          "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+          "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 12:05:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nigeria summons South African envoy over attacks on its nationals",
+          "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+          "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 10:16:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由觀點》南韓想和美軍說拜拜  台灣角色更顯吃重",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424089",
+          "published": "Sun, 03 May 2026 20:00:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "未標註來源 中國9.8萬個自媒體帳號遭官方處置",
+          "summary": "中共中央網信辦最近針對網路自媒體帳號大舉展開整頓，並以「未規範標註信息（資訊）來源，誤導公眾認知」為理由，一舉處置9.8萬個自媒體帳號，內容包括美伊戰爭、中國國內公共政策等。依慣例，這些自媒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424011",
+          "published": "Sun, 03 May 2026 19:21:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中共軍方持續大清洗！國防科大校長黎湘失蹤半年引外界側目",
+          "summary": "中共軍方大清洗行動持續進行！中共少將雍成綱日前以「國防科技大學（簡稱國防科大）軍事工作負責人」身分公開露面；中共國防科大校長、工程院院士、現年59歲的黎湘少將已失蹤近半年，去向...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424124",
+          "published": "Sun, 03 May 2026 18:55:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
