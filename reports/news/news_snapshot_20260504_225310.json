@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-04T22:53:08.349904",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+          "summary": "Meanwhile shipping company Maersk said one of its US-flagged commercial vessels had successfully exited the Strait of Hormuz under US military protection.",
+          "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 22:44:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+          "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 21:33:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+          "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 22:18:41 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普政府推「以貿易代援助」重塑全球體系 聯合國面臨財務崩潰",
+          "summary": "英國「衛報」4日報導，川普政府正持續施壓聯合國及更廣泛的國際援助部門，要求其採取以貿易為重心、有利於美國企業的政策，否則將面臨進一步削減預算的威脅。與此同時，聯合國正面臨嚴重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425440",
+          "published": "Tue, 05 May 2026 06:34:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傳伊朗革命衛隊喊話靠攏中國 專家曝擬比照巴基斯坦求軍援",
+          "summary": "紐約時報3日報導，在美國總統川普準備決定對伊朗戰爭的下一步行動之際，中國正採取兩手策略，試圖在預計5月14日登場的「川習會」中累積談判籌碼。觀察家披露，強硬派的伊朗伊斯蘭革命...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425439",
+          "published": "Tue, 05 May 2026 06:26:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "衝突升溫！美軍擊落伊朗飛彈、無人機並摧毀快艇 護航荷姆茲海峽商船",
+          "summary": "首次上稿 05-05 04:48更新時間 05-05 06:01 美國中央司令部（CENTCOM）4日表示，擊落多枚射向美國海軍與商船的伊朗飛彈及無人機，並摧毀6艘伊朗快艇...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425442",
+          "published": "Tue, 05 May 2026 06:01:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
