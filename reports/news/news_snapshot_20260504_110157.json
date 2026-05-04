@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-04T11:01:56.233030",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+          "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+          "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 09:49:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 09:29:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+          "summary": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
+          "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 08:43:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "打擊俄「影子艦隊」！瑞典攔截182公尺巨艦掛假旗 逮捕中國籍船長",
+          "summary": "瑞典當局逮捕一艘涉嫌屬於俄羅斯「影子艦隊」的中國籍船長。該艘長182公尺的貨輪遭指控懸掛虛假的敘利亞國旗，試圖規避西方國家對俄羅斯的國際制裁。  根據《法新社》報導，瑞典海...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425122",
+          "published": "Mon, 04 May 2026 17:58:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中互槓升級！北京首度下令中企「不承認、不執行、不遵守」美制裁",
+          "summary": "美國財政部近日宣佈對大舉採購伊朗原油的恆力石化等5家中國公司實施制裁，對此，中國商務部2日公告要求所有中企「不得承認、不得執行、不得遵守」美國該制裁。彭博報導，中國這項空前的對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425134",
+          "published": "Mon, 04 May 2026 17:38:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》糗！海外小粉紅鬧場被KO！他靈魂拷問酸爆：滾回中國",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425044",
+          "published": "Mon, 04 May 2026 17:13:37 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
