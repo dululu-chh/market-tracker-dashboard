@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-04T21:04:03.844522",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+          "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+          "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 19:00:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 16:07:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+          "summary": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
+          "link": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 16:27:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "衝突升溫！美軍擊落伊朗飛彈、無人機並摧毀快艇 護航荷姆茲海峽商船",
+          "summary": "美國中央司令部（CENTCOM）4日表示，擊落多枚射向美國海軍與商船的伊朗飛彈及無人機，並摧毀6艘伊朗快艇。這起敵對行動發生之際，美軍正積極執行總統川普宣布的「自由計畫」（P...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425442",
+          "published": "Tue, 05 May 2026 04:48:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿聯石油工業區遭伊朗無人機攻擊　導致3人受傷",
+          "summary": "阿拉伯聯合大公國相關當局今天指出，國內東部的富查伊哈石油工業區（Fujairah Oil Industry Zone）被伊朗無人機襲擊並引發大火，造成3名印度籍人士受傷。  美國有線電視新聞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425444",
+          "published": "Tue, 05 May 2026 03:36:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "歐盟禁資助中國製太陽能逆變器　憂威脅電網",
+          "summary": "歐盟官員今天表示，歐盟正在刪減給予一些潔淨科技計畫的公共資金，這些計畫使用特定中國技術，可能對歐盟電網構成風險。  法新社報導，近年來，歐盟對於中國主導綠色科技領域的疑慮愈來愈深，擔心歐盟依...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5425434",
+          "published": "Tue, 05 May 2026 00:39:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
