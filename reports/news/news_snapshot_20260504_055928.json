@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-04T05:59:26.738278",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says US has responded to its latest peace proposal",
+          "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+          "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 21:28:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 04:46:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "大西洋郵輪爆漢他病毒疫情釀3死3染疫！停靠地點、感染情況曝光",
+          "summary": "專營南北極航行之旅的荷蘭海洋探險（Oceanwide Expeditions）旗下郵輪宏迪斯號（MV Hondius），3月20日從阿根廷烏蘇懷亞（Ushuaia）港載著大約15...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424700",
+          "published": "Mon, 04 May 2026 13:38:19 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "泰國14歲孝子打工觸電昏迷！熱心民眾「三角錐」救人驚險畫面曝光",
+          "summary": "泰國中部素攀武里府近日驚傳，一名年僅14歲的少年為了負擔家計，在廟會活動工作時不慎觸電昏迷，身體僵硬地卡在鷹架，現場民眾緊急使用三角錐等物品展開救援，所幸傷者目前已恢復意識。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424484",
+          "published": "Mon, 04 May 2026 13:34:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北韓罕見派女足隊赴南韓參賽 韓媒：重啟對話契機",
+          "summary": "北韓女足「我的故鄉隊」20日將赴南韓參加亞洲足球聯盟女子冠軍聯賽，對上南韓水原女足隊。南韓統一部表示，政府會提供支援但不會直接介入，韓媒也分析指出，這次可視為南北重啟對話的契機。  根據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424729",
+          "published": "Mon, 04 May 2026 13:25:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
