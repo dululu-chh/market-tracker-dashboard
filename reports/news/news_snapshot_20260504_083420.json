@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-04T08:34:18.936815",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+          "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 02 May 2026 23:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+          "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+          "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 04 May 2026 04:46:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+          "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+          "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 03 May 2026 13:43:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "要求小學女童叫「歐巴」 南韓執政黨魁、國會議員候選人致歉",
+          "summary": "南韓執政黨共同民主黨黨代表鄭清來，近來陪同「釜山北區甲選區」國會議員補選黨內候選人河丁友掃街時，要求小學1年級女童稱呼河丁友為「歐巴（南韓女性對胞兄或年長男性的較親近稱呼）」，引...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424935",
+          "published": "Mon, 04 May 2026 16:18:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "距克宮僅10公里！烏無人機襲擊莫斯科豪宅區 兩大國際機場一度封鎖",
+          "summary": "莫斯科高級住宅區4日凌晨遭無人機襲擊，建築部分外牆毀損，受損地點距離克里姆林宮約10公里，莫斯科兩大國際機場一度暫停起降。此事發生於俄羅斯5月9日「勝利日」閱兵前夕，相關攻擊行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424919",
+          "published": "Mon, 04 May 2026 16:11:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國遊客香港亂丟垃圾挨罰 友人理直氣壯嗆「可笑」：交錢不就行了？",
+          "summary": "中國五一連假期間，被稱為「香港後花園」的西貢半島湧入大批遊客，近日傳出有中國遊客因無視規定、破壞環境而遭開罰，其友人面對媒體訪問時竟毫無歉意，反而理直氣壯地回嗆記者：「我覺得很可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5424800",
+          "published": "Mon, 04 May 2026 15:59:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
