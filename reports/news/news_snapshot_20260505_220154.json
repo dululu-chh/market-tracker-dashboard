@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-05T22:01:52.572875",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+          "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 16:38:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+          "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
+          "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 19:23:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nine coal miners die in gas explosion in Colombia",
+          "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
+          "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 10:09:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "盧比歐稱川習會可能談到台灣　警告勿破壞區域穩定",
+          "summary": "美國總統川普預計5月14日至15日出訪北京，美國國務卿盧比歐今天示警，在川普出訪前一週不應對台灣採取任何「破壞穩定」的行動，並表示台灣可能列入川習會討論議題。  綜合法新社與路透社報導，盧比...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426832",
+          "published": "Wed, 06 May 2026 05:30:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》She sang her national anthem during karaoke. Now she’s under arrest 她在卡拉OK唱自己國家的國歌，現在被捕了",
+          "summary": "◎ 管淑平  Police in the Dominican Republic have arrested a 64-year-old woman who went viral on social media after singing the national anthem to the hi…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753697",
+          "published": "Wed, 06 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小泉訪菲 升級防衛合作",
+          "summary": "〔駐日特派員林翠儀／東京五日報導〕日本防衛大臣小泉進次郎五日抵達馬尼拉，與菲律賓國防部長鐵歐多洛舉行會談，雙方就菲國向日本採購中古「阿武隈級」護衛艦等事宜進行協商，一旦實現，將成為日本實質解禁武器出口之後的首宗交易。日本媒體報導，若菲律賓引進該艦，日本將可在當地設立整備據點，增加自衛隊可使用的設施。…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753670",
+          "published": "Wed, 06 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
