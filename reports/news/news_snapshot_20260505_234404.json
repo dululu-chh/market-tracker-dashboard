@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-05T23:44:02.203432",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+          "summary": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
+          "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 22:17:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+          "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 16:38:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+          "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
+          "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 19:23:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "大轉彎！ 川普宣布「自由計畫」暫停",
+          "summary": "美國與伊朗談判進度撲朔迷離，美國總統川普4日宣布「自由計畫」，引導滯留於荷姆茲海峽的船隻離開海峽，不過實施僅1天多，川普5日在「真實社群」（Truth Social）宣布「自由計...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426861",
+          "published": "Wed, 06 May 2026 07:36:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "宣告美國「史詩怒火」行動終結！魯比歐：所有目標已成功達成",
+          "summary": "美國與伊朗之間關係仍緊張，美國國務卿魯比歐5日表示，中東停火協議仍然有效，雖然衝突尚未解決，但美國針對伊朗的首輪大規模軍事行動「史詩怒火」（Operation Epic Fury...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426841",
+          "published": "Wed, 06 May 2026 07:22:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "警告北京勿挑釁！ 魯比歐證實：川習會將談到台灣",
+          "summary": "美國總統川普14日至15日將訪問中國。美國國務卿魯比歐（Marco Rubio）5日警告北京，在川普出訪前一週不應對台灣採取任何「破壞穩定」的行動，並透露，他相信台灣會列入川習會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426838",
+          "published": "Wed, 06 May 2026 07:06:42 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
