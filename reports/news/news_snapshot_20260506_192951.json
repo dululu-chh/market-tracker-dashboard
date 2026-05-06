@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-06T19:29:50.097288",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+          "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+          "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 16:11:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+          "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+          "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 15:46:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Massive Alaska megatsunami was second largest ever recorded",
+          "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+          "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 12:00:25 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普：伊朗盼達成協議　美國將從德黑蘭取得濃縮鈾",
+          "summary": "美國總統川普今天表示，伊朗想要談判，並希望達成協議；美國在伊朗的進展非常順利，美方將從伊朗取得濃縮鈾。  路透社報導，川普（Donald Trump）在白宮一場活動中表示：「我們正在與非常希...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428251",
+          "published": "Thu, 07 May 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊傳將達成終戰備忘錄　伊朗：正檢視美方新提案",
+          "summary": "伊朗今天表示，正在檢視美國的新提案。消息人士先前指稱，美伊當局接近達成一份一頁篇幅的備忘錄，旨在終止兩國在波斯灣地區的戰爭，但將延後處理伊朗核計畫等棘手議題。  根據路透社，美國新聞媒體Ax...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428249",
+          "published": "Thu, 07 May 2026 02:45:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "G7貿易部長批稀土出口管制　劍指中國經濟脅迫",
+          "summary": "七大工業國集團（G7）貿易部長今天批評某些國家以「經濟脅迫」的手段，對出口實施管制，特別是對關鍵礦產的限制。法新社報導，這項批評明顯劍指中國。  G7貿易部長在法國舉行兩天會議之後發表聲明，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428246",
+          "published": "Thu, 07 May 2026 01:45:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
