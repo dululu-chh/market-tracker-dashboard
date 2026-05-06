@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-06T16:00:23.665058",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+          "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+          "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 15:58:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+          "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+          "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 15:46:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Massive Alaska megatsunami was second largest ever recorded",
+          "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+          "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 12:00:25 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "噁男在頭等艙性侵熟睡女子  還留下一張「超毛紙條」",
+          "summary": "日前一名法國籍男子在瑞士國際航空（Swiss International Air Lines AG）一架飛往美國的班機上，性侵身旁一名熟睡中的女乘客，得逞後還寫下一張「你睡覺時很...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5427996",
+          "published": "Wed, 06 May 2026 23:46:20 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "行刺川普動機浮現！FBI調查嫌犯社群活動 曾多次發文批中東政策",
+          "summary": "美國國土安全部（DHS）一份內部情報評估報告指出，上個月在白宮記者協會晚宴上企圖暗殺總統川普的嫌犯艾倫（Cole Allen），其犯案動機可能與美國、以色列對伊朗的戰爭有關。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428211",
+          "published": "Wed, 06 May 2026 23:37:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "CNN創辦人泰德透納辭世 享壽87歲",
+          "summary": "根據透納企業（Turner Enterprise）的新聞稿，創立美國有線電視新聞網（CNN）、特立獨行美國電視新聞人兼慈善家泰德透納（Ted Turner），6日在家人的陪伴下...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428215",
+          "published": "Wed, 06 May 2026 23:31:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
