@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-06T02:14:13.204683",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+          "summary": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
+          "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 02:05:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+          "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
+          "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 16:38:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+          "summary": "He spent much of the race criticising the state's response to the Covid-19 pandemic led by the Democrat nominee.",
+          "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 01:55:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍護航首日擊沉7艘伊朗快艇！ 葉耀元提3點觀察",
+          "summary": "美軍啟動護航首日爆發實彈衝突，於荷姆茲海峽擊沉7艘伊朗快艇，美國國務卿魯比歐5日表示，針對伊朗的首輪大規模軍事行動「史詩怒火」（Operation Epic Fury）已經結束。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426991",
+          "published": "Wed, 06 May 2026 10:07:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本香川縣車站旅客誤觸防熊噴霧 月台8人眼睛刺痛",
+          "summary": "日本近來熊出沒事件頻傳，參與戶外活動的民眾往往都會攜帶防熊噴霧，但香川縣JR多度津車站月台5日晚間6時35分許發生意外，有1名旅客誤觸噴霧導致8人眼睛、嘴巴刺痛。  綜合日媒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426969",
+          "published": "Wed, 06 May 2026 10:00:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "因應伊朗戰爭衝擊 英國零售業籲政府行動",
+          "summary": "英國零售業6日呼籲政府採取行動，以因應受中東戰火影響而飆升的成本，並警告若沒有政府的支持，將更難控制不斷上漲的物價，最終影響消費者。  根據《路透》報導，英國零售商協會（B...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5426934",
+          "published": "Wed, 06 May 2026 09:51:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
