@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-06T08:15:24.378902",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+          "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+          "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 04:53:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+          "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+          "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 21:22:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+          "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+          "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 05 May 2026 11:38:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本京都男童命案 狠心養父首次說明犯案動機",
+          "summary": "日本京都府南丹市園部町11歲小學生安達結希，3月23日搭乘37歲養父安達優季駕駛的車輛上學卻離奇失蹤，遺體於4月13日尋獲，警方調查後認為安達優季涉及棄屍將其逮捕，今（6日）依照...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5427584",
+          "published": "Wed, 06 May 2026 15:52:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慘！才剛付50萬美金援助伊朗 南韓貨輪波斯灣爆炸",
+          "summary": "中東戰火持續影響荷姆茲海峽船舶通行。原本正在荷姆茲海峽航行的南韓貨輪「HMM NAMU」，突然爆炸起火燃燒，美國總統川普斷言就是「伊朗幹的」，並要南韓加入護航行列。尷尬的是，南韓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5427521",
+          "published": "Wed, 06 May 2026 15:40:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "載蘇打粉貨輪赴烏克蘭意外觸礁沉沒 希臘海警急援救起9人",
+          "summary": "一艘載有數百噸蘇打粉的貨輪，週三（6日）凌晨在希臘安德羅斯島（Andros）附近觸礁沉沒。希臘海岸警衛隊隨即展開搜救行動，成功救出全數9名船員，目前船員均已送往當地診所安置。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5427468",
+          "published": "Wed, 06 May 2026 15:25:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
