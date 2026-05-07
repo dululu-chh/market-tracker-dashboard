@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-07T16:04:53.779200",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Race to trace passengers who left hantavirus cruise ship at island",
+          "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
+          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 14:01:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+          "summary": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years.",
+          "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 12:23:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+          "summary": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas.",
+          "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 14:22:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "法國人童年回憶崩壞！國產之光「蘇菲長頸鹿」遭踢爆中國製",
+          "summary": "法國知名幼兒玩具「蘇菲長頸鹿」（Sophie la girafe）長期被視為「法國製造」的象徵，是家喻戶曉的明星商品，但近日遭媒體披露實際上大量在中國製造。  蘇菲長頸鹿65年來一直是極...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429501",
+          "published": "Thu, 07 May 2026 23:25:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "恐涉內線！伊朗戰爭4筆油市交易太精準 美司法部展開調查",
+          "summary": "美國廣播公司新聞網（ABC News）7日報導，美國司法部正針對一系列交易時機異常精準的石油市場交易展開調查。據消息人士透露，這些交易發生在美國總統川普及伊朗高層官員發布重大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429544",
+          "published": "Thu, 07 May 2026 23:06:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "閃過俄國年度閱兵 克里姆林宮：5/8午夜起停火2天",
+          "summary": "俄羅斯忽視烏克蘭近日提議的無限期停火後，其權力中樞克里姆林宮今天表示，自5月8日午夜起與烏克蘭展開為期2天停火，此一短暫停火剛好涵蓋莫斯科預計9日舉行的年度閱兵。  《法新社》報導，莫斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429513",
+          "published": "Thu, 07 May 2026 23:02:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
