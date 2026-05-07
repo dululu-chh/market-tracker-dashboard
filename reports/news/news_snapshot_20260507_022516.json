@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-07T02:25:14.805990",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran considering US proposal to end war, official says",
+          "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 21:27:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 17:32:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 19:58:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊將簽14點協議？葉耀元畫重點：防革命衛隊私下鬧事",
+          "summary": "網路媒體「Axios」6日引述消息報導，美國與伊朗正接近簽署一份僅有1頁的14點諒解備忘錄，旨在結束戰爭並為後續的核武談判鋪路。對此，美國聖湯瑪斯大學國際研究講座教授葉耀元提出3...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428404",
+          "published": "Thu, 07 May 2026 10:16:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "2美軍在摩洛哥演習失聯多日 多國聯軍逾600人海陸空持續搜索",
+          "summary": "「非洲之獅2026」軍演4月底在摩洛哥南部城市阿加迪爾（Agadir）展開，來自40多個國家、近5000名軍人參與，演習將持續至5月8日。不料在演習期間，有兩名美軍士兵於5月2日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428369",
+          "published": "Thu, 07 May 2026 10:13:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反駁川普！南韓貨輪荷姆茲爆炸 伊朗否認攻擊",
+          "summary": "首次上稿 05-07 09:23更新時間 05-07 10:01 一艘南韓企業旗下船隻4日在荷姆茲海峽（Strait of Hormuz）發生爆炸並起火，美國總統川普指稱，事件...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428359",
+          "published": "Thu, 07 May 2026 10:01:01 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
