@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-07T18:20:12.451366",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+          "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 17:55:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+          "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+          "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 18:13:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+          "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+          "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 16:00:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "以色列持續打擊真主黨　將與黎巴嫩舉行第3輪和談",
+          "summary": "儘管以色列對黎巴嫩首都貝魯特市中心發動新一波空襲，美國官員今天表示，黎巴嫩與以色列將在14至15日於華盛頓舉行新一輪和平談判。  法新社報導，以色列昨天深夜發動空襲擊斃真主黨（Hezboll...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429586",
+          "published": "Fri, 08 May 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉助中國在英執行「影子警察」任務 前港警與英邊境官員間諜罪成立",
+          "summary": "英國倫敦中央刑事法院7日裁定，一名英國邊境官員與一名曾任香港警司的駐倫敦香港經貿辦事處主管，由於為中國在英國執行被檢方稱為「影子警察」（shadow policing）的行動...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429565",
+          "published": "Fri, 08 May 2026 00:49:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最高領袖與總統見面了 兩人談了這些",
+          "summary": "美伊停火露出曙光之際，伊朗總統裴澤斯基安與最高領袖穆吉塔巴．哈米尼會面了，兩人談了2個半小時。這是穆吉塔巴首度與高級政府官員首度公開見面，但談話內容聚焦於「加強國家領導層內部團結...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429563",
+          "published": "Fri, 08 May 2026 00:33:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
