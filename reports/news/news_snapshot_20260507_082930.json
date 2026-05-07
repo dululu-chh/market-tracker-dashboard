@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-07T08:29:29.236040",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+          "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+          "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 07:09:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+          "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 04:06:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 19:58:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "你好，我是教宗！良十四世致電銀行改個資 遭櫃員當詐騙秒掛",
+          "summary": "教宗良十四世（Pope Leo XIV）在2025年5月當選上任後，曾致電自己在南芝加哥的銀行，想更新個人帳戶資訊。沒想到，他向銀行櫃員透露自己是教宗後，卻被對方認為是惡作劇電話...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428994",
+          "published": "Thu, 07 May 2026 16:20:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本「國家情報局」 初期編制700人  最快7月上路",
+          "summary": "日本為強化情報的蒐集與分析能力，將在內閣設立「國家情報局」，日媒報導，該單位預定最快在今年7月上路，初期規模約700人的編制，之後再逐步擴編。明年起將招募專門的「職業...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429011",
+          "published": "Thu, 07 May 2026 16:10:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東戰火下仍創佳績 阿聯酋航空全年淨利創新高",
+          "summary": "中東戰火爆發導致中東空域暫時關閉，航空燃油價格與成本上升，航空旅行業因此陷入自新冠疫情以來最大危機。但阿聯酋航空今（7）日仍公布全年淨利潤創歷史新高。  根據《路透》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428997",
+          "published": "Thu, 07 May 2026 15:58:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
