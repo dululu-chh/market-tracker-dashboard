@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-07T11:05:28.218094",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+          "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+          "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 09:40:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+          "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 04:06:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
+          "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
+          "link": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 10:37:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國前國防部長魏鳳和、李尚福涉貪  一審被判死緩",
+          "summary": "新華社報導，中國前國防部長魏鳳和、李尚福因為涉貪，今天被軍事法庭一審判處死刑，緩期2年執行。他們將面臨終身監禁，不得假釋。  報導說，軍事法院7日依法對前中央軍委委員、前國務委員兼國防部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429302",
+          "published": "Thu, 07 May 2026 18:45:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "索羅門群島總理被國會罷黜 澳洲憂新領導人更親中",
+          "summary": "南太平洋戰略要地索羅門群島政局生變。國會7日以26票贊成、22票反對通過對總理馬內列（Jeremiah Manele）的不信任案，結束其執政不到一年的政府。法新社分析指出，馬...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429292",
+          "published": "Thu, 07 May 2026 18:33:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德國極右政黨AfD支持度遙遙領先 9月恐首度執政地方政府",
+          "summary": "德國極右派政黨「德國另類選擇黨」（AfD）在東部薩克森—安哈特邦（Saxony-Anhalt）的民調支持度持續走高。根據週四（7日）公布的最新民調顯示，AfD支持率已攀升至41%...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428998",
+          "published": "Thu, 07 May 2026 18:01:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
