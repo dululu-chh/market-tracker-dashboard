@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-07T05:56:59.871395",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+          "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 04:06:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 17:32:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 06 May 2026 19:58:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "高市早苗「台灣有事」發言滿半年 日媒：日中關係持續惡化",
+          "summary": "日本首相高市早苗去年11月在國會答詢時稱「台灣有事可能構成存亡危機事態」，至本月7日已滿半年。日媒指出，日中關係持續惡化，未有任何部長級官員對話，陷入僵局；與此同時，高市為了徹底...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428474",
+          "published": "Thu, 07 May 2026 13:28:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓釜山棉被店主打「歡迎台灣人」網友控講中文反被當肥羊宰",
+          "summary": "許多台灣遊客到韓國旅遊時都會購買韓國棉被，被台灣人列為赴韓旅遊的必買商之一，不過近日有網友在社群發文指出，他到釜山某家主打「歡迎台灣人」的棉被店消費時，親眼目睹台灣團客被店家「坑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428542",
+          "published": "Thu, 07 May 2026 12:58:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "郵輪漢他病毒已奪3命！ 爆已先下船返國23人中「含台灣人 」",
+          "summary": "懸掛荷蘭國旗的極地探險郵輪「洪迪亞斯號」（MV Hondius）近日傳出漢他病毒群聚感染，目前已造成3名乘客不幸喪命，船上多人確診。令外界憂心的是，有23名乘客已經在上個月21日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5428549",
+          "published": "Thu, 07 May 2026 12:50:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
