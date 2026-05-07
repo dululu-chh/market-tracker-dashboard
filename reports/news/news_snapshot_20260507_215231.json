@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-07T21:52:29.911793",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+          "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 17:55:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+          "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+          "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 18:13:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+          "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+          "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 16:00:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「漢他」郵輪將抵西班牙 接觸者匡列77人",
+          "summary": "〔編譯管淑平／綜合報導〕爆發漢他病毒疫情的荷蘭籍郵輪「洪迪亞斯號」，六日已從維德角外海啟程，預計三日內抵達西班牙加納利群島的田尼利夫島。世界衛生組織（WHO）與各國持續追蹤接觸者，目前已匡列七十七人。  船上約有一五〇名乘客與船員。西班牙衛生部長賈西亞表示，郵輪抵達後，健康的外籍旅客將遣送回國，…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753944",
+          "published": "Fri, 08 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國前後任防長涉貪 一審判死緩",
+          "summary": "魏鳳和、李尚福沒收個人全部財產  〔國際新聞中心／綜合報導〕中國官方媒體報導，前國防部長魏鳳和、李尚福兩人，因涉及嚴重貪腐案件，七日經軍事法院一審宣判，皆被判處死刑，緩刑兩年。兩人在緩刑執行期滿、依法減為無期徒刑後，將面臨終身監禁，且不得減刑與假釋。 兩任中國防長雙雙遭重判入獄，震驚國際社會，凸…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753942",
+          "published": "Fri, 08 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市無派閥 麻生成立「國力研究會」相挺",
+          "summary": "〔駐日特派員林翠儀／東京七日報導〕日本首相高市早苗上任逾半年，即使內閣支持率仍高居七成以上，但由於她並未加入派閥，被視為黨內基礎薄弱，接下來她將推動修憲、強化防衛等日本大改造工程，勢必面臨嚴峻反撲。但就在此時，由政壇大老麻生太郎領軍的應援團，將在本月下旬成立「國力研究會」，發起成員包括前安倍派大將、…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1753943",
+          "published": "Fri, 08 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
