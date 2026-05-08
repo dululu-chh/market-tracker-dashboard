@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-08T20:53:51.472143",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran accuses US of 'reckless military adventure'",
+          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+          "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 16:11:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+          "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+          "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 18:59:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+          "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
+          "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 14:47:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國工黨慘敗　1999年地方自治以來首失威爾斯執政權",
+          "summary": "英國廣播公司（BBC）報導，英國工黨（Labour Party）今天在威爾斯（Wales）地方選舉中失去執政權，這是1999年威爾斯成立地方自治議會以來，工黨首次失去執政權。威爾斯國民黨（P...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5430872",
+          "published": "Sat, 09 May 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "五角大廈公布「UFO檔案」 川普說話了",
+          "summary": "美國五角大廈8日開始公布新的一批不明飛行物（UFO）等相關檔案，架設網站供查閱，而且檔案、文件會持續釋出。對此，美國總統川普發文讚聲，也不忘暗酸前朝。  川普在自家社群平台T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5430861",
+          "published": "Sat, 09 May 2026 00:50:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "2艘伊朗油輪企圖突破封鎖  美軍F/A-18戰機開火擊癱",
+          "summary": "美軍中央司令部（CENTCOM）8日表示，美軍當天對2艘試圖突破美國對伊朗港口封鎖的伊朗籍油輪開火，使其失去動力無法航行。總計自4月13日美國宣布封鎖伊朗港口以來，已強制攔阻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5430845",
+          "published": "Fri, 08 May 2026 23:29:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
