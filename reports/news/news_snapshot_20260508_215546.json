@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-08T21:55:45.149333",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran accuses US of 'reckless military adventure'",
+          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+          "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 16:11:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+          "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+          "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 18:59:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+          "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
+          "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 21:02:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "未排除軍事選項 美短期內不會動古巴",
+          "summary": "〔編譯管淑平／綜合報導〕儘管美國總統川普對委內瑞拉、伊朗採取軍事行動後，多次暗示「下一個是古巴」，不過，根據美聯社七日引述多名美國官員說法，華府目前並未考慮在短期內對哈瓦那採取軍事行動，但是也尚未完全排除軍事選項。 川普上週簽署行政命令，擴大政府對古巴實施制裁的權限後，表示「古巴有麻煩了」，並暗示…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1754053",
+          "published": "Sat, 09 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "金正恩視察新型火砲 射程涵蓋首爾",
+          "summary": "北韓官媒8日報導，最高領導人金正恩6日視察兵工廠，了解新型155毫米自走榴彈砲生產進度。金正恩表示，該型火砲射程超過60公里，將於今年內部署至南部邊境遠程砲兵部隊，可為地面作戰帶來「重大變革與優勢」。分析指出，南韓首爾及京畿道大部分地區都將納入其射程範圍。  金正恩也偕同女兒金主愛，7日登上最新…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1754054",
+          "published": "Sat, 09 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "助中跨境鎮壓 兩華裔男在英獲罪",
+          "summary": "英國安法定罪首案 〔編譯張沛元／綜合報導〕英國法院七日裁定兩名皆具有警務背景、被控在英國為中國與香港從事情蒐與監控等間諜活動的華裔男子有罪，為自二〇二三年英國國安法生效以來因涉及「助中」而依該法被定罪的首例，兩人最重可被判入獄十四年。英國將召見中國大使嚴正交涉，香港與北京方面反控英方以莫須有罪名進…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1754050",
+          "published": "Sat, 09 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
