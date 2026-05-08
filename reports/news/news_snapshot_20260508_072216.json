@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-08T07:22:14.274745",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+          "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 05:57:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+          "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+          "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 07:04:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Third British national has suspected hantavirus infection, UK government says",
+          "summary": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April.",
+          "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 06:03:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美媒：CEO隨行團縮水 川普本人是最大對中鴿派",
+          "summary": "美國總統川普下週訪問中國，據報企業CEO隨行團規模縮水，反映政府內部對中經濟政策分歧及預期「川習會」成果有限。一名親近白宮人士稱川普本人是政府內最大對中鴿派。  美國政治新聞網站Poli...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5430197",
+          "published": "Fri, 08 May 2026 15:14:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "軍徽有「亡靈」 中國軍號改圖諷日本自衛隊",
+          "summary": "日本陸上自衛隊第一師團第一普通科連隊日前發布部隊新標識圖，意外受到「好戰」等批評，隨後停止使用；中國解放軍旗下媒體平台「中國軍號」昨（7）日再重提此事，並將該圖改編加工，除了添加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5430052",
+          "published": "Fri, 08 May 2026 14:15:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "射程涵蓋首爾！金正恩暗示「將在兩韓邊境部署新銳自走榴砲」",
+          "summary": "北韓官媒8日證實，北韓領導人、國務委員會委員長金正恩近日視察軍工企業，並暗示年底前將在南北韓邊境地區部署新銳大口徑自走榴彈砲。  韓聯社報導，金正恩6日前往北韓官媒形容的「重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429776",
+          "published": "Fri, 08 May 2026 13:24:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
