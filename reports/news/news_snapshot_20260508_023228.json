@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-08T02:32:25.971844",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+          "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 08 May 2026 02:07:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+          "summary": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+          "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 17:55:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+          "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+          "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 07 May 2026 18:13:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "2男涉為中國從事間諜活動遭定罪 英國將召見中國大使表抗議",
+          "summary": "英國內政部主管安全事務副大臣賈維斯（Dan Jarvis）7日發表聲明稱，在2名男子因代表香港乃至最終代表中國從事間諜活動而被定罪後，英國將召見中國大使。  根據《路透》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429762",
+          "published": "Fri, 08 May 2026 10:27:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市早苗力推強化國防 日本爆發反戰抗議",
+          "summary": "二戰後日本通過憲法，其中第九條禁止維持武裝力量，並放棄將戰爭視為主權權利。但高市早苗成為日本總理後力推強化國防，取消長期以來對武器出口的限制，並擴大日本在海外的軍事作用，使日本...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429700",
+          "published": "Fri, 08 May 2026 10:02:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "軍購條例 前白宮官員：國民黨恐錯失借鏡烏、伊經驗",
+          "summary": "立法院會最快8日表決國防特別條例草案，美國前副國安顧問博明等人投書分析烏克蘭及中東戰場實戰教訓，並向台灣立委喊話，若能在投票時借鏡相關軍備經驗並付諸實踐，將能提升台灣嚇阻侵略的能力。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5429728",
+          "published": "Fri, 08 May 2026 09:47:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
