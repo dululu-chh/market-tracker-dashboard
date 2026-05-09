@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-09T09:13:37.760267",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin denounces Nato at scaled back Victory Day parade",
+          "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+          "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 08:27:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran accuses US of 'reckless military adventure'",
+          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+          "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 06:13:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+          "summary": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk.",
+          "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 00:15:58 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "越共擬培訓千名「國家級網紅」 確保網路7成言論「力挺體制」",
+          "summary": "《共同社》報導，據越南國營媒體報導，越南共產黨宣傳部門於5日的會議中提出一項戰略方針，計畫在2030年前確保並組織1000名體制內的網路影響者（網紅），意旨在積極誘導網路輿論以維...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431391",
+          "published": "Sat, 09 May 2026 16:59:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐盟不排除與俄羅斯重啟對話 莫斯科：願意但不會主動接觸",
+          "summary": "2022年2月俄羅斯對烏克蘭發動侵略後，歐盟與莫斯科斷絕往來。如今4年多過去，傳出歐盟領袖不排斥重啟與俄羅斯對話。對此，克里姆林宮表示願與歐盟在內的所有對象對話，但需由布魯塞爾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431365",
+          "published": "Sat, 09 May 2026 16:59:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國邊疆航空 丹佛國際機場起飛撞上跑道行人",
+          "summary": "美國知名廉價航空「邊疆航空」（Frontier Airlines）表示，該公司1架客機8日晚間從科羅拉多州丹佛國際機場（Denver International Airport...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431373",
+          "published": "Sat, 09 May 2026 16:55:02 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
