@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-10T21:42:23.598594",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 20:57:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+          "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+          "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 19:56:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "French national shows symptoms on return from hantavirus-hit ship",
+          "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+          "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 19:43:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "拒絕伊朗結束戰爭回應　川普：完全無法接受",
+          "summary": "美國總統川普今天表示，他已經拒絕伊朗對美方結束中東戰爭提案所作回應，認為那「完全無法接受」。伊朗稍早表示透過斡旋方巴基斯坦傳達對美方最新停火提案的回應。  法新社報導，川普在自家真實社群（T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432475",
+          "published": "Mon, 11 May 2026 05:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷稱將終戰 點名親俄德前總理談判",
+          "summary": "「所有和談條件都喬定 才願與澤倫斯基會面」 〔編譯張沛元／綜合報導〕俄羅斯總統普廷九日表示，他認為烏克蘭戰爭「即將結束」，但必須等到和談所有條件都確定後，才願意與烏克蘭總統澤倫斯基會面。普廷還表示，願意就歐洲的新安全安排進行談判，並點名首選談判對象是德國前總理施若德（Gerhard Schroed…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1754333",
+          "published": "Mon, 11 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "收買美國會助理失敗 共諜反遭舉報",
+          "summary": "企圖砸重金 換取華府委內瑞拉計畫、稀土管制對策 〔編譯張沛元／綜合報導〕就在美國總統川普即將前往中國訪問前夕，紐約時報九日披露，美國聯邦眾議院「美中戰略競爭特別委員會」的一名助理，數月前被一名偽裝成香港顧問公司員工的中國間諜搭上線，中諜聲稱願意砸重金換取該助理提供該委員會的工作與提案，包括華府的委…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1754330",
+          "published": "Mon, 11 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
