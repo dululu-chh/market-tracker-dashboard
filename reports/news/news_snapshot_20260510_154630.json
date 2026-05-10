@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-10T15:46:29.484447",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+          "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+          "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 15:20:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+          "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+          "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 15:02:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran sends response to US proposals to end war",
+          "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 14:21:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普斷言美伊戰爭快結束 裴澤斯基安今表態：談判不等於低頭",
+          "summary": "伊朗官媒10日證實，德黑蘭已正式透過巴基斯坦轉交對美國和平提案的回應，儘管美方開出包含暫停濃縮鈾在內的十四點備忘錄，且美國總統川普預言戰事將快速結束，但伊朗總統裴澤斯基安（Mas...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432436",
+          "published": "Sun, 10 May 2026 23:35:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中籍男擁大批軍火引爆國安疑慮 泰國擬將60天免簽期砍半",
+          "summary": "在泰國巴達雅（Pattaya）地區破獲一名中國籍男子非法持有大量軍用級武器與爆裂物後，泰國當局正加速對60天免簽證入境政策進行檢討。泰國外交部長西哈薩（Sihasak Phu...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432437",
+          "published": "Sun, 10 May 2026 23:31:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本修訂安保3文書 中國是否列「威脅」成焦點",
+          "summary": "日本政府預計今年內修訂安全保障相關3文書，如何描述中國軍事動向與區域情勢，預料是討論焦點。隨著日中關係因日本首相高市早苗「台灣有事」國會答詢持續緊張，日本執政陣營內部對於是否在文件中直接使用...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432394",
+          "published": "Sun, 10 May 2026 23:01:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
