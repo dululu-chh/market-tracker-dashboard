@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-10T13:06:38.941918",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+          "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+          "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 10:57:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+          "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+          "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 12:52:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+          "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+          "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 00:46:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南韓貨輪荷姆茲遇襲起火 韓外交部：不明飛行物擊中船尾",
+          "summary": "南韓航運公司「韓新遠洋船務」（HMM）名下一艘貨船本月4日在荷姆茲海峽遇襲且起火燃燒。南韓外交部今（10）日指出，貨船當時是被「2枚不明飛行物」擊中，但目前還無法確定責任歸屬方。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432332",
+          "published": "Sun, 10 May 2026 20:57:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台女捲入震驚泰國「軍火外流案」 警方破獲小型軍火庫逮人！",
+          "summary": "泰國春武里府（Chonburi）近日發生一起車禍，警方在中國籍駕駛車內和住宅搜到大量槍枝和爆裂物，深入追查發現這批軍火疑似外流自軍方，據悉案發時同車的還有一名台灣籍女子，泰國警方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432290",
+          "published": "Sun, 10 May 2026 20:54:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "景氣不佳  中國「燒烤學院」招生30人逾4000人報名",
+          "summary": "在中國景氣不佳導致失業率高升下，位在湖南的中國第1所燒烤學院「岳陽燒烤學院」先前首度展開招生後，吸引大批民眾報考。中國媒體報導，報名「岳陽燒烤學院」的人數多達逾4000人，但僅錄取30人，錄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432315",
+          "published": "Sun, 10 May 2026 20:31:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
