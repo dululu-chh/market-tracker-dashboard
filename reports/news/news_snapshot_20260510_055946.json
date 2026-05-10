@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-10T05:59:45.248904",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+          "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has docked, after a deadly hantavirus outbreak.",
+          "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 05:47:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+          "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+          "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 00:46:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanon says Israeli strikes killed 39",
+          "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+          "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 21:23:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "掩蓋不住的戰損！俄勝利日首見遺孀方陣 捧遺像走過廣場",
+          "summary": "俄羅斯遠東城市赤塔（Chita）9日舉行勝利日活動。多名在烏克蘭戰場陣亡士兵的遺孀與母親首度組成方陣參與，手持親人遺像走過市中心廣場。  根據《莫斯科時報》（The Mos...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431978",
+          "published": "Sun, 10 May 2026 13:43:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普14日訪中 亞洲盟友緊盯美方對台軍售是否生變",
+          "summary": "美國總統川普預計14日抵達北京會晤中國國家主席習近平。這是相隔9年再有美國總統訪中。受到伊朗戰爭影響，外界正關注美方在為期兩天的峰會中，其外交與貿易談判姿態是否出現轉變。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431965",
+          "published": "Sun, 10 May 2026 13:30:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "創作「貞子」嚇壞全世界！ 恐怖小說《七夜怪談》作者鈴木光司病逝  享壽68歲",
+          "summary": "創作《七夜怪談》等多部日本經典恐怖小說的作者鈴木光司，傳出已於8日下午病逝，享壽68歲，消息震撼全球文壇與影劇圈。根據日媒介紹，鈴木光司是引領日式恐怖熱潮的重要作家，其作品多次被...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431866",
+          "published": "Sun, 10 May 2026 13:07:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
