@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-10T02:29:04.235742",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanon says Israeli strikes killed 39",
+          "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+          "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 09 May 2026 21:23:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+          "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+          "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 00:46:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+          "summary": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+          "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 01:08:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "永不放棄！美16歲少女姦殺案近40年未破 嫌犯如今落網",
+          "summary": "1986年9月27日下午5時許，美國德州16歲少女奧格（Deanna Ogg）出門準備參加派對，孰料2個小時後有一群孩子發現她遭到姦殺棄屍，本案將近40年都未偵破，如今終於靠著D...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431775",
+          "published": "Sun, 10 May 2026 10:08:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷稱烏俄戰爭「即將結束」 欽點歐洲談判人選",
+          "summary": "烏俄戰爭自2022年2月24日爆發延續至今，俄羅斯總統普廷9日表示，他認為戰爭即將結束，且願意和歐洲領導人進行談判，並聲稱他首選的談判夥伴是德國前總理施羅德（Gerhard Sc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431741",
+          "published": "Sun, 10 May 2026 10:02:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "撞到熊？日本JR東北線車頭留血跡不見熊影 最久誤點2小時",
+          "summary": "日本近來熊出沒事件頻傳，JR東北線1輛列車9日晚間8時許在宮城縣撞飛熊隻，導致5輛列車誤點最長達2小時07分，約2710名旅客受到影響。  據《產經新聞》報導，這輛列車是從宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5431746",
+          "published": "Sun, 10 May 2026 09:38:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
