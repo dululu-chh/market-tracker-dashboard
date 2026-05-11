@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-11T18:55:37.588296",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and French nationals test positive for hantavirus after leaving ship",
+          "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+          "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 13:13:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+          "summary": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+          "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 17:17:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 18:17:34 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普淡化中國侵台威脅 稱將與習近平討論軍售與黎智英案",
+          "summary": "美國總統川普11日表示，他將與中國國家主席習近平討論美國對台灣的軍售議題，並預測北京不會奪取這個自治的民主政體。  法新社報導，當被問到美國是否應繼續向台灣出售武器時，川...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433614",
+          "published": "Tue, 12 May 2026 01:57:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會在即　川普稱將與習近平討論對台軍售議題",
+          "summary": "美國總統川普預計本週前往中國訪問，他今天在橢圓形辦公室向媒體表示，在與中國國家主席習近平的會談中台灣議題「總會」被提及，他還計畫與習近平討論美對台軍售議題。  川普告訴記者：「我將與習近平主...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433612",
+          "published": "Tue, 12 May 2026 01:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德國N號房事件 迷姦集團主腦為中國高學歷菁英 專向同胞下手",
+          "summary": "2026年4月14日，德國慕尼黑地方法院針對28歲中國籍留學生蔣中懿，因犯下謀殺未遂、嚴重強姦及傳播色情影像等多項罪名，判處11年3個月有期徒刑。此案不僅揭發這名擁有高學歷的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433606",
+          "published": "Tue, 12 May 2026 01:05:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
