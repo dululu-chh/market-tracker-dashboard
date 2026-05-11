@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-11T06:34:13.854126",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 01:55:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+          "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+          "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 10 May 2026 19:56:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "French national shows symptoms on return from hantavirus-hit ship",
+          "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+          "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 03:29:58 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "6歲童全身莫名瘀血 醫檢查後倒抽一口氣：滿滿鉤蟲卵",
+          "summary": "中國廣東省深圳市一名6歲男童近日因全身多處莫名瘀血，就醫發現竟是寄生蟲感染，其父母事後懷疑感染源頭可能是男童曾在餐廳食用生菜包烤肉。  綜合中媒報導，男童日前全身陸續出現大片...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432937",
+          "published": "Mon, 11 May 2026 14:22:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "丟臉！中國男女2人在東京淺草寺扒竊被捕 警公布姓名",
+          "summary": "太丟臉了！中國53歲男子鄧華榮、47歲女子朱紅姣，9日下午在日本東京淺草寺扒竊遊客皮夾被捕，警視廳搜查3課透露朱紅姣已承認犯案，鄧華榮則持續否認。  據《產經新聞》報導，警方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432936",
+          "published": "Mon, 11 May 2026 14:01:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會震撼彈？ 美媒爆川普擬與習近平討論「4395億對台軍售」 恐動搖雷根六項保證",
+          "summary": "美國總統川普預計抵達北京與中國國家主席習近平舉行峰會。美國媒體披露，川普有意在會中討論一筆正等待批准、價值140億美元（約新台幣4395億元）的對台軍售案。此舉被視為嚴重跨越美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5432943",
+          "published": "Mon, 11 May 2026 13:45:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
