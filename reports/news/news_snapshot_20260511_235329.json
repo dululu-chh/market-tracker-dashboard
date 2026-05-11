@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-11T23:53:26.731512",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+          "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
+          "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 20:49:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+          "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada.",
+          "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 23:31:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "South African president says he will not step down after impeachment call",
+          "summary": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+          "link": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 21:44:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國持續買伊朗石油 美財政部：已制裁3人9企業",
+          "summary": "美國財政部11日宣布制裁3名個人與9家企業，指控其協助伊朗將石油運往中國，當中4家企業的總部設於香港、4家設於阿拉伯聯合大公國、1家設於阿曼。  路透報導，美國財政部8日才對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433634",
+          "published": "Tue, 12 May 2026 07:23:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱認真考慮納入美國第51州 委國代理總統：絕不可能",
+          "summary": "美國總統川普過去曾揚言要控制其他主權地區，包含加拿大、格陵蘭、委內瑞拉都曾被點名過，近日川普在接受媒體訪問時又稱，正「認真考慮」讓委內瑞拉成為美國第51州。對此委國代理總統羅德里...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433644",
+          "published": "Tue, 12 May 2026 07:06:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基「無人機外交」大成功！近20國談合作 解燃眉之急",
+          "summary": "首次上稿 05-11 22:54更新時間 05-12 06:55 烏克蘭總統澤倫斯基昨（11）日證實，目前已有近20個國家表達與烏克蘭進行無人機貿易合作的意願，其中4份協議已經...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433418",
+          "published": "Tue, 12 May 2026 06:55:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
