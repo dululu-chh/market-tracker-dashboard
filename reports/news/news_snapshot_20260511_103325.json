@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-11T10:33:24.117221",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and French nationals test positive for hantavirus after leaving ship",
+          "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+          "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 09:11:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+          "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+          "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 01:55:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+          "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+          "link": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 10:00:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "跨黨派參議員致函川普 對台支持不容談判 促盡速批准140億美元軍售",
+          "summary": "在美國總統川普與中國國家主席習近平即將會面前夕，8名跨黨派聯邦參議員聯名致函川普，敦促他正式通知國會一項已延宕數月、價值140億美元（約新台幣4398億元）的對台軍售案。議員...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433316",
+          "published": "Mon, 11 May 2026 18:09:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前夕盟友關注台灣議題  Politico：憂川普即興發言引發訊號誤判",
+          "summary": "美國政治新聞網《Politico》報導指出，美國總統川普即將與中國國家主席習近平舉行峰會，多位亞洲與歐洲外交官擔心，川普可能因經濟或地緣政治利益，做出有利北京的對台表述，進一步...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433287",
+          "published": "Mon, 11 May 2026 17:52:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前宣布「重大戰果」 中國公安部：與美合作偵破販毒案",
+          "summary": "中國官方今早正式宣布美國總統川普13至15日將訪中後，中國公安部隨即宣布，該部禁毒局和美國司法部緝毒署4月初聯合偵破走私販毒案，共逮捕3名美國籍及2名中國籍嫌犯，並繳獲一批毒品。該部宣稱，這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433103",
+          "published": "Mon, 11 May 2026 17:16:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
