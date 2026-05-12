@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-12T19:42:52.977683",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "No sign of larger hantavirus outbreak, says UN health agency",
+          "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+          "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 17:55:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lebanon says two paramedics among 10 killed in Israeli strikes",
+          "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+          "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 17:17:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄稱新ICBM試射成功可攜核彈頭　普丁：年底部署",
+          "summary": "俄羅斯今天宣稱成功試射可搭載核彈頭的新型洲際彈道飛彈（ICBM）「薩爾馬特」（Sarmat），總統普丁表示，俄國將於今年底部署，並形容這是「世界最強大的飛彈」。  路透社和法新社報導，俄羅斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434962",
+          "published": "Wed, 13 May 2026 02:07:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防北京藉「川習會」施壓 美前官員：川普挺台力道1979年來最大",
+          "summary": "美國總統川普曾暗示，即將與中國國家主席習近平舉行的峰會，將是「潛在的歷史性時刻」。《美聯社》引述專家說法警告，如果這位美國總統不謹慎發言，他可能會顛覆數十年來微妙的台灣外交關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434949",
+          "published": "Wed, 13 May 2026 00:41:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國神舟載人任務發布LOGO 小粉紅發現「地圖沒台灣」崩潰",
+          "summary": "中國載人航天工程辦公室（CMSA）11日正式發布「神舟二十三號載人飛行任務」標識，曝光沒多久就有眼尖中國網友發現，背景的地球地圖輪廓中，竟然沒有台灣，這一細節被抓包後，馬上在中網...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434821",
+          "published": "Wed, 13 May 2026 00:23:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
