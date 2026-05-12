@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-12T02:30:34.910512",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+          "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+          "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 23:20:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+          "summary": "An American and a French national who have returned home have tested positive for hantavirus.",
+          "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 11 May 2026 20:49:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏俄停火協議到期 基輔遭無人機襲擊",
+          "summary": "烏克蘭當局表示，在與俄羅斯為期3天的停火協議到期後，基輔今（12）日遭到無人機襲擊。  根據《法新社》報導，基輔軍事管理局局長特卡琴科（Tymur Tkachenko）在T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433772",
+          "published": "Tue, 12 May 2026 10:28:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓機器人僧侶惹議 矢板明夫憂「分寸」：AI可能主導世界",
+          "summary": "南韓首爾曹溪寺近日為1具身披袈裟的人形機器人舉行受戒儀式，並賜予法名「迦悲」（Gabi），希望藉此提升民眾對佛教的參與及關注程度，並讓年輕世代對佛教產生共鳴。對此日本資深媒體人矢...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433665",
+          "published": "Tue, 12 May 2026 10:26:56 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美專家推演台灣政局變化：若國民黨重返執政 美國亞洲布局恐生變",
+          "summary": "美國戰略評論家艾爾曼（Harlan Ullman）11日在《國會山莊報》（The Hill）撰文，推演台灣未來政局變化對美國亞洲布局的影響。艾爾曼曾提出知名的「震懾」（Shoc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5433824",
+          "published": "Tue, 12 May 2026 10:24:42 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
