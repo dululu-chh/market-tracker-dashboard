@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-12T14:08:48.360106",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+          "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 14:06:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Uganda's president sworn in for record seventh term",
+          "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+          "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 13:19:47 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「電線杆頂端烏龜」影射習近平 抖音網紅遭全面下架",
+          "summary": "中國近年來加強對網路內容的審查，尤其是影射最高領導人習近平的文章或影音，不僅會立即遭到下架，發布者的帳號也將被「永遠消失」。  　根據海外中文網站《中國數位時代》旗下專門蒐...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434848",
+          "published": "Tue, 12 May 2026 21:40:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "百年沒現蹤珍稀動物？ 在人類面前啪啪超罕見影像曝光！",
+          "summary": "泰國最大的國家公園「崗卡章國家公園」（Kaeng Krachan National Park），近日曝光罕見且珍貴的影像，一對體型壯碩的野生黑豹，被遊客目擊出現在園區道路上，不僅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434435",
+          "published": "Tue, 12 May 2026 20:30:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿聯傳參戰祕密空襲伊朗 以色列鐵穹相助防報復",
+          "summary": "美國駐以色列大使哈克比（Mike Huckabee）週二（12日）證實，以色列「鐵穹」（Iron Dome）防空系統已進駐阿拉伯聯合大公國，幫助防範伊朗空襲，這是以色列首度承認在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434632",
+          "published": "Tue, 12 May 2026 20:29:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
