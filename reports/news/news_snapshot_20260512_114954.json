@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-12T11:49:52.700194",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Uganda's president sworn in for record seventh term",
+          "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+          "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 11:33:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canvas hack: company pays criminals to delete students' stolen data",
+          "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+          "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 10:31:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美中AI競爭升溫 紐時：中國智庫爭取Anthropic開放模型遭拒",
+          "summary": "美中人工智慧（AI）競爭持續升溫。根據紐約時報12日報導，中國一名智庫代表上月在新加坡與美國AI新創公司Anthropic人員接觸，希望該公司改變限制政策，讓中國能取得其最新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434720",
+          "published": "Tue, 12 May 2026 19:26:25 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "普廷罕見稱「烏俄戰爭即將結束」 CNN分析背後3大壓力！",
+          "summary": "烏俄衝突爆發已持續超過4年，俄羅斯總統普廷近日宣稱「戰爭即將結束」，引發外界討論。《CNN》分析，普廷選在此時發表這種不尋常的言論，顯示其領導的政權正面臨「三大壓力」。  普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434666",
+          "published": "Tue, 12 May 2026 19:25:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前公布華裔女市長認當中國間諜 黃帝穎：川普在這事劃紅線",
+          "summary": "美國司法部於美東時間11日發布聲明，曾擔任加州阿凱迪亞市（Arcadia）市長的王艾琳（Eileen Wang，音譯），遭控擔任中共在美非法代理人被起訴，本人已認罪並辭去市長。律...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434615",
+          "published": "Tue, 12 May 2026 18:27:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
