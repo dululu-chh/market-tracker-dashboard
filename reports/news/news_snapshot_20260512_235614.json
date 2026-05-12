@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-12T23:56:12.314720",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "No sign of larger hantavirus outbreak, says UN health agency",
+          "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+          "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 17:55:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+          "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 00:59:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+          "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+          "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 20:00:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普啟程赴中 強調伊朗、烏克蘭戰爭即將結束",
+          "summary": "美國總統川普12日下午啟程前往中國訪問，將會晤中國國家主席習近平。他離開白宮前向媒體表示，雙方都期待他與習近平的會面，強調「許多好事即將發生」；川普也提及，他相信中國的關鍵盟友俄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434984",
+          "published": "Wed, 13 May 2026 07:18:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "報復伊朗！ 《路透》爆沙烏地阿拉伯曾發動「秘密攻勢」",
+          "summary": "美國《華爾街日報》11日引述消息人士說法指稱，阿拉伯聯合大公國在中東戰爭期間曾對伊朗境內目標發起秘密軍事打擊。除了阿聯以外，《路透》12日報導也爆出沙烏地阿拉伯曾對伊朗發動多次未...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434982",
+          "published": "Wed, 13 May 2026 06:58:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "將與習近平談伊朗 川普：我不需要幫忙",
+          "summary": "美國總統川普12日啟程前往北京，準備與中國國家主席習近平會面，在出訪前他告訴在場媒體，兩人將會針對伊朗問題促膝長談，不過川普強調，他不需要習近平協助美國解決伊朗問題。  綜合...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5434983",
+          "published": "Wed, 13 May 2026 06:44:25 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
