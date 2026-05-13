@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-13T09:39:47.460883",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "A decade on, Trump returns to a stronger and more assertive China",
+          "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+          "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 22:07:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+          "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
+          "link": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 12 May 2026 20:28:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+          "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
+          "link": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 08:24:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川習會前何立峰、貝森特經貿磋商 中國稱願與美方合作管控分歧",
+          "summary": "美國總統川普即將抵達中國訪問，中國外交部發言人郭嘉昆今天說，中方歡迎川普對中國進行國是訪問，願與美方「擴大合作，管控分歧」。  同一時間，中國官方也宣布中國國務院副總理何立峰與美國財政部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5435853",
+          "published": "Wed, 13 May 2026 17:30:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》美國一動作小粉紅集體崩潰！他曝川普「更大籌碼」讓北京直接破防",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5435883",
+          "published": "Wed, 13 May 2026 17:24:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黃仁勳同行！川普率科技天團訪中國：要求全面開放市場",
+          "summary": "美國總統川普昨（12）日啟程前往中國，準備與中國國家主席習近平舉行會晤。川普此行率領包括特斯拉執行長馬斯克、蘋果執行長庫克及輝達執行長黃仁勳在內的十多位科技巨頭隨行。川普表示，抵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5435585",
+          "published": "Wed, 13 May 2026 16:59:59 +0800",
+          "keywords": [
+            "特斯拉"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
