@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-13T12:00:14.692194",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+          "summary": "A court in Bremen has found the manufacturer of the classic Alpine Milk chocolate bar guilty of \"shrinkflation\".",
+          "link": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 11:29:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Gaza sisters win prize for turning rubble into reusable bricks",
+          "summary": "Displaced teenagers Farah and Tala wanted to 'turn destruction into something useful'.",
+          "link": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 11:44:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Thousands of Waymo robotaxis recalled over risk of entering flooded roads",
+          "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
+          "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 11:05:47 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英凱特王妃訪問義大利 罹癌後頭一遭",
+          "summary": "英國凱特王妃（Catherine Princess of Wales）13日抵達義大利北部城市雷焦艾米里亞（Reggio Emilia）進行2天訪問，是她2年多前宣布罹癌與接受...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5436069",
+          "published": "Wed, 13 May 2026 19:49:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊談判膠著恐重啟軍事行動  赫格塞斯：不需國會授權",
+          "summary": "美國和伊朗因條件談不攏，和談持續膠著，據傳總統川普正考慮恢復對伊朗軍事行動。戰爭部長（國防部長）赫格塞斯（Pete Hegseth）12日在國會聽證會上表示，若總統認為有必要，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5436060",
+          "published": "Wed, 13 May 2026 19:34:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不讓中國有要脅籌碼 川普川習會前放話：解決伊朗不需中國幫忙",
+          "summary": "川習會前夕，川普對伊朗問題態度強硬，直言他並不期待中國協助結束與伊朗的戰爭，更宣稱不論透過和平或其他手段，美方最終都會取得勝利。  綜合外媒報導，川普在離開華盛頓前向媒體表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5436001",
+          "published": "Wed, 13 May 2026 19:24:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
