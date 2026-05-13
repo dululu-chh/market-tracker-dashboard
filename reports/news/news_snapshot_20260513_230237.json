@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-13T23:02:36.259102",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+          "summary": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+          "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 17:00:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+          "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+          "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 15:36:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+          "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+          "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 13:37:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國防部長隨行訪中 「川習會」料觸及軍事溝通與核武議題",
+          "summary": "首次上稿 05-14 00:42更新時間 05-14 06:51 美國戰爭部（國防部）部長赫格塞斯（Pete Hegseth），13日隨同總統川普出訪中國，成為數十年來首位...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5436243",
+          "published": "Thu, 14 May 2026 06:51:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "正值川普訪中  中國油輪成功穿越荷姆茲海峽",
+          "summary": "美國總統川普13日晚間抵達中國北京，預計將在14日上午與中國國家主席習近平會面。正當「川習會」進行之際，一艘載有200萬桶原油的中國油輪「遠花湖號」在受困荷姆茲海峽（Strait...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5436280",
+          "published": "Thu, 14 May 2026 06:50:06 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "漫威男星也燒到？台灣超大紫米飯糰爆紅 美國人爭相朝聖",
+          "summary": "首次上稿 05-13 23:40更新時間 05-14 06:41 飯糰是台灣人最熟悉的台式早餐主角之一，最近在美國加州更有美食部落客開箱台式餐廳販售的大飯糰，帶動風潮，也在台灣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5435799",
+          "published": "Thu, 14 May 2026 06:41:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
