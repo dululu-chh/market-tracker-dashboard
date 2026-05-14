@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-14T11:48:40.279232",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+          "summary": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+          "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 13 May 2026 17:00:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Latvian PM resigns after row over stray Ukrainian drones",
+          "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+          "link": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 10:53:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Watch: What happened on day one of Trump's China visit?",
+          "summary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
+          "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 07:13:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美財長貝森特：川普「未來數日」談台灣",
+          "summary": "隨美國總統川普訪問中國的美國財政部長貝森特（Scott Bessent）今日表示，川普將在「未來幾天」就台灣問題發表更多講話。  川普目前在中國訪問並與中國領導人習近平舉行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437264",
+          "published": "Thu, 14 May 2026 19:25:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普在習近平身旁被追問台灣反應曝！CNN記者：很不像他......",
+          "summary": "川習會今天（14日）上午登場，會後2人一起前往位於北京東城區的天壇。美國總統川普在天壇面對外媒追問是否有跟中國國家主席習近平談到台灣問題時，川普三緘其口，進行直播報導的美國有線電...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437002",
+          "published": "Thu, 14 May 2026 18:33:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會期間獨守白宮 范斯幽默自評︰我像《小鬼當家》",
+          "summary": "川習會今（14）日正式登場，美國總統川普（Donald Trump）率領多名內閣成員、商界高層，一起飛往中國展開會談。受到法律規定，副總統范斯（JD Vance）無法一同出席本次...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437017",
+          "published": "Thu, 14 May 2026 18:30:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
