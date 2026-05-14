@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-14T22:07:57.682265",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+          "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+          "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 13:02:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Floating armoury' ship reportedly seized by Iran",
+          "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+          "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 13:33:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
+          "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+          "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 21:39:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普與歐巴馬訪中待遇大不同  顏擇雅揭中共外交兩面手法！",
+          "summary": "首次上稿 00:34更新時間 05:58 美國總統川普出訪北京與中國國家主席習近平會晤，中方擺出大陣仗盛大歡迎，不少人翻出10年前時任總統歐巴馬訪中的冷清畫面做比較。對此，作家...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437458",
+          "published": "Fri, 15 May 2026 05:58:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "在阿曼灣遭伊朗劫持船隻身分曝 是艘「海上軍火庫」",
+          "summary": "首次上稿 01:10更新時間 05:56  英國海事貿易行動中心（UKMTO）說，一艘船在阿曼灣遭劫持，「正駛往伊朗領海」。英國海事安全公司Vanguard則指出，這艘船是「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437465",
+          "published": "Fri, 15 May 2026 05:56:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美CIA局長哈瓦那會官員　古巴：擬加強安全合作",
+          "summary": "古巴政府在國營媒體發布的聲明中表示，由美國中央情報局（CIA）局長雷克里夫（John Ratcliffe）率領的美國代表團，今天在哈瓦那（Havana）與古巴內政部的對口官員會面。  古巴國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437484",
+          "published": "Fri, 15 May 2026 05:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
