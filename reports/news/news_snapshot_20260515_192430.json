@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-15T19:24:28.893764",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 17:50:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 15:03:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+          "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+          "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 19:01:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國取消向波蘭部署4000名部隊計畫　遭國會議員抨擊",
+          "summary": "美國官員表示，五角大廈已取消將4000名駐紮在美國本土部隊部署至波蘭的計畫。這項突如其來的決定遭到國會議員抨擊，並再次引發外界對總統川普預期縮減駐歐兵力的疑問。  路透社報導，美國陸軍代理參...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438667",
+          "published": "Sat, 16 May 2026 03:00:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印度首都紅堡汽車炸彈恐攻奪11命 國家調查局起訴10人",
+          "summary": "印度德里（Delhi）知名景點紅堡（Red Fort）外去年11月發生爆炸，11人因此喪命，國家調查局（NIA）起訴10人。  紅堡外汽車炸彈案2025年11月10日發生，造成11人死亡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438614",
+          "published": "Fri, 15 May 2026 23:59:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烽火無情！父親抗俄捐軀 飛彈攻擊基輔公寓女兒也遭炸死",
+          "summary": "烏克蘭首都基輔15日降半旗，哀悼死於俄羅斯飛彈攻擊的數十名百姓，其中包括1名抗俄戰爭中喪父的少女。烏克蘭總統澤倫斯基譴責俄羅斯的「殘暴恐怖行為」，應為此受罰。  俄軍從12...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438645",
+          "published": "Fri, 15 May 2026 23:56:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
