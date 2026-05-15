@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-15T22:51:43.352474",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:28:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:50:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+          "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+          "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:17:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "習近平華麗排場背後一團亂！美媒曝：美國代表怒火中燒",
+          "summary": "首次上稿 5-15 22:00更新時間 5-16 06:10  中國國家主席習近平為美國總統川普到訪，擺出盛大排場，不過，根據美國媒體披露，場邊插曲連連，有美國特勤人員因攜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438558",
+          "published": "Sat, 16 May 2026 06:10:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "對台軍售未拍板  川普：我先和「治理台灣那一位」談談",
+          "summary": "首次上稿 5-15 23:04更新時間 5-16 06:00  即時新聞／綜合報導〕美國總統川普15日對媒體透露，他尚未決定是否要推動對台灣的重大軍售案，此外他這次訪問中國之旅促成多筆交易，中國除...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438516",
+          "published": "Sat, 16 May 2026 06:00:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普訪中不公開談台灣 衛報：華府沉默是對台灣最好結果",
+          "summary": "首次上稿 5-15 22:26更新時間 5-16 05:54 美國總統川普與中國國家主席習近平14日會談後，或許對台灣來說，最值得注意的是，川普沒說什麼。英國衛報14日分析指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5438594",
+          "published": "Sat, 16 May 2026 05:54:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
