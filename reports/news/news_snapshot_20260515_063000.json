@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-15T06:29:58.906433",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+          "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+          "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 13:02:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Floating armoury' ship reportedly seized by Iran",
+          "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
+          "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 14 May 2026 13:33:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "CIA chief visits Cuba as energy crisis worsens",
+          "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+          "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 02:40:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "圖輯》川習中南海茶敘魯比歐等人與會 內部畫面曝光",
+          "summary": "美國總統川普近日訪中與中國國家主席習近平會談，川習二人繼昨日在北京人民大會堂會面，今日更到北京中南海會晤。包含川普在內，美國至今只有4位總統曾到中南海與中國領導人會面。預計雙方在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437932",
+          "published": "Fri, 15 May 2026 14:13:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美未提川習會談台灣  學者：不讓中國有誇大詮釋空間",
+          "summary": "中國國家主席習近平14日在川習會上指台灣議題是「中美關係最重要的問題」，但白宮會後摘要未提及台灣。學者林泉忠分析，最大的可能是美國總統川普「聽聽就算了」，未做回應，不讓中國就有誇大詮釋的空間...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437870",
+          "published": "Fri, 15 May 2026 14:08:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中領導人中南海茶敘 習近平揭露選擇此地點原因",
+          "summary": "美國總統川普今（15）日抵達北京中南海，與中國國家主席習近平展開茶敘。習近平稱選擇中南海作為茶敘地點，是為了感謝川普先前在佛州對他的熱情款待。  根據美國有線電視新聞網（C...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5437910",
+          "published": "Fri, 15 May 2026 13:56:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
