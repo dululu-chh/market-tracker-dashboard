@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-16T14:52:15.500034",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+          "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 11:44:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+          "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+          "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 13:42:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US planning to charge ex-Cuban leader Raúl Castro",
+          "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+          "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 01:37:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "東京大學五月祭收炸彈預告中止 神谷宗幣演講也喊卡",
+          "summary": "日本東京大學學園祭「五月祭」今天因收到炸彈預告，學園祭常任委員會基於安全理由，宣布全面取消當天活動；同樣在東大，參政黨代表神谷宗幣原定今天演講，也因為民眾抗議，在開始前臨時喊卡。  朝日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439371",
+          "published": "Sat, 16 May 2026 22:34:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "現有療法、疫苗沒轍！民主剛果伊波拉疫情猛 新一波感染已80死",
+          "summary": "非洲剛果民主共和國（簡稱民主剛果）東部伊圖里省（Ituri）爆發新一波伊波拉疫情，死亡人數已增加到至少80人，鄰國烏干達也出現感染者，衛生官員正加強篩檢和追蹤接觸者，防止疫情持...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439510",
+          "published": "Sat, 16 May 2026 22:18:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美未附和「中美建設性戰略穩定關係」表述 專家：不願受北京束縛",
+          "summary": "中國國家主席習近平在與美國總統川普的會晤中，提出雙方建立「中美建設性戰略穩定關係」，作為兩國關係未來發展方向，但這項表述並未見於美國官方聲明或從官員口中說出。「美國之音」引述美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439507",
+          "published": "Sat, 16 May 2026 22:06:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
