@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-16T19:00:33.465488",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Taiwan insists it is independent after Trump warning",
+          "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+          "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 17:01:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+          "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 11:44:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+          "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+          "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 15:01:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "義大利摩狄納汽車衝撞8人傷　肇事駕駛落網",
+          "summary": "義大利北部城市摩狄納（Modena）市中心今天發生汽車衝撞行人事件，造成8人受傷，其中4人傷勢嚴重。  警方指出，肇事駕駛為一名30多歲男子，已遭逮捕。  摩狄納市長梅澤提（Massimo ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439565",
+          "published": "Sun, 17 May 2026 02:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美若重啟攻打伊朗　行動名稱擬改為「大錘行動」",
+          "summary": "兩名美國官員表示，若目前的停火破裂，總統川普決定重啟大規模作戰行動，美國軍方正考慮將對伊朗的戰爭正式更名為「大錘行動」（Operation Sledgehammer）。  國家廣播公司新聞網...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439564",
+          "published": "Sun, 17 May 2026 02:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "教宗良十四世9月訪法國 將赴聯合國教科文組織總部",
+          "summary": "梵蒂岡今天宣布，教宗良十四世將於9月25至28日訪問法國，並將拜訪位於法國首都巴黎的聯合國教科文組織（UNESCO）總部。這個組織在美國去年退出後，正面臨預算短缺。  路透社報導，良十四...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439547",
+          "published": "Sat, 16 May 2026 23:34:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
