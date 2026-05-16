@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-16T10:59:10.982378",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+          "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 10:42:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 05:53:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:50:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沒人教？習近平會晤川普 被抓「衣服出包」不符禮儀糗大了",
+          "summary": "美國總統川普訪中與領導人習近平展開川習會。已故作家李敖長女李文發現，兩人在正式會談中，習近平坐下時沒有解開西裝扣子，有違基本紳士禮儀，也讓他從「習大大」變成「肚大大」。李文也疑惑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439180",
+          "published": "Sat, 16 May 2026 18:55:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄烏換俘 基輔領回528具陣亡烏軍遺體",
+          "summary": "基輔當局16日表示，俄羅斯已將528具陣亡烏軍遺體歸還給烏克蘭，此為目前交戰中的俄烏兩國為數不多的合作領域之一。  烏克蘭戰俘中心在社群媒體上表示，在爭取遣返的努力下，52...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439344",
+          "published": "Sat, 16 May 2026 18:30:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉巴黎美銀攻擊案、意圖在美恐攻 美司法部起訴伊拉克民兵成員",
+          "summary": "美國與伊朗就結束戰爭的和談持續僵持的同時，美國司法部15日公布一起意圖攻擊美國多地目標的恐怖行動陰謀，起訴一名與伊朗伊斯蘭革命衛隊有密切關係的伊拉克民兵組織成員。  彭博1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439363",
+          "published": "Sat, 16 May 2026 18:26:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
