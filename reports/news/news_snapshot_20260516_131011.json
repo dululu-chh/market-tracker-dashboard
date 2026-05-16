@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-16T13:10:10.207293",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+          "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 11:44:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 05:53:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:50:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "憾事！英國61歲男受洗溺斃還「全程直播」 牧師被控重罪",
+          "summary": "英國倫敦一名罹患巴金森氏症的男子，在參加教會洗禮儀式時不幸溺斃，且被全程直播，引發關注。負責洗禮的女牧師因涉嫌鼓勵行動不便的信徒進入水中，導致其受困水下長達4分鐘，被控「嚴重疏忽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439401",
+          "published": "Sat, 16 May 2026 20:44:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊蓋餓！日本岩手縣破門闖倉庫偷吃米糠 還拉一坨",
+          "summary": "日本岩手縣北上市一處住宅今天（16日）上午黑熊入侵，偷吃倉庫貯存的米糠。警方對周邊居民等發出警戒。  《岩手可愛電視台》報導，今天上午9點左右，北上市口內町森居民發現，自家敷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439413",
+          "published": "Sat, 16 May 2026 20:39:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "疑攝取過量發酵果實！法國司機驚見「小鹿亂撞」畫面曝",
+          "summary": "法國勃根地地區日前出現逗趣景象。一名路過司機拍下一頭行為怪異的小鹿，疑似因攝取過量發酵果實而「醉酒」，在路邊田野上「小鹿亂撞」。  據英國《太陽報》報導，這段由法國當地警方發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439322",
+          "published": "Sat, 16 May 2026 20:37:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
