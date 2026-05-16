@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-05-16T09:27:34.775120",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Senior IS leader killed by US and Nigerian forces",
+          "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+          "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 09:22:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 05:53:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+          "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 15 May 2026 21:50:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "AI監控網路！伊朗強逼民眾交出個資  發親政府貼文換復網",
+          "summary": "伊朗政府為強化內部控制，要求民眾上網必須上交個資，還需簽署切結書，保證不在網路發布伊朗當局的負面消息，部分民眾還被要求在個人社媒上發布親政府貼文。  綜合外媒報導，伊朗網路用...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439225",
+          "published": "Sat, 16 May 2026 17:19:06 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中國北京出現「山寨一蘭」！標誌、菜單直接複製 日網轟：難怪被全世界憎恨",
+          "summary": "日本連鎖拉麵店「一蘭」在台灣、香港及美國陸續插旗，不過近日中國北京卻出現山寨版一蘭，不但賣的也是豚骨拉麵，就連品牌標誌也幾乎一模一樣，讓日本網友怒批，「這就是他們被全世界憎恨的原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439218",
+          "published": "Sat, 16 May 2026 17:09:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "再提美國晶片產業被偷走 川普喊：台灣、中國都冷靜下來",
+          "summary": "美國總統川普訪中行程結束後，接受福斯新聞（Fox News）專訪時，再度提到美國的晶片產業遭台灣「偷走」。他還談到台灣、中國最好都聰明一點「冷靜下來」。  川普接受福斯新聞專...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439236",
+          "published": "Sat, 16 May 2026 17:01:20 +0800",
+          "keywords": [
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
