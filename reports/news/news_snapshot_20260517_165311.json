@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-17T16:53:09.383844",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 13:00:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How worrying is the Ebola outbreak in DR Congo?",
+          "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 13:31:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+          "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+          "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 14:18:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "把持全球數位動脈？伊朗揚言向荷姆茲海峽海底電纜收費 恐引發「數位災難」",
+          "summary": "在成功封鎖荷姆茲海峽後，伊朗正將戰略目標轉向全球經濟的隱形動脈：承載歐亞與中東龐大資料與金融流量的海底電纜。德黑蘭當局揚言向海纜業者收取「過路費」，威脅Google、微軟（M...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440418",
+          "published": "Mon, 18 May 2026 00:43:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐洲歌唱大賽在杯葛聲中落幕 保加利亞27歲女歌手逆轉奪冠",
+          "summary": "27歲的保加利亞歌手達拉（Dara）16日憑藉派對神曲〈Bangaranga〉，在奧地利維也納擊敗以色列歌手貝塔恩（Noam Bettan），逆轉勝奪得第70屆歐洲歌唱大賽（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440414",
+          "published": "Mon, 18 May 2026 00:24:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "為何習近平緊咬台灣川普卻避答？ 專家曝答案：這才是川普要的！",
+          "summary": "川習會受到國際關注，川普會後一再強調此行與中方在伊朗戰爭一事上取得共識，那就是北京也不希望伊朗擁有核武器，並疾呼開放荷姆茲海峽；起初被外界認為是一大討論重點的台灣議題，則被美國「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440233",
+          "published": "Sun, 17 May 2026 23:59:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
