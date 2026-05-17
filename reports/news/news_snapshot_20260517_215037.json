@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-17T21:50:36.405752",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 21:14:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How worrying is the Ebola outbreak in DR Congo?",
+          "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 18:06:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+          "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+          "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 14:18:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川習會成果有限 路透︰美中重回經濟戰略僵持局面",
+          "summary": "〔國際新聞中心／綜合報導〕美國總統川普結束訪問中國行程，儘管他不斷高調讚揚他與中國國家主席習近平建立的私人情誼，但紐約時報指出，雙方在中東、貿易及台灣等關鍵分歧上，幾乎未能達成任何實質協議。路透也認為，這次「川習會」成果有限，但在歷經去年一四五％的對中高額關稅與激烈貿易衝突後，美中關係現已重回過往熟…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1755228",
+          "published": "Mon, 18 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "密謀在美發動攻擊 真主黨旅成員被訴",
+          "summary": "〔編譯張沛元／綜合報導〕美國法院十五日公布的刑事起訴書顯示，親伊朗的伊拉克民兵組織「真主黨旅」（Kataib Hezbollah）成員薩阿迪（Mohammad al-Saadi），被控密謀策劃在美國發動攻擊；由於薩阿迪還被控參與一系列在歐洲發生的攻擊，此案因而備受外界關注，讓人擔心伊朗正日益頻繁利用…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1755226",
+          "published": "Mon, 18 May 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中英對照讀新聞》Investors should pivot from tech to commodities ahead of a new ’supercycle,’ top economist says 頂級經濟學家表示，投資人應在新一輪「超級週期」到來之前，將投資重心從科技股轉向大宗商品",
+          "summary": "◎盧永山  Commodity prices have soared on Iran war disruptions, but according to top economist Steve Hanke, they could be about to go much higher as the…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1755216",
+          "published": "Mon, 18 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
