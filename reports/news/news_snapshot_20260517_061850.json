@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-17T06:18:49.251906",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 02:55:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+          "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+          "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 23:10:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Taiwan insists it is independent after Trump warning",
+          "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+          "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 16 May 2026 17:01:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "預防熊害！日本飯山市將在所有幼稚園裝設AI監視器",
+          "summary": "日本長野縣飯山市去年4月發生熊襲事件，造成3人輕重傷，為了防止類似狀況再度發生，市府將為7所市立幼稚園裝設AI偵測監視器，一旦拍到熊隻就能立即展開行動。  據《讀賣新聞》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439909",
+          "published": "Sun, 17 May 2026 13:58:27 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "黃仁勳與馬斯克「空手而回」？路透拆解川習會：美中退回穩定對立現狀",
+          "summary": "美國總統川普結束北京訪問後，美中雖未出現重大突破，但雙方關係似乎正重新回到一種「穩定但對立」的狀態。《路透》分析指出，在歷經去年高達145%的對中關稅與激烈貿易衝突後，美中如今...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439891",
+          "published": "Sun, 17 May 2026 13:31:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚悚！中國汽車「狂加速」撞路人釀1死2傷 河南官方急封口",
+          "summary": "中國河南省洛陽市近日發生一起嚴重的汽車衝撞事件。造成多人死傷。當地警方昨（16）日發布通報，稱該起事件共造成1人死亡、2人受傷，涉案的49歲朱姓男駕駛已被當場控制，並將此案定調為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5439673",
+          "published": "Sun, 17 May 2026 13:29:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
