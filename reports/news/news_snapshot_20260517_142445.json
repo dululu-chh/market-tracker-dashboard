@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-17T14:24:43.953241",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 13:00:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How worrying is the Ebola outbreak in DR Congo?",
+          "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 13:31:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+          "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+          "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 14:18:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普二度關切黎智英案情 女兒黎采致謝",
+          "summary": "美國總統川普日前與中國國家主席習近平會面時，曾當面關切香港壹傳媒集團創辦人黎智英遭關押的議題。黎智英的女兒黎采近期透過美國媒體公開表達對川普的感謝，她強調，這已是川普第二次向習近...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440359",
+          "published": "Sun, 17 May 2026 21:52:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美籍網紅強闖「Panchi」所在日本猴山  網怒轟：應終身禁入境",
+          "summary": "日本孤兒小獼猴「Panchi」（パンチ，又名Punch）因出生被生母棄養，將玩偶當成唯一依靠，惹人憐愛的萌樣與身世不僅讓牠紅遍全球，也讓牠居住的千葉縣市川動植物園湧入大批朝聖遊客...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440264",
+          "published": "Sun, 17 May 2026 21:12:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚見蜥蜴人、螳螂人！美前國防顧問：從UFO尋獲4種外星人屍體",
+          "summary": "美國一名曾受中央情報局（CIA）資助的前政府研究員近日在節目中披露，美國政府已從墜毀的「不明飛行物」（UFO）殘骸中，回收了至少四種不同外星生命體的遺骸。  綜合外媒報導，現...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440241",
+          "published": "Sun, 17 May 2026 21:09:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
