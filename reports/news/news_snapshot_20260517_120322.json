@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-17T12:03:20.737151",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 09:26:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+          "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+          "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 11:28:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Man drives car into pedestrians in Italy, injuring eight",
+          "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+          "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 08:33:37 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "阿聯核電廠遭無人機攻擊 引發火警無人傷亡",
+          "summary": "阿拉伯聯合大公國一座核電廠今（17）日遭到無人機攻擊，引發火災，所幸阿聯當局表示，這起事故沒有影響到核電廠安全，也沒有任何人受傷。  《美聯社》報導，阿布達比媒體辦公室（Ab...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440252",
+          "published": "Sun, 17 May 2026 19:56:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普把中國送的禮物全丟垃圾桶！ 許美華：諜對諜電影真實上演",
+          "summary": "美國總統川普本月13日至15日出訪北京，並與中國國家主席習近平會晤，雙方在檯面上的互動看上去相當友好，不過此趟訪中行結束後，有白宮記者爆料，川普一行人將中方送的禮物、中國準備的一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440066",
+          "published": "Sun, 17 May 2026 19:53:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「那個人」是誰？ 白宮記者順著話提「台灣總統」 川普點頭未否認",
+          "summary": "美國總統川普結束訪中行後在空軍一號受訪時被問到對台軍售一事，脫口稱自己要與「現在正在管理台灣的那個人談談」，被認為是在暗示要與我國總統賴清德直接對話，引發各界高度關切。之後有白宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440083",
+          "published": "Sun, 17 May 2026 19:43:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
