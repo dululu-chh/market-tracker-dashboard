@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-17T23:54:23.566145",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+          "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+          "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 19:23:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+          "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+          "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 21:14:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How worrying is the Ebola outbreak in DR Congo?",
+          "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+          "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 17 May 2026 18:06:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "月初剛有中國女間諜落網 中國男又涉間諜活動被挪威警方逮捕",
+          "summary": "中國在北歐國家動作頻頻，挪威國內安全局（PST）17日表示，一名中國男子因從事間諜活動在該國北部被捕，無獨有偶，數週前才剛有一名中國女子因竊取衛星資料而被捕。  綜合外媒報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440460",
+          "published": "Mon, 18 May 2026 07:42:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普再嗆伊朗！ 喊話快達成協議 否則將「什麼都不剩」",
+          "summary": "美國總統川普17日警告德黑蘭，應盡快與美國達成和平協議，「否則將什麼都不剩」；與此同時，美國媒體引述2名美國官員報導，川普預計19日在白宮戰情室（White House Situ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440457",
+          "published": "Mon, 18 May 2026 07:17:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "解析「川習會」 日專家：美方真正訊號警告北京勿惹事",
+          "summary": "針對日前舉行的美中「川習會」，日本前陸將小川清史與國際政治學者淺野和生分析指出，中方雖再次對台灣問題強硬表態，但美國其實幾乎沒有太認真理會，反而更像是在對中國施壓，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5440470",
+          "published": "Mon, 18 May 2026 07:08:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
