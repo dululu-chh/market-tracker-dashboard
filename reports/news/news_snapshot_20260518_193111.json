@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-18T19:31:09.959824",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
+          "summary": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases.",
+          "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 18 May 2026 16:20:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What is Ebola and why is stopping this outbreak so difficult?",
+          "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+          "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 18 May 2026 15:52:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+          "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
+          "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 18 May 2026 16:16:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "民主剛果1美國人確診伊波拉　美機場加強防疫篩檢",
+          "summary": "剛果民主共和國爆發伊波拉疫情，美國疾病管制暨預防中心今天表示，1名美國人確診，同時宣布加強防疫措施，包括對來自疫情地區的航空旅客進行篩檢，並暫停疫情地區的簽證服務。  在美國疾病管制暨預防中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5441467",
+          "published": "Tue, 19 May 2026 03:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "民主剛果伊波拉疫情至少百死　6美國人暴露病毒風險",
+          "summary": "非洲疾病管制暨預防中心（Africa CDC）負責人告訴英國廣播公司，剛果民主共和國（RD Congo，簡稱民主剛果）爆發伊波拉（Ebola）疫情通報至少100人死，疑似病例逾390例。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5441458",
+          "published": "Tue, 19 May 2026 01:54:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼接收6架飆風戰機 總統普拉伯沃：全球局勢動盪 需提升國防嚇阻力",
+          "summary": "印尼總統普拉伯沃（Prabowo Subianto）18日視察軍方近期採購的國防裝備，包括6架法國製「飆風」（Rafale）戰鬥機，並強調為了因應充滿不確定性的時代，印尼將持...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5441455",
+          "published": "Tue, 19 May 2026 01:33:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
