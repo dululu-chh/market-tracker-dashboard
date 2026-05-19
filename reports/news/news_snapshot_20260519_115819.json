@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-19T11:58:17.914422",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+          "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+          "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 10:15:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+          "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+          "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 07:07:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+          "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
+          "link": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 10:58:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南韓星巴克行銷「坦克日」引爆民憤 CEO下台",
+          "summary": "南韓星巴克18日光州民主化運動46週年紀念日當天推出「坦克日」活動促銷隨行杯，被外界砲轟，會讓人想起當年戰車開進光州鎮壓的畫面，加上以「坦克」、「猛擊桌子」等廣告詞進行宣傳，由於...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5442429",
+          "published": "Tue, 19 May 2026 18:48:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小猴Panchi萌照恐成絕響？美國男子強闖日本動物園 荒謬理由曝光",
+          "summary": "日本千葉縣市川動植物園明星小獼猴「Panchi」（パンチ，又名Punch）因將紅毛猩猩玩偶當成母親緊抱的坎坷身世，在全球爆紅。近日卻發生一起外籍遊客強闖禁區的脫序事件，造成大批猴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5442266",
+          "published": "Tue, 19 May 2026 18:33:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "包括台灣在內！泰國正式通過「取消60天免簽」",
+          "summary": "遊泰注意！泰國內閣會議今天（19日）正式通過由該國外交部提出的簽證政策修訂案，決議全面取消先前針對包括台灣在內共93個國家實施的「60天觀光免簽證」措施。  泰國政府本月11...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5442448",
+          "published": "Tue, 19 May 2026 18:29:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
