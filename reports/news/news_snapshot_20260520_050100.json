@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-20T05:00:58.694372",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+          "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
+          "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 18:05:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+          "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+          "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 19:32:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Key people smuggler arrested after BBC uncovered identity",
+          "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
+          "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 17:05:41 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沖繩校外教學兩船翻覆釀死傷！調查揭2船長都讓高中生駕駛船隻",
+          "summary": "日本沖繩今年3月一群高中生在校外教學期間，在沖繩縣名護市邊野古地區美軍基地預定地附近翻船，1名17歲女高中生以及1位船長罹難，並造成14人受傷。最新調查結果指出，兩船的船長，在事...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443126",
+          "published": "Wed, 20 May 2026 12:39:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本兵庫民宅驚見母女雙屍 警朝兇殺方向調查",
+          "summary": "日本兵庫縣龍野市1棟木造2層樓民宅，19日上午10時30分許驚見母女雙屍，2名死者身上有多處刀傷且渾身是血，但現場並未發現凶器，警方目前朝兇殺方向調查。  綜合日媒報導，這對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443099",
+          "published": "Wed, 20 May 2026 12:15:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國暴雨造成22人死亡 另有20人失蹤",
+          "summary": "中國媒體聲稱，近日中南部地區發生強降雨，造成22人死亡和20人下落不明。  根據《法新社》報導，中國環球電視網（CGTN）表示，多個地區遭遇破紀錄降雨，導致學校停工停課。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443053",
+          "published": "Wed, 20 May 2026 11:51:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
