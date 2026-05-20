@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-20T08:30:36.583659",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+          "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+          "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 20 May 2026 03:49:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+          "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
+          "link": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 20 May 2026 01:52:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+          "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
+          "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 19 May 2026 18:05:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國客暴減近6成沒差！台、韓強勢補位 日本4月外國遊客照創今年新高",
+          "summary": "儘管中國政府持續建議公民不要前往日本旅遊，不過外國遊客旅日人數仍維持在高檔，最新4月旅日外國遊客高達369萬2200人次，創下2026年單月最高紀錄，其中台灣、南韓等9個市場遊客...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443505",
+          "published": "Wed, 20 May 2026 16:21:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "比對DNA涉7年前猥褻女高中生 日本男子大谷翔梧被捕",
+          "summary": "日本東京都警視廳赤羽警察署表示，埼玉縣川口市榮町職業不詳的32歲男子大谷翔梧，2018年11月21日涉嫌在東京北區猥褻女高中生，近來終於比對出DNA並逮捕。  據《產經新聞》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443518",
+          "published": "Wed, 20 May 2026 16:07:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本自民黨將提案 將個人編號卡「取得義務化」",
+          "summary": "日本自民黨認為，政府應以讓全體國民都能感受數位化恩惠的社會為目標，因此將向政府提出建議，將個人編號卡（My Number Card）列為「取得義務化」。  《ABEMA》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5443380",
+          "published": "Wed, 20 May 2026 15:49:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
