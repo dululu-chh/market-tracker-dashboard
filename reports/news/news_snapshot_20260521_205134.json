@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-21T20:51:33.224416",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran steps up claim to control Strait of Hormuz",
+          "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+          "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 14:37:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+          "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
+          "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 16:08:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia and China condemn US over indictment of former Cuban leader",
+          "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime.",
+          "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 17:11:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普要伊朗交出濃縮鈾庫存　反對荷莫茲海峽收通行費",
+          "summary": "美國與伊朗今天對伊朗鈾庫存、管控荷莫茲海峽等問題的立場依然對立，使得由巴基斯坦主導、旨在結束這場衝突的努力看不到多少希望。  路透社報導，美國總統川普（Donald Trump）今天表示，美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445421",
+          "published": "Fri, 22 May 2026 04:00:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普延後簽署AI行政命令　美中競爭與監管取捨浮現",
+          "summary": "美國總統川普今天表示，他已延後簽署一項人工智慧（AI）相關行政命令，理由是對部分內容不甚滿意，且不希望採取任何可能削弱美國在AI競爭中領先中國優勢的措施。  川普原本計劃在多家AI企業執行長...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445420",
+          "published": "Fri, 22 May 2026 03:36:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "路透：美議員示警中資介入阿根廷合約標案　憂影響國安",
+          "summary": "根據路透社看到的信件內容，美國眾議院外交事務委員會主席馬斯特透過信函向國務卿盧比歐示警，「中國惡意影響力」介入阿根廷一項重大合約競標。  路透社報導，這封4月23日的信函關切的是負責阿根廷巴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445418",
+          "published": "Fri, 22 May 2026 03:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
