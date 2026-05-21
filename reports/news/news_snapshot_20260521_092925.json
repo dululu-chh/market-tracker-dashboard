@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-21T09:29:23.138846",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+          "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
+          "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 03:01:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+          "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
+          "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 20 May 2026 16:34:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+          "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
+          "link": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 08:52:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "泰國公主帕差拉吉蒂雅帕住院逾3年 王室證實病情惡化",
+          "summary": "泰國王室今天表示，住院已逾3年的長公主帕差拉吉蒂雅帕病情惡化。現年47歲的她是泰王瓦吉拉隆功的長女，也是他與元配唯一的孩子。  法新社報導，帕差拉吉蒂雅帕公主（Princess Bajr...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5444969",
+          "published": "Thu, 21 May 2026 17:21:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本議員上畠寛弘「大變身」！ 10年前模樣曝光網喊︰難怪被海關擋",
+          "summary": "現年38歲的日本神戶市議員上畠寛弘，曾分享自己訪台時，因減重後的體態和外貌，與護照片相差甚遠，被台灣海關當場攔下嚴格檢查，趣聞讓台日民眾津津樂道。昨（20日）上畠寛弘曬出一組照片...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5444842",
+          "published": "Thu, 21 May 2026 17:11:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加速美伊和談 巴基斯坦陸軍參謀長訪伊朗磋商",
+          "summary": "美伊停火協議已於4月8日生效，但美國總統川普5月20日警告，外交努力的窗口正在關閉，伊朗首席談判代表卡利巴夫（Mohammad Bagher Ghalibaf）也指責美國試圖重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5444911",
+          "published": "Thu, 21 May 2026 16:56:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
