@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-21T23:58:09.261033",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+          "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+          "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 21:44:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+          "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+          "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 20:12:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran steps up claim to control Strait of Hormuz",
+          "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+          "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 14:37:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "要伊朗交出濃縮鈾庫存 川普：反對荷姆茲海峽收通行費",
+          "summary": "美國與伊朗的衝突懸而未決，雙方目前仍對伊朗鈾庫存、荷姆茲海峽的通行等問題立場對立，美國總統川普（Donald Trump）21日再度表示，美方終將取得伊朗的高濃縮鈾庫存，並指美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445430",
+          "published": "Fri, 22 May 2026 07:28:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挺到底！川普：美國將向波蘭增派5000名士兵",
+          "summary": "美國總統川普21日證實，美國將向波蘭增派5000名美軍。川普強調，他與波蘭總統納夫羅茨基（Karol Nawrocki）的緊密關係是美國增兵波蘭的主要原因。  川普21日在自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445435",
+          "published": "Fri, 22 May 2026 07:23:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國女囚親演自己疑「美化殺人」惹眾怒 官方緊急喊卡",
+          "summary": "以女子監獄及女受刑人為主軸的國片「陽光女子合唱團」，在台灣創下票房紀錄，但原定5月30日公映的中國電影「監獄來的媽媽」，卻因為由真實案件女犯人親自演出，被指為殺人犯「洗白」，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445419",
+          "published": "Fri, 22 May 2026 06:49:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
