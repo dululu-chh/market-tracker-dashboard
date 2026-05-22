@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-22T03:27:15.929498",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+          "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+          "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 22 May 2026 00:10:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+          "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
+          "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 21 May 2026 18:40:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+          "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+          "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 22 May 2026 01:37:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由說新聞》烏克蘭攻破俄總部！普廷戰狼嘴硬被「這幕」狠打臉",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445647",
+          "published": "Fri, 22 May 2026 11:15:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "韓媒：川普提與賴清德對話 成美中關係新導火線",
+          "summary": "美國總統川普近日二度表態要與我國總統賴清德對話，韓媒分析，自1979年美中建交以來，美國總統因顧及中國從未與台灣總統通話，若此事成真，恐大幅衝擊美中關係。另有分析指，川普模糊、交...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445582",
+          "published": "Fri, 22 May 2026 11:13:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "SpaceX星艦發射前40秒緊急喊卡！馬斯克曝原因 最快明再戰",
+          "summary": "全球首富馬斯克（Elon Musk）旗下的太空探索科技公司「SpaceX」原定在當地時間21日發射最新版本的「星艦V3」（Starship V3），不過在發射前40秒緊急喊卡，預...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5445555",
+          "published": "Fri, 22 May 2026 11:03:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
