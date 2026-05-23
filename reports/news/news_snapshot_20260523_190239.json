@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-23T19:02:36.508065",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 82 killed in Chinese coal mine explosion",
+          "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 15:18:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 14:06:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 17:15:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "盧比歐稱和談取得進展　伊朗可能近日內接受協議",
+          "summary": "美國國務卿盧比歐（Marco Rubio）今天表示，華府與德黑蘭當局的談判取得了進展，伊朗有可能在近日接受協議以結束中東戰爭。  法新社報導，盧比歐聲稱，談判已經取得進展，但他並未排除美國總...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447396",
+          "published": "Sun, 24 May 2026 01:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊擬延長停火協議60天  川普證實可能在週日做出決定",
+          "summary": "英國金融時報23日引述調停美伊戰事人士消息透露，美國與伊朗正接近達成一項協議，將目前停火狀態延長60天，並為後續針對伊朗核計畫的談判建立架構。美國總統川普同日對美國新聞網站A...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447381",
+          "published": "Sun, 24 May 2026 00:27:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國山西沁源煤礦瓦斯爆炸 官方通報下修為82死",
+          "summary": "新華社報導，中國山西省長治市沁源縣留神峪煤礦昨晚發生瓦斯爆炸事故，迄今救援工作仍在進行。長治市政府今天深夜開新聞發布會通報，截至目前事故已造成82人死亡、128人受傷、2人失聯。  長治...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447371",
+          "published": "Sat, 23 May 2026 23:58:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
