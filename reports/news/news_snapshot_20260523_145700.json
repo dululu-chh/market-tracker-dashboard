@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-23T14:56:58.756218",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+          "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 13:40:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 14:06:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+          "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+          "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 14:24:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "出司法奧步打壓在野黨 「人權觀察」憂心土耳其民主倒退",
+          "summary": "國際非政府組織「人權觀察」（Human Rights Watch）23日表示，土耳其總統艾多根（Recep Tayyip Erdogan）的政府以「凌虐手段」對付主要反對黨「共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447344",
+          "published": "Sat, 23 May 2026 22:49:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普政府頒布綠卡新規 在美申請人得回母國辦理",
+          "summary": "美國總統川普第二任期上任後收緊移民相關政策。美國政府22日宣布，未來在美生活的外籍人士，若欲取得俗稱「綠卡」的「合法永久居民」身分，必須返回母國申請，一改過去50多年來皆可在境...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447310",
+          "published": "Sat, 23 May 2026 21:45:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "批美國不誠實 伊朗國會議長卡利巴夫：談判不妥協",
+          "summary": "伊朗國營電視台指出，伊朗最高談判代表、國會議長卡利巴夫（Mohammad-Bagher Qalibaf）今（23日）在會談中，告知巴基斯坦陸軍參謀長穆尼爾（Asim Munir）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447276",
+          "published": "Sat, 23 May 2026 21:40:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
