@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-23T22:47:47.111977",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+          "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+          "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 22:10:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 82 killed in Chinese coal mine explosion",
+          "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 15:18:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 19:55:16 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "荷莫茲海峽有望重新開放 川普宣布：美伊協議已大致談妥",
+          "summary": "美國與伊朗之間延宕已久的和平協議有了最新進展，美國總統川普23日表示，美國和伊朗之間一項廣泛協議已經「基本達成」，荷姆茲海峽將重新開放。  綜合外媒報導，川普在他「真實社群」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447413",
+          "published": "Sun, 24 May 2026 06:39:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "解密檔案曝光！美國F-16擊落不明物體  13架米格機追逐UFO",
+          "summary": "首次上稿 05-23 23:14更新時間 05-24 06:33 美國五角大廈22日公布新一批「不明異常現象」（UAP）、或稱「不明飛行物」（UFO）解密檔案，包括一段美軍戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447360",
+          "published": "Sun, 24 May 2026 06:33:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "知情人士：對台軍售不耽誤美伊戰事 川普即將做出決定",
+          "summary": "首次上稿 05-24 00:49更新時間 05-24 06:24 日前美國海軍代理部長高雄說，為確保美軍在伊朗戰爭中有足夠的彈藥，需暫停總額140億美元的對台軍售案，然而知情人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5446972",
+          "published": "Sun, 24 May 2026 06:24:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
