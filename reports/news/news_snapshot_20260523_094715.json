@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-23T09:47:13.367078",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+          "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 09:03:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 07:44:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "SpaceX launches massive Starship V3 rocket on test flight",
+          "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+          "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 23 May 2026 03:53:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗一堆高官陣亡卻沒垮！實質掌控者「鐵血兄弟會」背景曝光",
+          "summary": "今年2月28日，以色列聯手美軍轟炸伊朗，掌權37年的最高領袖哈米尼（Ayatollah Ali Khamenei）首日就被炸死，由他的兒子穆吉塔巴（Mojtaba Khamene...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447089",
+          "published": "Sat, 23 May 2026 17:19:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "岡田克也談眾院敗選 稱質詢台灣有事遭網攻是主因",
+          "summary": "日本前副首相、前外務大臣岡田克也接受「讀賣新聞」專訪，談及今年2月眾議院選舉失利時表示，他在國會追問首相高市早苗「台灣有事」是否屬於日本行使集體自衛權的「存亡危機事態」，引發網路攻擊與抹黑，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447066",
+          "published": "Sat, 23 May 2026 16:57:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "無人機攻擊烏東俄國占領區學生宿舍 死亡數攀升到10人",
+          "summary": "遭俄羅斯占領的烏克蘭東部盧甘斯克州的親俄當局23日說，烏克蘭無人機日前夜襲斯塔洛柏斯克（Starobilsk）的1所大學，死亡人數已升至10人，另有38人受傷與11人失聯。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447059",
+          "published": "Sat, 23 May 2026 16:49:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
