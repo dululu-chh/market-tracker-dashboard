@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-24T23:55:32.521501",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+          "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+          "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 20:26:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 16:50:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Turkish riot police storm opposition offices after leaders ousted",
+          "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 19:49:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "批歐巴馬與伊朗達成「爛協議」  川普：我不會像他一樣",
+          "summary": "美國總統川普23日表示，美國與伊朗針對結束中東衝突的初步協議已大致談妥，不過雙方目前對於核議題的處理方式仍有歧異。川普24日在「真實社群」（Truth Social）發文強調，如...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448260",
+          "published": "Mon, 25 May 2026 07:48:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不只武器級！美官員：川普要伊朗交出全部2000公斤濃縮鈾",
+          "summary": "川普政府對於在數日內與伊朗簽署協議抱持樂觀態度，將避免戰爭進一步升級，但協議尚未最終定案。1名美國高層官員24日證實，作為協議的一部分，伊朗方面「原則上同意處理」其高濃縮鈾庫存；...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448262",
+          "published": "Mon, 25 May 2026 07:40:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊針對「核協議」仍有分歧 魯比歐坦言：不可能72小時內達成",
+          "summary": "美國總統川普23日表示，美國與伊朗針對結束中東衝突的初步協議已大致談妥，美國國務卿魯比歐則指出，有望在24日之後正式宣布美伊針對「結束戰爭」達成協議。不過雙方目前對於核議題的處理...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448250",
+          "published": "Mon, 25 May 2026 06:43:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
