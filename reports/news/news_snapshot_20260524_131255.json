@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-24T13:12:54.290163",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect killed after opening fire on Secret Service near White House",
+          "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+          "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 06:15:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 13:02:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "BBC at the site of China's worst mining disaster in more than a decade",
+          "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+          "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 10:34:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不只台灣！美國也通知日本延宕軍售 日專家曝應對方式",
+          "summary": "日前傳出美國因為伊朗戰爭正暫停對台灣140億美元的軍售案，藍白藉機嘲諷賴政府、進一步散播疑美論。而今天（24日）又有外媒披露，不只台灣，美國也已通知作為其印太重要盟友的日本，因為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5447954",
+          "published": "Sun, 24 May 2026 21:07:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德媒：普丁飢不擇食賤賣天然氣  習近平想榨乾俄羅斯",
+          "summary": "德國媒體發表評論指出，日前訪中的俄羅斯總統普丁，為了讓中國購買俄羅斯天然氣，飢不擇食地向中國提供高額折扣。但中國要求俄羅斯以大幅優惠的國內價出售天然氣，中國國家主席習近平像「榨檸檬」一樣榨乾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448088",
+          "published": "Sun, 24 May 2026 20:52:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄國夜襲發射極音速飛彈攻擊烏克蘭 歐盟斥責意在恐嚇",
+          "summary": "歐洲聯盟（EU）的外交暨安全政策高級代表卡拉斯（Kaja Kallas）24日表示，俄羅斯意圖透過發射據稱包括可攜帶核子彈頭的「榛樹」（Oreshnik）飛彈的最新一波大規模空...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448037",
+          "published": "Sun, 24 May 2026 19:24:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
