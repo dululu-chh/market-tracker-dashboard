@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-24T16:03:22.411370",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect killed after opening fire on Secret Service near White House",
+          "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+          "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 15:24:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 13:02:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "BBC at the site of China's worst mining disaster in more than a decade",
+          "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+          "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 24 May 2026 10:34:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗高階官員：美伊停戰協議 可能是「中東轉捩點」",
+          "summary": "1名伊朗高階官員今天告訴美國有線電視新聞網（CNN），各方為結束伊朗戰爭所做努力可能因華府和德黑蘭近期協商進展而出現「轉捩點」，並將為中東帶來「繁榮穩定新時代」。  這名消息人士透露，有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448205",
+          "published": "Sun, 24 May 2026 22:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普昨稱美伊協議大致談妥 今突改口美方不急",
+          "summary": "在各界預期美伊即將達成協議終止中東戰事之際，美國總統川普今天表示，他已告訴美國談判代表，美方不急著與伊朗達成協議。  法新社報導，川普在自家社媒「真實社群」（Truth Social）發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448214",
+          "published": "Sun, 24 May 2026 22:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "數月前狂搜「3關鍵字」！警懷疑旭山動物園員工早預謀殺妻焚屍",
+          "summary": "日本北海道「旭山動物園」今年3月發生一起焚屍命案，凶嫌為任職多年的男員工鈴木達也，他涉嫌將妻子遺體運入動物園焚化爐毀損，事後被警方依殺人罪嫌逮捕，今（24）日被移送檢方偵辦。根據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5448020",
+          "published": "Sun, 24 May 2026 22:36:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
