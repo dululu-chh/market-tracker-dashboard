@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-26T00:02:29.189270",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Deal with US not imminent, Iran says",
+          "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+          "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 22:05:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices slide on hopes of US-Iran peace deal",
+          "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+          "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 13:05:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+          "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 21:24:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "加薩援助船隊成員疑遭性侵 加拿大怒轟以色列：駭人聽聞無法接受",
+          "summary": "近日1支試圖援助加薩走廊的船隊被以色列扣押，相關團體指控，倡議人士遭虐待、性侵和毆打，導致部分被拘留者需住院治療。為此加拿大總理卡尼（Mark Carney）25日告訴以色列總統...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449413",
+          "published": "Tue, 26 May 2026 07:56:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍對伊朗發動「自衛打擊」 摧毀伊朗飛彈陣地與水雷艇",
+          "summary": "伊朗阿巴斯港（Bandar Abbas）與荷姆茲海峽附近沿海地區25日深夜傳出爆炸聲，爆炸原因不明。美國《CNN》詢問美國中央司令部（CENTCOM）關於阿巴斯港爆炸聲一事，而中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449434",
+          "published": "Tue, 26 May 2026 07:54:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "訪中照樣說！李顯龍：星中往來純為「共同利益」非「同根同源」",
+          "summary": "首次上稿 05-26 00:13更新時間 05-26 07:51 新加坡前總理、現任國務資政李顯龍上週結束訪中行，在中國的土地上，李顯龍霸氣表示，星國與中國合作交往，單純基於共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449348",
+          "published": "Tue, 26 May 2026 07:51:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
