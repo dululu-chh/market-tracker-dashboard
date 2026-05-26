@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-26T04:59:18.957775",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches new strikes on Iran, targeting missile sites and boats",
+          "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war.",
+          "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 26 May 2026 04:31:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Deal with US not imminent, Iran says",
+          "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+          "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 22:05:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices slide on hopes of US-Iran peace deal",
+          "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+          "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 25 May 2026 13:05:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北韓又射了！朝黃海方向發射不明飛行物",
+          "summary": "北韓又鬧事！南韓聯合參謀本部（合同參謀本部）表示，北韓今天（26日）朝黃海方向發射1枚不明飛行物，目前正在分析其確切型號。  據《韓聯社》報導，北韓4月19日從東海岸咸鏡南道...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449840",
+          "published": "Tue, 26 May 2026 12:47:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美白宮特勤戒備仍爆槍擊！葉耀元：在白宮旁行凶是想殉道",
+          "summary": "美國槍枝氾濫問題難解，美國白宮附近23日晚間才發生槍擊案。對此，在美國快20年的美國聖湯瑪斯大學國際研究講座教授葉耀元指出，美國因憲法第二修正案允許民眾合法擁有槍械以保障自由，導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449597",
+          "published": "Tue, 26 May 2026 12:09:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓星巴克「坦克日」內部調查出爐 竟然提到了台灣",
+          "summary": "南韓星巴克在「5‧18」光州民主化運動紀念日推出「坦克日」，推銷坦克隨行杯（Tank Tumbler），引發各界砲轟並抵制，母公司新世界集團會長鄭溶鎮今（26日）再度出面道歉，並...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5449630",
+          "published": "Tue, 26 May 2026 12:05:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
