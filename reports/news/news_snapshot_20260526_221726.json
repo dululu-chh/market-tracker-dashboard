@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-26T22:17:24.920552",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+          "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+          "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 26 May 2026 15:15:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+          "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+          "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 26 May 2026 03:06:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Four killed as school minibus collides with train in Belgium",
+          "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
+          "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 26 May 2026 17:11:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱年度健檢結果「完美」　將屆80歲體能受關注",
+          "summary": "美國總統川普今天接受年度健康檢查，結束後他透露結果「完美」。川普將在6月14日過80歲生日，他去年重返白宮時是美國史上上任時最年長總統，其健康情況受到越來越多檢視。  法新社報導，川普（Do...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5450739",
+          "published": "Wed, 27 May 2026 05:54:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "穩定礦物能源 日美印澳合作抗中",
+          "summary": "啟動印太海洋監視合作倡議 〔駐日特派員林翠儀、國際新聞中心／綜合報導〕日美印澳「四方安全對話」（Quad）外交部長會議廿六日在印度舉行，四國外長同意深化在重要礦物供應鏈與能源安全保障方面的合作，在南太平洋島國斐濟的港灣基礎建設上展開合作，並啟動一項新的「印太海洋監視合作倡議」。  Quad外長…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756402",
+          "published": "Wed, 27 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》A red fox stows away on a cargo ship, traveling from England to US一隻紅狐狸搭貨輪從英國偷渡到美國",
+          "summary": "◎管淑平  This stowaway truly was sly as a fox.  這名偷渡客真的是狡猾如狐狸。    A red fox somehow slipped onto a cargo ship that traveled from Southampton, Eng…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756375",
+          "published": "Wed, 27 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
