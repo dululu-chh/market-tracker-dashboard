@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-27T16:35:04.652059",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+          "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 10:40:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
+          "summary": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 15:16:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Five people found alive after week trapped in flooded Laos cave",
+          "summary": "The search is continuing for a further two villagers who are still missing, rescuers say.",
+          "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 11:52:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "一頭金髮神似川普！孟加拉罕見白化水牛爆紅 獲政府出手免遭獻祭",
+          "summary": "孟加拉一頭因擁有飄逸金髮，而被暱稱為「唐納‧川普」（Donald Trump）的水牛，在爆紅後逃過被獻祭的命運，將改由國家動物園收容照料。  法新社27日報導，擁有1.7...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452073",
+          "published": "Thu, 28 May 2026 00:22:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美大使籲西班牙防堵華為等中企 勿讓北京滲透關鍵技術領域",
+          "summary": "美國駐西班牙大使李昂（Benjamin Leon）27日警告，西班牙在深化與中國的關係時，必須非常謹慎，將其排除在數據、國防與電信等北京試圖主導的關鍵領域之外。  路透報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452065",
+          "published": "Thu, 28 May 2026 00:17:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "曬台灣火鍋店月薪達6萬！網紅抖音遭禁言、影片被刪",
+          "summary": "中國近年經濟下行，失業率狂飆，即便待遇少得可憐的工作也被搶破頭。最近一名似乎也是到中國拍些「愛國片」的台灣小網紅，分享台灣某間火鍋店的徵人廣告，開出的薪資引發中網熱議，沒想到影片...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452010",
+          "published": "Thu, 28 May 2026 00:10:25 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
