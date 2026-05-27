@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-27T08:36:18.493302",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+          "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+          "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 06:24:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+          "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+          "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 04:07:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nasa unveils next steps to build permanent Moon base",
+          "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
+          "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 26 May 2026 20:25:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日航空服員飲酒超標延誤航班 186名旅客受影響",
+          "summary": "日本航空（JAL）日前宣布，一名原定執勤廣島飛往羽田航班的空服員，在執飛前的酒精檢測中被驗出酒精濃度超過規定，因而被取消執飛資格，此事件並導致該航班發生延誤，影響186名旅客的後...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5451579",
+          "published": "Wed, 27 May 2026 16:28:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏軍「暴風影」飛彈夜襲克里米亞 俄怒控英法提供武器",
+          "summary": "烏克蘭週三（27日）深夜發射英法製造的「暴風影」（Storm Shadow）巡弋飛彈協同無人機，對俄羅斯克里米亞塞凡堡（Sevastopol）發動空襲。  據《路透》報導，塞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5451477",
+          "published": "Wed, 27 May 2026 16:20:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "扯！日本航空空服員酒測超標 航班誤點40分鐘",
+          "summary": "太離譜！日本航空（JAL）今（27日）表示，23日早上原定從廣島機場飛往東京羽田機場的252號航班，由於1名空服員酒測超標需要換人，使得班機誤點40分左右。  據《共同社》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5451536",
+          "published": "Wed, 27 May 2026 16:16:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
