@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-05-27T19:21:32.911004",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+          "summary": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
+          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 17:12:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+          "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 18:50:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says US 'not satisfied' with Iran deal yet",
+          "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+          "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 17:37:33 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱美伊談判進展順利　目前不考慮放寬對伊朗制裁",
+          "summary": "美伊談判前景未明之際，美國總統川普今天在內閣會議上表示，談判進展順利，但目前不考慮放寬對伊朗的制裁，也不排除再對伊朗動武的可能性。美國國務卿盧比歐則說，接下來幾個小時到幾天內可看出談判是否能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452085",
+          "published": "Thu, 28 May 2026 02:45:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美削減危機應援北約兵力　戰機轟炸機數量近腰斬",
+          "summary": "德國「明鏡周刊」（Der Spiegel）與路透社披露，美國打算大幅削減在危機時援助歐洲盟國的軍事資源，包括戰機、軍艦和空中加油機等。  3名知情人士早先曾向路透社透露，川普政府計劃通知北約...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452084",
+          "published": "Thu, 28 May 2026 02:45:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北韓試射自家版海馬士　AI導引巡弋飛彈劍指南韓",
+          "summary": "北韓日前測試自家版的海馬士（HIMARS）多管火箭系統，另以機動發射車發射據稱採用AI導引的戰術巡弋飛彈；北韓官媒稱這款巡弋飛彈很快會部署至兩韓邊境，用於極精準打擊。  南韓聯合參謀本部表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452081",
+          "published": "Thu, 28 May 2026 01:45:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
