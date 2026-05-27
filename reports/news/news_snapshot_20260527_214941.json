@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-27T21:49:39.958765",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel issues evacuation order for swathes of southern Lebanon",
+          "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 20:26:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+          "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+          "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 18:50:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says US 'not satisfied' with Iran deal yet",
+          "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+          "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 27 May 2026 17:37:33 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "11年出逃4次 中國異議人士駕橡皮艇抵韓",
+          "summary": "〔國際新聞中心／綜合報導〕在歷經多次出逃失敗後，長期遭中國政府迫害的六十八歲異議人士董廣平（見圖，取自@ShengXue_ca），駕駛一艘小型橡皮艇，成功橫渡黃海抵達南韓，目前正被南韓警方以涉嫌違反移民法拘留中。這是董廣平十一年來至少第四次試圖逃離中國，其律師與友人期盼國際社會伸出援手，助其前往加拿…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756541",
+          "published": "Thu, 28 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日「國家情報會議」成立 不再過度依賴美國",
+          "summary": "〔駐日特派員林翠儀／東京廿七日報導〕日本政府推動的「國家情報會議」設立法案，廿七日在參議院全體會議中通過並正式成立。首相高市早苗強調，這是強化日本情報功能「改革的第一步」。配合法案通過，「國家情報局」預計最快七月成立，下一步將展開包括「防止間諜相關法案」，以及獨立情報機關「對外情報廳」創設等法案的制…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756545",
+          "published": "Thu, 28 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏戰僵持 傳普廷擬攻擊歐洲國家",
+          "summary": "〔編譯管淑平／綜合報導〕烏俄戰爭持續至今已四年多，俄羅斯總統普廷正陷入烏克蘭戰事僵局，而俄國也因打消耗戰持續損失兵力，歐洲國家正愈加擔心，普廷接下來會設法將戰爭往歐洲擴大，讓他有名義可以擴大動員來突破僵局。 可能針對波海國家或北極 測試北約凝聚力 最近俄國先後對波羅的海國家發表強硬聲明，指控拉脫…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756542",
+          "published": "Thu, 28 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
