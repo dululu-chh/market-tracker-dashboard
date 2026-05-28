@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-28T10:51:41.519717",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says it targeted American base after fresh US strikes",
+          "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+          "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 09:58:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+          "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+          "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 10:15:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Sixteen pupils killed in Kenya school fire",
+          "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+          "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 09:57:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "遭歐盟外交首長爆料「已撤離基輔」 美駐烏克蘭大使館發聲闢謠",
+          "summary": "俄羅斯日前發出警告，要求外國使節撤離基輔，歐盟外交與安全政策高級代表卡拉斯（Kaja Kallas）日前稱「美國已撤離」，引發關注。對此，美國駐烏克蘭大使館於今（28日）緊急澄清...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452971",
+          "published": "Thu, 28 May 2026 18:01:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》中國奧客情緒失控下場糗爆！狂男炫富網罵爆：有多自卑",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5453058",
+          "published": "Thu, 28 May 2026 17:48:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "彭博：亞洲富裕嬰兒潮世代輕忽交棒傳承 逾3成毫無準備",
+          "summary": "根據總部位於日內瓦的一家私人銀行調查，儘管亞洲富裕的嬰兒潮世代希望將財富跨世代傳承，但他們未能與家人討論財富轉移事宜，也未建立正式的治理架構。  彭博28日報導，根據瑞士...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5453037",
+          "published": "Thu, 28 May 2026 17:44:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
