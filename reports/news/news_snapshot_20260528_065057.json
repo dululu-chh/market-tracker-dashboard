@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-28T06:50:55.350184",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iran targets for second time in three days",
+          "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+          "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 04:59:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel strikes southern Lebanon after evacuation orders",
+          "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
+          "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 06:26:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+          "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+          "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 04:53:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "勒斃11歲童4度轉移棄屍地！京都冷血繼父被依殺人2罪起訴",
+          "summary": "日本京都日前發生駭人11歲男童遭殺害棄屍命案，37歲繼父安達優季隨後被捕並坦承犯行，今（28）日被京都地方檢察廳依殺人、遺棄屍體等2罪名起訴。  綜合日媒報導，根據起訴書，安...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452592",
+          "published": "Thu, 28 May 2026 14:12:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "Quad重申推動北韓無核化 平壤強硬回嗆：永遠不可能！",
+          "summary": "澳洲、印度、日本和美國組成的「四方安全對話」（Quad）外長會議近日強調，將堅定推動北韓無核化。對此平壤28日反駁稱，北韓無核化將永遠不會達成。  韓聯社報導，北韓外交部發言...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452349",
+          "published": "Thu, 28 May 2026 14:01:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊停火後最嚴重衝突！ 伊朗襲擊美軍基地 報復美先前攻擊",
+          "summary": "美國今（28）日對伊朗南部發動攻擊，引發伊朗對美軍基地的報復，這是自美伊停火後最嚴重的衝突。  根據《法新社》報導，伊朗國家廣播公司IRIB稱，新一輪衝突似乎始於伊朗部隊對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5452450",
+          "published": "Thu, 28 May 2026 13:25:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
