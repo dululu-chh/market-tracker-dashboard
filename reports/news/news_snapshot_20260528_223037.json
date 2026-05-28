@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-28T22:30:35.335406",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+          "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+          "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 22:13:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Are US and Iran close to peace or sliding back to war?",
+          "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+          "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 16:56:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+          "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+          "link": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 28 May 2026 16:20:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "得台灣者得天下？馬斯克談美中AI競賽 影片翻出掀台網熱議",
+          "summary": "首次上稿 5-28 23:43更新時間 5-29 06:16  最近有消息傳出，全球首富馬斯克（Elon Musk）旗下特斯拉、xAI與SpaceX，共同發起的巨型晶片製造與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5453302",
+          "published": "Fri, 29 May 2026 06:16:47 +0800",
+          "keywords": [
+            "AI",
+            "特斯拉",
+            "晶片"
+          ]
+        },
+        {
+          "title": "顛覆認知！實驗證實蚊子大腦受訓後 竟偏好叮咬噴灑防蚊液者",
+          "summary": "首次上稿 5-28 23:55更新時間 5-29 05:58 一項28日發表於《實驗生物學期刊》（Journal of Experimental Biology）的研究成果...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5453356",
+          "published": "Fri, 29 May 2026 05:58:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊接近簽署停戰協議 美媒：只差川普點頭",
+          "summary": "首次上稿 5-28 22:56更新時間 5-29 05:56 2名美國官員與1名消息人士28日透露，美國與伊朗已接近達成停戰協議，伊朗方面已經準備好簽署，但還在等待美國總統川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5453326",
+          "published": "Fri, 29 May 2026 05:56:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
