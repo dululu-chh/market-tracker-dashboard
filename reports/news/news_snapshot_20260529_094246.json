@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-29T09:42:45.238532",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+          "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+          "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 09:34:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+          "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+          "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 09:17:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+          "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
+          "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 02:24:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "愛妻病重 挪威王儲縮短訪日行程",
+          "summary": "挪威王室29日宣布，即將出訪日本的挪威王儲哈康（Crown Prince Haakon）將縮短這趟訪問，理由是確診肺纖維化的挪威王儲妃梅特瑪莉（Princess Mette-M...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454147",
+          "published": "Fri, 29 May 2026 17:19:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "數位世界陷阱多  聯合國：科技產品須考量兒童安全",
+          "summary": "聯合國今（29）日表示，確保兒童在數位世界的安全是當務之急，並強調必須追究那些對網路傷害負有責任的人。  根據《法新社》報導，聯合國人權事務高級專員圖爾克（Volker T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454057",
+          "published": "Fri, 29 May 2026 16:54:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓大學生詐騙園區受虐慘死！柬埔寨法院判6中國人終身監禁",
+          "summary": "南韓慶尚北道22歲大學生朴敏鎬，遭中國籍電詐集團以高薪詐騙至柬埔寨後，慘遭酷刑虐殺身亡。柬埔寨貢布省初級法院27日對6名中國籍被告，以共同實施酷刑、殘忍虐待及謀殺罪名成立，全數判...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454059",
+          "published": "Fri, 29 May 2026 16:47:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
