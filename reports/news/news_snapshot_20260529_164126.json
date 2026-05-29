@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-29T16:41:25.196530",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+          "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+          "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 15:29:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+          "summary": "Romania will hold an emergency meeting following the incident, in which two people were injured.",
+          "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 16:13:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+          "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+          "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 13:55:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澤倫斯基致敬「大屠殺」二戰軍團UPA 波蘭政界怒要求撤勳章",
+          "summary": "烏克蘭總統澤倫斯基近日採取行動向1個二戰時期義勇軍團致敬，但波蘭指控這個組織曾屠殺大量波蘭人。波蘭總統憤而要求撤銷其勳章，數名波蘭政界領袖也警告兩國邦誼恐惡化。  法新社報導，澤倫斯基（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454526",
+          "published": "Sat, 30 May 2026 00:33:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "是否與伊朗達成協議  川普：將在白宮戰情室拍板",
+          "summary": "美國總統川普今天在自家社媒平台「真實社群」（Truth Social）發文寫道，對於是否與伊朗達成和平協議，他將做出最終決定。  法新社報導，川普在「真實社群」發布長文指出，他將在白宮戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454519",
+          "published": "Fri, 29 May 2026 23:35:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挑撥離間？ 伊朗外長稱與阿曼討論未來荷姆茲管理問題",
+          "summary": "在傳出美國和伊朗已達成初步協議，就等待美國總統川普批准之際，伊朗外交部長阿拉奇（Abbas Araqchi）29日表示，他和阿曼外交部長阿布塞迪（Sayyid Badr Alb...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454504",
+          "published": "Fri, 29 May 2026 23:19:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
