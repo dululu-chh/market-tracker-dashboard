@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-29T23:08:34.204427",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+          "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+          "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 21:40:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+          "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+          "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 17:27:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump holds meeting to make 'final determination' on Iran deal",
+          "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+          "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 29 May 2026 19:32:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普：即將就伊朗協議做決定　德黑蘭否認達最終共識",
+          "summary": "美國總統川普今天指出，他即將就可能與伊朗達成的協議做出決定，不過德黑蘭方面堅稱，終結中東戰爭一事「尚未達成最終協議」。  伊朗法斯通訊社（Fars news agency）今天的報導反駁川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454552",
+          "published": "Sat, 30 May 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挑撥離間？ 伊朗外長稱與阿曼討論未來荷姆茲管理問題",
+          "summary": "首次上稿 5-29 23:19更新時間 5-30 05:49 在傳出美國和伊朗已達成初步協議，就等待美國總統川普批准之際，伊朗外交部長阿拉奇（Abbas Araqchi）29...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454504",
+          "published": "Sat, 30 May 2026 05:49:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊協議穩了？魯比歐會見巴基斯坦外長 川普：我在戰情室決定",
+          "summary": "首次上稿 01:10更新時間 05:46 要與伊朗達成和平協議了？美國國務卿魯比歐會見巴基斯坦外交部長，美伊握手言和再推進一步。不過，美國總統川普發文細數條件說，「我會在戰情室...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5454537",
+          "published": "Sat, 30 May 2026 05:46:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
