@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-30T22:55:45.621159",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US, UK and Australia to develop underwater drone technology",
+          "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+          "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 12:16:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+          "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+          "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 11:39:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+          "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+          "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 15:39:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美扣押伊朗314億元加密幣資產 貝森特揭「經濟怒火」戰果",
+          "summary": "首次上稿 05-30 22:38更新時間 05-31 06:34 美國財政部長貝森特（Scott Bessent）29日表示，美國對伊朗的「經濟怒火行動」（Operation...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455324",
+          "published": "Sun, 31 May 2026 06:34:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國代理人 加州前市長認罪",
+          "summary": "〔編譯管淑平／綜合報導〕美國加州前阿凱迪亞市長王愛琳（Eileen Wang）被控在美國境內非法充當中國代理人，廿九日在洛杉磯聯邦法院出庭認罪。法院預定十月宣判，刑期最高可達十年有期徒刑。 10月宣判 刑期最重10年 現年五十六歲的王愛琳，四月被以一項非法充當外國代理人罪名起訴時已同意認罪，並在…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756888",
+          "published": "Sun, 31 May 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普畫核武紅線 美伊陷僵局",
+          "summary": "赫格塞斯放話 美國有能力重啟戰爭 〔編譯張沛元／綜合報導〕美國與伊朗就結束中東衝突達成最新六十天停火協議始終未能定案，川普總統廿九日召集顧問在白宮戰情室會商，但仍未就是否推進延長停火與開放荷姆茲海峽的協議做出決定，但他強調，與伊朗的任何協議都必須符合他設定的紅線，包括德黑蘭絕不能發展核武；在此同時…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1756887",
+          "published": "Sun, 31 May 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
