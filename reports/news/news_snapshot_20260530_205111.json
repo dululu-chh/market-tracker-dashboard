@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-05-30T20:51:09.444108",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US, UK and Australia to develop underwater drone technology",
+          "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+          "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 12:16:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+          "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+          "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 11:39:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+          "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+          "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 30 May 2026 15:39:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "軟銀斥資750億歐元赴法投AI　創歐洲最大規模",
+          "summary": "日本軟銀集團創辦人孫正義接受法媒專訪時透露，軟銀將在法國投資約750 億歐元建設人工智慧基礎設施。其中，軟銀計劃於2031年前投入450億歐元，在法北興建兩座AI資料中心。  孫正義（Mas...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455391",
+          "published": "Sun, 31 May 2026 04:30:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "甘比亞籍貨輪違反封鎖駛向伊朗　遭美軍飛彈癱瘓",
+          "summary": "美國中央司令部（CENTCOM）今天宣布，美軍昨天向一艘試圖駛往伊朗、懸掛甘比亞國旗的貨輪發射飛彈，擊中輪機艙，使船隻失去動力。  綜合美國有線電視新聞網（CNN）和法新社報導，負責美軍在中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455389",
+          "published": "Sun, 31 May 2026 03:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「香格里拉對話」觸及台海海纜遭破壞  澳洲防長示警：海床已成戰場",
+          "summary": "包括新加坡、澳洲、紐西蘭、法國、芬蘭、瑞典等17個國家，30日在國防論壇「香格里拉對話」上，同意在海底電纜等關鍵海洋基礎設施的防禦策略上合作。澳洲國防部長馬勒斯以波羅的海和台灣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455370",
+          "published": "Sun, 31 May 2026 00:01:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
