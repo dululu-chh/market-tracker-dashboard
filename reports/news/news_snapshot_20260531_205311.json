@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-05-31T20:53:10.016762",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 20:26:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+          "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+          "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 18:13:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+          "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+          "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 06:34:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "反ICE爆衝突　紐澤西州移民收容中心週邊宵禁",
+          "summary": "美國紐澤西州紐瓦克 市長今天宣布，由於反對總統川普移民政策的抗議人士與警方再次爆發衝突，該市一處移民收容中心週邊實施宵禁。  法新社報導，紐瓦克（Newark）市長巴拉卡（Ras Barak...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456135",
+          "published": "Mon, 01 Jun 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "緬甸東北部礦用炸藥庫爆炸 逾45人喪生、70傷",
+          "summary": "據救援人員與獨立媒體報導，緬甸東北部一棟據稱儲存礦用炸藥的建築物，5月31日發生爆炸，造成超過45人喪生。  美聯社報導，這起爆炸發生在中午左右，地點位於南坎鎮（Namh...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456130",
+          "published": "Mon, 01 Jun 2026 02:55:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯首傳招募女大生參戰 誘以高薪負責無人機監控",
+          "summary": "烏俄戰爭相持不下，在俄羅斯烏里揚諾夫斯克州（Ulyanovsk），首度傳出有女學生被招募參與戰爭的案例。人權活動人士指出，她們可能會被分配執行監控無人機及其他軍事行政相關的任...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456128",
+          "published": "Mon, 01 Jun 2026 02:37:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
