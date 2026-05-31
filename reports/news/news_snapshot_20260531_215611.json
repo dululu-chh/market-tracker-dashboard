@@ -1,0 +1,146 @@
+{
+  "retrieved_at": "2026-05-31T21:56:09.246981",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 20:26:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+          "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+          "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 18:13:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+          "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+          "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 06:34:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美封堵漏洞　阻輝達、AMD高階AI晶片出貨中國境外中企",
+          "summary": "美國商務部今天採取行動封堵一個存在一年的潛在漏洞，該漏洞可能讓諸如輝達的Rubin和Blackwell處理器，以及超微的MI350x等全球最先進晶片流向設在中國以外地區的中資企業。  路透社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456138",
+          "published": "Mon, 01 Jun 2026 05:30:03 +0800",
+          "keywords": [
+            "AI",
+            "晶片"
+          ]
+        },
+        {
+          "title": "取代新艦方案 澳洲改買美二手核潛艦",
+          "summary": "AUKUS協議 採購細節「精簡化」  〔國際新聞中心／綜合報導〕澳洲與美國五月卅日宣布，將針對「澳英美三方安全夥伴關係」（AUKUS）協議中採購核動力潛艦的細節進行「精簡化」，澳洲未來取得的核潛艦將不再包括新造艦艇，只會接收美國的二手核潛艦。澳洲副總理兼國防部長馬勒斯（Richard Marle…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757042",
+          "published": "Mon, 01 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "甘比亞貨輪想闖伊朗港口 美彈襲癱瘓動力",
+          "summary": "負責美軍在中東地區行動的美國中央司令部（CENTCOM）5月30日宣布，美軍29日向一艘懸掛甘比亞國旗、試圖駛往伊朗的貨輪發射飛彈，擊中輪機艙，使船隻失去動力。這艘名為「聯星號」（M/V Lian Star）的船隻，當時正駛往伊朗位於阿曼灣沿岸的港口，違反美國對伊朗港口的封鎖措施。在美方發出超過20…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757045",
+          "published": "Mon, 01 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
