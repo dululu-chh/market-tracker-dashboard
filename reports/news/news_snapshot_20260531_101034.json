@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-05-31T10:10:32.876564",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hundreds arrested in France after wild Champions League celebrations",
+          "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+          "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 06:41:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+          "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+          "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 06:34:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+          "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+          "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 06:47:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "以色列插旗中世紀堡壘 推進對黎巴嫩地面攻擊",
+          "summary": "以色列31日在黎巴嫩南部的博福特（Beaufort）中世紀城堡上方升起1面以國國旗，同時警告黎巴嫩百姓，應在以軍升級對黎國的地面軍事行動前，撤離黎南大片區域。  人在現場的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455904",
+          "published": "Sun, 31 May 2026 17:53:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "曾和習近平大聊「長生不老」 普廷砸8000億培育人體器官",
+          "summary": "俄羅斯政府近年編列鉅額預算推動國家級長壽計畫，旨在研發器官培育與基因抗老技術。根據《華爾街日報》報導，這項由俄國總統普廷主導的「新健康保護技術」計畫規模高達260億美元（約新台...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455887",
+          "published": "Sun, 31 May 2026 17:31:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄稱烏軍無人機擊中核電廠 基輔斥為宣傳伎倆",
+          "summary": "俄羅斯國營核子企業（Rosatom）今天表示，一架烏克蘭無人機擊中由俄方控制，歐洲最大的札波羅熱（Zaporizhzhia）核電廠，關鍵設備未受損，但基輔斥為莫斯科的宣傳伎倆。  路透社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5455504",
+          "published": "Sun, 31 May 2026 17:23:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
