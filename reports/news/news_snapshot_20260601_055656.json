@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-01T05:56:55.260496",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran and US report new wave of air strikes in Gulf",
+          "summary": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz.",
+          "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 05:11:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+          "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European government…",
+          "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 31 May 2026 22:39:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+          "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+          "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 01:53:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍炸伊朗沿海軍事設施！德黑蘭反擊  科威特響防空警報",
+          "summary": "美伊停火協議在雙方報復性交火下瀕臨崩潰，科威特1日凌晨突遭飛彈與無人機大舉襲擊，全國防空警報大作。根據《美聯社》報導，美軍週末剛對伊朗沿海軍事基地發動大規模空襲，德黑蘭隨即於1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456592",
+          "published": "Mon, 01 Jun 2026 13:37:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "薔蜜颱風襲日！沖繩7千戶停電、400架航班停飛",
+          "summary": "薔蜜颱風挾帶強風暴雨撲向日本沖繩本島，沖繩縣截至今天（6月1日）上午11時30分許已有7050戶停電，日本各航空公司在沖繩起降的航班約有400架取消。  據《NHK》報導，截...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456517",
+          "published": "Mon, 01 Jun 2026 13:32:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓SK海力士驚傳火災洩露劇毒氣體  3600人疏散7人送醫",
+          "summary": "南韓SK海力士位於忠清北道清州市的廠區，今（1日）上午10時32分許驚傳火災並洩露劇毒氣體氟化氫，導致廠內3600人緊急疏散，並有7人送醫檢查。  據《韓聯社》報導，SK海力...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5456515",
+          "published": "Mon, 01 Jun 2026 12:48:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
