@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-01T23:23:54.112332",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+          "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
+          "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 21:27:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+          "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 21:50:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three Ebola vaccines in development amid growing outbreak fears",
+          "summary": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+          "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 14:30:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "波灣局勢升溫？貨船2度遇襲 伊拉克：無人機盤旋後爆炸",
+          "summary": "伊拉克官員1日證實，1艘貨船在波斯灣主要港口、伊拉克烏姆卡瑟（Umm Qasr）東南方約40海浬處遭襲擊，前後發生2次爆炸，其中1次是由無人機攻擊所造成。  路透報導，英國海...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457324",
+          "published": "Tue, 02 Jun 2026 06:48:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普駁斥德黑蘭停談傳聞 宣稱談判「正快速推進」",
+          "summary": "儘管伊朗聲稱為了抗議以色列在黎巴嫩的攻勢，已暫停與美國的談判，但美國總統川普1日仍表示，與伊朗的談判正「快速向前推進」。  在發布另一篇聲明宣稱以色列與黎巴嫩「真主黨」（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457313",
+          "published": "Tue, 02 Jun 2026 06:18:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基幕僚長：冬季前達成終戰協議「切實可行」",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）的幕僚長布達諾夫（Kyrylo Budanov）1日表示，他認為在冬季前達成結束對俄羅斯戰爭的協議，是一個「切實可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457311",
+          "published": "Tue, 02 Jun 2026 06:12:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
