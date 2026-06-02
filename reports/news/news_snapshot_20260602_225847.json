@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-02T22:58:45.824717",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+          "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+          "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 21:51:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+          "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+          "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 19:13:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "British couple lose Iran jail sentence appeal, family says",
+          "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
+          "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 16:04:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國施壓！ 魯比歐：140億美元對台軍售審查中 美對台政策未變",
+          "summary": "美國國務卿魯比歐（Marco Rubio）2日表示，遭到中國反對的大規模對台軍售案仍在審查中，並未因為中方施壓而處於停滯狀態，並強調美國對台政策並未改變。  綜合美聯社和...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5458657",
+          "published": "Wed, 03 Jun 2026 06:26:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "曝伊朗最高領袖最新動態 魯比歐：美伊隨時可能達成協議",
+          "summary": "美國國務卿魯比歐（Marco Rubio）2日表示，在美國和以色列的聯手攻擊中負傷，而且自上任以來未曾公開露面的伊朗最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5458652",
+          "published": "Wed, 03 Jun 2026 06:22:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普對納坦雅胡爆粗口 阻攻真主黨",
+          "summary": "嗆「要不是我 你就在監獄了」 〔編譯林家宇／綜合報導〕美國新聞網Axios報導，以色列計畫對黎巴嫩激進組織真主黨發動劇烈攻勢，引發美國總統川普不滿並介入，在與以色列總理納坦雅胡通話中，甚至一度爆粗口，但也說服對方取消攻擊。 納坦雅胡與國防部長卡茲一日發布聯合聲明，指控真主黨不斷違反停火協議，將對…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757286",
+          "published": "Wed, 03 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
