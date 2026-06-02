@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-02T02:58:53.782988",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+          "summary": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
+          "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 23:50:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+          "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+          "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 01 Jun 2026 21:50:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+          "summary": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
+          "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 02:36:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美愛荷華州驚傳槍響釀6死 兇嫌自戕亡",
+          "summary": "美國愛荷華州馬斯卡廷（Muscatine）52歲居民麥克法蘭（Ryan Willis McFarland），1日中午分別在2間民宅、1間商店犯下槍擊案，總計造成6人喪命，麥克法蘭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457526",
+          "published": "Tue, 02 Jun 2026 10:56:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "薔蜜風暴衝擊日本西南 致數萬家庭斷電與9人受傷",
+          "summary": "熱帶風暴薔蜜（已由颱風降級為熱帶風暴）今（2）日襲擊日本西南部，導致數萬戶家庭斷電，數百個航班停飛和9人受傷。  根據《法新社》報導，日本氣象廳警告，薔蜜在1日襲擊亞熱帶沖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457499",
+          "published": "Tue, 02 Jun 2026 10:45:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "義大利地牛翻身！ 近海發生規模6.2地震",
+          "summary": "義大利南部外海於當地時間2日凌晨0點12分發生規模6.2地震，由於震央深度超過240公里，因此並無海嘯威脅。  根據《路透》報導，德國地球科學研究中心（GFZ）指出，義大利南...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5457518",
+          "published": "Tue, 02 Jun 2026 10:39:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
