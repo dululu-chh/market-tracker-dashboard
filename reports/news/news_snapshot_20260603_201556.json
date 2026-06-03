@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-03T20:15:54.056084",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+          "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 19:10:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+          "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 20:05:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+          "summary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
+          "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 11:34:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗外長：以色列若攻擊貝魯特　中東戰火恐全面重燃",
+          "summary": "在以色列持續對黎巴嫩武裝組織真主黨（Hezbollah）展開軍事行動之際，伊朗外長阿拉奇今天警告，對黎巴嫩首都貝魯特的任何攻擊，都將導致中東戰爭「全面重新爆發」。  伊朗塔斯尼姆通訊社（Ta...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5459975",
+          "published": "Thu, 04 Jun 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "1架英國梅林直升機墜落英格蘭西南部　3海軍成員喪生",
+          "summary": "英國國防部今天表示，1架英國皇家海軍梅林（Merlin） Mk4直升機今天清晨在英格蘭西南部的德文郡（Devon）發生墜機意外，機上所有3名海軍人員全數喪生。  法新社報導，根據英國國防部聲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5459964",
+          "published": "Thu, 04 Jun 2026 01:45:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "看懂馬斯克多會賺錢！身家超過125國整年GDP  換算時薪竟破億！",
+          "summary": "世界首富馬斯克（Elon Musk）到底多有錢？有美媒近日分析，馬斯克目前身家已超過全球125個國家的GDP，而且有可能在未來短時間內成為史上首位淨資產擁有破兆美元的超級富豪！ ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5459874",
+          "published": "Wed, 03 Jun 2026 23:50:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
