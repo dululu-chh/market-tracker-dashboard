@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-03T06:00:51.616375",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+          "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+          "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 02 Jun 2026 21:51:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+          "summary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
+          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 03:40:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Seven killed in drone attack on bus in Russia-controlled part of Ukraine",
+          "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says.",
+          "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 05:42:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "內蒙古女主席栽了！ 王莉霞涉收巨額賄賂被起訴",
+          "summary": "前中共內蒙古自治區黨委副書記、前自治區主席王莉霞涉受賄被捕，檢察機關已對她提起公訴。王莉霞去年8月落馬，今年2月中共中央紀委國家監委通報，將其開除公職、黨籍，並移送司法。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5459157",
+          "published": "Wed, 03 Jun 2026 13:41:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "幸運或倒楣？美飛官在伊朗戰爭兩度遭擊落 前中將 : 像被雷打到2次",
+          "summary": "美軍一架F-15E「打擊鷹」戰機4月3日在伊朗境內遭擊落，兩名機上飛官緊急彈射逃生，美軍組織救援任務，驚險救出2名落入敵境的飛官；現有媒體透露，其中1名飛官，在美伊剛開戰時就曾遭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5458979",
+          "published": "Wed, 03 Jun 2026 13:24:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "廣泛環流雲圖曝！南海低壓明晚突襲南部 颱風論壇：週五影響最劇",
+          "summary": "南海季風低壓正逐漸發展中，整體環流雲系已經膨脹不少，有機會在今晚明晨（3～4日）發展為熱帶性低氣壓，預估將朝東北移動接近台灣，明晚通過台灣南部至巴士海峽一帶，週五（5日）影響最大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5459035",
+          "published": "Wed, 03 Jun 2026 13:09:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
