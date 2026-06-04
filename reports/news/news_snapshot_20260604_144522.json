@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-04T14:45:21.014780",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 14:31:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+          "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 07:23:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+          "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 20:28:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "抖音六四迎史上最嚴審查！禁大聲說話、道歉、說愛你 中網氣笑了",
+          "summary": "今天（4日）是「天安門事件」37週年紀念日，中共依循「慣例」加強資訊封鎖和政治審查，今年堪稱史上最嚴格，例如抖音直播規定不能大聲說話、不能說「對不起」、「我愛你」等等，不少主播遭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5460927",
+          "published": "Thu, 04 Jun 2026 22:39:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "真的很機車！馬利軍政府反制武裝攻擊出奇招 下令禁售禁騎機車",
+          "summary": "為減少遭到武裝團體攻擊，西非國家馬利的軍政府已禁止在主要都會區以外的地區銷售與使用重型機車，以及設立禁止平民入內的軍事區域。  這項在3日晚間透過國家電視台宣布的機車禁令，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461252",
+          "published": "Thu, 04 Jun 2026 22:36:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "真主黨領袖拒絕以黎停火協議  要求以軍撤出黎巴嫩",
+          "summary": "真主黨領袖卡西姆（Naim Qassem）今天拒絕黎巴嫩與以色列最新達成的停火協議，他要求全面停火、以色列軍隊撤出黎巴嫩，並敦促當局放棄與以色列展開的直接會談。  法新社報導，卡西姆透過...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461220",
+          "published": "Thu, 04 Jun 2026 22:32:56 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
