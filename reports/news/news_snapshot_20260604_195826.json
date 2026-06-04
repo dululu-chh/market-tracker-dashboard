@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-04T19:58:24.778105",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 17:54:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+          "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 14:46:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+          "summary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
+          "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 18:01:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "漢莎航空波音787前起落架塌陷　法蘭克福機場多人受傷",
+          "summary": "德國漢莎航空公司（Lufthansa）表示，旗下一架波音787客機的前起落架今天在法蘭克福機場的登機門處意外塌陷，造成多名工作人員受傷，傷者目前正接受治療。  彭博（Bloomberg Ne...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461315",
+          "published": "Fri, 05 Jun 2026 03:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美前國安顧問波頓被控持有機密文件　傳將認罪",
+          "summary": "美國媒體今天報導，美國前國家安全顧問波頓（John Bolton）打算就一項持有機密文件的罪名認罪。波頓是在第一任川普政府擔任國安顧問，但後來公開批評川普。  法新社引述美國有線電視新聞網（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461309",
+          "published": "Fri, 05 Jun 2026 02:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德國爭安理會席次慘敗 引爆梅爾茨政府空前危機 恐牽動總理保衛戰",
+          "summary": "德國在聯合國安全理事會非常任理事國席次的選舉中，遭遇前所未有的挫敗，在柏林政壇引發大地震，也讓外界對梅爾茨（Friedrich Merz）政府爭取國際領導地位的能力產生質疑。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461298",
+          "published": "Fri, 05 Jun 2026 01:02:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
