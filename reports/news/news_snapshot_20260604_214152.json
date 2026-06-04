@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-04T21:41:51.061103",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+          "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 21:34:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 20:37:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+          "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 14:46:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美眾院通過要求結束伊朗戰爭　川普發文痛批「不愛國」",
+          "summary": "美國總統川普（Donald Trump）今天抨擊聯邦眾議院一項要求美軍撤出對伊朗戰爭的表決案，稱這項「不愛國」的舉動干擾了美伊之間的談判。  法新社報導，川普在自家社群平台「真實社群」（Tr...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461323",
+          "published": "Fri, 05 Jun 2026 05:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小型飛機克羅埃西亞墜毀　4名奧地利男子喪生",
+          "summary": "克羅埃西亞官員表示，一架小型飛機今天在北部亞得里亞海（Adriatic Sea）沿岸一座機場附近墜毀，造成4人死亡，死者均為奧地利籍。  法新社報導，克羅埃西亞當局證實其中2名罹難者的國籍，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461322",
+          "published": "Fri, 05 Jun 2026 05:30:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日菲EEZ談判 為巴士海峽聯防鋪路",
+          "summary": "〔編譯張沛元／綜合報導〕隨著美國川普政府對台灣議題的公開立場轉趨低調，美國在亞洲的關鍵盟友日本與菲律賓，正變得更積極發聲，在中國國家主席習近平最敏感的兩岸議題上提出挑戰。專家指出，日菲宣布啟動專屬經濟區（EEZ）及大陸礁層海洋邊界談判，將為兩國之間的聯合巡邏提供結構性範本，衝擊中國控制台菲之間具戰略…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757552",
+          "published": "Fri, 05 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
