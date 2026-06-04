@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-04T11:47:31.468332",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+          "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 07:49:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+          "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 07:23:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+          "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 03 Jun 2026 20:28:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "IG發文「要炸飛機」！新加坡男開玩笑代價大 今認罪最高判7年",
+          "summary": "新加坡20歲男子Rykes Tan Zhi Kai去年6月在Instagram發限動寫「準備炸毀一架飛機」，隨後搭上飛往台灣的班機，造成3架國際航班延誤超過1小時。今（4日）男子...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5460850",
+          "published": "Thu, 04 Jun 2026 19:39:08 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "紐西蘭4議員訪台遭中國封殺 澳洲政府聲援、反對黨批「可恥」",
+          "summary": "中國以紐西蘭跨黨派4名國會議員訪問台灣為由，禁止入境中國、香港和澳門1年，並要求這四名議員道歉。紐西蘭政府4日表示，已就此事表達關切。澳洲外交部長也聲援紐國議員，表示將向北京關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461094",
+          "published": "Thu, 04 Jun 2026 19:31:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "六四37周年！香港藝術家拿氣球、放飛細線 竟遭大批港警包圍驅逐",
+          "summary": "今天是中國「六四天安門事件」37週年，各國民眾、團體以各自的方式，為所有六四亡者哀悼。原本是全球最大紀念六四地點的香港，近年被當局與警方嚴格控管六四相關活動，今年更是傳出，2名藝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5460338",
+          "published": "Thu, 04 Jun 2026 19:30:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
