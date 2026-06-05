@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-05T02:51:05.067342",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+          "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 23:32:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 01:44:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+          "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+          "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 14:46:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄烏有望終戰？澤倫斯基發表公開信 罕邀普廷面對面會談",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）4日發表一封致俄羅斯總統普廷的公開信，提議兩國領袖直接會面，以結束這場持續4年多的戰爭，並警告若無法達成協議，基輔已準...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461384",
+          "published": "Fri, 05 Jun 2026 10:19:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哥倫比亞總統批川普干預大選 指控美國與毒販結盟",
+          "summary": "哥倫比亞即將卸任的總統裴卓（Gustavo Petro）4日猛烈抨擊美國總統川普，指責其支持1位極右翼候選人接任總統，並稱美國與它聲稱要打擊的毒販結盟。  根據《法新社》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461442",
+          "published": "Fri, 05 Jun 2026 10:14:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "劉美賢父親：中國民主化之前  美國不可能安全",
+          "summary": "六四事件滿37週年，美國華裔花式滑冰選手劉美賢的父親劉俊今天出席美國國會聽證會，詳述2021年，自己遭到代表中國政府行事的間諜監控、跟蹤經歷。因六四天安門事件而流亡美國的劉俊強調，「在中國實...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5461393",
+          "published": "Fri, 05 Jun 2026 09:49:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
