@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-06-05T23:03:19.167438",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+          "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+          "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 18:16:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+          "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 15:29:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+          "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+          "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 21:35:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美記者當中國代理人 最重判10年",
+          "summary": "〔編譯張沛元／綜合報導〕曾任職中國官媒的美國記者托馬斯．保肯二世（Thomas Pauken II）四日向美國法院認罪，坦承自己曾充當中國政府的非法代理人。波肯的刑期預計在九月一日宣布，最重可能會入獄十年。  這是繼加州阿凱迪亞市前市長王愛琳與紐約州長高級幕僚孫雯等一系列中國政府非法代理人案件後…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757660",
+          "published": "Sat, 06 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "一戰成名 Anthropic告五角大廈 卻援國安局",
+          "summary": "〔編譯林家宇／綜合報導〕英國金融時報四日揭露，美國人工智慧公司「Anthropic」已向美國國家安全局（NSA）派駐六名「前線部署工程師」，指導使用強大AI模型「Mythos」技術，用於發動網路攻擊，並客製化模型應對特定應用情境。 派駐六工程師 客製化網路攻擊模型 雖無法得知Anthropic工…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757657",
+          "published": "Sat, 06 Jun 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中資獵地 日清查1.3萬座無人島",
+          "summary": "〔駐日特派員林翠儀／東京五日報導〕日本為加強國土保安，防止離島遭外國勢力或犯罪組織利用，擬首度全面清查全國多達一萬三四〇〇座無人島的所有權，對於長期未辦理繼承登記、無法確認所有權關係的島嶼，日本政府考慮予以國有化。 無法確認所有權 考慮國有化 日本的島嶼數量長期以來被認為約有七千座，但隨著測量技…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1757655",
+          "published": "Sat, 06 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
