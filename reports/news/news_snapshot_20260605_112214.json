@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-05T11:22:13.229129",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+          "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+          "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 08:03:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+          "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+          "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 01:44:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+          "summary": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
+          "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 04 Jun 2026 23:53:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "奇蹟！雪巴嚮導聖母峰失蹤6天  家人辦喪事接獲「他在冰瀑爬行」",
+          "summary": "尼泊爾一名雪巴人嚮導在聖母峰失聯6天，最後出沒地點在海拔7500到8000公尺之間，屬極度缺氧的「死亡地帶」。各界本來都以為他已經罹難，家人也開始為他著手後事，沒想到卻被淨山隊發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462085",
+          "published": "Fri, 05 Jun 2026 18:49:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打到美國！伊朗強硬派要求打造洲際飛彈  聯名信促最高領袖同意",
+          "summary": "美國和伊朗的和談仍在持續進行之際，德黑蘭內部強硬派致函最高領袖穆吉塔巴（Mojtaba Khamenei），要求同意開發射程足以打到美國的洲際飛彈。  耶路撒冷郵報4日引述...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462179",
+          "published": "Fri, 05 Jun 2026 18:05:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北京報復訪台議員 紐西蘭總理直言「完全不恰當」",
+          "summary": "針對上月訪問台灣的4名紐西蘭國會議員，遭北京當局下令禁止入境中國、香港與澳門1年，紐西蘭總理盧克森（Christopher Luxon）5日表示，紐國將直接向中國提及此等「完全...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462137",
+          "published": "Fri, 05 Jun 2026 17:46:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
