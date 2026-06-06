@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-06T15:09:40.165685",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 13:38:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 14:46:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+          "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 07:06:43 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "五角大廈發布威脅評估  美媒：以色列反情報威脅升至最高層級",
+          "summary": "美國與以色列長年在政治、軍事和情報領域維持緊密合作關係，但特拉維夫的激進諜報活動仍引起華盛頓戒備。國家廣播公司（NBC）揭露，五角大廈發布的威脅評估中，把以色列的反情報威脅，提...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463299",
+          "published": "Sat, 06 Jun 2026 22:01:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭發展國防AI   5年內重要軍事任務無人、自主化",
+          "summary": "烏克蘭在對抗俄羅斯侵略戰爭期間發展的無人機戰力，受到國際矚目。烏克蘭國防部人工智慧（AI）中心負責人茨沃克（Danylo Tsvok）近日在日本共同社專訪中表示，烏克蘭要3到5...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463300",
+          "published": "Sat, 06 Jun 2026 21:55:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "無懼中國限日令！日本函館觀光客連2年創新高  竟跟「這國」有關",
+          "summary": "受中國政府「限日令」影響，中國的住宿旅客數較前一年度大幅減少23.2%，不過日本北海道函館市今（6日）宣布，2025年度的觀光客總數達到約605萬8000人次，較前一年度增加約3...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463083",
+          "published": "Sat, 06 Jun 2026 21:31:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
