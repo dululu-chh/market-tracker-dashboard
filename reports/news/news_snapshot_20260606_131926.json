@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-06T13:19:25.310317",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 11:37:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 06:16:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+          "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 07:06:43 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澤倫斯基發表致普廷公開信  基輔專家:烏克蘭已掌握更多籌碼",
+          "summary": "烏克蘭總統澤倫斯基週四（4日）發表一封致俄羅斯總統普廷的公開信，提議進行面對面和談。此舉適逢聖彼得堡經濟論壇召開，且烏軍前一日才剛轟炸當地油庫。專家分析，這封公開信與空襲行動並行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463140",
+          "published": "Sat, 06 Jun 2026 21:00:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "好吃嗎? 5300年「冰人奧茲」木乃伊酵母 竟烤出酸種麵包",
+          "summary": "在阿爾卑斯山冰河中發現「冰人奧茲」（Ötzi）遺骸，自出土以來已被大量研究，現在，科學家甚至從這具5300年的天然木乃伊身上，取得酵母菌株，烤出酸種麵包。  「冰人奧茨」的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463248",
+          "published": "Sat, 06 Jun 2026 20:34:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "駁斥美軍基地被毀  川普：伊朗戰力只剩2成、妥協只是時間問題",
+          "summary": "美軍昨（5日）在荷姆茲海峽擊落4架伊朗無人機，並轟炸沿岸雷達站，引發伊朗向科威特與巴林的美軍基地發射7枚彈道飛彈反擊。面對衝突，伊朗仍堅持其停火條件。然而，川普直言，伊朗目前僅剩...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463191",
+          "published": "Sat, 06 Jun 2026 19:20:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
