@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-06T06:25:16.389236",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 06:16:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+          "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+          "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 05 Jun 2026 18:16:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+          "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+          "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 02:28:56 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美4歲男童失蹤1年 竟是被父親埋屍家中",
+          "summary": "太狠心！美國華盛頓州4歲男童艾登（Aiden Bevins）失蹤約1年，警方5月在36歲父親雅各布（Jacob Bevins）住處下方挖出小孩遺體，涉有重嫌的雅各布於本月4日被捕...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462864",
+          "published": "Sat, 06 Jun 2026 14:10:52 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "震驚實況圈！韓《天堂》元老級傳奇實況主驚傳過世 享年46歲",
+          "summary": "南韓極具影響力的知名遊戲實況直播主「Nanninggu」（本名韓泰植）驚傳過世，享年46歲。他的好友直播主 Monkey 今日在社群發布了 Nanninggu 的死訊，震驚韓國實...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462881",
+          "published": "Sat, 06 Jun 2026 14:10:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "少印選票淪民主災難！吳靜怡分析南韓大選「選票短缺」",
+          "summary": "南韓6月3日第九屆全國地方選舉中，因「選票短缺」爆發爭端。對此，媒體人吳靜怡今日發長文分析，全境多達50處投票所因「選票嚴重短缺」被迫宣布中斷，成千上萬選民現場等候數小時卻無票可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5462648",
+          "published": "Sat, 06 Jun 2026 13:26:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
