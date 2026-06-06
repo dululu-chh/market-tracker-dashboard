@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-06T20:58:22.764096",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 20:50:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 14:46:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+          "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 20:32:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英外相結束訪問中國印度　聚焦經濟與安全事務",
+          "summary": "英國外交大臣古柏結束訪問中國和印度。根據英國外交部今天發布的訊息，古柏的訪問和會談行程聚焦經濟與安全事務，包括荷莫茲海峽航行自由、俄羅斯對烏克蘭的侵略戰爭，以及人工智慧（AI）。  與中方不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463382",
+          "published": "Sun, 07 Jun 2026 04:21:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "伊朗媒體：巴基斯坦部長抵德黑蘭　將向最高領袖傳話",
+          "summary": "伊朗媒體指出，巴基斯坦內政部長納克維已抵達德黑蘭，將向伊朗最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）傳達來自巴國陸軍參謀長穆尼爾的「特別訊息」。穆尼爾是巴方負責斡旋美伊兩國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463378",
+          "published": "Sun, 07 Jun 2026 03:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "赫格塞斯紀念諾曼第登陸82週年　籲歐洲應對移民問題",
+          "summary": "美國戰爭部長赫格塞斯今天在法國北部發表紀念二戰諾曼第登陸（D-Day）82週年的演說，呼籲歐洲應對他所謂的移民「入侵」問題，並敦促歐洲各國為自身防務承擔更多責任。  法新社報導，赫格塞斯（P...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463372",
+          "published": "Sun, 07 Jun 2026 01:45:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
