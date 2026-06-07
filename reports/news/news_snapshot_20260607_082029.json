@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-07T08:20:27.328306",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+          "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 07 Jun 2026 05:47:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+          "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+          "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 07 Jun 2026 07:11:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says staff blocked from entering US after players given World Cup visas",
+          "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+          "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 22:38:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "擅闖日本小猴「Panchi君」猴山  2美籍男被罰6萬",
+          "summary": "2名美國男子因上月闖入日本千葉縣市川市動植物園日本獼猴的猴舍「猴山」而被捕。檢方最近聲請簡易判決處刑後，千葉簡易法院已分別處以兩人30萬日圓（約新台幣6萬元）罰金。  由於在網路上超人氣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463852",
+          "published": "Sun, 07 Jun 2026 16:09:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "趕著點餐？ 美國紐約麥當勞遭車輛撞進牆壁",
+          "summary": "這是趕著要來點餐？美國紐約市布朗克斯1間麥當勞，6日下午遭1輛本田轎車撞進牆壁，而且旁邊就是點餐窗口，所幸並未造成任何人員受傷。  據《紐約郵報》報導，這間麥當勞位於布魯克納...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463837",
+          "published": "Sun, 07 Jun 2026 15:47:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "地方大選落幕爆人事強震！李在明突提「前科技巨頭」出任女總理",
+          "summary": "南韓地方大選落幕後，總統李在明7日宣布內閣改組。他正式提名前中小企業新創部長韓聖淑接任國務總理，若獲國會批准，現年58歲的她將成為南韓憲政史上第二位女性總理，也是時隔近20年再...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463832",
+          "published": "Sun, 07 Jun 2026 15:47:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
