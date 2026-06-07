@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-07T04:20:42.753398",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+          "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 20:50:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+          "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 14:46:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+          "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 06 Jun 2026 23:52:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "選票短少引爆示威  律師曝南韓民眾直呼應學習台灣",
+          "summary": "南韓於本月3日實施全國性地方選舉，卻爆出重大選務疏失，包含首爾、仁川在內多個投票所發生「投票紙不足」的離譜狀況，引發民眾示威抗議。律師林智群昨指出，韓國採取三大投票方式，而選票...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463634",
+          "published": "Sun, 07 Jun 2026 12:13:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北韓姜健號驅逐艦國旗倒掛 網驚：有人要被「艦炮決」了",
+          "summary": "北韓崔賢級驅逐艦2號艦「姜健號」4日展開航行測試，北韓領導人金正恩和女兒金主愛登艦視察。不過，從北韓官媒發布的照片可以看到，姜健號升起的北韓國旗竟然處於倒掛狀態，網友見狀驚呼有人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463578",
+          "published": "Sun, 07 Jun 2026 12:13:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "畫面曝！俄亥俄州節慶大規模槍擊12人中彈 傳至少有2槍手射擊",
+          "summary": "首次上稿 09:41更新時間 11:34 美國再傳大規模槍擊事件，當地時間6日下午在俄亥俄州托雷多（Toledo）地區發生槍擊事件，當時正在節慶活動，突然傳出槍響，造成至少12...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5463467",
+          "published": "Sun, 07 Jun 2026 11:34:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
