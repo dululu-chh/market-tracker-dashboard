@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-09T20:01:55.885170",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Iran shot down US helicopter and vows to respond",
+          "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+          "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 20:00:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+          "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+          "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 17:47:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nasa names next astronauts for Artemis Moon programme",
+          "summary": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
+          "link": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 17:46:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "秘魯大選膠著難分勝負　計票最長恐需至月底",
+          "summary": "秘魯7日舉行總統大選第2輪投票，選情極度膠著。秘魯全國選舉評審委員會主委巴察斯（Bernardo Pachas）告訴法新社，選舉結果預計2週後至月底才能揭曉。  法新社報導，現任左派國會議員...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466767",
+          "published": "Wed, 10 Jun 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：美軍阿帕契遭伊朗擊落　美方必須做出回應",
+          "summary": "外媒稍早披露美國陸軍一架阿帕契直升機墜落在荷莫茲海峽附近後，軍方表示機上兩名機組人員已獲救，美國總統川普今天說這架直升機遭伊朗擊落，強調美國「必須」做出回應。  法新社報導，川普（Donal...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466762",
+          "published": "Wed, 10 Jun 2026 02:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美獨立宣言250週年　法國特技飛行隊飛越自由女神像",
+          "summary": "為慶賀美國「獨立宣言」發表將屆滿250週年，法國巡邏兵飛行表演隊今天飛越自由女神像上空，以法國國旗的「藍、白、紅」3色彩繪曼哈頓天際。  法新社報導，法國巡邏兵飛行表演隊（Patrouill...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466752",
+          "published": "Wed, 10 Jun 2026 01:30:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
