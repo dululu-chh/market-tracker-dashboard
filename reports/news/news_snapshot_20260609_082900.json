@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-09T08:28:58.513497",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump tells BBC Netanyahu did not defy him",
+          "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+          "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 08 Jun 2026 22:34:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+          "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+          "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 05:07:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+          "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
+          "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 06:33:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鬆口氣！日本宇都宮熊蹤近百校停課  終於捕獲熊隻",
+          "summary": "日本栃木縣宇都宮市從6日起一共有40多起熊出沒事件，市立94間國中、國小昨天（8日）和今天（9日）連續停課，宇都宮大學今晨校區發現熊蹤也不上課，市府和獵人持續展開搜索，所幸稍早終...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466165",
+          "published": "Tue, 09 Jun 2026 16:15:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「我兒子還在裡面！」菲律賓強震埋雜貨店 老母親守廢墟痛哭等奇蹟",
+          "summary": "菲律賓南部民答那峨島強烈地震救災行動進入第2天。官方確認目前已造成至少37人死亡、約500人受傷，並導致超過2萬人流離失所。在受災最嚴重的港口城市將軍市，搜救隊正操作重型機具清...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466179",
+          "published": "Tue, 09 Jun 2026 16:02:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東和平有望浮現？ 川普稱談判進入最後階段",
+          "summary": "以色列與伊朗7日因黎巴嫩問題互相開火，為4月8日美伊暫時停火生效後雙方首度直接衝突。在伊朗與以色列都停止敵對行動後，美國總統川普今（9）日表示，中東和平協議的談判已進入「最後階...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466094",
+          "published": "Tue, 09 Jun 2026 15:49:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
