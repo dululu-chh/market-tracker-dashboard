@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-09T14:38:02.200635",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+          "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
+          "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 13:15:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+          "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
+          "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 07:36:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+          "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+          "link": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 05:00:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普政府推觀光商務簽證「加急服務」 750美元換10天內面試",
+          "summary": "美國國務院官員透露，國務院下半年將針對觀光簽證與商務簽證推出一項「高級」加急面試服務，除了原本185美元（約合新台幣5844元）的簽證申請費，申請者若選擇多支付750美元（約合新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466644",
+          "published": "Tue, 09 Jun 2026 22:01:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "難以完全駕馭以色列 川普陷入兩難",
+          "summary": "美國新聞網「Axios」揭露，美國與伊朗談判進入最終時刻，以色列與伊朗卻連2日交火，中東局勢一觸即發。雖然雙方宣告暫時停止報復，但也顯示出美國總統川普所面臨的困境：一方面清楚以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466681",
+          "published": "Tue, 09 Jun 2026 21:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "砲轟伊朗弊大於利 川普：協議會比轟炸更有效",
+          "summary": "以色列與伊朗近2日直接交火，引發外界對和平談判破局擔憂。美國總統川普表示，在他介入之下，雙方已暫停對彼此的攻擊行動，協議正處在最終交涉階段，協議有不錯的機會在2至3日內簽署。被...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466682",
+          "published": "Tue, 09 Jun 2026 21:55:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
