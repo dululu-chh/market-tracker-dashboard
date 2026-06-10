@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-10T16:32:05.253267",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US will hit Iran 'hard' again on Wednesday",
+          "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+          "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 16:23:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+          "summary": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
+          "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 14:44:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+          "summary": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
+          "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 15:00:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美歐澳22國譴責 伊朗代理人攻擊猶太人",
+          "summary": "美國、澳洲、歐洲盟國以及其他國家10日發表聯合聲明，譴責伊朗扶持的組織密謀攻擊伊朗異議人士、記者以及猶太社區。  根據美國國務院的聲明，美國、英國、阿爾巴尼亞、澳洲、比利時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468092",
+          "published": "Wed, 10 Jun 2026 23:42:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "桃色陷阱！俄國特工利用交友軟體 誘烏克蘭少女毒殺軍人",
+          "summary": "《路透》10日報導，烏克蘭警方指控俄羅斯招募未成年烏克蘭少女，企圖暗殺烏克蘭軍方人員。此前，警方已逮捕1名涉嫌在俄國特工指示下謀殺軍人的17歲少女。  烏克蘭媒體Cenz...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468089",
+          "published": "Wed, 10 Jun 2026 23:32:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北愛爾蘭持刀攻擊掀反移民暴動 受害家屬：勿用悲劇製造分裂",
+          "summary": "北愛爾蘭首府貝爾法斯特日前的持刀攻擊事件引發反移民暴力事件，城市各地暴動四起。那起攻擊受害者的家屬今天呼籲社會保持冷靜。  「衛報」（The Guardian）報導，歐格維（Stephe...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468087",
+          "published": "Wed, 10 Jun 2026 23:32:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
