@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-06-10T21:54:11.471905",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US will hit Iran 'hard' again today",
+          "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+          "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 21:49:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+          "summary": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
+          "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 17:48:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+          "summary": "Pope Leo XIV says Barcelona's iconic Sagrada Família is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
+          "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 21:52:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英相座車驚見中國追蹤器 資料送中",
+          "summary": "〔國際新聞中心／綜合報導〕英國「每日郵報」（Daily Mail）十日報導，英國國會議員九日被告知，英國首相的公務車內被發現安裝來自中國的追蹤器。這個追蹤器是在車內從中國進口的密封零件中發現的，在二〇二三年的一次安全掃描中首度曝光，引發外界對於北京積極監控當時保守黨政府首長的擔憂。 如今證實，該設…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758372",
+          "published": "Thu, 11 Jun 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中英對照讀新聞》Shakira draws 2 million to free Copacabana concert夏奇拉柯帕加巴納免費演唱會 吸引200萬人",
+          "summary": "◎國際新聞中心 Some 2 million people packed Copacabana Beach on Saturday for a free concert by Shakira, Rio de Janeiro city officials said early on Sunday, …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758315",
+          "published": "Thu, 11 Jun 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "親中派 日前眾議長河野洋平逝世",
+          "summary": "〔駐日特派員林翠儀／東京十日報導〕日本前眾議院議長、自民黨總裁河野洋平八日去世，享壽八十九歲。河野為日本「親中派」的代表性人物之一，二〇〇一年擔任外務大臣時曾反對發給前總統李登輝訪日簽證。他在一九九三年發表有關慰安婦問題的「河野談話」，長期成為日本歷史認識問題爭議的根源之一。河野長子即為前外相河野太…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758374",
+          "published": "Thu, 11 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
