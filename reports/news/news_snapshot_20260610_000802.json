@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-10T00:08:00.929656",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+          "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+          "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 21:13:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US striking Iran in response to downing of helicopter, military says",
+          "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+          "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 21:43:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "World's largest chipmaker does not rule out price rises as costs increase",
+          "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+          "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 22:00:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍阿帕契直升機被擊落 美官員：伊朗無人機所為",
+          "summary": "美國陸軍1架「阿帕契」（Apache）攻擊直升機9日遭到伊朗擊落，美軍目前已對伊朗進行空襲反制，至於「阿帕契」是遭到何種武器擊落，美國官員表示，是伊朗的自殺無人機所為。  綜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466784",
+          "published": "Wed, 10 Jun 2026 07:03:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反擊！阿帕契直升機被擊落  美軍「自衛性打擊」空襲伊朗",
+          "summary": "美國陸軍1架「阿帕契」（Apache）攻擊直升機9日遭到伊朗擊落，美國總統川普直言，美國勢必會對這起攻擊行動做出回應，掌管中東與中亞美軍部隊的美國中央司令部（CENTCOM）表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466781",
+          "published": "Wed, 10 Jun 2026 06:47:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "超噁！中國飯店拋棄式牙刷爆黑幕 回收有毒化工廢料製成",
+          "summary": "民眾前往中國旅遊並入住飯店或民宿時，常會使用房內提供的免費拋棄式牙刷，但這些貼身用品的衛生狀況令人堪憂。中國中央電視台近日調查揭露，當地有大量牙刷製造商為壓低成本，竟違法使用...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5466766",
+          "published": "Wed, 10 Jun 2026 06:20:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
