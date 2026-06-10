@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-10T12:51:10.811994",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump and Iran trade new threats after strikes exchanged",
+          "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+          "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 12:07:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+          "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+          "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 09 Jun 2026 21:13:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+          "summary": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
+          "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 09:50:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊和談拖太久 川普放話：伊朗必須付出代價",
+          "summary": "美國總統川普今（10）日表示，伊朗在美伊和平談判過程中浪費了太多時間，而伊朗原本可以得到一份有利協議，如今伊朗必須為此付出代價，但他沒有說明「代價」的意思。  川普在他的「真...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5467933",
+          "published": "Wed, 10 Jun 2026 19:38:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英智庫：台海衝突衝擊國際經濟 恐如第三次世界大戰",
+          "summary": "英國智庫「國際戰略研究所」（IISS）今天發布「台灣海峽危機或衝突對馬來西亞經濟的影響：可能情境分析」報告。IISS分析指出，台海衝突情境所引發的全球經濟衝擊，有如引發第三次世界大戰。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5467831",
+          "published": "Wed, 10 Jun 2026 19:15:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》台灣最強狠招戳北京痛處！中共囂張「法理搶劫」被打臉",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5467696",
+          "published": "Wed, 10 Jun 2026 18:33:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
