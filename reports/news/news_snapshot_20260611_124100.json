@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-11T12:40:58.307297",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran exchange strikes across Middle East for second day in a row",
+          "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+          "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 12:09:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+          "summary": "The US president later said he had meant that he actually loved that inflation was not higher.",
+          "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 09:14:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The furious dispute over what caused Air India flight 171 to crash",
+          "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+          "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 23:10:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍阿曼灣再射飛彈！轟為伊朗運油輪 荷姆茲海峽本週第3轟",
+          "summary": "美國中央司令部（CENTCOM）證實，美軍今（11）日在阿曼灣攻擊了一艘替伊朗運送石油的油輪「賈爾維爾號」（Jalveer）。這是美軍本週在荷姆茲海峽周遭襲擊的第3艘船隻。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469168",
+          "published": "Thu, 11 Jun 2026 20:27:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瀕臨貿易戰！歐盟對中祭防堵出口措施  北京突取消2場外交會議",
+          "summary": "由於中國對歐洲出口激增，令歐盟大感不滿，近期祭出多項防堵措施，促使中國採取反制行動。英國《金融時報》報導，北京當局近日突然取消原訂6月在北京舉行的2場重要外交會議，引發外界關注...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469229",
+          "published": "Thu, 11 Jun 2026 20:21:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美駐緬甸外交官竟命喪旅館 泰籍女嫌抓到了",
+          "summary": "美國國務院證實，派駐緬甸仰光的美國外交官在旅館身亡，緬甸警方朝「謀殺案」方向偵辦，逮捕扣押涉案泰國籍女子。  據《紐約郵報》報導，美國國務院日前證實，派駐緬甸仰光大使館的美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469059",
+          "published": "Thu, 11 Jun 2026 20:13:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
