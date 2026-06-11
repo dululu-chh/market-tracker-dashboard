@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-11T16:48:51.392595",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "El Niño under way and threatens weather extremes, scientists say",
+          "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+          "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 13:26:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Deadly Sudan drone strike targets funeral procession",
+          "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+          "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 15:57:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US and Iran exchange strikes across Middle East for second day in a row",
+          "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+          "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 12:09:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "德法歐洲新戰機計畫告吹  西班牙軍工巨頭組新聯盟接手",
+          "summary": "在法國與德國的意見分歧，導致歐洲一項指標性的國防合作計畫流產後，包括國家龍頭企業「英德拉」（Indra）在內的西班牙頂尖國防公司，11日紛紛表態願意加入開發新型聯合戰鬥機的行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469403",
+          "published": "Fri, 12 Jun 2026 00:13:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓首爾松坡區竟「選票足夠」 選管會曝「這環節」嚴重失誤",
+          "summary": "韓國各單位持續調查地方選舉選票不足事件，中央選舉管理委員會代理委員長魏哲煥今天表示，其實當時首爾松坡區整體仍有剩約4萬2000張選票，但未能妥善分配是痛心的失誤。  韓國3日進行的地方選...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469080",
+          "published": "Thu, 11 Jun 2026 23:55:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "修正日本教科書台灣不當標示 「日台友好議聯」列重點事項",
+          "summary": "對於日本部分的學校教科書，將台灣與中國置於同一框架下處理，可能讓日本學生誤以為台灣是「中國領土」的表述，日本國會跨黨派友台議員團體「日本台灣友好議員聯盟」在11日召...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469389",
+          "published": "Thu, 11 Jun 2026 23:53:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
