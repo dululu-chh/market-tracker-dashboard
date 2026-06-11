@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-11T02:59:34.222593",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+          "summary": "US Central Command says its latest round of strikes were in response to \"unwarranted and continued aggression\" from Iran.",
+          "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 01:46:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+          "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+          "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 00:02:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The furious dispute over what caused Air India flight 171 to crash",
+          "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+          "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 10 Jun 2026 23:10:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "洩露3750萬用戶數據 酷澎遭南韓處以6246億罰款",
+          "summary": "南韓今（11）日對電商巨頭酷澎（Coupang）處以創紀錄的6246.8億韓元（約台幣129億元）罰款，因為該公司洩露約3750萬用戶的個人數據，此舉引發美國議員的強烈不滿。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468338",
+          "published": "Thu, 11 Jun 2026 10:48:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小學生須讀國安讀本、習思想！學者：民族主義低齡化",
+          "summary": "中共官方編印的「國家安全教育中小學生讀本」，納入全國教材「讀本」體系，中國小學生、青少年從小就須研讀習思想、國安讀本。陸委會委託國防院學者所做「近期中共推動國安教育之觀察」報告...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468349",
+          "published": "Thu, 11 Jun 2026 10:34:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗被控策劃歐美多起陰謀 22國要求停止攻擊民眾",
+          "summary": "包括美國和歐洲國家在內的22個國家今（11日）聯合警告伊朗，不要在它們的領土上攻擊民眾。  根據《法新社》報導，伊朗安全部門因利用國際和本地犯罪集團在歐洲、北美和澳洲策劃陰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5468257",
+          "published": "Thu, 11 Jun 2026 10:08:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
