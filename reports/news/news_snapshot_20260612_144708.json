@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-06-12T14:47:06.795263",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More time needed for deadly Air India crash inquiry, officials say",
+          "summary": "A statement said \"significant progress\" had been made into investigating the crash which left 260 people dead a year ago.",
+          "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 13:58:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+          "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
+          "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 08:09:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+          "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+          "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 00:45:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "Pokemon Go實景資料訓練AI模型 助無人機戰區定位",
+          "summary": "「精靈寶可夢GO」（Pokemon Go）開發商Niantic去年出售遊戲部門後，現正與軟體業者Vantor合作，以這款遊戲中的用戶資料訓練AI模型，盼未來能協助軍用無人機在戰區內定位。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470565",
+          "published": "Fri, 12 Jun 2026 22:26:53 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "日航又爆空服員喝酒延誤班機 日本政府不忍了",
+          "summary": "日本航空上月2名空服員因違反內部航空運輸管理規則飲酒，導致航班延誤。對此，日本國土交通省今天對該公司祭出嚴重警告處分。  日本放送協會（NHK）報導，5月23日，兩名原定執飛日本航空（J...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470568",
+          "published": "Fri, 12 Jun 2026 22:24:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普宣告美伊達成協議 納坦雅胡感到意外",
+          "summary": "美國總統川普宣布與伊朗達成「傑出協議」，有望週末在瑞士日內瓦簽署。美國新聞網「Axios」內幕消息指出，以色列總理納坦雅胡對川普宣告達成協議感到驚訝。  不過，以色列總理辦...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470560",
+          "published": "Fri, 12 Jun 2026 22:11:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
