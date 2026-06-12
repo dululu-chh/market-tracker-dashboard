@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-12T07:21:18.217289",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+          "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
+          "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 05:53:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+          "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+          "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 11 Jun 2026 20:22:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+          "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+          "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 00:45:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不甩川普稱將達成協議 伊朗強硬派：應加強攻擊力道",
+          "summary": "美國與伊朗近日持續交火，美國總統川普稍早宣稱，美伊將達成偉大協議，對此伊朗強硬派人士質疑川普的說法在欺騙伊朗，主張伊朗應加強攻擊力道，並警告美國不要攻擊攻擊哈爾格島，否則「別想活...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469872",
+          "published": "Fri, 12 Jun 2026 14:34:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國學者驚爆遭中國逮捕！ 曾為《紐時》、《外交政策》撰稿",
+          "summary": "外媒今日引述知情人士消息，中國國家安全部官員已經逮捕了一名專門研究緬甸政治的學者，並指控他涉嫌危害國家安全。報導指出，這種狀況極為罕見，美國外交官目前已經掌握這起事件。  根...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469927",
+          "published": "Fri, 12 Jun 2026 14:05:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "5歲男童電梯內大罵印傭扔玩具 6旬漢賞他巴掌！下場讓網友怒了",
+          "summary": "香港一名61歲退休男子，日前因搭乘同一部電梯內的5歲男童不斷責罵印傭，遂出聲喝斥男童，不料遭男童還擊投擲玩具，退休男隨即掌摑男童，今（12）日被法院被判處40小時社會服務令。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5469890",
+          "published": "Fri, 12 Jun 2026 13:46:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
