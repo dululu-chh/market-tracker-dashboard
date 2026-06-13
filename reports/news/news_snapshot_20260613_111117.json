@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-13T11:11:16.236246",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+          "summary": "The strikes come as Iran's foreign minister said a deal to end fighting with the US is close.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 10:51:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 23:02:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+          "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 05:00:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "驚見解放軍軍服「頸部2根針」！用途曝光網直呼：變態國家",
+          "summary": "一名網友近日在Threads發文，指控中共虐待自家士兵。她也PO出一系列照片，可見解放軍軍服領口處竟有尖針，貼文一出引發網友熱議。經查該「領口別針」是解放軍閱兵訓練時用過的做法，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471259",
+          "published": "Sat, 13 Jun 2026 18:32:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台灣意外入鏡！全球千萬鄉民瘋吃瓜 日本人妻實況外遇夫新進展",
+          "summary": "日本一位人妻抓包丈夫和小三準備來台展開一趟不倫旅行，她將丈夫護照藏起來後假裝不知情，並隨時在Threads上「實況回報」，引發全球上千萬網友吃瓜看戲。日本人妻今天更新進度，表示她...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471134",
+          "published": "Sat, 13 Jun 2026 17:58:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭入盟邁進一大步！ 歐盟通過6/15重啟談判",
+          "summary": "在解決匈牙利阻擋烏克蘭加入歐盟進程的問題後，歐盟27國12日同意，推進烏克蘭和摩爾多瓦入盟談判，兩國可望於15日正式展開第1階段談判。  路透12日報導，歐盟27國大使在1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471231",
+          "published": "Sat, 13 Jun 2026 17:51:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
