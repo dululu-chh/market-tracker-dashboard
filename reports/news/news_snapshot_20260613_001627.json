@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-13T00:16:26.108532",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+          "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 21:04:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+          "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 22:00:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "French town buries murdered child as questions mount over police failings",
+          "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+          "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 12 Jun 2026 16:19:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊和談見曙光！伊朗外長鬆口協議「接近達成」 川普轉貼",
+          "summary": "中東局勢出現突破，美國與伊朗即將達成和平備忘錄，伊朗外交部長阿拉奇（Abbas Araqchi）於台灣時間12日晚間表示，美伊雙方的談判已進入尾聲，預計在未來幾天內就會簽署。美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470667",
+          "published": "Sat, 13 Jun 2026 07:50:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "CNN曝美伊停火協議：所有戰線停火60日、立即重啟荷姆茲海峽",
+          "summary": "首次上稿 6-12 22:06更新時間 6-13 06:05  據外媒曝光的美國、伊朗「諒解備忘錄」協議內容，包括中東所有戰線將停火60日，並就伊朗核子計畫展開進一步談判；...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470561",
+          "published": "Sat, 13 Jun 2026 06:05:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中脫鉤擴大！紐時：SpaceX上市募資全面排除中國資金",
+          "summary": "首次上稿 00:33更新時間 06:04 美國億萬富豪馬斯克的SpaceX（太空探索公司）12日正式登上那斯達克市場，成為史上最大規模企業IPO（首次公開募股），但該公司公募...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5470619",
+          "published": "Sat, 13 Jun 2026 06:04:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
