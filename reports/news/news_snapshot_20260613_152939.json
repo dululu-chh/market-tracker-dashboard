@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-13T15:29:38.200112",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+          "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:15:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:47:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+          "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 05:00:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄軍兵力損失瀕臨界點 普廷恐被迫2次動員豪賭",
+          "summary": "烏克蘭警告，隨著俄羅斯軍隊在烏國前線戰事進展放緩、以及莫斯科招募新兵動能減弱之際，克里姆林宮可能終將採用其一直避免實施的措施：強制動員。  專家指出，鑑於開戰初期首波強制動...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471411",
+          "published": "Sat, 13 Jun 2026 23:03:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印度空軍Antonov An-32運輸機墜毀 5人罹難",
+          "summary": "印度軍方在聲明中指出，一架軍用運輸機今天在偏遠的東北部一處基地降落時墜毀，造成5名空軍人員喪生。  法新社報導，空軍在聲明中指出：「印度空軍對於在阿薩姆邦（Assam）佐黑特巿（Jorh...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471272",
+          "published": "Sat, 13 Jun 2026 22:55:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "和平協議要再等 伊朗外交部否認6/14與美國簽署",
+          "summary": "伊朗外交部發言人貝卡伊（Esmaeil Baqaei）今天表示，預定要跟美國達成結束戰事的協議備忘錄，並不會在明天簽署。  伊朗通訊社（IRNA）報導，貝卡伊指出：「我們須等待確切的簽署...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471399",
+          "published": "Sat, 13 Jun 2026 22:45:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
