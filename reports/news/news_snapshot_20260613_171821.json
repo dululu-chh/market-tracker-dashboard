@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-13T17:18:19.234862",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+          "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:15:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:47:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+          "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 05:00:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "經濟獨立談何容易！美調查：X世代將滿60歲  33％財務仍靠父母",
+          "summary": "《今日美國》（USA Today）13日報導，X世代即將屆滿60歲，但一份最新調查顯示，有3分之1的X世代以及逾半千禧世代經濟上仍依賴父母支持，該調查反映，年邁父母與其高齡子女...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471420",
+          "published": "Sun, 14 Jun 2026 00:09:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "海峽論壇「大禮包」 中國簽約買這些台灣農漁產品",
+          "summary": "中國大陸今天藉「海峽論壇」大會在廈門登場，順帶舉行涉台10項措施「對接簽約會」，內容包括採購台灣的鳳梨釋迦、文旦柚、茶葉、石斑魚等農漁產品。  綜合央視新聞、新華社報導，「十項促進兩岸交...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471397",
+          "published": "Sat, 13 Jun 2026 23:50:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美同意對南韓出售飛彈 北韓批加劇朝鮮半島緊張",
+          "summary": "美國近來批准對南韓出售先進空對空飛彈和相關設備後，北韓中央通信社（KCNA）今天報導，北韓外務省對此予以譴責，警告此舉將加劇朝鮮半島緊張局勢。  北韓外務省對外政策部門首長透過KCNA發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471321",
+          "published": "Sat, 13 Jun 2026 23:44:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
