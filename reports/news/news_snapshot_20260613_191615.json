@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-13T19:16:13.217602",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+          "summary": "Before the US president's comments, Iran expressed caution about the exact timing.",
+          "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 18:39:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:47:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+          "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 05:00:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普：終戰協議排定14日簽署　荷莫茲海峽將重開",
+          "summary": "美國總統川普（Donald Trump）表示，中東戰爭終戰協議排定於14日簽署，為重啟戰略航道荷莫茲海峽（Hormuz Strait）鋪路。  法新社報導，川普今天在他社群平台「真實社群」（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471435",
+          "published": "Sun, 14 Jun 2026 01:54:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普G7峰會將談荷莫茲掃雷　商討伊朗戰爭終戰",
+          "summary": "美國總統川普（Donald Trump）預計將於下週七大工業國集團（G7）峰會期間，討論荷莫茲海峽（Strait of Hormuz）掃雷工作，以及協助結束伊朗戰爭的相關事宜。  本屆G7峰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471434",
+          "published": "Sun, 14 Jun 2026 01:30:05 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "經濟獨立談何容易！美調查：X世代將滿60歲  33％財務仍靠父母",
+          "summary": "《今日美國》（USA Today）13日報導，X世代即將屆滿60歲，但一份最新調查顯示，有3分之1的X世代以及逾半千禧世代經濟上仍依賴父母支持，該調查反映，年邁父母與其高齡子女...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471420",
+          "published": "Sun, 14 Jun 2026 00:09:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
