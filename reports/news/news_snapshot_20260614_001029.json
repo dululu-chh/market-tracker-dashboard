@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-14T00:10:27.083775",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+          "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+          "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 18:39:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 11:47:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+          "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+          "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 13 Jun 2026 22:17:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "就在今天？川普稱6/14簽協議、荷姆茲重啟 伊朗說還沒",
+          "summary": "美國與伊朗的和平談判出現進展，美國總統川普13日表示，終戰協議排定於14日簽署，而在協議簽署後，戰略航道荷姆茲海峽（Hormuz Strait）將立刻向所有船隻開放通行。不過，伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471449",
+          "published": "Sun, 14 Jun 2026 07:24:51 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "G7峰會下週法國登場   川普擬與澤倫斯基、中東領袖會晤",
+          "summary": "首次上稿 06-13 23:34更新時間 06-14 06:30 七大工業國集團（G7）峰會即將於15日在法國艾維安（Évian-les-Bains）登場。美國政府高階官員...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471418",
+          "published": "Sun, 14 Jun 2026 06:30:17 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "墨西哥又有市長遇襲身亡　毒品戰爭20年已百人遇害",
+          "summary": "墨西哥南部瓦哈卡州地方當局今天表示，境內聖米格阿瑪蒂特蘭小鎮市長布拉佛遭到武裝分子槍擊身亡。當地檢方已對此展開全面調查，安全部隊也出動追緝凶嫌。  綜合法新社和路透社報導，事發在瓦哈卡州（O...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5471444",
+          "published": "Sun, 14 Jun 2026 05:36:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
