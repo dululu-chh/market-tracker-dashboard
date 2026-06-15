@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-15T03:35:00.786634",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump heralds Iran deal but questions - and risks - remain",
+          "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
+          "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 02:41:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
+          "summary": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
+          "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 01:37:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+          "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+          "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 03:17:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊停戰以色列氣炸！以國最大報頭條怒批：爛協議",
+          "summary": "美國總統川普14日宣布已與伊朗達成停戰協議，伊朗也證實所有軍事行動立即結束，美伊停戰引發以色列國內不滿，以色列發行量最大的報紙《新消息報》（Yediot Aharonot）用「爛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472449",
+          "published": "Mon, 15 Jun 2026 11:15:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》烏克蘭「反擊炸油庫」俄又破防！俄民眾崩潰：逃出克里米亞",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472490",
+          "published": "Mon, 15 Jun 2026 11:15:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "隔著車窗神情哀戚...47歲泰國長公主病逝 泰王親率皇室成員護送移靈",
+          "summary": "47歲泰國長公主帕差拉吉蒂雅帕日前不幸病逝，泰國國王瓦吉拉隆功與王后親自率領王室成員組成皇家車隊護送長公主的遺體移靈大皇宮。泰王在車上也被捕捉到神情哀戚的瞬間，臉上寫滿了白髮人送...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472435",
+          "published": "Mon, 15 Jun 2026 11:10:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
