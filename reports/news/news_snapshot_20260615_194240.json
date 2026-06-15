@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-06-15T19:42:38.593034",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+          "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+          "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 14:26:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norwegian crown princess's son found guilty of two counts of rape",
+          "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+          "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 17:10:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+          "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+          "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 10:24:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊達成協議　川普：荷莫茲海峽19日起完全開放",
+          "summary": "美國總統川普今天表示，在美伊達成結束中東戰爭的協議後，荷莫茲海峽（Strait of Hormuz）將從19日起「完全開放」，先前受限制的航運通行將恢復正常。  法新社報導，在法國舉行的七大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473304",
+          "published": "Tue, 16 Jun 2026 02:45:04 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美伊簽署電子版和平備忘錄　官員稱未解凍伊資產",
+          "summary": "美國政府一名高階官員今天表示，美國總統川普、副總統范斯與伊朗國會議長卡利巴夫（Mohammad Bagher Ghalibaf）已簽署電子版諒解備忘錄，以結束中東戰爭。  法新社報導，這名要...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473302",
+          "published": "Tue, 16 Jun 2026 01:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "腥夫騙「愛媛出差」回家心虛爆表 超腹黑日本人妻見伴手禮噴笑！",
+          "summary": "日本一位人妻抓包丈夫謊稱到愛媛縣出差，其實是計畫跟小三去台灣展開不倫旅行，她偷偷將丈夫的護照藏起來裝沒事，並不定時在Threads上更新偷腥夫的狀況，吸引全球上千萬網友在線「看熱...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473290",
+          "published": "Tue, 16 Jun 2026 01:03:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
