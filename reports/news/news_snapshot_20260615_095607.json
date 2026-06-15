@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-15T09:56:05.894951",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices fall and shares jump after US-Iran deal announced",
+          "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+          "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 07:38:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norwegian crown princess's son found guilty of two counts of rape",
+          "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
+          "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 09:44:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+          "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+          "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 09:39:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "3月才險勝當選！日本茨城縣下妻市長深夜失蹤 警於排水溝尋獲遺體",
+          "summary": "日本茨城縣下妻市67歲市長須藤豐次14日深夜被通報失蹤，警方今（15日）凌晨0時50分許尋獲遺體，疑似為想不開走上絕路，詳細情況仍在調查中。  據《產經新聞》及《讀賣新聞》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472951",
+          "published": "Mon, 15 Jun 2026 17:20:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "與普廷通電 克宮稱川普表明「準備協助烏俄衝突落幕」",
+          "summary": "美國總統川普與俄羅斯總統普廷14日通電55分鐘。過程中川普表明，已準備好協助歷時4年多的烏俄戰爭落幕。  克里姆林宮外交政策顧問鄂夏柯夫（Yuri Ushakov）談到，川...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472949",
+          "published": "Mon, 15 Jun 2026 17:14:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "簽署協議前關鍵一步 美伊將在杜哈舉行間接會談",
+          "summary": "美國總統川普14日宣布已與伊朗達成停戰協議，為持續數月的衝突畫下句點。一位外交官向《法新社》透露，美國和伊朗本週將在卡達首都杜哈舉行間接會談，為正式簽署旨在結束中東戰爭的協議做...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5472892",
+          "published": "Mon, 15 Jun 2026 16:57:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
