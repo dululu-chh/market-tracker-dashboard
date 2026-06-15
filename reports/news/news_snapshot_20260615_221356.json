@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-15T22:13:53.951567",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+          "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+          "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 20:33:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+          "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+          "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 14:26:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norwegian crown princess's son found guilty of two counts of rape",
+          "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+          "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 17:10:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞分析》川普急於從伊朗抽身 對黨內鷹派難交代",
+          "summary": "〔國際新聞中心／綜合報導〕隨著與伊朗達成和平協議的框架共識，美國總統川普或許找到一條開始讓自己從這場戰爭中抽身的路，同時引導全球市場緩解在危機期間飆升的能源價格。但他最終接受的這份協議，顯然未能達到他在衝突初期所概述的多項目標，這可能使他遭受共和黨內對伊強硬派的攻擊，並讓美國在戰略上顯得比開戰前更為…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758957",
+          "published": "Tue, 16 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊核心領域談判 未來60天挑戰多",
+          "summary": "〔國際新聞中心／綜合報導〕針對旨在結束中東衝突的初步協議內容，美國、伊朗和調停國巴基斯坦揭露的輪廓，包括分階段執行、重啟荷姆茲海峽，以及後續核武談判的框架： 一、時程劃分與海峽重啟 停火與簽署：巴基斯坦總理夏立夫表示，雙方已宣布立即且永久停火。各方證實，將於十九日在瑞士簽署終戰諒解備忘錄（MOU…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758959",
+          "published": "Tue, 16 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon SpaceX那斯達克上市，市值飆破2兆美元，逼近亞馬遜",
+          "summary": "◎魏國金  SpaceX shares jumped 19% in their Nasdaq debut on Friday, sending the company’s value past $2 trillion to make it the sixth-biggest U.S. compa…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1758993",
+          "published": "Tue, 16 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
