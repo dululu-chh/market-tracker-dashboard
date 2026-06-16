@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-16T22:53:31.148528",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+          "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+          "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 15:31:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+          "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+          "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 16:20:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+          "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+          "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 21:44:25 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普倡議敘利亞對付真主黨掀波！黎巴嫩地緣焦慮引爆",
+          "summary": "美國總統川普16日建議以色列允許敘利亞去「對付真主黨」，並聲稱大馬士革當局會做得「更好」。這是川普本月內第二次拋出這項提議，直接觸動黎巴嫩最深層的集體焦慮：敘利亞長期干政的歷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5474559",
+          "published": "Wed, 17 Jun 2026 06:17:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄艦英吉利海峽開火！公海警告射擊遊艇 英國強烈譴責",
+          "summary": "英國國防部正在查證一項通報，內容指出俄羅斯巡防艦「格里戈洛維奇上將號」（Admiral Grigorovich）16日上午，在距離懷特島（Isle of Wight）以南20...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5474561",
+          "published": "Wed, 17 Jun 2026 06:15:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "公車監視器淪獵豔工具！義大利爆輕軌司機集體瘋傳女乘客影像",
+          "summary": "2名知情人士16日透露，義大利米蘭檢方已對一個涉及約10幾名當地路面電車（輕軌）司機的通訊軟體WhatsApp群組，展開正式調查。該群組成員涉嫌集體分享並評論由車廂內建監視器...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5474555",
+          "published": "Wed, 17 Jun 2026 06:12:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
