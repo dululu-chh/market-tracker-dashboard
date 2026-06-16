@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-16T12:08:30.801916",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran deal presents political nightmare for Netanyahu",
+          "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+          "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 03:40:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian artist and Putin critic shot dead in Poland",
+          "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+          "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 10:37:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+          "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
+          "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 01:49:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日議員稱「窮人家小孩才去自衛隊」 歧視言論全日本炎上",
+          "summary": "日本國會昨（15日）舉行參議院決算委員會時，一名曾任教師的議員發言聲稱「家庭經濟較困難（貧窮）的孩子才會去自衛隊」、「富裕家庭的孩子不會當自衛官」，言論一出，隨即引發全場譁然，防...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473596",
+          "published": "Tue, 16 Jun 2026 20:06:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "赴星賺快錢小心！28歲台男新加坡當車手 最高恐關10年再挨鞭刑",
+          "summary": "新加坡警方近日破獲一起信用卡詐騙案，一名28歲台灣籍男子與兩名24歲新加坡籍男子，涉嫌利用盜取的信用卡資料進行詐騙消費，最終被當地警方逮捕。由於新加坡近年對詐騙車手採取嚴刑峻法，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5474091",
+          "published": "Tue, 16 Jun 2026 19:21:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本關東5.5強震！茨城、群馬、埼玉、東京、千葉都有感",
+          "summary": "日本關東地區於16日日本時間晚間7點46分左右，發生芮氏規模5.5的強烈地震，造成群馬縣與埼玉縣部分地區，觀測到最大震度5弱的強烈搖晃。  《TBS》報導，根據日本氣象廳最新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5474332",
+          "published": "Tue, 16 Jun 2026 19:15:37 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
