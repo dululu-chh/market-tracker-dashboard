@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-16T00:27:22.036159",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+          "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+          "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 16 Jun 2026 00:03:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+          "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+          "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 14:26:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norwegian crown princess's son found guilty of two counts of rape",
+          "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+          "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 15 Jun 2026 17:10:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "10隻兔兔慘死！俄無人機亂炸烏克蘭動物園 大象也受驚",
+          "summary": "烏克蘭檢方證實，俄羅斯一架無人機15日襲擊烏克蘭第二大城哈爾科夫（Kharkiv）的一座動物園，造成10隻兔子死亡，另有多種動物受到嚴重驚嚇。但不確定俄羅斯無人機是故意攻擊動物園...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473349",
+          "published": "Tue, 16 Jun 2026 07:51:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普暗示不會親自出席協議簽署儀式 文本將盡快對外公開",
+          "summary": "美國與伊朗達成終戰協議，美國總統川普15日抵達法國出席G7峰會，他和法國總統馬克宏一同受訪時暗示，他本人可能不會出席預定於週五（19日）在瑞士日內瓦舉行的協議正式簽署儀式，而是由...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473332",
+          "published": "Tue, 16 Jun 2026 07:39:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "近10年首次！美軍B-52轟炸機加州墜毀 8機組員全罹難",
+          "summary": "美國空軍證實，一架可搭載核武的B-52「同溫層堡壘」（Stratofortress）戰略轟炸機15日在南加州莫哈維沙漠（Mojave Desert）的愛德華空軍基地（Edward...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5473323",
+          "published": "Tue, 16 Jun 2026 07:22:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
