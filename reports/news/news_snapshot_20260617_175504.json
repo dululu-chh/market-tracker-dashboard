@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-17T17:55:02.448585",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran sends tankers loaded with oil past US military blockade",
+          "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+          "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 13:27:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+          "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 09:13:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+          "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+          "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 16:50:42 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "芬蘭解除長年核武禁令　深化北約合作因應地緣政治現實",
+          "summary": "芬蘭國會議員今天以125票贊成、61票反對通過一項修正案，決定解除該國長年以來的核武禁令，標誌著芬蘭在加強與北約整合之際，國防政策出現重大轉變。  美國政治媒體Politico報導，芬蘭與俄...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475819",
+          "published": "Thu, 18 Jun 2026 01:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "透過服飾發聲 蜜雪兒．歐巴馬穿印有亡母肖像裙子亮相",
+          "summary": "美國前第一夫人蜜雪兒．歐巴馬（Michelle Obama）向來善於透過服裝傳達訊息，當她16日出席在即將開幕的總統圖書館「巴拉克．歐巴馬總統中心」（Barack Obama ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475802",
+          "published": "Thu, 18 Jun 2026 00:21:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "統戰天網全球擴張！澳洲智庫：中國和統會「偽裝」監控海外華人",
+          "summary": "澳洲智庫「澳洲戰略政策研究所」（ASPI）最新分析指出，中共建構的全球統戰網絡核心，是以「中國和平統一促進會」（和統會）為總部，該組織負責統籌制定政治方針與統戰論調，隨後散布...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475789",
+          "published": "Wed, 17 Jun 2026 23:29:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
