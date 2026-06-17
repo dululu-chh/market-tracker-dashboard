@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-17T15:01:54.653999",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+          "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+          "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 10:01:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+          "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 09:13:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+          "summary": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+          "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 09:56:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共操控「旅行社式」網路 助中國移民偷渡美國",
+          "summary": "前美國國土安全部（DHS）部長諾姆（Kristi Noem）16日接受《福斯財經新聞網》節目「與瑪莉亞早晨有約」（Mornings with Maria）專訪時警告，中共涉嫌協...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475752",
+          "published": "Wed, 17 Jun 2026 22:49:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽威脅等級調降  單日通行船隻仍不滿20艘",
+          "summary": "CNBC報導，總部位於巴林的海事安全組織「聯合海事資訊中心」（JMIC）16日將荷姆茲海峽的威脅等級從「嚴峻」（Severe）調降至「實質」（substantial）。儘管如此...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475763",
+          "published": "Wed, 17 Jun 2026 22:46:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄控無人機襲擊白俄巴士釀1死8傷 烏克蘭否認",
+          "summary": "俄羅斯官員今（17）日指控烏克蘭無人機襲擊載有白俄羅斯學童的巴士，造成1死8傷；烏克蘭軍方則否認俄方指控，聲稱並未發動攻擊。  《路透》報導，俄羅斯布揚斯克州（Bryansk...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475745",
+          "published": "Wed, 17 Jun 2026 22:43:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
