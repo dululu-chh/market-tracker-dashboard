@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-17T11:43:38.709454",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+          "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+          "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 10:01:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+          "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+          "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 08:38:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+          "summary": "Eduardo Bolsonaro called the conviction \"baseless and senseless\".",
+          "link": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 00:31:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄控烏無人機擊中巴士 白俄兒童足球隊遭殃",
+          "summary": "俄羅斯地方當局17日表示，1架烏克蘭無人機在位於俄國西部、與烏克蘭接壤的布揚斯克州（Bryansk）擊中1輛巴士，造成1死6傷，車上當時載有1支來自白俄羅斯的兒童足球隊。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475643",
+          "published": "Wed, 17 Jun 2026 19:29:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日安利美特退稅手續費達20％！Ocean挨轟致歉：一週內補償",
+          "summary": "許多動畫、漫畫迷赴日旅遊一大目的地是到動漫週邊商店安利美特（animate）「補貨」，但近日有網友在社群平台分享，原以為可以退稅賺點零頭回來，沒想到安利美特提前導入日本退稅新制，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475581",
+          "published": "Wed, 17 Jun 2026 19:25:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歡迎回歸傳統！俄國2025年發出1112份「反覺醒」簽證",
+          "summary": "俄羅斯官媒17日報導，2025年有超過1100名外籍人士因公開宣示致力於「傳統價值」，而取得1種被西方媒體稱為「反覺醒」（anti-woke）的俄羅斯簽證。  從LGBTQ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475541",
+          "published": "Wed, 17 Jun 2026 18:56:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
