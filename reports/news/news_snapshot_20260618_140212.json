@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-18T14:02:09.807476",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+          "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+          "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 09:47:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+          "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+          "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 13:11:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+          "summary": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
+          "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 09:26:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中媒藉公務員之死揭官場畸形生態  報導引熱議後被刪",
+          "summary": "中國湖南永州市東安縣28歲公務員陪主管釣魚時溺亡，家屬查看手機紀錄後揭發當地長年的違規飲酒應酬、賭博及要求下屬虛假報帳等違紀行為；陸媒南方週末近日刊發深度報導後引發熱議，但很快在全網被刪除。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5476788",
+          "published": "Thu, 18 Jun 2026 21:57:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲離島禽流感肆虐 逾1萬3000隻海豹幼獸死亡",
+          "summary": "澳洲科學家今天表示，一種高致病性禽流感病毒株感染亞南極火山島上的象鼻海豹繁殖族群後，導致逾1萬3000隻幼獸死亡。  法新社報導，研究人員去年10月抵達當地進行考察時，發現偏遠的赫德島（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5476739",
+          "published": "Thu, 18 Jun 2026 21:26:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "超人氣「群馬護照」加碼3萬冊 這3時間開搶",
+          "summary": "日本群馬縣政府18日宣布，外觀酷似真實護照引發社群熱議、推出即遭秒殺的免費觀光手冊「GUNMA PASSPORT（群馬護照）」，6月29日起正式重啟第2波申請。本次預計增刷3萬冊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5476914",
+          "published": "Thu, 18 Jun 2026 21:25:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
