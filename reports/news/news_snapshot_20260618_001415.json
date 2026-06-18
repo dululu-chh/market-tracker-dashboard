@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-18T00:14:12.456177",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran sends tankers loaded with oil past US military blockade",
+          "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+          "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 13:27:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+          "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+          "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 09:13:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+          "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+          "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 17 Jun 2026 16:50:42 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普搶先簽了！美伊終戰協議過關 美官員首度證實",
+          "summary": "美國總統川普17日已簽署旨在結束美伊戰爭的協議。儘管正式簽署儀式預計於本月19日在瑞士舉行，但美方最高層級的批准程序已經完成。  法新社報導，1名美國官員透露，川普17日已簽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475864",
+          "published": "Thu, 18 Jun 2026 07:38:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊14點協議全文曝光！重啟荷姆茲海峽 德黑蘭承諾不發展核武",
+          "summary": "路透報導，美國政府17日首度向媒體公開旨在中止戰事、重新開放荷姆茲海峽（Strait of Hormuz）的美伊暫定協議全文。這份由美方高層官員向記者宣讀的文件，共包含14項...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475834",
+          "published": "Thu, 18 Jun 2026 06:09:30 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "歷史性破冰？美伊諒解備忘錄曝光  美伊元首擬親簽協議",
+          "summary": "在經歷數日的高度保密後，美國高層官員17日首度向媒體披露與伊朗達成的諒解備忘錄（MOU）草案細節。與此同時，德黑蘭當局更釋出訊號，暗示這項結束戰事的協議，不排除由美國總統川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5475832",
+          "published": "Thu, 18 Jun 2026 06:02:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
