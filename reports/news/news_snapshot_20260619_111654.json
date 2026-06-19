@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-19T11:16:53.374909",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+          "summary": "The talks were expected to focus on implementing the deal to end the war signed earlier this week.",
+          "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 09:38:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+          "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
+          "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 11:02:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What Iran and US get from deal and why both could struggle to keep it",
+          "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+          "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 20:04:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "阿拉伯國家首例！ 阿聯禁15歲以下兒少使用社群媒體",
+          "summary": "阿拉伯聯合大公國今（19日）正式宣布新規，禁止15歲以下兒少使用社群媒體，成為首個實施此限制的阿拉伯國家。  …",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477765",
+          "published": "Fri, 19 Jun 2026 18:57:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "注意！美伊簽署和平協議  「5因素」可能影響你我荷包",
+          "summary": "美國與伊朗簽署結束中東戰爭的初版和平協議「諒解備忘錄」，包括重新開放荷姆茲海峽在內等協議內容「將立即生效」，不過部分棘手議題仍將繼續談判。《BBC》報導指出，有5種因素可能影響到...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477715",
+          "published": "Fri, 19 Jun 2026 18:53:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本男球迷被酸雙標？賽後主動清球場 回家不做家事當大爺",
+          "summary": "日本球迷賽後清理看台備受國際讚譽，近日又隨著世足賽開打又成話題；親臨球場為日本隊「藍武士」助威的日本球迷，賽後清理看台的照片，再次在社群媒體上被瘋傳。反觀在日本國內，被瘋傳熱議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477741",
+          "published": "Fri, 19 Jun 2026 18:01:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
