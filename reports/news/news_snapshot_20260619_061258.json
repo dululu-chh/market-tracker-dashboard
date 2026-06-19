@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-19T06:12:56.042196",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+          "summary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+          "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 01:34:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+          "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+          "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 15:53:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "What Iran and US get from deal and why both could struggle to keep it",
+          "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+          "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 20:04:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗歌手阿瑪迪未戴頭巾公開演唱 傳遭判處74下鞭刑",
+          "summary": "伊朗歌手阿瑪迪（Parastoo Ahmadi）與樂手在內的8名製作團隊成員，據報參與一場於2024年透過YouTube頻道直播的演唱會未戴頭巾，被判處74下鞭刑。  「衛報」（The ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477481",
+          "published": "Fri, 19 Jun 2026 13:50:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "沒買迪士尼速通又不想排隊 中國大媽鼓動遊客一起「破門衝進去」",
+          "summary": "為了節省排隊時間，不少遊客前往迪士尼或是環球影城等知名遊樂區時，常會選擇多花錢購買快速通關，但在網路上流傳，有中國大媽不滿快速通關可以免排隊，自己又不想花錢，竟在上海迪士尼遊玩時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477301",
+          "published": "Fri, 19 Jun 2026 13:20:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東局勢有變數？瑞士證實美伊談判再喊卡",
+          "summary": "中東戰火出現停歇曙光，美伊原預計於瑞士頂級度假村布爾根施托克（Bürgenstock Resort）簽署和平協議，但稍早白宮推遲了美國副總統范斯前往瑞士談判的行程。瑞士外交部也證...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477466",
+          "published": "Fri, 19 Jun 2026 13:14:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
