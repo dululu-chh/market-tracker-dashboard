@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-19T22:50:56.999180",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+          "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 19:27:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+          "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+          "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 19:36:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+          "summary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+          "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 17:02:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本「皇室典範」修正草案獲大致同意 盼7月中通過",
+          "summary": "日本眾參兩院正副議長今天大致上同意了「皇室典範」修正草案。根據草案大綱，現有的女性皇族將適用過渡措施，可依據個人意願自行選擇婚後是否保留皇族身分。  日本共同社報導，根據目前曝光的草案概...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477879",
+          "published": "Sat, 20 Jun 2026 06:10:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "G7峰會後大翻臉！川普譏義總理「乞求合照」 梅洛尼怒嗆說謊",
+          "summary": "美國總統川普聲稱，義大利總理梅洛尼（Giorgia Meloni）在剛結束的7大工業國集團（G7）峰會期間，曾向他「乞求」合照，不僅梅洛尼親自發聲否認，也引發義大利政府同仇敵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477951",
+          "published": "Sat, 20 Jun 2026 05:42:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：今年將再次前往中國　也將出訪土耳其",
+          "summary": "美國總統川普今天表示，他將在今年某個時間再次前往中國，也將出訪土耳其。  路透社報導，川普在馬里蘭州的安德魯聯合基地（Joint Base Andrews）發表談話時宣布了這項消息。  川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5477959",
+          "published": "Sat, 20 Jun 2026 05:30:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
