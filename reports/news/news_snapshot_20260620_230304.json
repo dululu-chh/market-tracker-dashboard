@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-20T23:03:01.776402",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+          "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
+          "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 21:11:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+          "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 17:40:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+          "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+          "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 15:31:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普忽冷忽熱！槓高市早苗、梅洛尼 卻盛讚習近平、莫迪",
+          "summary": "首次上稿 06-20 23:51更新時間 06-21 06:30 美國總統川普在新聞網站Axios於19日播出的專訪中，盛讚中國國家主席習近平和印度總理莫迪。  川普說...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5478691",
+          "published": "Sun, 21 Jun 2026 06:30:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊若未達最終協議　川普揚言將徵荷莫茲海峽通行費",
+          "summary": "美國和伊朗簽署終戰備忘錄後，啟動60天的談判期。美國總統川普今天表示，在停火期間的60天內，荷莫茲海峽將免收通行費，60天期滿後也不會徵收通行費，除非是在未能達成最終協議的情況下，該費用將由...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5478714",
+          "published": "Sun, 21 Jun 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》David Beckham honored with Walk of Fame star as LA hosts World Cup games洛杉磯舉辦世足賽事之際 大衛．貝克漢在星光大道摘星",
+          "summary": "◎林家宇 Sir David Beckham, the first English player to win league titles in four countries, was honored with a star on the Hollywood Walk of Fame ​on Fr…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1759586",
+          "published": "Sun, 21 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
