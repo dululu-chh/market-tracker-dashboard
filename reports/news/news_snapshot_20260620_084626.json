@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-20T08:46:25.473539",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+          "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 19:27:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+          "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+          "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 19:36:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US to stop funding HIV programmes in South Africa",
+          "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
+          "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 19 Jun 2026 23:35:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "NBA尼克隊遊行正妹學生英勇救人 一夕爆紅引關注",
+          "summary": "在美國紐澤西州德魯大學攻讀神經科學的24歲女學生凱莉（Simone Kelly），平常會到州內南奧蘭治（South Orange）救護隊當志工，她18日在NBA尼克隊慶祝遊行時拯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5478383",
+          "published": "Sat, 20 Jun 2026 16:20:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "足球員遭門將「高空踹臉」倒地亡！驚悚影片曝光",
+          "summary": "X上近日瘋傳一段恐怖影片，一名迦納足球員在地方賽事爭搶球時，遭到敵隊守門員以極度危險的「高空飛踢」直接爆頭重擊，當場倒地失去意識，送醫後宣告不治。守門員闖禍吃下紅牌後，竟毫不關心...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5478366",
+          "published": "Sat, 20 Jun 2026 15:47:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普內閣被爆「狂吃酸菜」減肥瘦一大圈！這些官員愛死",
+          "summary": "一股「酸菜減肥」風潮正悄悄席捲美國總統川普內閣。媒體披露，該款飲食節食法的主角是「德式酸菜」（Sauerkraut）包括副總統范斯（JD Vance）、衛生部長小羅勃甘迺迪（Ro...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5478342",
+          "published": "Sat, 20 Jun 2026 15:39:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
