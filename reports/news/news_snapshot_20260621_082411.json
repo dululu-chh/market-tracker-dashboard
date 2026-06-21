@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-21T08:24:10.351053",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+          "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 04:34:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+          "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
+          "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 16:37:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+          "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
+          "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 17:40:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "搭私人飛機趕場世足賽  FIFA主席挨批不環保",
+          "summary": "隨著2026世界盃足球賽在北美3國火熱開打，為了能盡量多親臨現場觀戰的國際足球總會（FIFA）主席英凡提諾（Gianni Infantino）也驛馬星動；然此積極、敬業態度卻令...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479170",
+          "published": "Sun, 21 Jun 2026 16:06:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國官媒踢爆多款嬰兒紙尿褲含有毒物質 廠商急忙澄清仍引質疑",
+          "summary": "中國官媒《新華社》主辦的《經濟參考報》，18日踢爆中國「Babycare」、「好奇」、「碧芭寶貝」等多個品牌的嬰幼兒紙尿褲存在有毒物質甲醯胺，廠商見狀連忙送交第三方機構檢驗，並於...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479146",
+          "published": "Sun, 21 Jun 2026 16:04:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北約出資援烏採購愛國者飛彈  義大利不買單",
+          "summary": "北約協助烏克蘭取得美製武器的採購機制出現雜音。義大利國防部長克羅塞托（Guido Crosetto）證實，義大利將不參與北約的「優先烏克蘭需求清單（PURL）」計畫，不會出資向...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479155",
+          "published": "Sun, 21 Jun 2026 15:52:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
