@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-21T15:48:44.192397",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran begin talks on initial peace deal in Switzerland",
+          "summary": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+          "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 14:41:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+          "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+          "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+          "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+          "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 15:01:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏軍無人機扭轉戰局！精準打擊癱瘓俄後勤生命線",
+          "summary": "英國「金融時報」21日報導，烏克蘭無人機擊中俄羅斯首都莫斯科最大煉油廠後，上空濃煙滾滾的景象清楚表明：基輔在技術上的進步，已讓俄國總統普廷（Vladimir Putin）的部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479443",
+          "published": "Sun, 21 Jun 2026 22:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "嗆伊朗管好真主黨 川普：否則會再度發動攻擊",
+          "summary": "美國總統川普今（21）日發文警告伊朗，如果不好好管管黎巴嫩武裝政黨真主黨（Hezbollah），繼續放縱真主黨攻擊以色列，美軍將再次發動攻擊。  川普在他的社群平台Truth...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479418",
+          "published": "Sun, 21 Jun 2026 22:31:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "逾9成以色列民眾認為「伊朗贏了」 納坦雅胡支持率大跌",
+          "summary": "根據今天公布的1份民調結果，有壓倒性多數的以色列民眾認為，伊朗經過近期中東戰爭及與美國達成的協議後，變得更為強大。顯示美伊協議面臨的嚴酷輿論反應。  法新社報導，這份由以色列的希伯來大學...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479364",
+          "published": "Sun, 21 Jun 2026 21:50:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
