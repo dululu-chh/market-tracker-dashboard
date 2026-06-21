@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-21T13:56:30.269944",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
+          "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+          "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 04:34:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+          "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+          "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+          "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+          "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 20 Jun 2026 23:17:51 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "橫濱驚傳隨機持刀傷人！男子公園跑步突被捅一刀 嫌犯在逃",
+          "summary": "日本橫濱昨（20）日傳出持刀傷人事件，一名男子在橫濱市內一處公園運動時，遭到不明人士刺傷，所幸男子並無生命危險。警方研判這起事件為隨機傷人，目前仍在追查嫌犯下落。不過光天化日之下...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479392",
+          "published": "Sun, 21 Jun 2026 21:40:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿蘇火山噴發警戒升至二級  罹難台人事故機吊掛延期",
+          "summary": "日本福岡管區氣象台今天宣布，將位於熊本縣的阿蘇火山噴發警戒級別提高至二級，因此原定明天進行的吊掛機具搬入作業將延期。  日本共同社報導，日本福岡管區氣象台將阿蘇火山噴發警戒級別從一級的「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479335",
+          "published": "Sun, 21 Jun 2026 21:21:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國推「民族團結法」 日議員示警：外國人國外喊支持台灣也恐被捕！",
+          "summary": "中國3月12日通過《中華人民共和國民族團結進步促進法》，預計7月1日實施，引發國際輿論熱議。日本自民黨東京都議會黨團副幹事長白川司跳出來示警，這部新法除了強化欺壓中國少數民族、異...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5479180",
+          "published": "Sun, 21 Jun 2026 21:01:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
