@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-22T15:18:58.278999",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Vance says Iran will allow nuclear inspectors back into the country",
+          "summary": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran.",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 14:18:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+          "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 15:15:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+          "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
+          "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 03:31:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "卡達運輸空船駛入荷姆茲 力拚恢復LNG出口",
+          "summary": "全球第二大液化天然氣（LNG）出口國卡達在重啟天然氣供應同時，正加緊將更多液化天然氣空油輪調回本國。路透報導，分析公司Kpler的船隻追蹤數據顯示，4艘卡達控制的液化天然氣油輪...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480510",
+          "published": "Mon, 22 Jun 2026 23:01:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗同意IAEA入境檢查 美暫解除石油制裁至8/21為止",
+          "summary": "美國財政部今天表示，已暫時解除針對伊朗的石油制裁，將允許伊朗生產、銷售並運送原油及相關產品，截至8月21日為止。  法新社報導，根據美國財政部發布的許可文件：「過去所有被禁止的交易，包括...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480523",
+          "published": "Mon, 22 Jun 2026 22:59:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊波拉確診破千例 民主剛果累計254人喪生",
+          "summary": "剛果民主共和國（簡稱民主剛果）官員昨晚發表聲明指出，該國東部伊波拉病毒疫情確診病例已達1003例，其中254人已喪生，追蹤曾與患者有過接觸者，仍是當前一大挑戰。  美聯社報導，剛果民主共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480441",
+          "published": "Mon, 22 Jun 2026 22:59:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
