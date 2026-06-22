@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-22T23:20:52.812629",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 23:07:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+          "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 15:15:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Myanmar army killed over 700 civilians in six months, UN says",
+          "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
+          "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 15:31:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "歐洲熱浪奪18命！法國2幼童車內熱死 多國高溫狂破紀錄",
+          "summary": "強烈熱浪持續襲擊歐洲各地，多國高溫屢創紀錄。法國已至少18人死亡，其中包括2名兒童陳屍車內；英國氣象機構則警告，本週氣溫可能改寫6月歷史新高。  綜合媒體報導，法國多地學校停...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480587",
+          "published": "Tue, 23 Jun 2026 06:49:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯爆強行徵兵！當街抓壯丁送前線 斷腿輪椅男怒拔刀擊退警察",
+          "summary": "首次上稿 06-23 00:08更新時間 06-23 06:32 烏俄戰爭爆發至今已持續4年多，俄羅斯為了彌補在烏克蘭戰場極其慘重的人力折損而頻繁徵兵，這也導致國內累積巨大民怨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480374",
+          "published": "Tue, 23 Jun 2026 06:32:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "無懼川普併吞威脅！丹麥強化北極防禦 攜手格陵蘭航空助軍方偵察",
+          "summary": "丹麥國防部22日表示，已選定一家格陵蘭的航空公司，協助軍方在具戰略意義的北極地區，進行運輸與偵察任務。  法新社報導，在美國總統川普今年加劇威脅將併吞這個丹麥自治領土，以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480563",
+          "published": "Tue, 23 Jun 2026 06:24:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
