@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-23T16:25:24.528093",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+          "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+          "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 14:37:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+          "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+          "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 14:55:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+          "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 12:14:58 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國新法究責「海外批評者」 矢板明夫：最可憐的是這群人！",
+          "summary": "中國3月12日通過《中華人民共和國民族團結進步促進法》，預計7月1日實施，引發國際輿論熱議。印太戰略智庫執行長矢板明夫表示，這部法律真正的目的是「嚇人」，只要讓大家相信「說錯話可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481777",
+          "published": "Wed, 24 Jun 2026 00:20:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國出現攝氏21.6度最熱夏夜 熱浪來襲40人消暑溺斃",
+          "summary": "法國昨天夜間至今天清晨前經歷自有紀錄以來最炎熱的夜晚。總理勒克努表示，自6月18日遭嚴峻熱浪籠罩以來，已有40人溺斃，其中多數為年輕人。  法新社報導，這波致命的熱浪自上週起持續肆虐法國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481698",
+          "published": "Tue, 23 Jun 2026 23:53:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中網瘋傳對店員喊「我是你爸爸」送套餐？麥當勞急闢謠：AI假廣告",
+          "summary": "本月21日是國際多數國家的父親節，中網瘋傳到境內麥當勞門市對店員喊「我是你爸爸」就能免費領套餐，許多中國網友真的去做了才發現被假消息欺騙，中國麥當勞官方也趕緊出面闢謠。  旅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481716",
+          "published": "Tue, 23 Jun 2026 23:51:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
