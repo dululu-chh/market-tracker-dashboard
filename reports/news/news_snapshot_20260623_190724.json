@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-23T19:07:21.329646",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+          "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+          "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 16:27:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+          "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+          "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 16:47:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+          "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+          "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 14:55:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "法國致命熱浪來襲　創1947年以來最高溫",
+          "summary": "法國國家氣象機構表示，法國今天經歷自1947年開始觀測紀錄以來最炎熱的一天，根據初步數據，全國氣溫指標達到攝氏29.8度。  法新社報導，自上週以來，一波致命熱浪襲擊法國，不僅打亂民眾日常生...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481819",
+          "published": "Wed, 24 Jun 2026 02:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗阿曼研議荷莫茲海峽服務費　美反對國際水域收費",
+          "summary": "伊朗與阿曼宣布，兩國將著手研究重要航道荷莫茲海峽（Strait of Hormuz）的管理服務費。不過，美國國務卿盧比歐強調，荷莫茲海峽是國際水道，「任何國家都不被允許在國際水道上徵收通行費...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481814",
+          "published": "Wed, 24 Jun 2026 02:30:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美伊達成協議　國際海事組織將撤離滯留波灣船員",
+          "summary": "聯合國機構國際海事組織（International Maritime Organization）今天表示，美國與伊朗達成結束中東戰爭的協議後，國際海事組織將開始撤離滯留於波斯灣的1萬1000...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481810",
+          "published": "Wed, 24 Jun 2026 01:30:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
