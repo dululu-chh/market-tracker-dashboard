@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-23T10:32:47.816523",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+          "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 05:39:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ransom note claims Nancy Guthrie died after abduction",
+          "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 08:10:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Montreal shooting leaves officer, civilian and suspect dead",
+          "summary": "It was the first time in 24 years that a Montreal police officer was  killed in the line of duty, the city's police chief said.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 08:36:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "抓到了！28歲台女赴日當車手  東京8旬嬤痛失近1億日幣",
+          "summary": "28歲台灣籍女子葉彥岑（イエ・イエンセン，音譯），涉嫌在日本對一名8旬老婦詐騙，受害老婦累計被騙走9500萬日圓（約新台幣1862萬元），目葉女已被東京警視廳逮捕，其姓名與長相也...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481461",
+          "published": "Tue, 23 Jun 2026 18:08:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "戰火逼近莫斯科 烏軍攻擊衛星通訊中心杜布納",
+          "summary": "烏克蘭軍方22日表示，已對位於莫斯科州杜布納（Dubna）的俄羅斯太空通訊中心發動攻擊。烏方公布的影片顯示，設施區域遇襲後升起濃煙，成為近期烏軍深入俄國本土遠程打擊行動的最新案...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481495",
+          "published": "Tue, 23 Jun 2026 17:54:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "世界最響亮人類！澳洲58歲男大吼達122分貝 破金氏世界紀錄",
+          "summary": "只大喊一個字，音量竟然比噴射機起飛、電鋸運作還要吵！金氏世界紀錄證實，澳洲一名58歲的冷氣清潔工麥葛雷爾-貝特普（Joseph McGrail-Bateup），在電台錄音室僅僅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481439",
+          "published": "Tue, 23 Jun 2026 17:21:45 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
