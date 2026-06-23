@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-23T02:42:26.934116",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 23:07:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+          "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 15:15:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ransom note claims Nancy Guthrie died after abduction",
+          "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+          "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 01:59:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "群蜂亂舞！美德州卡車載200萬隻蜜蜂翻覆 當局急籲民眾待在室內",
+          "summary": "嗡嗡嗡大軍來襲！美國德州1輛載著大約200萬隻蜜蜂的卡車，21日在橘郡莫里斯維爾（Mauriceville）道路轉彎處翻覆，使得大量蜜蜂傾巢而出，當局連忙呼籲民眾待在室內。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480787",
+          "published": "Tue, 23 Jun 2026 10:34:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日韓瘋傳！櫻花妹在仁川機場超商掉落耳機 店員躺地拆貨架取回",
+          "summary": "最好的旅遊宣傳！日本一對姊妹近日前往南韓旅遊，妹妹不慎在仁川機場內的超商掉落耳機，並且滾到了貨架下方內側，店員見狀側躺在地伸手摸索了好幾分鐘，最後直接拆了貨架終於尋回耳機，這段暖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480703",
+          "published": "Tue, 23 Jun 2026 10:21:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加拿大驚傳槍響致3死 嫌犯當場遭擊斃",
+          "summary": "加拿大蒙特婁22日發生槍擊案，導致1名警察和1名平民死亡，槍手則是被當場擊斃。蒙特婁發生這樣的槍擊事件很罕見，此事深深震驚了加拿大。  綜合《法新社》與英國廣播公司（BBC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480717",
+          "published": "Tue, 23 Jun 2026 10:20:42 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
