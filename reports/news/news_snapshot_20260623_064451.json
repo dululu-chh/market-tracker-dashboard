@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-06-23T06:44:50.147174",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 05:39:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+          "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+          "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 22 Jun 2026 15:15:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ransom note claims Nancy Guthrie died after abduction",
+          "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+          "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 01:59:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "特斯拉衝入民宅撞死76歲婦  美監管機構出手調查是否和自動駕駛有關",
+          "summary": "美國國家公路交通安全管理局（NHTSA）22日證實，正對德州發生的一起致命事故展開調查。涉事特斯拉（Tesla）公司旗下產品Model 3據報在啟用先進駕駛輔助系統期間撞入民宅，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481006",
+          "published": "Tue, 23 Jun 2026 14:35:01 +0800",
+          "keywords": [
+            "特斯拉",
+            "Tesla"
+          ]
+        },
+        {
+          "title": "「國會優先」日媒曝高市擬缺席北約峰會 茂木敏充或代打",
+          "summary": "北大西洋公約組織（NATO）峰會將於下（7）月7至8日在土耳其首都安卡拉登場，日媒報導，由於國會議程等原因，日本首相高市早苗打算放棄出席峰會。若消息成真，這也將是日本首相連續兩年...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5481081",
+          "published": "Tue, 23 Jun 2026 14:05:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "范斯和談遭爆飽受屈辱？葉耀元打臉：美國人習慣先到",
+          "summary": "美國與伊朗在瑞士布爾根施托克（Buergenstock）進行的首場高層級對話引發國際關注，近日卻有媒體截取外電報導，稱率領美國代表團的副總統范斯「飽受屈辱」、處處透露出美方弱勢。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5480815",
+          "published": "Tue, 23 Jun 2026 14:03:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
