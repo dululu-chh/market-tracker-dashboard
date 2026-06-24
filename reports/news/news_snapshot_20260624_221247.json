@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-24T22:12:46.214541",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 21:39:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Air conditioning creates political divide after France records hottest day",
+          "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 13:51:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+          "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 17:31:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "6艘F126恐花6482億 德國改買小噸位巡防艦",
+          "summary": "德國在2020年向荷蘭達門海軍造船廠（Damen Naval）訂購4艘F126巡防艦，後來又增購2艘，首艦原定2028年交付，預計2033年服役，但德國國防部24日宣布，由於進度嚴重延宕且預期成本將會攀升，將不再推進F126巡防艦計畫。F126巡防艦原先被定位為德國海軍自第二次世界大戰以來委託打造的…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1760130",
+          "published": "Thu, 25 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "魯比歐︰荷姆茲是國際水道 不容許收費",
+          "summary": "川普︰伊朗曾掛保證 對通行船隻不收錢 〔編譯管淑平／綜合報導〕美國國務卿魯比歐廿三日起訪問中東阿拉伯聯合大公國、科威特和巴林三國，針對伊朗和阿曼宣佈，兩國將著手研究荷姆茲海峽管理服務費，魯比歐說，華府不會接受在這條公海水域實施收取通行費或服務費。美國總統川普廿四日也發文，聲稱伊朗曾向美方保證，不會…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1760127",
+          "published": "Thu, 25 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挺日韓菲等盟友 加艦今年將2赴印太",
+          "summary": "與盟國深化軍事合作 同時有紀律管理對中關係 〔國際新聞中心／綜合報導〕加拿大國防部長麥根第（David McGuinty）表示，加國計畫今年兩度派遣軍艦前往印太地區，深化與日本、南韓和菲律賓等區域盟友的軍事合作關係，與此同時也「有紀律地」管理與中國的關係。 麥根第廿四日接受彭博專訪時表示，參與印…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1760131",
+          "published": "Thu, 25 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
