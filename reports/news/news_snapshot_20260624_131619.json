@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-24T13:16:17.875752",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Power outages hit France as record heatwave set to peak",
+          "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 11:20:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+          "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 03:57:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+          "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 21:04:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "貪圖20萬元報酬！日女與中國籍男子假結婚  助取得「在留資格」被識破",
+          "summary": "為了獲取在日本的「在留資格」（外國人合法居住日本的居留身分與活動許可），一名中國籍男子與一名日本女子涉嫌向市役所提交虛假的結婚申請書，已遭到愛知縣警方逮捕。  《東海電視台》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482730",
+          "published": "Wed, 24 Jun 2026 19:15:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭無人機重創莫斯科煉油廠 估停機半年加劇俄國燃料荒",
+          "summary": "2名產業消息人士24日表示，莫斯科煉油廠在遭到烏克蘭無人機攻擊並嚴重受損後，將停機至少6個月，亦即今年內已無法營運，使俄羅斯解決全國燃料短缺問題的努力面臨更大挑戰。  路...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482894",
+          "published": "Wed, 24 Jun 2026 19:01:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加州迪士尼驚魂！13歲少年玩設施突站起 從15公尺高摔落嚇壞眾人",
+          "summary": "加州迪士尼日前發生一場墜落意外，一名13歲遊客搭乘園區內一項水上遊樂設施，竟在車廂往下衝時站了起來，隨即從15公尺高墜落，所幸並沒有造成重傷，但這個驚悚畫面已經嚇壞眾人。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482662",
+          "published": "Wed, 24 Jun 2026 18:59:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
