@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-24T16:14:03.996074",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Power outages hit France as record heatwave set to peak",
+          "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 13:44:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Air conditioning creates political divide after France records hottest day",
+          "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 13:51:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+          "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 12:32:00 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗官媒首現未戴頭巾女性 戰後打「團結牌」化解政權危機",
+          "summary": "在與美國簽署初步停戰協議後，伊朗政府不僅在美國和以色列的聯手攻擊中存活下來，更在進行中的和平談判裡掌握優勢，但由於國家深陷經濟危機，加上戰前席捲全國的反政府抗議活動使民眾嚴重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483063",
+          "published": "Wed, 24 Jun 2026 23:22:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏俄克里米亞熱戰！俄軍建「堤道式橋梁」強化補給線",
+          "summary": "根據美國智庫戰爭研究所（ISW）研究員巴羅斯（George Barros）公布的最新衛星影像，俄軍正在烏克蘭南部海尼切斯克（Henichesk）附近興建一座新的堤道式橋梁，連...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483061",
+          "published": "Wed, 24 Jun 2026 23:21:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄影子艦隊運油金援戰爭 瑞典籲歐盟積極登船攔截",
+          "summary": "瑞典電視台調查報導發現，僅是今年已有262艘俄國影子艦隊油輪，經由波羅的海運送石油；瑞典外長斯典尼嘉德呼籲歐盟各國積極登船檢查，以阻斷俄國規避制裁，透過出口石油繼續取得攻打烏克蘭的資源。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483049",
+          "published": "Wed, 24 Jun 2026 23:14:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
