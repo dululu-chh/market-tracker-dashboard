@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-24T06:41:34.439832",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+          "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 03:57:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+          "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+          "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 16:27:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+          "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 21:04:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "法國熱浪飆44.3度已釀44死 40人跳水消暑反送命",
+          "summary": "致命熱浪席捲歐洲，法國在23日創下歷史新高氣溫，西南部高溫狂飆至44.3度。由於極端酷熱難耐，法國自6月18日以來已累積至少44人因高溫相關事故不幸喪生，其中有40人在跳水消暑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482415",
+          "published": "Wed, 24 Jun 2026 13:51:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "軍工高層再落馬！中國國家國防科工局副局長卞志剛被查",
+          "summary": "中國官方24日通報，國家國防科技工業局副局長卞志剛涉嫌嚴重違紀違法，目前正接受中共中央紀委國家監委紀律審查及監察調查。  根據中共中央紀委國家監委網站24日發布的消息，卞志剛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482122",
+          "published": "Wed, 24 Jun 2026 13:19:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "罕見！北韓士兵深夜越界投誠 李在明任內第4例",
+          "summary": "南韓聯合參謀本部（JCS，聯參）證實，1名北韓士兵23日晚間越過兩韓邊界，已遭南韓拘留。據悉這是一起投誠事件。  綜合媒體報導，聯參對媒體表示：「軍方週二（23日）晚間在中部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5482315",
+          "published": "Wed, 24 Jun 2026 13:05:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
