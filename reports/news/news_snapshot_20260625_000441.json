@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-06-25T00:04:40.217524",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 21:39:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Air conditioning creates political divide after France records hottest day",
+          "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 13:51:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+          "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 17:31:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北京表態！王毅：盡快恢復荷姆茲海峽通航",
+          "summary": "中國官媒新華社24日證實，中國外交部長王毅呼籲儘早恢復荷姆茲海峽（Strait of Hormuz）正常通行，以協助確保全球產業鏈與供應鏈穩定。王毅強調，有關荷姆茲海峽的安排，必...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483139",
+          "published": "Thu, 25 Jun 2026 07:50:25 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "日本岩手縣外海發生規模6.9強震 青森縣測得震度「6強」",
+          "summary": "日本岩手縣外海於當地時間今早7點30分發生規模6.9強震，測得最大震度為「6強」，日本氣象廳表示，目前並無海嘯風險。  根據日本氣象廳觀測資料，這起規模6.9地震發生在岩手縣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483142",
+          "published": "Thu, 25 Jun 2026 07:29:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗戰爭惹黨內反彈！川普與共和黨參議員爆激烈口角",
+          "summary": "美國總統川普（Donald Trump）24日在一場與共和黨議員舉行的閉門會議中，因伊朗戰爭議題遭到黨內人士直接批評。就在會議結束不久後，川普政府向國會提出數百億美元追加預算，以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5483122",
+          "published": "Thu, 25 Jun 2026 07:28:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
