@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-25T11:37:16.793676",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+          "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 10:48:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 24 Jun 2026 21:39:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+          "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+          "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 09:06:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "Anduril布局日本無人機市場  有意收購日產追濱廠",
+          "summary": "美國新創國防企業安杜里爾工業（Anduril Industries）有意到日本設廠生產軍用無人機，外媒報導，多位消息人士透露安杜里爾目前正與日產汽車協商，收購其位於...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484162",
+          "published": "Thu, 25 Jun 2026 19:17:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「我們被辜負了！」 川普再怨北約不挺打伊朗",
+          "summary": "美國總統川普24日在白宮會見北大西洋公約組織（NATO）秘書長呂特（Mark Rutte）時，再度表達對部分北約成員國，未支持美國對伊朗作戰的不滿。川普說，他被這些國家「辜負了...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484082",
+          "published": "Thu, 25 Jun 2026 18:59:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄外長質疑 美藉阿拉斯加峰會重新武裝烏國",
+          "summary": "美國總統川普與俄羅斯總統普廷去年8月在阿拉斯加會晤，商討解決烏俄衝突方式。如今已10個月過去，莫斯科對華盛頓遲遲沒有就雙方取得的「安克拉治精神」推動協議，俄國外交部長拉夫羅夫2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484044",
+          "published": "Thu, 25 Jun 2026 18:59:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
