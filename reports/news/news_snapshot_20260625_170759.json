@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-25T17:07:57.638588",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+          "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 13:09:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "People flee as building collapses on Caracas outskirts",
+          "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+          "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 12:08:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+          "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 15:15:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍印太司令部改名為對付中國？北京回應了",
+          "summary": "美軍宣布將「印太司令部」（USINDOPACOM）改回舊稱「太平洋司令部」（USPACOM），香港科技大學榮休教授丁學良指出，此事反映出美國意圖將有限資源集中以對付中國。中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484364",
+          "published": "Fri, 26 Jun 2026 01:01:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "還有這種爽缺！只要看完世足104場比賽  就能爽賺近160萬",
+          "summary": "2026國際足總（FIFA）世界盃如火如荼開打，本屆世足首次擴編至48隊、總計104場賽事，熱血球迷們巴不得每場比賽都能看好看滿！可你有想過竟然有份工作，是付錢讓你看完全部比賽嗎...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484266",
+          "published": "Fri, 26 Jun 2026 00:22:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "6000萬顆星如金沙！史上最細緻「華麗」銀河系  歐幾里得望遠鏡拍下",
+          "summary": "歐洲太空總署（ESA）的「歐幾里得望遠鏡」（Euclid telescope），拍下迄今最大、最細緻的銀河系中心區可見光影像，呈現6000萬顆有如灑滿金沙般的恆星，以及星雲、星...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484347",
+          "published": "Thu, 25 Jun 2026 23:56:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
