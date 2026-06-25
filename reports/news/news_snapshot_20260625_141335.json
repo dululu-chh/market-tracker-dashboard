@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-25T14:13:33.300177",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+          "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 10:48:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+          "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 13:09:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+          "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 13:51:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "赴韓注意！日本「2款夯藥」列管制 入境秒沒收+留刑事紀錄",
+          "summary": "許多台灣民眾前往日本旅遊時，會去藥妝店購買成藥「EVE止痛藥」或「大正百保能感冒藥」回國。對此，一名在南韓擔任領隊的男子提醒，這2款成藥在南韓已被列為管制藥品，禁止攜帶入境，如果...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484236",
+          "published": "Thu, 25 Jun 2026 21:37:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "被烏軍無人機打怕了  俄防空系統大舉移防首都、普廷官邸",
+          "summary": "烏克蘭近日頻頻打擊俄羅斯境內目標，甚至遠及距離邊境逾2000公里。烏克蘭總統澤倫斯基25日表示，隨著烏軍長程無人機持續深入痛擊俄國目標，莫斯科正將顯著數量的防空系統，移防至少數...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484281",
+          "published": "Thu, 25 Jun 2026 21:32:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "香港首位！AV女優素海霖驚傳遭逮捕  最重恐判7年、罰2千多萬！",
+          "summary": "港產AV女優素海霖（原名蘇凱琳）今天（25日）驚傳因涉嫌為境外非法賭博網站擔任代言人遭逮捕，引發大批老司機討論。  綜合港媒報導，西九龍總區重案組人員最近調查，某非法賭博網站...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484245",
+          "published": "Thu, 25 Jun 2026 21:12:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
