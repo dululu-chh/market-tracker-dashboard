@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-26T02:47:45.592173",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+          "summary": "Nearly 1,500 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+          "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 02:04:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+          "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 02:12:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "People flee as building collapses on Caracas outskirts",
+          "summary": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+          "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 12:08:30 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "委內瑞拉強震已釀235死逾1500傷 美派2軍艦與1.5億美元資金馳援",
+          "summary": "委內瑞拉於當地時間24日晚上6時多接連發生規模7.2、7.5強震，首都卡拉卡斯（Caracas）及周邊地區受到嚴重破壞。目前已知有235人死亡和1500多人受傷。美國25日宣布...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484486",
+          "published": "Fri, 26 Jun 2026 10:42:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英王查爾斯首公開稅單繳了5.4億 白金漢宮整修後不入住",
+          "summary": "英國王室官員表示，英王查爾斯三世在白金漢宮整修完成後，將不會搬入居住，而會繼續住在克拉倫斯宮，將使白金漢宮近兩世紀以來作為英國君主主要住所的傳統告一段落。同時，查爾斯成為首位公開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484421",
+          "published": "Fri, 26 Jun 2026 09:55:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "環太平洋軍演登場  星媒：美中西太平洋軍事角力白熱化",
+          "summary": "第30屆環太平洋軍事演習（RIMPAC）24日在夏威夷登場，但在這場全球最大規模的多國聯合軍演揭幕前，西太平洋海空動態已先行升溫。美國盟友及夥伴國家參演艦艇陸續向夏威夷集結，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5484375",
+          "published": "Fri, 26 Jun 2026 06:42:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
