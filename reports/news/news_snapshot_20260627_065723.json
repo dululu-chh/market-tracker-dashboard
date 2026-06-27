@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-27T06:57:20.291789",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iran after attack on cargo ship",
+          "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 02:48:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 04:09:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Mother dies saving daughter in Venezuela earthquakes",
+          "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "普廷昔日接班大熱門病逝 死因遭蓋牌揭權力放逐內幕",
+          "summary": "曾被視為俄羅斯總統普廷最熱門接班人的前國防部長伊凡諾夫（Sergei Ivanov），近日病逝，享壽73歲。根據《美聯社》報導，克里姆林宮已證實其死訊，普丁也向家屬致哀，但官方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485952",
+          "published": "Sat, 27 Jun 2026 14:38:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本島根民宅庭院挖出雙屍 疑是胞弟殺害兄長與父親",
+          "summary": "日本島根縣出雲市大津町一處民宅庭院，於26日凌晨0時40分許挖出2具男性遺體，警方懷疑是居住在此的49歲男子森山友和殺害父親、哥哥，目前依照棄屍等罪嫌將其逮捕。  綜合日媒報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485953",
+          "published": "Sat, 27 Jun 2026 14:35:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "爆上千名俄軍違抗「自殺命令」遭酷刑！士兵響應揚言政變",
+          "summary": "俄羅斯退伍軍人盧寧（Alexander Lunin）近日在社群平台 IG 上發布貼文，爆料有數千名在烏克蘭作戰的俄羅斯士兵，因為拒絕「自殺式命令」遭到虐待甚至謀殺，短時間吸引破千...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485916",
+          "published": "Sat, 27 Jun 2026 14:22:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
