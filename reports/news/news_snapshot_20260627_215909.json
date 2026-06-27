@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-06-27T21:59:07.494960",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 08:56:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+          "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 21:12:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+          "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 21:35:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "黎以新簽安全協議　真主黨：等同投降不可接受",
+          "summary": "黎巴嫩什葉派基本教義民兵組織真主黨（Hezbollah）領袖卡西姆（Naim Qassem）今天拒絕接受一份由美國斡旋、並由黎巴嫩與以色列於前1天簽署的安全協議，批評這份協議等同向以色列「投...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486448",
+          "published": "Sun, 28 Jun 2026 05:36:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Anthropic先進AI模型 美有限度允許開放",
+          "summary": "〔編譯林家宇／綜合報導〕人工智慧（AI）近年高速發展，具備的強大能力已足以引起政府對網路、資訊安全風險戒備。在川普政府對美國人工智慧公司「Anthropic」以國安風險為由，對該公司最先進模型「Mythos5」下達出口限制兩週後，廿六日允許向受信任的機構開放。  出於對強大AI系統可能遭中國、俄…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1760504",
+          "published": "Sun, 28 Jun 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "劍指中國 美主導多線多國聯合軍演",
+          "summary": "美菲、美日、環太等軍演同步舉行 「反映美方安全承諾神聖不可侵犯」  〔編譯林家宇／綜合報導〕亞洲太平洋地區近期不約而同舉行軍事演習，其中又以美國領導，聚焦第一島鏈範圍的聯合軍演為主。香港南華早報引述專家分析，儘管無法斷定同步軍演的情況是否有意為之，仍反映出美國軍方對區域內盟友的安全承諾「神聖不可…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1760500",
+          "published": "Sun, 28 Jun 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
