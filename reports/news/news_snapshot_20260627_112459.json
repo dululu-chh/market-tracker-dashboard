@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-27T11:24:57.793160",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iran after attack on cargo ship",
+          "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 10:40:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 08:56:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Mother dies saving daughter in Venezuela earthquakes",
+          "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "飛機撞大樓打臉北京防空網！軍事粉專曝：蘇聯「紅場事件」翻版",
+          "summary": "中國首都北京政經核心區昨（26日）傍晚發生一起震驚國際的飛安事件。一架輕型運動飛機於下午5時55分，直接撞擊北京第一高樓、位於朝陽區東三環的「中信大廈」（又稱中國尊），造成機上駕...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486242",
+          "published": "Sat, 27 Jun 2026 19:07:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯鷹派公開施壓普廷  動用核武、暗殺澤倫斯基",
+          "summary": "由於不滿烏克蘭無人機頻頻深入轟炸，加上美國未能履行促成停戰的承諾，俄羅斯強硬派人士近日公開向總統普廷施壓，敦促克里姆林宮徹底放棄外交談判，全面升級軍事衝突以求實質勝利。  據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486088",
+          "published": "Sat, 27 Jun 2026 19:03:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "飛機撞「北京最高樓」 中國官方證實：駕駛當場死亡、13人受傷",
+          "summary": "北京最高地標「中信大廈」（又稱中國尊）26日遭輕型飛機撞擊，引發高度關注。由於事件發生在北京中央商務區（CBD）核心地帶，中國官方直到事發將近24小時後，才證實飛機駕駛員當場死亡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486208",
+          "published": "Sat, 27 Jun 2026 18:46:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
