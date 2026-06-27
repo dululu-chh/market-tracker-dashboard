@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-27T19:12:15.956113",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 08:56:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US strikes Iran after attack on cargo ship",
+          "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 10:40:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中東戰爭加劇伊朗通膨　6月飆88.6%、食品價翻倍",
+          "summary": "官方今天公布的數據顯示，原本就因國際制裁而深陷惡性通膨的伊朗，在中東戰爭的衝擊下，今年6月的通膨率已飆升至88.6%，來到高點。  法新社報導，伊朗統計中心（Statistical Cent...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486438",
+          "published": "Sun, 28 Jun 2026 01:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "破紀錄高溫擴散到北歐 丹麥飆到36.6度",
+          "summary": "北歐國家丹麥的氣象機關表示，丹麥今天測得有紀錄以來最高氣溫，在東部的奧登斯（Odense）北方出現攝氏36.6度，打破1975年8月創下的原先最高溫紀錄36.4度。  法新社報導，丹麥氣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486383",
+          "published": "Sat, 27 Jun 2026 23:55:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本雙颱襲擊+梅雨鋒面炸雨 災情頻傳已釀3死",
+          "summary": "受到今年第7號颱風「米克拉」與第8號颱風「無花果」以及梅雨鋒面帶來的豪雨影響，日本多地傳出淹水、土石流災情，截至當地時間今晚7時，已經有3人喪命、數人受傷。  日本放送協會（NHK）、共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486395",
+          "published": "Sat, 27 Jun 2026 23:49:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
