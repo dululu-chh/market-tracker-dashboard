@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-27T13:21:28.072657",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iran after attack on cargo ship",
+          "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 10:40:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 08:56:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Mother dies saving daughter in Venezuela earthquakes",
+          "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "瑞士衝上38.8度破紀錄 「冰河流失日」臨界點提早3個月來臨",
+          "summary": "當前歐洲熱浪頻創最高溫紀錄，瑞士連兩日打破該國有史以來6月高溫紀錄。同時，極端高溫正加速瑞士冰河融化，預計去年冬季累積的冰雪將在29日全部融化，是迄今紀錄史上，這個被稱為「冰河...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486339",
+          "published": "Sat, 27 Jun 2026 21:17:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "西歐熱浪肆虐！冷卻用河水溫度飆高 瑞士關閉核反應爐",
+          "summary": "西歐部分地區今天因致命熱浪肆虐，多達1億5000萬人承受攝氏35度高溫，街頭派對與音樂節紛紛取消，酒類銷售也受限。德國測得史上最高溫41.3度，瑞士核電廠反應爐也被迫關閉。  法新社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486276",
+          "published": "Sat, 27 Jun 2026 21:11:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗續轟巴林、再傳油輪遇襲 荷姆茲安全風險升高到「重大」",
+          "summary": "美國26日對伊朗發動空襲，回應伊朗無人機攻擊穿越荷姆茲海峽的長榮海運旗下「長麗輪」貨輪；伊朗隨後對美軍據點發動報復攻擊，27日攻擊巴林，同日荷姆茲海峽再有一艘油輪遇襲。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486310",
+          "published": "Sat, 27 Jun 2026 20:34:45 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
