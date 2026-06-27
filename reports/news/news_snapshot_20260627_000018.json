@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-27T00:00:17.340320",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+          "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 21:15:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Mother dies saving daughter in Venezuela earthquakes",
+          "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US conducts strikes on Iran after attack on cargo ship",
+          "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 26 Jun 2026 22:57:30 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "荷姆茲重開後首例！長榮海運長麗輪遇襲 彭博：雙向交通未停擺",
+          "summary": "首次上稿 6-26 22:34更新時間 6-27 06:17  長榮海運新加坡公司營運的長麗輪（Ever Lovely）行經荷姆茲海峽阿曼沿岸遭不明投射物擊中，是美國與伊朗...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485498",
+          "published": "Sat, 27 Jun 2026 06:17:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "輕型機撞北京第一高樓 港媒：疑似機長單飛偏離航道失聯",
+          "summary": "首次上稿 6-26 23:23更新時間 6-27 06:14  北京最高地標「中信大廈」（又稱中國尊）26日傳出遭輕型飛機撞擊事件。社群媒體上流傳的影像與照片顯示，這座位...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485515",
+          "published": "Sat, 27 Jun 2026 06:14:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "小飛機撞上北京第1高樓  大樓冒煙殘骸四散 中國疑封鎖消息",
+          "summary": "首次上稿 6-26 22:08更新時間 6-27 06:05  中國北京26日驚傳一架小飛機撞上北京第一高樓「中信大廈」，機身當場解體，大量碎片從高空墜落，現場緊急疏散大樓內...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5485463",
+          "published": "Sat, 27 Jun 2026 06:05:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
