@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-28T06:59:29.993785",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+          "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 21:12:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+          "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 28 Jun 2026 04:54:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "別想逃！美國牧師懸崖推妻詐保奢糜度日 20年後被捕輕生亡",
+          "summary": "小心枕邊人！美國內華達州拉斯維加斯曾任青年牧師（專門引導青少年）的49歲男子范德米爾（David Vander Meer），2006年和妻子一同前往猶他州錫安國家公園旅行，孰料太...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486802",
+          "published": "Sun, 28 Jun 2026 14:42:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國遊客日本搭錯車獲「貼心服務」 駕駛室拍片炫耀1舉動引爆炎上",
+          "summary": "一名疑似來自香港的網友近日在社群平台分享一段影片，透露一家三口在日本旅遊時，原本計畫從大阪前往奈良，卻不小心搭錯車，坐上了近鐵特急列車「火之鳥」（HINOTORI）。沒想到這段本...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486555",
+          "published": "Sun, 28 Jun 2026 14:29:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普再祭滅國警告 若再開戰「伊朗將不復存在」",
+          "summary": "美國總統川普27日警告，若美軍因伊朗再次挑釁而被迫恢復軍事行動，「伊朗伊斯蘭共和國將不復存在」。就在他發表這番談話前後，美伊互控違反停火協議，並連續第2天互相發動軍事攻擊。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486790",
+          "published": "Sun, 28 Jun 2026 14:00:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
