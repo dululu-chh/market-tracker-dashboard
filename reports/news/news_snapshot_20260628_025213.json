@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-28T02:52:12.008362",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+          "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 21:12:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches strikes on Iran after second shipping attack",
+          "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 28 Jun 2026 01:22:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鬆口氣！美紐澤西州3名青少年失蹤 皆已尋獲無大礙",
+          "summary": "美國3名未成年男孩25日在紐澤西州蒙特維爾（Montville）失蹤，警方27日於康乃狄克州史丹佛尋獲平安無事的3人，並了解到他們是結伴離家出走，但原因尚不清楚。  據《福斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486598",
+          "published": "Sun, 28 Jun 2026 10:29:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美肯塔基州暴雨洪災釀4死 州長宣布緊急狀態",
+          "summary": "美國肯塔基州持續降下暴雨引發洪災，部分地區累積降雨量超過6英吋（約152毫米），並且造成4人死亡，州長畢什爾（Andy Beshear）27日宣布進入緊急狀態。  據《ABC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486536",
+          "published": "Sun, 28 Jun 2026 09:49:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美麻州世足賽後驚傳槍響 至少4人中彈送醫",
+          "summary": "美國麻薩諸塞州福克斯堡（Foxborough）的吉列體育場（Gillette Stadium），26日舉行挪威對陣法國的世界盃足球賽事，孰料賽後在外面街頭爆發槍擊案，至少有4人中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5486524",
+          "published": "Sun, 28 Jun 2026 09:20:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
