@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-29T02:52:38.661790",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+          "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+          "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+          "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 28 Jun 2026 19:37:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "神戶風俗店男女雙亡！ 房內發現刀械、兩人上半身均有刀傷",
+          "summary": "日本兵庫縣神戶市福原町一間提供性服務的「風俗店」，28日晚間發生離奇命案，女性從業人員與男性顧客被發現房間內倒地不起，兩人送醫後均確認死亡。  綜合日媒報導，28日晚間10點...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5487360",
+          "published": "Mon, 29 Jun 2026 10:43:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華爾街日報轟川普太軟弱 警告伊朗正贏得荷姆茲之戰",
+          "summary": "美伊衝突持續反覆之際，向來立場偏保守的《華爾街日報》編輯委員會29日發表社論，直指伊朗正「贏得荷姆茲之戰」，並將矛頭對準美國總統川普，批評其對伊朗政策過於軟弱，不僅未能確保荷姆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5487392",
+          "published": "Mon, 29 Jun 2026 10:41:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本青森警察直升機空中驚見「熊啃人」 事發山區已2失蹤1重傷",
+          "summary": "可怕！日本青森縣青森市八甲田山地區，28日有1名63歲男子上山後失蹤，警方直升機當天下午3時30分許展開搜索時，從空中看到熊隻在啃咬人形物體，今（29日）將派員前往確認，而這處山...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5487335",
+          "published": "Mon, 29 Jun 2026 10:13:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
