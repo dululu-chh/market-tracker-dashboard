@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-29T23:58:39.083046",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+          "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 20:00:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+          "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 21:19:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Six people shot dead at centre for mothers and children in Germany",
+          "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 19:53:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "屢遭遣返無阻投奔自由  董廣平：中國無言論自由令人窒息",
+          "summary": "駕著橡皮艇在海上航行約40小時、手機快要沒電，還在南韓遭到拘留。這些都只是中國異議人士董廣平為逃離祖國所經歷的一部分。他在上週抵達加拿大，在多倫多接受美聯社視訊採訪時，談到中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488272",
+          "published": "Tue, 30 Jun 2026 07:34:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德國兒福中心槍擊案6死 疑爭奪子女監護權釀悲劇",
+          "summary": "德國北部一處兒福中心29日發生罕見大規模槍擊案，造成6人喪生，警方初步調查，此案疑為犯案男子爭奪子女監護權所釀成的悲劇。  綜合外媒報導，這起槍擊案發生在鄰近漢堡（Hambu...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488301",
+          "published": "Tue, 30 Jun 2026 07:25:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "批中國新法滅絕文化種族、跨國鎮壓  藏人與維吾爾族促聯合國施壓",
+          "summary": "西藏與維吾爾族代表上週在一場聯合國會議中，敦促各國施壓中國廢除一項新法，指稱該法將從事「暴力恐怖活動、民族分裂活動或宗教極端活動」定為犯罪，旨在抹除少數民族社群。  法新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488265",
+          "published": "Tue, 30 Jun 2026 06:54:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
