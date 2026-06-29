@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-29T19:02:19.269621",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+          "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
+          "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 07:51:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Six people shot dead at centre for mothers and children in Germany",
+          "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 18:47:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
+          "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 15:30:35 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美最高法院雙裁定　擴大總統權力但護聯準會獨立",
+          "summary": "美國聯邦最高法院 今天做出兩項裁定，一項是認可總統川普可基於任何理由解雇獨立監管機構官員，但同時另一項則明確維護聯準會獨立性，認為聯準會官員不能被隨意撤換。  紐約時報指出，在川普開除聯邦貿...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488262",
+          "published": "Tue, 30 Jun 2026 01:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台灣航海探險家影像硬碟倫敦遭竊　駐英代表處已協助",
+          "summary": "台灣青年航海探險家陳懷璞近日完成橫越南冰洋與南大西洋壯舉，但返程在倫敦入住旅館時，兩顆儲存探險影像紀錄的硬碟遭竊。駐英國代表處今天表示，持續提供他必要協助及聯繫。  駐英國代表處告訴中央社，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488257",
+          "published": "Tue, 30 Jun 2026 01:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "芬蘭總統籲烏俄停火60天　稱烏克蘭狀態佳有利談判",
+          "summary": "芬蘭總統史塔布接受政治新聞網站Politico專訪表示，烏克蘭在軍事與政治與經濟上都處於開戰以來的最佳狀態，呼籲各界把握時機推動無條件的60天停火。他表示，俄羅斯在這場戰爭中面臨戰略失敗。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488249",
+          "published": "Tue, 30 Jun 2026 00:15:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
