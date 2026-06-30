@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-06-30T03:43:26.254799",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+          "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 20:00:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+          "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+          "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 21:19:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Six people shot dead at centre for mothers and children in Germany",
+          "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 19:53:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "奈及利亞中學傳遭「博科聖地」襲擊 學生被擄走2師1生慘死",
+          "summary": "西非國家奈及利亞東北部波諾州（Borno）長期飽受叛亂衝突摧殘，一群武裝分子昨（29）日襲擊當地一所中學，綁架大批正在進行考試的學生，至今仍下落不明。人權組織指，事件已致2名教師...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488452",
+          "published": "Tue, 30 Jun 2026 11:38:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "被坑慘！大阪世博130輛中國電動巴士 充滿缺陷已送到廢棄物處理場",
+          "summary": "日本大阪地鐵為了大阪‧關西世界博覽會的接駁服務，透過福岡縣北九州市電動車業者EV Motors Japan（EVMJ）購買190輛中國製電動巴士，孰料使用過程問題頻傳，於世博會結...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488506",
+          "published": "Tue, 30 Jun 2026 11:38:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "坐牢500天4度出征 藤森惠子險勝4.9萬票當選秘魯總統",
+          "summary": "秘魯現代史上最膠著、最兩極分化的總統大選已完成全部計票，日裔政治領袖藤森惠子正式確認當選。據《衛報》報導，秘魯國家選舉程序辦公室（ONPE）29日完成100%的投開票所報告統計...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5488566",
+          "published": "Tue, 30 Jun 2026 11:36:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
