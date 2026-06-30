@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-06-30T16:19:57.238798",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Supreme Court's birthright ruling is major blow to Trump",
+          "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
+          "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 14:37:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+          "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
+          "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 16:12:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+          "summary": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
+          "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 16:14:43 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本奄美大島破獲2中國籍男子非法盜捕陸寄居蟹 住宿處再起獲逾千隻",
+          "summary": "日本鹿兒島縣奄美大島近日發生一起非法捕撈國家指定天然紀念物「陸寄居蟹」的事件，涉案的兩名中國籍男子已被警方逮捕，警方在對兩名嫌犯位於奄美市內的住宿地點進行搜查時，再度起獲了100...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489433",
+          "published": "Tue, 30 Jun 2026 23:59:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普再遭重挫！美最高法院裁定  駁回限制「出生公民權」行政命令",
+          "summary": "美國最高法院6月30日做出備受矚目的裁決，駁回總統川普限制「出生公民權」（birthright citizenship）的歷史性舉措。  法新社報導，在本開庭期的最後一天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489485",
+          "published": "Tue, 30 Jun 2026 23:29:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭加強長程無人機打擊 俄羅斯最大衛星通訊中心2度遇襲",
+          "summary": "美國有線電視新聞網（CNN）報導，烏克蘭正加強對俄羅斯的長程無人機攻擊，短短1週多內第二度打擊俄羅斯最大的衛星通訊中心之一，藉此向克里姆林宮施壓，以結束這場長達逾4年的戰爭。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489469",
+          "published": "Tue, 30 Jun 2026 23:02:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
