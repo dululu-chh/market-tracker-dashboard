@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-01T09:36:05.581075",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 07:30:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 06:03:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 05:32:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "樂極生悲！墨西哥世足賽晉級16強 百萬人街頭狂歡至少2人窒息亡",
+          "summary": "根據當地政府指出，1日在墨西哥首都墨西哥市（Mexico City）慶祝晉級世足賽16強的盛大狂歡活動中，至少有2人死亡。  該市衛生部門說，1名19歲女性與1名44歲男性...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490488",
+          "published": "Wed, 01 Jul 2026 17:09:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「永遠不背叛你」！中國仿真機器人伴侶亮相 網狂吐槽：AI情趣娃娃",
+          "summary": "中國AI人形機器製造商優必選科技（UBTECH Robotics）昨天推出主打情感陪伴的全尺寸仿真人形機器人，不僅按真人等比例打造，更具備霸道總裁、精緻美女等吸睛外觀，定價從新台...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490380",
+          "published": "Wed, 01 Jul 2026 17:08:41 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "波蘭警告俄恐策劃破壞行動 以挑撥波烏關係",
+          "summary": "波蘭內政部長西莫尼亞克（Tomasz Siemoniak）今（1）日接受RMF FM廣播電台採訪時表示，波蘭特種情報機構正為俄羅斯可能發動破壞行動做準備，這些行動的目的在於挑起...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490407",
+          "published": "Wed, 01 Jul 2026 17:04:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
