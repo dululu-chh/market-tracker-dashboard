@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-01T15:37:49.147602",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three die in Mexico City World Cup celebrations",
+          "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 11:01:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 13:52:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Fire at Antwerp apartment block kills at least six",
+          "summary": "A man is seen clambering through a window to escape black smoke in the block where some 200 people live.",
+          "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 13:10:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共建黨105週年 各宗教團體集體收看黨慶直播",
+          "summary": "今天是中共建黨105週年，官方舉行慶祝活動，並由中共總書記習近平發表講話。根據港媒報導，中國全國各政府機關、基層街道、國企單位、協會等組織收看大會現場直播，其中還包含佛教、道教、天主教、伊斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490796",
+          "published": "Wed, 01 Jul 2026 23:33:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭中國官媒點名 《戀與深空》急撤新男主 15萬玩家請願求復活",
+          "summary": "中國人氣手遊《戀與深空》在被中國官媒《中國婦女報》點名以「引狼入室」戲謔獨居女性安全的劇情後，在昨（6月30日）火速下架第6男主敖尹，並承諾玩家「不再推出新男主」，不料此舉引起英...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490692",
+          "published": "Wed, 01 Jul 2026 23:25:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "穆吉塔巴被標上「死亡印記」 伊朗要美管好以色列",
+          "summary": "路透1日報導，伊朗外交部長阿拉奇（Abbas Araqchi）1日發文，回應日前以色列國防部長卡茲有關伊朗最高領袖穆吉塔巴的發言，警告美國約束好以色列，伊朗會對任何針對其人民或...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490803",
+          "published": "Wed, 01 Jul 2026 22:48:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
