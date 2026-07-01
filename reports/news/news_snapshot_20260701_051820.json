@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-01T05:18:19.038987",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 03:31:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 21:30:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 18:28:41 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "談經濟比對日本！ 中國前清華大學教授遭舉報 課程中被警察帶出",
+          "summary": "曾在中國清華大學任教16年的教授鄭毓煌，近日在課程中談到中國經濟「宏觀悲觀」，可能要持續20、30年，堪比日本經濟衰弱史，結果當場遭人舉報，不久後就有警察到場，把他帶出去談話。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490027",
+          "published": "Wed, 01 Jul 2026 13:07:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "人倫悲劇！日本狠父砍死妻女 兒子倉皇逃出求救",
+          "summary": "日本長野縣東御市今（1日）早上7時15分許發生人倫慘案，46歲男子飯島啓輔不知為何持刀砍死妻子和女兒，14歲的兒子倉皇逃出家門後獲救。  據《產經新聞》報導，劫後餘生的少年當...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489964",
+          "published": "Wed, 01 Jul 2026 12:58:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慘！美粗心父將小孩忘在車內 去托兒所接人才發現死在後座",
+          "summary": "太粗心！美國佛州種植園市（Plantation）1名父親，6月29日開休旅車載著1歲11個月大的兒子去托兒所，竟然忘了讓小孩下車進去，等到下午開車來接人才發現男童死在車內後座，等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489858",
+          "published": "Wed, 01 Jul 2026 12:06:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
