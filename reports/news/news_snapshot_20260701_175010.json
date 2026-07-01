@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-01T17:50:08.825734",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+          "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 15:48:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+          "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
+          "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 16:10:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three die in Mexico City World Cup celebrations",
+          "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 11:01:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普：台灣將倍增亞利桑那州晶圓廠規模　助美提高晶片市占率",
+          "summary": "美國總統川普今天表示，台灣正將亞利桑那州興建中的晶圓廠規模擴大一倍，這將有助於在他任期結束前將美國晶片市占率提高至50%。  福斯財經新聞網（Fox Business）報導，川普在前往安德魯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490893",
+          "published": "Thu, 02 Jul 2026 01:12:04 +0800",
+          "keywords": [
+            "晶片"
+          ]
+        },
+        {
+          "title": "烏軍加強報復發揮作用？俄羅斯6月無人機與飛彈攻擊大減",
+          "summary": "《法新社》1日對烏克蘭空軍數據的分析顯示，隨著基輔當局加強報復性攻擊，俄羅斯6月向烏克蘭發射的無人機與飛彈數量，均少於上個月。  在對烏克蘭進行數個月創紀錄的空襲後，莫斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490891",
+          "published": "Thu, 02 Jul 2026 01:04:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "重大突破！科學家「從零打造」可生長繁殖人造細胞",
+          "summary": "科學家宣布，首度「從零開始」打造出能夠進食、生長與繁殖的人造細胞。這項合成生物學的重大突破，可望開啟「客製化」生物體的新紀元，讓這些細胞如同活體機器般發揮指定功能。  可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5490883",
+          "published": "Thu, 02 Jul 2026 00:34:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
