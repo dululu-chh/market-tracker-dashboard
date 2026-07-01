@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-01T00:02:37.356674",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 18:28:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 22:29:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 30 Jun 2026 21:30:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普特使吃閉門羹！伊朗：未安排與美國任何層級會談",
+          "summary": "伊朗30日強調，在敵對行動爆發後，伊朗官員將不會與飛抵中東地區的美國特使、高層人士會面，讓兩國建立持久和平的前景蒙上陰影。  路透報導，伊朗官員30日也表示，雙方仍須先釐清2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489540",
+          "published": "Wed, 01 Jul 2026 07:24:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "委內瑞拉強震6天後傳奇蹟！ 3歲男童受困廢墟獲救",
+          "summary": "委內瑞拉6月25日遭受強震襲擊，在不到一分鐘的時間內就發生兩次規模分別為7.2和7.5的強震，造成1943人死亡，超過1 萬人受傷，另有數萬人下落不明。在強震6天後，前往委國救援...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489542",
+          "published": "Wed, 01 Jul 2026 07:04:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普財務申報曝光！去年靠加密貨幣狂賺14億美元",
+          "summary": "根據最新公布的美國總統川普2025年度財務申報文件顯示，川普去年透過家族加密貨幣事業獲得的收入超過14億美元（約新台幣446.46億），顯示川普目前大部分收入都來自數位資產，而這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5489536",
+          "published": "Wed, 01 Jul 2026 06:34:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
