@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-02T02:42:30.218884",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 00:26:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+          "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+          "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 22:36:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukrainian charged in Germany over Nord Stream blasts",
+          "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 18:19:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沙烏地拒借基地 川普軍事計畫喊卡！美沙爆多年最大裂痕",
+          "summary": "美國總統川普一項護航荷姆茲海峽的軍事計畫，因沙烏地阿拉伯拒絕提供基地與領空支援，在最後一刻被迫喊卡，美國與沙國也因此爆發多年來最嚴重的一次外交摩擦。  根據《華爾街日報》獨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5491160",
+          "published": "Thu, 02 Jul 2026 10:36:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全球最大相機開拍10年宇宙電影！每40秒掃描夜空 要拍什麼？",
+          "summary": "人類首次拍攝長達10年的「宇宙縮時電影」，正式在智利展開。這項前所未有的巡天計畫，將利用全球最大的數位相機，每40秒拍攝一次夜空，持續記錄星系、超新星、小行星等天體變化，拼湊宇...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5491137",
+          "published": "Thu, 02 Jul 2026 10:30:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以色列將小哈米尼「列入死亡名單」 伊朗警告川普：管好你家的狗！",
+          "summary": "以色列國防部長卡茲（Israel Katz）6月29日在記者會中警告，伊朗最高領袖小哈米尼（Mojtaba Khamenei）已被列入「死亡名單」，並表示以色列「絕不會允許伊朗發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5491053",
+          "published": "Thu, 02 Jul 2026 10:05:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
