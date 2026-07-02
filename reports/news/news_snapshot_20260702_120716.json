@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-02T12:07:14.730744",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Most massive' Russian attack on Kyiv kills at least 18",
+          "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 11:53:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+          "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+          "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 05:00:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+          "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+          "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 03:07:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "薛劍發表斬首言論惹議  再度露面要求日本端正中國觀",
+          "summary": "中國駐大阪總領事薛劍去年於日相高市早苗發表「台灣有事」言論後，曾發布斬首言論引發爭議。共同社報導，薛劍1日再度公開露面，發表演講批評日本「新型軍國主義」，要求日本應從根本上端正中國觀。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5491887",
+          "published": "Thu, 02 Jul 2026 19:51:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "強迫未婚媽媽親子分離 英相施凱爾為上世紀「強行送養」政策致歉",
+          "summary": "英國首相施凱爾（Keir Starmer）2日就二次大戰後的一項針對未婚媽媽的強迫送養制度，造成婦女終身創傷致歉，直言丟臉的不是這些未婚媽媽，而是強迫親子分離的政府。  施...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492032",
+          "published": "Thu, 02 Jul 2026 19:48:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北京最高樓挨撞官方定調飛行員「焦慮輕生」 隻字不提空防漏洞",
+          "summary": "針對引發國際高度關注的北京第一高樓「中國尊」（中信大廈）遭輕型飛機撞擊案，北京市朝陽區當局於2日下午發布正式調查通報。官方確認，全案純屬飛行員個人心理因素所致，屬於「危害公共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5491932",
+          "published": "Thu, 02 Jul 2026 18:17:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
