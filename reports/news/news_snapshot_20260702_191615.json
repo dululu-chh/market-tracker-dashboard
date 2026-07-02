@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-02T19:16:13.827580",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Venezuela quake survivor pulled out alive after eight days",
+          "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+          "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 16:11:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Most massive' Russian attack on Kyiv kills at least 25",
+          "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 18:35:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+          "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 17:56:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "委內瑞拉強震夷平建築　警衛受困8天奇蹟獲救",
+          "summary": "委內瑞拉致命強震傳出振奮人心的消息。數百名來自各國的搜救人員，今天成功救出受困瓦礫堆8天的警衛吉爾（Hernan Gil），他的妻子直呼「這簡直是奇蹟」。  法新社報導，委內瑞拉6月24日發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492208",
+          "published": "Fri, 03 Jul 2026 02:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "大馬士革咖啡館土製炸彈爆炸　釀6死22傷",
+          "summary": "敘利亞國家媒體報導，首都大馬士革市中心一間擠滿人的咖啡館今天發生炸彈爆炸案，造成至少6死、22傷，目前尚無任何團體宣稱犯案。  路透社報導，敘利亞國家電視台表示，這家咖啡館靠近市中心的司法宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492203",
+          "published": "Fri, 03 Jul 2026 02:00:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南非載78人巴士翻車 造成至少16死",
+          "summary": "南非警方與交通官員表示，一輛載有78人的客運巴士今天在南非西南部翻覆，造成至少16人死亡、數十人受傷，罹難者包括兒童。警方表示事故原因仍在調查中。  法新社報導，這輛巴士從觀光城市開普敦...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492148",
+          "published": "Thu, 02 Jul 2026 23:55:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
