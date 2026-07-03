@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-03T22:04:44.578941",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+          "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Polish PM warns critical months ahead in face of Russian threat",
+          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 16:41:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "去年狂賺逾20億美元 川普：財務由次子打理",
+          "summary": "〔編譯林家宇／綜合報導〕六月卅日公布的美國總統川普二〇二五年度財務申報顯示，去年收益逾廿億美元，引發議論。川普二日接受美國財經媒體CNBC專訪時澄清，對自身財務與投資細節並不清楚，相關事務由次子艾瑞克打理。 稱未曾與兒子討論理財事宜 申報文件共九二七頁，顯示川普重返白宮首年賺進廿二．四億美元（約…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761242",
+          "published": "Sat, 04 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈米尼國葬 伊朗革命衛隊總指揮官露面",
+          "summary": "伊朗三日將已故最高領袖哈米尼的遺體運抵首都德黑蘭的大莫薩拉清真寺，停厝三天供民眾瞻仰。官方追悼式將於四日登場，約卅多國代表出席，預計吸引一千五百萬至二千萬民眾參與，成為伊朗史上最大規模國葬。遺體後續將移往聖城科姆，最終九日安葬於故鄉馬什哈德的伊瑪目禮薩聖陵。  伊朗總統裴澤斯基安與國會議長卡利巴夫…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761241",
+          "published": "Sat, 04 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬查多返委內瑞拉班機 遭美攔阻折返",
+          "summary": "〔編譯林家宇／綜合報導〕美國華爾街日報報導，諾貝爾和平獎得主、委內瑞拉反對派領袖馬查多欲在震災之際返國，卻遭美國政府攔阻，迫使已起飛班機折返。部分白宮官員對馬查多堅持在國難時刻返國不滿，認為她的出現可能引發政治危機，若一意孤行恐失去川普總統支持。 馬查多堅持震災救援期返國 白宮官員不滿 報導指出…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761243",
+          "published": "Sat, 04 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
