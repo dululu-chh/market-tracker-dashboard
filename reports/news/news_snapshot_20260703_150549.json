@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-03T15:05:48.404428",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+          "summary": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 14:59:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nasa launches mission to save falling space telescope",
+          "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+          "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 10:28:17 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "抄襲LV四葉花慘了！中國手搖飲商標侵權  法院判賠4845萬元",
+          "summary": "中國手搖飲料品牌「茉莉奶白（MOLLY TEA）」因品牌LOGO與知名精品品牌Louis Vuitton（LV）相似遭LV提告。近日法院判決結果出爐，MOLLY TEA須賠償LV...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493223",
+          "published": "Fri, 03 Jul 2026 22:54:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "風箏線奪命！巴西男騎車遭「割喉」 頸動脈噴血當場慘死",
+          "summary": "巴西最近發生驚悚死亡意外，39歲男子騎機車上班途中，遭塗滿玻璃粉的風箏線纏住頸部，頸動脈被割裂，大量失血，儘管醫護人員盡力搶救，他最終仍不幸離世。  綜合外媒報導，這起事件發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493061",
+          "published": "Fri, 03 Jul 2026 22:35:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "共軍反腐大清洗後 張曙光、王剛晉升上將",
+          "summary": "共軍在經歷反腐大震盪清洗後，今天舉行高階將領升遷儀式。中共中央軍委晉升上將軍銜儀式選在八一建軍節前舉辦，共軍陸軍中將張曙光和空軍中將王剛晉升上將，上將人數由4人回升為6人。  共軍正掀起...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493224",
+          "published": "Fri, 03 Jul 2026 22:14:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
