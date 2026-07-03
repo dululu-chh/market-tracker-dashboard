@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-03T12:06:35.870438",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+          "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 02 Jul 2026 23:15:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Venezuela quake survivor pulled out alive after eight days",
+          "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
+          "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 06:38:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "點名馬斯克贊助「川普帳戶」 川普：他應會捐SpaceX股票",
+          "summary": "美國總統川普針對全美符合資格之孩童，所推出的投資帳戶「川普帳戶」（Trump Accounts），將於7月4日美國建國250週年國慶日正式上路。川普2日表示，他認為日前上市的太...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493139",
+          "published": "Fri, 03 Jul 2026 19:46:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本撞人族惹錯人！撞上南韓知名制裁惡霸網紅 結局大快人心",
+          "summary": "台灣女童和親人今年2月到日本旅遊，在澀谷十字路口遭惡意撞飛，日本「撞人族」現象引發國際關注。近日，時常「鐵拳」制裁惡霸，被尊稱為「肉恩詠老師」的南韓YouTuber上傳影片，可見...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492910",
+          "published": "Fri, 03 Jul 2026 19:42:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "李在明將赴北約峰會 聯手印太盟友防堵朝俄野心",
+          "summary": "南韓總統李在明將於本月7日出訪土耳其安卡拉，出席為期兩天的北大西洋公約組織峰會，並計畫與多國領袖展開防務合作會談。隨後，李在明將轉往蒙古進行國事訪問，針對關鍵礦物與朝鮮半島和平等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5492861",
+          "published": "Fri, 03 Jul 2026 19:20:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
