@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-04T18:02:44.600398",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+          "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+          "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Jul 2026 02:57:48 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Jul 2026 14:07:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+          "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Jul 2026 09:45:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "哈米尼盛大葬禮展開　伊朗一個時代終結",
+          "summary": "伊朗選在美國建國250週年的今天開始為其現代史上執政最久領導人哈米尼舉行大規模葬禮，在首都德黑蘭瞻仰靈柩的許多民眾高喊對以色列和美國復仇口號。  半島電視台（Al Jazeera）報導，哈米...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494106",
+          "published": "Sun, 05 Jul 2026 00:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭無人機打到俄國聖彼得堡 港口、石油終端設施大火畫面曝",
+          "summary": "根據俄羅斯和烏克蘭當局表示，俄羅斯第二大城聖彼得堡及周邊的列寧格勒州夜間遭遇大規模烏克蘭無人機襲擊，當地一座港口和石油設施遭到攻擊。  路透社報導，聖彼得堡（St. Petersburg...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494047",
+          "published": "Sat, 04 Jul 2026 23:52:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈利王子下週返英 梅根與1對兒女不隨行",
+          "summary": "英國國王查爾斯三世次子哈利王子身旁的1名消息人士透露，已移居美國的哈利下週訪問英國時，其妻梅根（Meghan Markle）與1雙兒女不隨他一同造訪倫敦。此外，目前也不清楚已退...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494101",
+          "published": "Sat, 04 Jul 2026 23:37:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
