@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-04T03:31:13.294889",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+          "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Polish PM warns critical months ahead in face of Russian threat",
+          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 16:41:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+          "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "曾吐負面想法  31歲台男驚傳澳洲失聯4天",
+          "summary": "澳洲雪梨驚傳有台灣人失蹤！據當地警方指出，31歲男子邱世耀（Shihyao Chiu，英文名Kurt）於6月30日晚間起失聯，親友在無法與他取得聯繫下已先向警方報案，駐雪梨台北經...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493386",
+          "published": "Sat, 04 Jul 2026 11:23:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》沒油了！俄「燃料荒」民怨炸鍋爆衝突！傳克里米亞下撤離令",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493527",
+          "published": "Sat, 04 Jul 2026 11:16:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "奇蹟！美1歲童被宣告死亡 法醫到太平間驚見他「復活」",
+          "summary": "真是奇蹟！美國亞利桑那州1歲6個月大的幼兒菲奧迪利諾（Vincent Lorenzo Fiordilino），2月8日在自家泳池溺水後送醫被宣告死亡，但法醫過了數小時來到太平間準...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5493465",
+          "published": "Sat, 04 Jul 2026 10:59:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
