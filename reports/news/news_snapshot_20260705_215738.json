@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-05T21:57:36.064830",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+          "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 17:58:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+          "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+          "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 17:54:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 15:48:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗要徵荷姆茲「服務費」 稱中國享優惠",
+          "summary": "〔國際新聞中心／綜合報導〕在伊朗為已故最高領袖哈米尼（Ayatollah Ali Khamenei）舉行盛大國葬儀式之際，伊朗駐中國大使法茲里（Abdolreza Rahmani Fazli）在北京宣布，計畫對通過戰略要衝荷姆茲海峽的船隻徵收「服務費」，但將給予中國等「友好國家」特殊待遇。 法茲里…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761496",
+          "published": "Mon, 06 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "CSIS報告》中國若犯台 自毀經濟命脈",
+          "summary": "33%進口仰賴台灣海峽 海運進口更高達58％ 〔國際新聞中心／綜合報導〕華府智庫「戰略暨國際研究中心」（CSIS）最新報告指出，二〇二四年台灣海峽與馬六甲海峽各自承載逾二‧四兆美元（約新台幣七十六‧六兆元）的貨物流通，各佔全球海上貿易的廿一％。而在中國的進口貿易中，有卅三％仰賴台灣海峽，海運進口比…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761494",
+          "published": "Mon, 06 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由日日shoot》美媒︰習近平難解經濟困局 身後中國陷權鬥",
+          "summary": "1人統治 決策圈封閉 〔國際新聞中心／綜合報導〕隨著中國國家主席習近平準備邁向第四個任期，美國媒體指出，他正運用類似毛澤東與史達林（Joseph Stalin）的手段來剷除異己，透過擴展個人崇拜與要求絕對忠誠來主導政策走向，徹底打破毛澤東死後旨在防止「一人統治」的政治慣例。但這種強人政治也帶來極大…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761495",
+          "published": "Mon, 06 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
