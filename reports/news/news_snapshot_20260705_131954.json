@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-05T13:19:51.894769",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+          "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 12:29:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+          "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+          "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 08:24:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Evacuations in Guam as super typhoon Bavi approaches",
+          "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 09:26:56 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共21大換屆  紐時：蔡奇扮演習近平人事安排要角",
+          "summary": "中共總書記習近平在明年中共21大將邁入第4任期，面臨人事安排上的兩難，即如何甄補一批忠誠的新生代官員，還要能保持自己的掌控權力。紐約時報指出，中共中央黨校校長蔡奇將在習近平的用人問題上扮演重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494707",
+          "published": "Sun, 05 Jul 2026 20:50:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "雙邊關係回溫 以色列任命首任常駐斯洛維尼亞大使",
+          "summary": "以色列5日宣布任命首位常駐斯洛維尼亞（Slovenia）的大使，顯示隨著斯國新政府上台，一度關係惡劣的以、斯兩國也開始重修舊好。  以色列外交部宣布，此前擔任斯洛維尼亞與馬...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494780",
+          "published": "Sun, 05 Jul 2026 20:38:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗前最高領袖哈米尼國葬 三子出席、接班兒未現身",
+          "summary": "伊朗已故最高領袖哈米尼國葬於4日展開，哈米尼其中3個兒子今天在哈米尼及其他4名罹難親屬靈柩前祈禱悼念，不過，最高領袖繼任者、哈米尼次子穆吉塔巴．哈米尼未現身。  哈米尼（Ali Kham...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494734",
+          "published": "Sun, 05 Jul 2026 20:33:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
