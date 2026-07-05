@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-05T20:52:54.909639",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+          "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 17:58:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+          "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+          "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 17:54:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 15:48:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美官員：川普北約峰會期間將會晤烏克蘭、敘利亞領導人",
+          "summary": "一位美國高層官員今天表示，總統川普將於本週在土耳其出席北大西洋公約組織高峰會期間，與烏克蘭總統澤倫斯基會面，再接再厲推動終結烏克蘭戰爭。  路透社報導，川普定於7日抵達峰會，將先會晤東道主土...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494927",
+          "published": "Mon, 06 Jul 2026 03:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "畫面曝光！澳洲驚見6件神祕「太空球」 疑含劇毒火箭燃料",
+          "summary": "澳洲昆士蘭州（Queensland）西北部一處海灘，3日起3天內連續發現6件不明物體，警方一度封鎖該海灘。專家指出，這6件疑似太空碎片，可能是火箭發射後經常遺留下來的「太空球...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494903",
+          "published": "Mon, 06 Jul 2026 00:30:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不毒不酒也能嗨！印度Z世代瘋「拜讚夜店」 結合聲光聽頌歌求平靜",
+          "summary": "在印度商業大城孟買（Mumbai）一座有如飛機機庫般巨大的場館外，大批Z世代上班族與青少年正排隊等候進場。他們掃描QR碼、繫上手環，與朋友開心自拍。夜幕低垂時，近5000名參...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494889",
+          "published": "Mon, 06 Jul 2026 00:02:34 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
