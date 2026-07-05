@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-05T06:35:39.830531",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+          "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+          "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 04:38:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 04 Jul 2026 18:41:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Chinese underground church figure Jin Mingri freed from prison",
+          "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 05 Jul 2026 05:58:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "WSJ：習近平第四任布局成形 刻意不留接班人、鞏固一人統治",
+          "summary": "中國國家主席習近平執政進入第14年，隨著第四個任期布局逐漸浮現，其權力集中程度持續加深。《華爾街日報》分析指出，習近平近年不僅持續整肅高層官員、取消任期限制，也未培養明確接班人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494464",
+          "published": "Sun, 05 Jul 2026 14:15:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本群馬4歲女童失蹤30年 警祭700萬日圓懸賞金尋人",
+          "summary": "1996年7月7日，日本群馬縣太田市4歲女童橫山ゆかり在柏青哥店失蹤，多年以來下落不明，警方在即將滿30年的今天（5日）上街呼籲民眾關注．並祭出700萬日圓（約新台幣138.5萬...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494398",
+          "published": "Sun, 05 Jul 2026 14:13:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗國葬現場點名川普 主持人喊「他為何還活著」",
+          "summary": "伊朗已故最高領袖哈米尼（Ali Khamenei）國葬5日出現強烈反美聲浪，主持儀式的詩人當眾質問：「世界上最混蛋的人為何還活著？」點名美國總統川普，引發現場數十萬名群眾高喊「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5494428",
+          "published": "Sun, 05 Jul 2026 13:32:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
