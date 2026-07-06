@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-06T14:22:52.650454",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 13:41:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+          "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+          "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 12:07:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Wildfire in southern France forces evacuation of 10,000 people",
+          "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+          "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 13:08:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "王岐山嫡系遭整肅  港媒：中共中紀委副書記肖培「出局」",
+          "summary": "中國領導人習近平正加速對前反腐盟友王岐山勢力的整肅！香港《明報》報導，中共中央紀律檢查委員會（中紀委）出現人事變動，中國前國家副主席、中紀委前書記王岐山的嫡系人馬肖培估計已經「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496024",
+          "published": "Mon, 06 Jul 2026 21:43:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "世足》飛行員空中「維京划船」！挪威三軍震撼加油影片曝",
+          "summary": "挪威睽違28年闖進世界盃足球賽，表現備受關注。不只如此，挪威球迷特別的「維京划船Viking Row」應援，更在全球爆紅。這股熱潮不僅只有在現場可見，就連挪威三軍也以維京...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5495947",
+          "published": "Mon, 06 Jul 2026 21:35:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "破解陷阱、電圍欄！日本北海道高智商「聰明熊」讓獵人陷入苦戰",
+          "summary": "日本各地熊害事件頻傳，甚至出現無視防熊鈴警告、會打開窗戶、轉開水龍頭喝水等案例，過於適應人類生活環境的情況，引發各界擔憂。近期北海道獵友會分享觀測報告，當地獵人發現出現多隻高智商...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5495671",
+          "published": "Mon, 06 Jul 2026 19:41:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
