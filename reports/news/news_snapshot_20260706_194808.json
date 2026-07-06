@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-06T19:48:06.371783",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump confirms he asked Fifa to review Balogun ban",
+          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 19:06:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 15:09:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+          "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+          "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 19:06:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "古巴電網全面癱瘓　1000萬人口無電可用",
+          "summary": "古巴電網營運商指出，全國電網今天中午全面癱瘓，導致這個加勒比海島國約1000萬人陷入停電。  路透社報導，國營聯合電力公司（Union Electrica de Cuba, UNE）指出，正...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496146",
+          "published": "Tue, 07 Jul 2026 03:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬克宏到訪敘利亞　阿塞德下台後首位歐盟國家元首",
+          "summary": "敘利亞國家通訊社報導，法國總統馬克宏今天抵達敘利亞。他是自從現任總統夏拉領導的反叛軍於2024年推翻前總統巴夏爾．阿塞德以來，首位造訪大馬士革的歐洲聯盟國家元首。  路透社報導，這次訪問凸顯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496140",
+          "published": "Tue, 07 Jul 2026 02:54:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈米尼遺體運抵聖城科姆　反美情緒沸騰民眾促復仇",
+          "summary": "伊朗國營電視台報導，已故最高領袖哈米尼的遺體今天傍晚運抵伊斯蘭教什葉派聖城科姆，預定明天舉行送葬與告別儀式。稍早在德黑蘭送葬隊伍中，群眾高呼反對談判，呼籲復仇。  法新社報導，國營電視台在社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496129",
+          "published": "Tue, 07 Jul 2026 02:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
