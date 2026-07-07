@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-07T06:41:21.851388",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+          "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+          "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Jul 2026 04:18:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump confirms he asked Fifa to review Balogun ban",
+          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 19:06:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 23:55:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國湖南暴雨洪災沖垮橋梁 2人落水失蹤",
+          "summary": "中國湖南省隆回縣6日降下暴雨，位於司門前鎮的橋樑傳出被洪水沖垮坍塌，有2名站在橋上的民眾逃跑不及被大水沖走，目前仍然下落不明。  據《新京報》報導，當地商家透露，6日下雨的時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496772",
+          "published": "Tue, 07 Jul 2026 14:33:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日中釣魚台海域再爆對峙 互稱驅離對方船隻",
+          "summary": "日本與中國7日在釣魚台（日本稱尖閣諸島，中國稱釣魚島）附近海域再度爆發海上對峙。日本表示，2艘中國海警船駛入其主張的領海並接近1艘日本漁船，日本海上保安廳隨後將中方船隻驅離；中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496733",
+          "published": "Tue, 07 Jul 2026 14:04:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "好好看！震災後受創重建 能登機場冠名寶可夢今恢復營運",
+          "summary": "太溫暖了！日本石川縣能登機場，在2024年能登半島大地震中受到重創，經過整修後終於在今天（7日）恢復營運，並獲得寶可夢公司（株式会社ポケモン）的授權更名為「能登里山寶可夢與你同在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496729",
+          "published": "Tue, 07 Jul 2026 14:00:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
