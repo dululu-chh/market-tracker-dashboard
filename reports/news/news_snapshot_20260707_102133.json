@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-07T10:21:32.107665",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+          "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+          "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Jul 2026 04:18:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 06 Jul 2026 23:55:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
+          "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+          "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 07 Jul 2026 06:28:56 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏俄戰爭從陸海打到空域 澤倫斯基：空中戰役決定結果",
+          "summary": "烏克蘭總統澤倫斯基接受英國金融時報訪問表示，俄羅斯侵略烏克蘭戰爭的決定性階段，已從陸地和海上轉向空中，「空中的戰役」將決定這場戰爭的結果。  烏克蘭真理報（Ukrainsk...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5497143",
+          "published": "Tue, 07 Jul 2026 17:59:30 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "馬克宏訪敘利亞期間驚傳爆炸 下榻飯店附近遭放置炸彈",
+          "summary": "法國總統馬克宏7日訪問敘利亞首都大馬士革期間，市中心驚傳爆炸聲。敘利亞安全部門消息人士透露，馬克宏下榻的飯店附近發生2起爆炸。愛麗舍宮隨後表示，馬克宏安然無恙。  根據《法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5496981",
+          "published": "Tue, 07 Jul 2026 16:58:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "挪威敦促北京利用與俄羅斯關係 推動達成烏俄和平協議",
+          "summary": "挪威首相斯托爾（Jonas Gahr Stoere）6日在與來訪的中國外交部長王毅會晤後，敦促北京利用對俄羅斯的緊密結盟和影響力，協助莫斯科與烏克蘭達成協議，從而改善中國與歐洲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5497020",
+          "published": "Tue, 07 Jul 2026 16:43:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
