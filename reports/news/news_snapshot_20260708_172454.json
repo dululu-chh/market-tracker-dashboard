@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-08T17:24:52.226558",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+          "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+          "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 17:01:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US strikes target Iranian military boats",
+          "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 05:42:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "German doctor jailed for murder of 15 patients and suspected of more",
+          "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+          "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 14:25:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國試射飛彈　太平洋島國萬那杜加入譴責行列",
+          "summary": "中國近日向太平洋試射一枚長程飛彈後，萬那杜今天加入譴責此舉的行列。在太平洋島國當中，萬那杜是中國最親近的夥伴之一。  中共解放軍海軍一艘戰略核潛艦於6日中午12時1分，發射一枚「攜載訓練模擬...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498866",
+          "published": "Thu, 09 Jul 2026 00:18:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中男不滿馬國飯店沒掛五星旗 撂狠話反遭打臉 網友：中國沒晉級世足賽",
+          "summary": "繼日前1名中國女子在飛往馬來西亞的航班上鬧事還要求空服員「講中文」引發熱議後，類似「中馬衝突」近日竟上演續集，這回是1名中國男遊客不滿吉隆坡飯店內懸掛的萬國旗獨缺五星旗，拍片抱...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498857",
+          "published": "Wed, 08 Jul 2026 23:45:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊局勢告急！Kalshi預測：荷姆茲航運恢復正常要到2027",
+          "summary": "CNBC報導，在美國對伊朗發動攻擊，以報復伊朗襲擊荷姆茲海峽的船隻後，美國總統川普8日重砲批評伊朗領導高層，表示與伊朗的停火已「結束」。一連串的發展促使預測市場平台Kalshi...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498850",
+          "published": "Wed, 08 Jul 2026 23:14:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
