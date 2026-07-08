@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-08T22:14:21.857075",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches more strikes on Iran with blasts reported in south of country",
+          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 21:40:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US strikes target Iranian military boats",
+          "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 05:42:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+          "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 17:18:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊又互轟 川普：停火結束了",
+          "summary": "〔編譯管淑平／綜合報導〕由於伊朗攻擊荷姆茲海峽三艘商船，引燃美軍與德黑蘭八日新一波相互攻擊，美軍空襲伊朗八十多個目標，伊朗對巴林和科威特的美軍據點進行報復攻擊。正在土耳其出席北大西洋公約組織（NATO）峰會的美國總統川普隨即表示，美伊停火「結束了」，更揚言美國正準備對伊朗發動更多打擊，「我會給一點警…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761952",
+          "published": "Thu, 09 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "芬蘭總統：烏克蘭已贏得對俄戰爭",
+          "summary": "〔編譯盧永山／綜合報導〕芬蘭總統史塔布（Alexander Stubb）七日在土耳其首都安卡拉舉行的北大西洋公約組織（NATO）領袖峰會場邊，接受美國財經媒體CNBC訪問表示，烏克蘭已經贏得對俄戰爭，但基輔仍然迫切需要北約盟國提供更多防空支持。 籲北約盟國供烏更多防空系統 史塔布強調，儘管莫斯科…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761954",
+          "published": "Thu, 09 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍復名太平洋司令部 專家：焦點轉向第一島鏈",
+          "summary": "〔國際新聞中心／綜合報導〕五角大廈上月宣布，將美國印太司令部（USINDOPACOM）恢復一九四七年的舊稱「太平洋司令部」（USPACOM）。華府智庫昆西研究所（Quincy Institute）全球南方計畫主任席朵爾（Sarang Shidore）撰文指出，此舉象徵美國亞洲戰略重心的重大轉移，顯示…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1761957",
+          "published": "Thu, 09 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
