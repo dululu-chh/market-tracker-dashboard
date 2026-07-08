@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-08T05:45:32.931832",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+          "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+          "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 04:43:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+          "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 03:22:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nato allies announce £37bn for new missile project",
+          "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 03:12:00 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "廣西警方澄清「洪水很多遺體」是假消息 中國網友嘆：看來是真的",
+          "summary": "中國廣西壯族自治區橫州市六藍水庫，6日受暴雨影響潰堤，洪水疑似在下游沖走多人，當地民眾指稱「有很多遺體」，橫州公安局今（8日）對此闢謠，強調這是「不實訊息」，但許多看過災區影片的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498027",
+          "published": "Wed, 08 Jul 2026 13:23:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國秀核嚇阻 外媒：印太國家反而加速安全合作",
+          "summary": "中國6日由核動力彈道飛彈潛艦向太平洋試射潛射彈道飛彈，引發印太多國高度關注。外媒分析，這場罕見試射除了展示中國海基核嚇阻能力，也可能產生反效果，促使周邊國家進一步深化安全合作，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498054",
+          "published": "Wed, 08 Jul 2026 13:23:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "留德華人圈爆N號房翻版！受害女「豪華車、私家車」代號意涵曝",
+          "summary": "德國破獲多名中國籍男性組成的Telegram群組「德國老司機駕校」涉犯跨國大規模迷姦案，暴露留德華人圈極其黑暗一面。據調查，該群組中成員專挑熟人下手，以麻醉及鎮靜藥物令受害者失去...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5497918",
+          "published": "Wed, 08 Jul 2026 12:45:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
