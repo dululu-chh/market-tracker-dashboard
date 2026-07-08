@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-08T08:15:38.507758",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+          "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+          "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 08:11:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+          "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 03:22:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nato allies announce £37bn for new missile project",
+          "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 05:57:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "國泰客機飛越東歐突失聯！觸發北約警報 匈牙利戰機急升空攔截",
+          "summary": "國泰航空1班由香港飛往倫敦的客機，日前飛越東歐羅馬尼亞上空時，一度與空中交通控制塔失去聯繫，觸發北約快速反應警報機制，匈牙利出動戰機升空目視警告。  綜合外媒報導，匈牙利國防...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498311",
+          "published": "Wed, 08 Jul 2026 16:08:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不滿女友分手連砍58刀分屍裝箱 美國狠男遭判終身監禁",
+          "summary": "美國德拉瓦州發生一起駭人聽聞的情殺命案，一位33歲男子馬塔拉（Nobert Matara）因不滿分手，竟在前女友公寓埋伏數小時，待對方返家後瘋狂猛刺58刀致死，隨後更殘忍分屍並裝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498257",
+          "published": "Wed, 08 Jul 2026 16:04:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "莫斯科入侵4年進展緩慢  芬蘭總統：烏克蘭已贏得對俄戰爭",
+          "summary": "芬蘭總統史塔布（Alexander Stubb）7日在土耳其舉行的北約（NATO）領袖峰會場邊接受美國財經媒體《CNBC》訪問表示，烏克蘭已經贏得對俄戰爭，但也警告基輔仍然迫切...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498302",
+          "published": "Wed, 08 Jul 2026 16:00:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
