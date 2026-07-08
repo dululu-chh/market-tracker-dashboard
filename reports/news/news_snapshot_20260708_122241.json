@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-08T12:22:39.121482",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+          "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+          "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 11:18:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US strikes target Iranian military boats",
+          "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 05:42:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+          "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 08 Jul 2026 03:22:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國渣男旅德迷姦還開「老司機」群組 爽分享影像甚至直播",
+          "summary": "數名旅居德國的中國籍男子多年來在多座德國城市迷姦華人女性，並藉通訊軟體Telegram群組傳播影像甚至直播，犯案者已相繼落網，近日則因審訊及判刑再掀關注。  綜合英國廣播公司（BBC）中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498663",
+          "published": "Wed, 08 Jul 2026 20:12:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本知名繪本作家林明子過世 《第一次上街買東西》純真孩童永留人心",
+          "summary": "日本知名繪本家林明子，在今（8）日由福音館書店證實，已於7月1日因肺炎病逝，享壽81歲。林明子畫風溫潤、筆觸細膩，一生創作無數陪伴讀者長大的經典，其中《第一次上街買東西》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498617",
+          "published": "Wed, 08 Jul 2026 20:09:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏軍無人機再建功！襲擊亞速海俄9油輪",
+          "summary": "烏克蘭軍方週三（8日）證實，烏軍無人機在夜間發動大規模襲擊，成功轟炸俄羅斯境內三座大型煉油廠、一處軍用機場，並重創亞速海上的俄羅斯油輪船隊，切斷克里米亞補給線。  據《路透》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5498431",
+          "published": "Wed, 08 Jul 2026 19:58:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
