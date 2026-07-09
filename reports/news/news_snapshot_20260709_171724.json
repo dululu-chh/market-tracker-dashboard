@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-09T17:17:22.795228",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tehran launches more strikes after explosions reported in southern Iran",
+          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 13:29:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+          "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+          "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:41:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "蛤？他拿刀切掉自己GG 「斷根」淋汽油點火燒鄰居車庫",
+          "summary": "美國印第安納州韋恩堡（Fort Wayne）發生一起讓人不禁眉頭深鎖的縱火案件，一名男子「自宮」後將「斷根」拿來當「火種」，燒了鄰居家的車庫。  綜合外媒報導，案發於5月6日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500227",
+          "published": "Fri, 10 Jul 2026 00:53:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭利維夫爆反徵兵衝突  檢方啟動刑事調查",
+          "summary": "法新社9日發自基輔的報導指出，烏克蘭西部大城利維夫（Lviv）8日晚間爆發反徵兵衝突，約200名民眾包圍並掀翻一輛徵兵單位車輛。烏克蘭檢察機關9日宣布，已依涉嫌「在戒嚴期間妨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500217",
+          "published": "Thu, 09 Jul 2026 23:29:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "棕櫚灘機場更名川普總統機場 次子艾瑞克搭專機到訪",
+          "summary": "位於佛羅里達州的棕櫚灘國際機場（Palm Beach International Airport）今（9）日正式更名為川普總統國際機場（President Donald J. T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500194",
+          "published": "Thu, 09 Jul 2026 23:19:18 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
