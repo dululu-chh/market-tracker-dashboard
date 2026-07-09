@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-09T08:22:46.119405",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches more strikes on Iran with blasts reported in south of country",
+          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 05:21:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 02:18:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+          "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+          "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 06:28:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "廣西洪災「有鱷魚逃出」是假消息？ 災民分享「警槍殺2隻」影片",
+          "summary": "中國廣西壯族自治區橫州市六藍水庫，6日因暴雨決堤，導致下游村莊被洪水淹沒、多人逃生不及被沖走，當地蛇類養殖場、動物園也傳出動物逃出或失蹤。橫州市地方政府稱，網傳洪災導致「鱷魚逃出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5499431",
+          "published": "Thu, 09 Jul 2026 16:12:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "泰國人民黨網紅議員「冰兒」 支持度超車黨主席納塔彭",
+          "summary": "泰國最新選律實民調結果顯示，在野陣營最受歡迎的政治人物並非最大反對黨人民黨黨主席納塔彭（Natthaphong Ruengpanyawut），而是同黨的年輕女性國會議員暱稱「冰兒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5499510",
+          "published": "Thu, 09 Jul 2026 16:03:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗控美軍炸毀鐵路橋樑 哈米尼葬禮交通受阻",
+          "summary": "美國中央司令部8日在X上表示，對伊朗的最新打擊行動已完成，共打擊約90個軍事目標。伊朗國家廣播電視台也稱，企圖前往麥什赫德（Mashhad）送別前最高領袖哈米尼（Ayatoll...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5499487",
+          "published": "Thu, 09 Jul 2026 15:21:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
