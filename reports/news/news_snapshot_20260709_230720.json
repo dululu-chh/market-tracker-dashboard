@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-09T23:07:17.572976",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade attacks as Khamenei is buried",
+          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 23:02:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+          "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+          "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:41:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "安卡拉峰會落幕》北約聲明強化集體防禦 持續援烏",
+          "summary": "〔國際新聞中心／綜合報導〕北大西洋公約組織（NATO）安卡拉峰會八日閉幕。儘管會前美國總統川普猛烈批評歐洲盟友，甚至威脅切斷與西班牙的貿易往來，但峰會最終仍發表聲明，重申堅定支持北約集體防禦原則，並承諾在二〇二六至二七年間，每年向烏克蘭提供七百億歐元的軍事援助。  承諾今明年各援烏700億歐元軍…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762051",
+          "published": "Fri, 10 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "謠言終結站》食用施打mRNA疫苗蝦子改變人體DNA？ 法新社：不實訊息",
+          "summary": "網傳內容：社群媒體流傳貼文聲稱，市面上豬肉與蝦子被添加mRNA疫苗，食用後會「接種」並改變人類DNA，且產品無任何標示，引發民眾疑慮。 查證結果：不實。法新社查證，mRNA分子進入人體後僅在細胞質中製造蛋白質，完成後即分解，不會進入細胞核，更不會改變DNA。專家一致確認食用接種過疫苗的動物產品，對…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762057",
+          "published": "Fri, 10 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國鞋都晉江鞋廠大火 已28人罹難",
+          "summary": "素有「中國鞋都」之稱的福建省晉江市陳埭鎮的輝騰鞋業廠房9日中午突發大火，由於廠內堆放大量鞋材等易燃物，火勢迅速蔓延並產生劇毒黑煙，封死逃生通道。中國中央電視台播出的畫面顯示，火焰從頂樓窗戶竄出，廠區上空竄起濃煙，至少有十幾人被困在屋頂待救，當地消防調派逾180名人員及35輛車全力撲救。國家主席習近平…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762056",
+          "published": "Fri, 10 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
