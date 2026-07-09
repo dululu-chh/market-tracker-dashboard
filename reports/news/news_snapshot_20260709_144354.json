@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-09T14:43:52.213554",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran launches more strikes after accusing US of striking near nuclear plant",
+          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 13:29:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 28 killed in China shoe factory fire, state media reports",
+          "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 14:31:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "泰勒絲婚禮場外垃圾也成收藏品 歌迷花25美元搶購",
+          "summary": "美國流行天后泰勒絲（Taylor Swift）歌迷花費25美元（約新台幣801元）買下泰勒絲與NFL球星凱爾西（Travis Kelce）婚禮現場外收集的垃圾，其中包含煙蒂和排卵檢測筆。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500173",
+          "published": "Thu, 09 Jul 2026 22:34:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "愛國者飛彈國內生產最快需3年 烏克蘭領導層樂於解決",
+          "summary": "美國總統川普在北約峰會場邊與烏克蘭總統澤倫斯基會晤時，臨場宣布將准許烏克蘭自行生產關鍵防空系統「愛國者飛彈」，讚揚烏國國防產業蓬勃發展，具有足夠的技術生產愛國者，「多數國家沒有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500169",
+          "published": "Thu, 09 Jul 2026 22:24:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國福建晉江鞋廠大火 已知28人遇難",
+          "summary": "中國福建泉州晉江市一家鞋廠今天中午發生火災，根據中國官媒新華社晚間公布，火災目前已致28人遇難。  新華社晚間報導指出，從相關部門了解到，福建晉江陳埭鎮江頭村輝騰鞋業公司廠房火災已造成2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500158",
+          "published": "Thu, 09 Jul 2026 22:18:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
