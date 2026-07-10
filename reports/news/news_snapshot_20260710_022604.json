@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-10T02:26:02.955515",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade attacks as Khamenei is buried",
+          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 23:02:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+          "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+          "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 15:21:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+          "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+          "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 09 Jul 2026 20:47:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國務院回應國台辦批評：指控無根據、谷立言代表美立場",
+          "summary": "中國國台辦日前批評美國在台協會（AIT）處長谷立言，美國國務院今天回覆中央社記者提問表示，中方指控毫無根據，谷立言完全代表美政府立場；美國對台政策並未改變，支持台灣獲取關鍵防衛能力，並持續敦...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500271",
+          "published": "Fri, 10 Jul 2026 09:47:35 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "涉策劃馬克宏訪問期間爆炸案 敘利亞逮捕IS相關組織",
+          "summary": "敘利亞官員9日表示，該國已抓獲1個與「伊斯蘭國」（IS）有關聯的恐怖組織，該組織涉嫌策劃本週早些時候法國總統馬克宏訪問首都大馬士革期間發生的2起爆炸事件。  根據《法新社》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500367",
+          "published": "Fri, 10 Jul 2026 09:37:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄軍猛炸烏平民！聯合國：6月265死飆新高 7月恐再惡化",
+          "summary": "聯合國負責政治及和平事務的副秘書長狄卡洛（Rosemary DiCarlo）9日在聯合國安全理事會證實，俄羅斯6月對烏克蘭發動的攻擊造成至少265名平民死亡、1816人受傷，創下...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5500332",
+          "published": "Fri, 10 Jul 2026 08:59:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
