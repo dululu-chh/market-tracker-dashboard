@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-07-10T18:19:32.440850",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+          "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 14:08:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+          "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+          "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 13:53:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zulu king expresses regret after video captures tirade against his wife",
+          "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 16:42:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "FBI局長：2026年已驅逐62名中國間諜 粉碎北京的潛伏行動",
+          "summary": "美國聯邦調查局（FBI）局長帕特爾（Kash Patel） 日前透露，光在2026年，FBI就已驅逐了62名中國間諜，此外還逮捕了113名外國間諜。  　帕特爾7月8日在社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501301",
+          "published": "Fri, 10 Jul 2026 23:34:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "搭機搭到驚悚「吸吸樂」！廉航窗戶脫落 乘客頭肩慘被吸出機外",
+          "summary": "根據目擊者與業界消息人士，歐洲最大廉價航空公司「瑞恩航空」（Ryanair）1架班機10日在飛往德國途中客艙窗戶脫落，有個男性乘客頭部與雙肩被從窗戶小洞吸出去，所幸其他乘客及時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501282",
+          "published": "Fri, 10 Jul 2026 22:59:01 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "土耳其尋求俄同意轉售S-400防空飛彈 爭取重返美F-35戰機計畫",
+          "summary": "土耳其為爭取重返美國F-35匿蹤戰機計畫，正尋求俄羅斯同意，將向俄方採購的S-400防空飛彈系統轉售第三國。克里姆林宮10日證實，俄土雙方已就此展開接觸，但強調相關議題「極度...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501280",
+          "published": "Fri, 10 Jul 2026 22:51:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
