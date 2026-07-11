@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-07-11T02:04:12.252996",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+          "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+          "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 01:24:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+          "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 14:08:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meet the crypto billionaires building a world where money buys you a vote",
+          "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 23:03:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英王室破冰？查爾斯與哈利梅根一家會面 睽違4年再見孫子女",
+          "summary": "英王查爾斯三世週五（10日）與次子哈利王子及其妻梅根，以及兩人的2名子女阿奇王子（Prince Archie）和莉莉貝特公主（Princess Lilibet）會面。這是查爾斯多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501429",
+          "published": "Sat, 11 Jul 2026 09:20:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "避風！ 3日本海上保安廳巡視船罕見「縱貫台灣海峽」",
+          "summary": "「巴威」颱風挾帶驚人風浪席捲太平洋，周邊海域風雲變色，竟意外促成台日海域安全的另類交集！本報掌握獨家消息，軍事迷與海事迷近日透過船舶自動辨識系統（AIS）赫然發現，日本海上保安...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501432",
+          "published": "Sat, 11 Jul 2026 09:06:21 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "英國前內政大臣在家遇害 26歲男涉謀殺被捕",
+          "summary": "英國前政府大臣、英國改革黨（Reform UK）政治人物威德科姆（Ann Widdecombe）被發現陳屍家中。英國警方週五（10日）表示，已逮捕一名涉嫌行凶的26歲男子。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5501374",
+          "published": "Sat, 11 Jul 2026 08:44:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
