@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-11T21:43:45.701986",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China's second typhoon in a week makes landfall",
+          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 17:41:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran supreme leader calls for revenge for father's killing",
+          "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 19:30:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 15:03:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國回收火箭成功 專家：與美技術有10年以上差距",
+          "summary": "2015年SpaceX就首次成功回收 今已高度產業化運作 〔國際新聞中心／綜合報導〕中國官媒十日宣布，新型「長征十號乙」運載火箭首次成功回收第一節火箭，被視為中國在可重複使用火箭技術上邁出的關鍵一步。紐約時報十一日引用美國航太專家看法指出，雖然中國進展值得肯定，但與已累積數百次成功回收經驗的美國太…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762347",
+          "published": "Sun, 12 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本可重複使用火箭RV-X 試飛成功",
+          "summary": "〔國際新聞中心／綜合報導〕日本宇宙航空研究開發機構（JAXA）十一日上午在秋田縣能代火箭試驗場，成功完成可重複使用火箭實驗機「RV-X」的首次起飛與著陸測試。火箭依計畫垂直升空、短暫懸停，並完成水平移動約十六公尺後穩定降落，全程約四十秒，象徵日本朝發展低成本可重複使用火箭邁出重要一步。 完成垂直起…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762348",
+          "published": "Sun, 12 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "深化國防合作 印度、紐西蘭建立戰略夥伴關係",
+          "summary": "〔編譯張沛元／綜合報導〕值此中國近年來積極擴大在太平洋的存在與影響力外加共軍日前才朝太平洋試射飛彈之際，紐西蘭總理盧克森十一日與來訪的印度總理莫迪宣布將兩國外交關係提升為「戰略夥伴關係」，擴大雙方在包括軍事與貿易等領域上的合作。  印太地區穩定 兩國共同關切  莫迪將紐印建立戰略夥伴關係形容…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762350",
+          "published": "Sun, 12 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
