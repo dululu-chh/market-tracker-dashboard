@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-11T11:55:28.514835",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+          "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+          "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 11:42:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 09:01:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meet the crypto billionaires building a world where money buys you a vote",
+          "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 10 Jul 2026 23:03:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "唐吉訶德必買什麼可能會找不到？ 日本旅遊達人曝：「三難原則」",
+          "summary": "網友在社群平台發文詢問，「唐吉訶德必買什麼？」日旅達人林氏璧則默默回文「唐吉訶德的問題是，即使你知道要買什麼，也有可能找不到…」，因為這是創辦人安田隆夫反其道而行制定的的「三難原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502030",
+          "published": "Sat, 11 Jul 2026 19:00:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "受夠了地球？ NASA徵人「關1年」模擬火星生活",
+          "summary": "受夠了地球嗎？現在你有機會先試試看能否適應外星生活：美國國家航空暨太空總署（NASA）正招募志願者，參加為期一年的實驗，模擬從地球前往火星的漫長旅途和在火星上的生活，還要模擬太...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502075",
+          "published": "Sat, 11 Jul 2026 19:00:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "被誰偷打？ 美軍空襲後伊朗又遭不明攻擊",
+          "summary": "美軍中央司令部9日完成對伊朗一批目標的打擊行動後，伊朗境內多地又傳出遭空襲，卻無人承認發動攻擊，德黑蘭也未直接點名要為此負責者，引發有關還有誰在攻擊伊朗的疑問。  美聯社1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502046",
+          "published": "Sat, 11 Jul 2026 18:39:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
