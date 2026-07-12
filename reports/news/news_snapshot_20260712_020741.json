@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-12T02:07:39.984997",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 01:55:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "China's second typhoon in a week makes landfall",
+          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 01:22:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+          "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "孟加拉洪災至少44死 逾100萬人受困",
+          "summary": "孟加拉東南部連日暴雨引發洪災和土石流，至少有44人死亡、逾100萬人受困，當局11日分秒必爭地向受災地區運送物資，由於洪水淹沒了房屋，許多災民已經好幾天無法煮飯。  據《路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502347",
+          "published": "Sun, 12 Jul 2026 09:35:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國對伊朗發動第三輪空襲 赫格塞斯：他們做出糟糕的選擇",
+          "summary": "美國為回應伊朗公然襲擊商船一事，於美東時間11日晚間，針對伊朗發動第三波空襲，美國戰爭部長（國防部長）赫格塞斯表示：「伊朗做出了糟糕的選擇，現在他們要付出代價。」  美國中央...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502341",
+          "published": "Sun, 12 Jul 2026 09:05:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不甩美國警告！  伊朗革命衛隊宣布關閉荷姆茲海峽",
+          "summary": "在伊朗襲擊行經荷姆茲海峽的商船後，美伊再度陷入僵局。華府要求伊朗最晚11日公開承諾開放海峽，以及不再對航行船隻開火。伊朗官媒11日報導指出，伊朗伊斯蘭革命衛隊（IRGC）海軍宣布...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502296",
+          "published": "Sun, 12 Jul 2026 07:28:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
