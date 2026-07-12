@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-12T10:22:15.271830",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 06:49:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 09:47:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+          "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 07:39:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澤倫斯基哀悼美參議員葛蘭姆 感念多次親訪烏克蘭",
+          "summary": "烏克蘭總統澤倫斯基12日對才剛訪問烏克蘭的美國共和黨籍聯邦參議員葛蘭姆（Lindsey Graham）驟逝表達深沉悲痛，推崇葛蘭姆是「意志堅定的領袖」，曾在烏克蘭最需要他時多次...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502872",
+          "published": "Sun, 12 Jul 2026 17:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗官媒釋出13人「復仇名單」！川普、納坦雅胡入列",
+          "summary": "伊朗一家以挑釁言論聞名的國營報紙，11日公布一份為了替已故最高領袖哈米尼（Ali Khamenei）復仇，而列為打擊目標的名冊，包括美國總統川普、以色列總理納坦雅胡（Benj...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502853",
+          "published": "Sun, 12 Jul 2026 17:42:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "卡達前領導人哈麥德辭世 享壽74歲",
+          "summary": "卡達政府12日宣布，1995年至2013年領導卡達的前國家元首哈麥德（Hamad bin Khalifa al Thani）辭世，享壽74歲。  根據官方在社群媒體上的聲明...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502831",
+          "published": "Sun, 12 Jul 2026 17:28:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
