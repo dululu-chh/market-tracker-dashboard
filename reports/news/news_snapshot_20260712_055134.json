@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-12T05:51:32.946941",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 04:39:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "China's second typhoon in a week makes landfall",
+          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+          "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 01:22:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+          "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "禁青少年使用社群媒體 各國進度一次看",
+          "summary": "繼澳洲等國家陸續禁止青少年與幼童使用社群媒體，世界許多國家也正加速推行這項行動。  歐盟一個專家委員會預定13日向歐盟執委會（European Commission）提交建議，討論歐盟2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502612",
+          "published": "Sun, 12 Jul 2026 13:35:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "220萬人撤離！巴威橫掃中國東部 長三角海陸空交通大亂",
+          "summary": "颱風「巴威」（Bavi）11日晚間登陸中國浙江後，持續挾帶強風豪雨向內陸推進，造成中國東部大規模防災應變。官方統計，浙江等地累計近200萬人提前撤離，上海、杭州等長三角主要城市...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502598",
+          "published": "Sun, 12 Jul 2026 13:21:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "去哪了？日本5歲童和家人泡溫泉失蹤 警3週持續搜索仍找不到人",
+          "summary": "日本熊本縣八代市5歲男童田中嶺臣，6月21日下午3時許和家人在鹿兒島縣霧島市隼人町泡溫泉時離奇失蹤，警方至今3個星期以來天天搜索，但還是沒找到小孩的下落。  據《NHK》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502552",
+          "published": "Sun, 12 Jul 2026 13:07:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
