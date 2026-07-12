@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-07-12T13:05:58.394519",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 06:49:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 09:47:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+          "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
+          "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 11:23:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "賣不完丟掉？日本滯銷麵包送進自動販賣機  還能釀啤酒",
+          "summary": "為減少浪費，日本推出置物櫃型自動販賣機販售賣不完的麵包，也有業者開設全新型態的麵包店，專賣其他店滯銷的麵包，甚至有廠商用麵包釀成啤酒，賦予原本要報廢的麵包新生命。  日本「讀賣新聞」報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502933",
+          "published": "Sun, 12 Jul 2026 20:04:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "悚！飛機窗戶突碎裂  乘客瞬間吸出艙外「半身掛高空」",
+          "summary": "總部設在愛爾蘭、歐洲最大廉航「瑞安航空」1架班機近日在飛行途中機窗突然碎裂，坐在窗邊1名男子的頭和肩部瞬間被吸出機艙外，男子身邊的妻子和其他乘客見狀，趕緊死命抓住他的雙腿，極力避...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502919",
+          "published": "Sun, 12 Jul 2026 19:50:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊拉克總理受邀訪華府  將簽署石油、天然氣協議",
+          "summary": "伊拉克政府發言人阿布迪今天表示，總理柴迪（Ali al-Zaidi）在獲得美方正式邀請後，明天將率官方代表團訪問華府，預計簽署石油與天然氣協議。  路透報導，阿布迪（Haider al-...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5502926",
+          "published": "Sun, 12 Jul 2026 19:35:32 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
