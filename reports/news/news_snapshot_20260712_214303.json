@@ -1,0 +1,146 @@
+{
+  "retrieved_at": "2026-07-12T21:43:02.142788",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 27 killed in Bangkok bar fire",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 20:13:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 16:46:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 17:40:34 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國想控制第一島鏈 台日菲應及早阻止",
+          "summary": "炮製對台虛假敘事手法 稱巴丹自古屬於中國 〔記者蘇永耀／台北報導〕南海仲裁昨日屆滿十週年，區域安全情勢因當年仲裁案出爐而獲得緩解，但中國近年不僅未收斂威權擴張，反而對外展現更強烈的侵略性。國安人士指出，北京近期在島鏈間一連串的海上軍事與法律戰動作，核心目標即在於控制第一島鏈，台日菲三方及國際社會應…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762432",
+          "published": "Mon, 13 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Trump says Apple to partner with Intel on US chip design, production川普說，蘋果和英特爾合作，在美國設計和製造晶片",
+          "summary": "◎盧永山 U.S. President Donald Trump said in a Truth Social post on Thursday that Apple has agreed to work with Intel to design and manufacture its chips…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762412",
+          "published": "Mon, 13 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI",
+            "晶片"
+          ]
+        },
+        {
+          "title": "伊朗重視荷姆茲控制權 遠勝美解除制裁",
+          "summary": "〔編譯張沛元／綜合報導〕華爾街日報十一日報導，美國與伊朗就荷姆茲海峽再起衝突，源自德黑蘭當局自認是中東衝突贏家，打算在中東地區建立霸權；對德黑蘭當局而言，控制荷姆茲海峽的重要性，遠勝於川普政府解除價值數百億美元的制裁。 「比數十枚原子彈還重要」 報導指出，德黑蘭當局試圖將控制荷姆茲海峽制度化，反…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762435",
+          "published": "Mon, 13 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
