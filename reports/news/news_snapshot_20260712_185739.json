@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-12T18:57:38.226620",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 16:46:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 17:40:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+          "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 12 Jul 2026 13:35:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美襲伊朗葛希姆島　德黑蘭攻擊巴林科威特卡達約旦阿曼",
+          "summary": "美國今天對伊朗發動攻擊，回應荷莫茲海峽上一艘貨櫃輪遇襲失火、一名船員失蹤。伊朗則對巴林、科威特、卡達、約旦，以及德黑蘭施壓要求共管航道的阿曼等國展開報復襲擊。  美聯社報導，官方伊朗通訊社（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503077",
+          "published": "Mon, 13 Jul 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英媒：載128人移民船抵英格蘭　創單船人數最高紀錄",
+          "summary": "英國媒體今天報導，一艘載有128人的船隻10日抵達英格蘭海岸，創下橫越英吉利海峽單船人數新高。  法新社報導，根據英國內政部資料，加上另外兩艘船，10日總共有225位移民抵達英格蘭。  英國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503072",
+          "published": "Mon, 13 Jul 2026 01:06:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中共國有企業董座「毛澤東面前」收賄  監控記憶卡影像全流出！",
+          "summary": "中國湖南省一間國有獨資企業（由中共出資並完全控股）爆出天大貪腐醜聞，該企業董座被舉報長期收受賄賂，犯罪全過程都被曝光，引發中網輿論譁然。在事件曝光後，官方第一時間就通報，涉案董座...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5503032",
+          "published": "Mon, 13 Jul 2026 00:30:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
