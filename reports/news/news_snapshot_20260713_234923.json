@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-13T23:49:21.804834",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+          "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 23:42:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+          "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 17:31:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hungary parliament votes to remove president from office",
+          "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 20:39:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗再度攻擊商船！ 巡弋飛彈擊中阿聯2油輪釀1死8傷",
+          "summary": "中東局勢再度緊張，阿拉伯聯合大公國（UAE）國防部13日表示，兩艘阿聯籍油輪在阿曼領海內、荷姆茲海峽（Strait of Hormuz）南向航道遭到兩枚伊朗巡弋飛彈攻擊，造成1名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504234",
+          "published": "Tue, 14 Jul 2026 07:46:24 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普又封鎖伊朗！恐武力攔截未授權船隻 美軍曝時間點",
+          "summary": "美國海軍主導的「聯合海事資訊中心」（Joint Maritime Information Center，JMIC）證實，美軍將自14日起對伊朗實施海上封鎖。  路透報導，JM...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504225",
+          "published": "Tue, 14 Jul 2026 07:07:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗地下基地成為頭號目標 川普威脅：美軍很快就會空襲",
+          "summary": "美國與伊朗和平協議的前景蒙上沉重陰影，美國總統川普接受美媒訪問時宣布將對伊朗重新恢復海上封鎖，同時針對通過荷姆茲海峽的所有貨物收取20%費用。此外，川普也強調美軍將會摧毀伊朗的「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504220",
+          "published": "Tue, 14 Jul 2026 07:06:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
