@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-13T18:29:53.987944",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 15:04:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+          "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+          "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 11:52:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+          "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
+          "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 13 Jul 2026 10:14:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美12州提反托拉斯訴訟　阻派拉蒙收購華納兄弟探索",
+          "summary": "美國加州和11個州今天提起訴訟，尋求阻止派拉蒙天舞以1100億美元（約新台幣3.5兆元）收購華納兄弟探索，稱這項好萊塢史上最大併購案對影視產業競爭構成威脅。  法新社報導，這項訴訟在加州北部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504207",
+          "published": "Tue, 14 Jul 2026 02:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新證據出現 英國前保守黨國務大臣謀殺案不排除恐攻",
+          "summary": "根據英國內政大臣馬穆德最新說法，曾任英國保守黨政府國務大臣的資深右翼政治人物威德庫姆（Ann Widdecombe）疑似在家中遭到謀殺案件在出現新證據後，已由反恐警察接手調查。  法新社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504185",
+          "published": "Tue, 14 Jul 2026 01:19:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭與9國宣布聯盟　保護歐洲免受彈道飛彈威脅",
+          "summary": "烏克蘭與9個國家今天宣布將組成聯盟，以保護歐洲免受彈道飛彈威脅，並借鑒烏克蘭4年多來對抗俄羅斯侵略的經驗。  美聯社報導，烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）在法國巴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504200",
+          "published": "Tue, 14 Jul 2026 00:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
