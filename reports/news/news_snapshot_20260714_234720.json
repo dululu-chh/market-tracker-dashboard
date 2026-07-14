@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-14T23:47:18.853230",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 20:10:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+          "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 17:13:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "矢板明夫遇襲發酵！日本跨黨派議員：不容許暴力強權打壓言論",
+          "summary": "印太戰略智庫執行長矢板明夫日前在台中遭港籍人士廖嫌襲擊，涉及香港黑幫人士等境外勢力介入。本月13日，日本跨黨派議員團體「思考台灣海峽和平與穩定國會議員之會」就此發表正式聲明，反對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505518",
+          "published": "Wed, 15 Jul 2026 07:17:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "通話內容曝光！川普施壓以色列自黎、敘撤兵 納坦雅胡面臨雙重夾擊",
+          "summary": "美國與以色列官員透露，美國總統川普向以色列總理納坦雅胡（Benjamin Netanyahu）表示，以色列應開始將軍隊自敘利亞撤出並重新部署，同時也敦促其在黎巴嫩採取相同作法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505477",
+          "published": "Wed, 15 Jul 2026 06:34:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "20％補償費用不收了！ 川普曝內幕：很多波灣國家打給我",
+          "summary": "美國總統川普13日剛宣布要針對所有通過荷姆茲海峽（Strait of Hormuz）的貨物徵收20%費用，不過他在14日又臨時變卦不收費，改為和波斯灣國家達成貿易協議。川普也透露...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505493",
+          "published": "Wed, 15 Jul 2026 06:32:21 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
