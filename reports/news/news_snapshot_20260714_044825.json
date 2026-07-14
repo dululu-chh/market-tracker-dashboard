@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-14T04:48:23.111849",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+          "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 04:35:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+          "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 03:47:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+          "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+          "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 02:26:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北京開始「物色」下屆香港特首？港媒：派人密會政商界人士",
+          "summary": "本屆香港特別行政區政府的執政進入最後一年，外界持續關注行政長官（特首）李家超是否爭取連任。有港媒披露，北京近期派出「收風人」私下約見香港政商界人士，蒐集對港府高層官員的看法，推測...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504512",
+          "published": "Tue, 14 Jul 2026 12:18:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本神戶民宅冷凍庫藏屍近15年 死者前妻涉案被起訴",
+          "summary": "日本兵庫縣神戶市中央區1棟4層樓高的公寓，今年6月20日中午在3樓住宅內大型冷凍庫發現被分屍成上、下半身的遺體，警方後續查出死者為原住戶西口豐，經解剖推測是在將近15年死亡並遭到...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504502",
+          "published": "Tue, 14 Jul 2026 12:17:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "未成年網安亮紅燈 澳洲警告社媒未有效阻止性虐與勒索",
+          "summary": "澳洲網路安全機構eSafety今（14）日表示，包括蘋果、Meta和Google在內的大型科技公司，都在因應兒童性虐待和日益猖獗的網路性勒索方面存在重大缺陷。  根據《路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504530",
+          "published": "Tue, 14 Jul 2026 12:16:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
