@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-14T13:19:35.467488",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+          "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 03:47:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+          "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+          "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 09:40:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+          "summary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 10:02:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "懷疑尪偷吃！她竟磨尖牙齒「一口咬斷GG 」 人夫超慘下場曝",
+          "summary": "俄羅斯一名女子懷疑丈夫外遇，竟暗中使用銼刀磨利自己的牙齒，趁兩人發生親密行為時，將丈夫的陰莖一口咬斷，讓他當場血流如注，儘管手術成功接回陰莖，但他再也無法勃起。  根據《每日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505221",
+          "published": "Tue, 14 Jul 2026 20:21:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "估俄烏短期內議和無望 波蘭總理：至少會拖到冬季",
+          "summary": "波蘭總理圖斯克（Donald Tusk）今（14日）指出，俄羅斯與烏克蘭似乎不太可能在短期之內達成和平，且俄羅斯總統普廷（Vladimir Putin）至少會將戰事拖到今年冬天。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505227",
+          "published": "Tue, 14 Jul 2026 19:36:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防範「威權式創新」！智庫揭中共將政治管控嵌入AI模型 隨DeepSeek出海影響台美輿情",
+          "summary": "由多名資深研究員及人權倡議者創立的智庫「韌性創新實驗室」（RIL）警告，中國近年透過建立人工智慧（AI）安全標準與政企合作機制，將符合中共政治要求的內容管控與官方敘事，預先嵌...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505238",
+          "published": "Tue, 14 Jul 2026 19:28:50 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
