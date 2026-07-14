@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-14T07:07:56.613381",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+          "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 03:47:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+          "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+          "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 02:26:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+          "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+          "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 05:00:03 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "防選戰遭抹黑 日本新規要求AI內容必須註明",
+          "summary": "日本總務大臣林芳正今（14）日表示，根據日本針對選舉期間社群媒體使用所制定的新規，人工智慧生成的圖像和影片必須明確註明。  根據《法新社》報導，日本之前有指控稱，在自民黨2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504786",
+          "published": "Tue, 14 Jul 2026 14:54:04 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中國瀋陽暴雨疑有民眾涉水被電死！ 原影片遭刪除",
+          "summary": "中國遼寧省瀋陽市13日受巴威颱風外圍環流影響降下暴雨，市區內多處淹水達3公尺高，不同地方接連有人涉水時疑似觸電昏迷甚或死亡，在中國影音社群內原先發布的影片已被刪除。  從X瘋...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504781",
+          "published": "Tue, 14 Jul 2026 14:49:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "扯！南韓年輕夫婦沉迷遊戲 7個月大幼兒餓到剩3公斤死亡",
+          "summary": "太離譜！南韓大田廣域市20來歲的年輕夫婦，由於沉迷遊戲長時間泡在網咖，對7個月大的幼兒疏於照顧，導致小孩餓到體重僅剩3公斤死亡，大田警察廳今（14日）宣布已逮捕2人並偵辦。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5504740",
+          "published": "Tue, 14 Jul 2026 14:11:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
