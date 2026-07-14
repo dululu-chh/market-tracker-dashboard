@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-07-14T21:53:06.790723",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 20:10:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+          "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 17:13:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國AI紅線輸出全球 洗腦台美輿論",
+          "summary": "阿里巴巴、DeepSeek 納入中國治理體系 〔國際新聞中心／綜合報導〕由多名資深研究員及人權倡議者創立的智庫「韌性創新實驗室」（RIL）警告，中國近年透過建立人工智慧（AI）安全標準與政企合作機制，將符合中共政治要求的內容管控與官方敘事，預先嵌入生成式AI模型之中；這些帶有政治「紅線」的管控邏輯…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762645",
+          "published": "Wed, 15 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中英對照讀新聞》Close shave: laser hair removal device sparks Australia airport evacuation 有驚無險：雷射除毛器引發澳洲機場疏散",
+          "summary": "◎ 管淑平 A bomb disposal unit was called to an Australian airport on Thursday － only to find the suspicious object was a laser hair removal device. 澳洲1…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762710",
+          "published": "Wed, 15 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "伊朗最神秘鎬山核設施 川普預告攻擊",
+          "summary": "美軍宣布連炸3天軍事目標、重啟海上封鎖 〔編譯林家宇／綜合報導〕美國與伊朗陷入臨時停火迄今最嚴重衝突。美軍十三日宣布連三日轟炸伊朗軍事目標並重啟對德黑蘭的海上封鎖。美國總統川普揚言，要對伊朗在「鎬山」（Pickaxe Mountain）建造的地下核設施堡壘發動攻擊，並預告要在美東時間十六日晚間九時…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762641",
+          "published": "Wed, 15 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
