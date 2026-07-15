@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-15T11:26:32.688827",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+          "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 11:08:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+          "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+          "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞360》下波更致命！美狂轟猛炸伊朗 「這地方」瞬間變廢墟！",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506478",
+          "published": "Wed, 15 Jul 2026 18:35:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "真的太無聊？ 飛機試飛驚見機師在空中「寫下這句話」！",
+          "summary": "知名航班追蹤網站「Flightradar24」近日捕捉到英國一名20多歲飛行教官駕駛飛機在空中「寫」下「我好無聊」（I'm bored）的飛航軌跡，其航跡圖曝光後引發外界熱議。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506233",
+          "published": "Wed, 15 Jul 2026 18:30:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "氣不過讓AI決定誰走人！26名員工聯合提告 Meta否認指控",
+          "summary": "社群網站龍頭臉書（Facebook）的母公司Meta的26名員工提告，指控這家市值達數兆美元的科技公司，使用人工智慧（AI）系統來篩選大規模裁員對象。Meta對此強烈否認。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506450",
+          "published": "Wed, 15 Jul 2026 18:28:08 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
