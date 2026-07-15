@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-15T20:53:34.323530",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "French MPs approve assisted dying law with strict rules after years of argument",
+          "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 17:29:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+          "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 18:41:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+          "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+          "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普保留對伊軍事選項 美官員：空襲為後續行動鋪路",
+          "summary": "3名美國官員表示，美軍近期對伊朗發動一連串空襲，除了意在迫使伊朗重新開放荷莫茲海峽外，也希望在對伊朗採取更複雜的行動前，先行削弱伊朗軍事能力。  路透社報導，3名不具名的官員說，這些空襲實際...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506780",
+          "published": "Thu, 16 Jul 2026 04:45:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄被迫關亞速海通道！全球小麥供應鏈告急 普廷彼得大帝內海夢碎",
+          "summary": "烏克蘭對亞速海（Sea of Azov）發動一系列猛烈襲擊，迫使莫斯科暫停這個重要水道的交通，俄羅斯對這座通往黑海門戶的掌控正逐漸失守，進而限制了克里姆林宮與全世界貿易的能力...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506762",
+          "published": "Thu, 16 Jul 2026 00:54:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美女高材生國際學術會議爆紅卻遭意淫騷擾 正妹高EQ反擊物化",
+          "summary": "全球人工智慧與機器學習領域最具權威性、規模最大的頂級學術會議「國際機器學習大會」（ICML）日前在南韓登場，芝加哥大學（University of Chicago）一位副教授分享...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506671",
+          "published": "Thu, 16 Jul 2026 00:29:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
