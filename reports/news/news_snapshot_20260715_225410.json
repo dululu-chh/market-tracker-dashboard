@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-15T22:54:08.887591",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "French MPs approve assisted dying law with strict rules after years of argument",
+          "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 17:29:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+          "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 21:55:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Argentina face fine for Falklands banner in semi-final win",
+          "summary": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their countr…",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 22:49:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍單日對伊朗發動兩波空襲  癱瘓油輪動力防突破封鎖",
+          "summary": "美國持續空襲伊朗，在15日發動兩波攻勢，針對意圖航向伊朗的油輪，美軍也發射飛彈癱瘓其動力，徹底執行對伊朗的海上封鎖。  美國中央司令部（CENTCOM）表示，美軍在美東時間1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506790",
+          "published": "Thu, 16 Jul 2026 06:20:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍30歲以上官兵普篩「睪固酮低下症」 赫格塞斯：維持絕對最佳戰力",
+          "summary": "美國戰爭部長赫格塞斯（Pete Hegseth）15日宣布，正針對部隊推出一項「睪固酮低下症」（testosterone deficiency）的新篩檢計畫，聲稱這對於讓軍人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5506774",
+          "published": "Thu, 16 Jul 2026 06:15:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "質疑中國GDP成長率觸怒習近平》華爾街日報：高善文被噤聲 習下令蔡奇執行",
+          "summary": "〔國際新聞中心／綜合報導〕曾因大膽直言中國經濟真相而觸怒中南海的知名經濟學家高善文，七日因淋巴瘤病逝，享年五十五歲。華爾街日報報導，高善文由於公開質疑中國國內生產毛額（GDP）成長率，觸怒國家主席習近平，下令中共中央政治局常委、中央辦公廳主任蔡奇徹查，高善文被全面禁止公開發言。  罕見敢說真話慘…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762787",
+          "published": "Thu, 16 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
