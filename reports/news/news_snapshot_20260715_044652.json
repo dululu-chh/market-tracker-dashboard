@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-15T04:46:51.328039",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+          "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 03:57:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+          "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+          "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+          "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "小紅書股票香港上市前夕！前員工檢舉涉嫌嚴重誠信「雙標」",
+          "summary": "中國社群巨頭「小紅書」近期正低調向港交所遞交祕密上市申請，然而，一名自稱前小紅書商業化華南直銷負責人的員工陳浩，卻於中國社群平台微信公眾號「漢特CHEN」公開爆料，已正式向香港證...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505790",
+          "published": "Wed, 15 Jul 2026 12:33:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英國宣布青少年社群媒體宵禁 深夜至清晨禁止使用",
+          "summary": "繼時任英國首相施凱爾（Keir Starmer）上個月宣布16歲以下兒童禁用社群媒體的禁令後，英國政府今天表示，將針對16歲與17歲青少年實施深夜社群媒體宵禁。  法新社報導，為了進一步...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505850",
+          "published": "Wed, 15 Jul 2026 12:29:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英國批准中國興建駐倫敦大使館 當地居民提告憂成打壓異議人士基地",
+          "summary": "英國批准中國在倫敦興建一座巨型的大使館，遭到當地居民質疑，認為官員沒有考量到新使館可能限制抗議，或被用來打壓中國異議人士的風險。居民協會更為此向法院提起訴訟，主張政府官員應避免該...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5505600",
+          "published": "Wed, 15 Jul 2026 12:18:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
