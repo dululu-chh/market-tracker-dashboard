@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-16T18:01:49.618362",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 13:08:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+          "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+          "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 17:22:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國：就算贏不了世界盃　福克蘭群島絕對屬於我們",
+          "summary": "阿根廷15日在世界盃足球賽4強戰擊敗英格蘭，球員賽後高舉白底黑字布條，上面寫「馬維納斯群島（福克蘭群島）是阿根廷的」。英國首相府發言人今天表示，英國或許贏不了世界盃，但「福克蘭群島絕對是我們...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508093",
+          "published": "Fri, 17 Jul 2026 00:15:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "接連起火！福建晉江資源回收站祝融 距事故鞋廠僅數十公里",
+          "summary": "中國福建省泉州市晉江市的池店鎮唐厝村，今（16）日發生一起資源回收場火災。這也是繼晉江市匯騰鞋業有限公司後，該地區在短期內再度傳出的火災事故。  中國福建省泉州市晉江市池店鎮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508056",
+          "published": "Thu, 16 Jul 2026 23:28:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南海仲裁案10週年 作證美學者竟在菲律賓家中遭搶劫槍殺",
+          "summary": "定居菲律賓的著名美國海洋生物學家卡本特（Kent Carpenter），日前在家中遭槍殺身亡。他曾在2016年南海仲裁案為菲律賓作證，時值10週年，讓這起案件格外受矚目。菲國警...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508080",
+          "published": "Thu, 16 Jul 2026 23:21:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
