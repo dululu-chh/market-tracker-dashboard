@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-16T22:05:56.024711",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 21:44:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 13:08:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍連6晚打擊伊朗　川普稱美公民獲釋遭反駁",
+          "summary": "伊朗與美國今天加強攻擊彼此，升高已持續一週的衝突，上月達成的停火協議幾乎瓦解。同時伊朗也反駁美國總統川普（Donald Trump）聲稱伊朗釋放一名美國公民的說法。  路透社報導，美國昨天在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508123",
+          "published": "Fri, 17 Jul 2026 05:45:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美官員重申 不接受「一中原則」",
+          "summary": "籲拉丁美洲和加勒比海盟邦加強與台灣合作 〔國際新聞中心／綜合報導〕美國國務院高層官員日前在國會重申，華府「不接受」中國政府所謂的「一個中國原則」，並呼籲拉丁美洲和加勒比海地區的盟邦，進一步加強與台灣的交流與合作。他強調，面對中國持續施加政治與外交壓力，這些國家不應削弱、更不該中斷與台灣的夥伴關係。…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762902",
+          "published": "Fri, 17 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊持續互轟 伊朗︰生死存亡之戰",
+          "summary": "〔編譯張沛元／綜合報導〕儘管居中協調的巴基斯坦呼籲雙方重拾談判，美國與伊朗十六日持續相互發動攻擊，美軍襲擊伊朗沿海城市阿巴斯港在內的多個目標，且攻擊範圍首度擴及伊朗首都德黑蘭周邊地區。伊朗則對包括約旦、巴林與科威特等波斯灣地區的美國盟友下手，並揚言若美國總統川普落實其攻擊伊朗發電廠與橋梁的威脅，伊朗…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1762904",
+          "published": "Fri, 17 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
