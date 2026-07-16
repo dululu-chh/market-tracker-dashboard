@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-07-16T23:53:47.132329",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 21:44:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 13:08:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "防堵中國太陽能電池半成品洗產地避稅 美議員籲嚴查「藍色晶圓」",
+          "summary": "路透取得的信件內容顯示，美國跨黨派聯邦議員日前致函川普政府，強力呼籲當局針對進口的「半成品太陽能電池」，採取嚴厲取締行動。議員指控，相關業者正利用這些半成品逃避貿易關稅，並違...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508112",
+          "published": "Fri, 17 Jul 2026 07:29:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "揭中共貪腐遭追緝！中國調查記者白兆東滯泰恐遭遣返 人權團體急呼籲擋下「送中」",
+          "summary": "多個國際人權組織指出，中國政府已向泰國提出要求，希望儘速引渡中國調查記者白兆東。人權組織警告，白兆東因過去在中國從事有關貪腐的調查報導，一旦遭到遣返，恐將面臨嚴重的政治迫害與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508115",
+          "published": "Fri, 17 Jul 2026 07:25:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防AI基建依賴中國、資助解放軍  美跨黨派議員籲川普政府封殺長鑫與長江存儲記憶體",
+          "summary": "美國聯邦眾議院「美中戰略競爭特別委員會」主席（John Moolenaar）等跨黨派國會議員具名呼籲，要求川普政府全面禁止美國企業採購中國半導體大廠「長鑫存儲」（CXMT）及...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508113",
+          "published": "Fri, 17 Jul 2026 07:07:46 +0800",
+          "keywords": [
+            "AI",
+            "半導體"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
