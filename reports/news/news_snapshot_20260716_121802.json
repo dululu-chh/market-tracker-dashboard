@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-16T12:18:00.179638",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+          "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 11:31:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 11:48:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+          "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 12:09:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "德鐵最暖誤點！列車長衝超市扛3大包衛生紙 神救援畫面曝光",
+          "summary": "德國鐵路（Deutsche Bahn）誤點原因千奇百怪，故障與罷工早已讓當地通勤族習以為常。不過，近日一列從觀光勝地敘爾特島（Sylt）開往柏林的ICE高速列車，卻因為衛生紙用完...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5507700",
+          "published": "Thu, 16 Jul 2026 19:40:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「變性」妄想進女監  逃犯引渡回德國仍送男子監獄",
+          "summary": "官員16日表示，2024年依法將個人性別從男改為女的德國極右翼倡議人士瑪爾拉-斯貝尼亞．李比希（Marla-Svenja Liebich），已在被從捷克引渡回德國後，送入1所男...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5507783",
+          "published": "Thu, 16 Jul 2026 19:37:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿根廷網球新星慶祝世足贏球 疑街頭飆車失控遭撞死",
+          "summary": "阿根廷年僅16歲的網球新星路易莎娜（Luisana Schönberger），在與朋友外出慶祝阿根廷闖進2026世足賽4強時，竟遭遇車禍當場身亡。警方初步調查，事發車輛疑似是在街...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5507761",
+          "published": "Thu, 16 Jul 2026 19:36:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
