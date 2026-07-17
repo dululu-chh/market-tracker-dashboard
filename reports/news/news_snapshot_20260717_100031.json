@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-17T10:00:30.075134",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches new strikes as Iran says civilian infrastructure hit",
+          "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 09:27:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+          "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 09:12:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "More than 500 Rohingya vanished at sea - what happened?",
+          "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 03:07:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本溫泉5歲男童失蹤案驚傳尋獲遺體 爸媽當場淚崩",
+          "summary": "日本鹿兒島縣霧島市上月發生5歲男童失蹤案，搜救人員今（17）日上午於事發溫泉會館下流約700公尺處，尋獲一具全身赤裸的男童遺體，特徵與失蹤男童高度吻合，日本警方正全力釐清死者身分...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508905",
+          "published": "Fri, 17 Jul 2026 17:43:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "肯亞停建伊波拉隔離所  離開疫區美國公民仍入住觀察",
+          "summary": "路透17日獨家披露，儘管肯亞法庭下令停建，但美國在肯亞蓋的伊波拉（Ebola）病毒隔離設施並未因此停建或關閉；7名此前在剛果民主共和國（Democratic Republic ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508882",
+          "published": "Fri, 17 Jul 2026 17:36:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "99歲女性登富士山跌倒獲救 警籲民眾考量自身狀態",
+          "summary": "一名99歲女性今（17日）在攀登富士山富士宮登山道途中無法動彈，隨後被縣警山岳遭難救助隊順利救出。對此，縣警特別呼籲大眾，應「考量自身登山經驗與體力等狀況，推動不勉強的登山計畫」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508823",
+          "published": "Fri, 17 Jul 2026 17:21:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
