@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-07-17T02:06:00.344200",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 23:57:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 16 Jul 2026 13:08:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普全國演說：美國重返強盛與安全",
+          "summary": "美國總統川普在美東時間16日晚間黃金時段發表全國演說，以誇耀政府政績作為開場。川普表示他要自豪報告，美國不但變安全，且已比以往任何時候更強大、更富裕。  根據外媒報導，川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508221",
+          "published": "Fri, 17 Jul 2026 10:00:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防堵左翼政治恐怖主義！魯比歐召集60國參與「反恐陣線」",
+          "summary": "美國國務卿魯比歐（Marco Rubio）16日召集來自超過60個國家的領袖與代表，共同參與川普政府打擊所謂「左翼政治恐怖主義」的最新行動；隨著今年期中選舉逼近，此事已成為共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508107",
+          "published": "Fri, 17 Jul 2026 09:35:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "把菲律賓人畫成猴子！中國官媒AI片延燒 菲國：種族歧視、踩到紅線",
+          "summary": "中國官方媒體日前發布1部影片，除將菲律賓比喻為猴子，更影射其受美國與日本指使才捍衛南海主權。菲律賓16日強烈譴責稱，這部由人工智慧（AI）生成、將菲律賓人描繪為猴子的影片，內容涉...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5508168",
+          "published": "Fri, 17 Jul 2026 09:30:35 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
