@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-17T21:46:07.207443",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+          "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 18:33:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+          "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 19:04:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+          "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditio…",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 21:14:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國重慶彭水山崩掩埋10多棟民宅 港媒：疑爆竹廠爆炸引發",
+          "summary": "中國重慶市彭水苗族土家族自治縣17日上午發生嚴重山崩，大量土石自山坡傾瀉而下，掩埋10多棟民宅，造成多人受困。官媒晚間指出，已有至少10人獲救，另有8人死亡、34人失蹤，緊急疏散超過1100名居民。據港媒報導，此次山體崩塌可能與附近爆竹廠的爆炸有關，爆炸導致地質鬆動，引發連續崩塌。目擊者稱現場垮塌的…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763113",
+          "published": "Sat, 18 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "習近平：反對AI領域泛化國家安全概念",
+          "summary": "上海人工智能大會演說 〔編譯張沛元／綜合報導〕第八屆世界人工智能（人工智慧，AI）大會（WAIC）十七日在上海開幕，中國國家主席習近平出席開幕式並發表演說，強調AI發展愈快，就愈應確保其安全可控，同時呼籲各國反對在AI領域泛化國家安全概念，以及AI的發展與應用不能損害世界文明多樣性與各國文化獨特性…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763112",
+          "published": "Sat, 18 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美軍連6晚打擊伊朗 包括發電廠",
+          "summary": "〔國際新聞中心／綜合報導〕美國和伊朗因為荷姆茲海峽問題而持續近一週的衝突十七日持續升級，伊朗的橋樑、電力、鐵路和港口關鍵設施等目標遭到美軍空襲。伊朗則將報復目標擴大至中東多國，伊斯蘭革命衛隊聲稱襲擊了位於卡達的烏代德美國空軍基地，科威特一座海水淡化廠也遭襲擊嚴重受損。 美軍在連續第六個夜晚的空襲中…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763111",
+          "published": "Sat, 18 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
