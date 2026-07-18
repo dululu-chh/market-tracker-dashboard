@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-18T21:45:25.782698",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Jul 2026 21:12:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+          "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+          "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Jul 2026 13:06:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hungary's president agrees to stand down after parliament backs removal",
+          "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Jul 2026 19:34:16 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美6.5兆軍火合約 五角大廈挖角華爾街高手把關",
+          "summary": "〔編譯張沛元／綜合報導〕華爾街日報十七日報導，為審查國防承包商的營運、投資軍火生產線，以及更快速擴充美國軍火庫，美國戰爭部（見圖，路透）已向華爾街借將，花費數月組建一支由銀行家、顧問與招募專家組成的小隊。 成立僅四年的美軍單位「戰略資本辦公室」（OSC）計劃在未來數年，對從飛彈生產到電信網路、其業…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763182",
+          "published": "Sun, 19 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美駐義大使超級遊艇抵威尼斯 數百人抗議川普政策",
+          "summary": "美國駐義大利大使、億萬富豪費爾蒂塔17日搭乘117公尺私人超級遊艇「Boardwalk」號抵威尼斯，引發數百民眾抗議。示威者高喊「讓美國走開」、「威尼斯不應被利用」等標語，反對美國中東政策與富豪炫富，試圖接近遊艇時與警方短暫推擠，抗議者高喊「可恥」，場面一度混亂。 據傳該遊艇價格高達4.5億美元（…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763185",
+          "published": "Sun, 19 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "為深海採礦鋪路 美擬標租薩摩亞周邊海域",
+          "summary": "〔編譯管淑平／綜合報導〕美國政府計畫標租南太平洋美屬薩摩亞周邊大片海域的礦產探勘權，為深海採礦鋪路。美國海洋能源管理局公布擬議公告，新設的海洋礦產管理局代理局長賈科納十六日聲明指出，關鍵礦物已成全球戰略資產，中國在多項礦物供應居主導地位，對美國能源、國防與製造業造成無法接受的風險。 計畫標租海域面…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763184",
+          "published": "Sun, 19 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
