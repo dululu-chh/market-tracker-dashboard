@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-18T14:22:54.613462",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+          "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+          "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Jul 2026 13:06:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+          "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 19:04:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+          "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 18 Jul 2026 11:48:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不堪烏軍猛攻「影子船隊」 俄抽調前線無人機部隊護航",
+          "summary": "烏克蘭近來利用無人機和無人艇，加強對俄羅斯能源設施和運輸路線的攻擊，已迫使俄國調整戰場部署，烏國軍方18日表示，俄國正把部分無人機部隊調離前線，轉向保護在黑海和亞速海的「影子船...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5509962",
+          "published": "Sat, 18 Jul 2026 22:04:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德黑蘭對以色列按兵不動  納坦雅胡誓言：若遭攻擊將劇烈回擊",
+          "summary": "美國新聞網「Axios」報導，此刻伊朗顧忌以色列可能發動的大規模報復行動，尚克制住攻擊特拉維夫的構想。以國總統納坦雅胡已發出警告，只要遭到德黑蘭攻擊，將展開有別於先前，威力更加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5509946",
+          "published": "Sat, 18 Jul 2026 21:57:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲因美伊對峙實質封鎖 船東坦言陷入「最壞情勢」",
+          "summary": "美國財經媒體CNBC報導，美伊近期劇烈對峙，荷姆茲海峽形同封鎖已是不爭事實。船東坦言，當前不再有人願意冒險渡航，荷姆茲再度陷入「最壞情勢」。  海事風險服務公司「馬里斯克斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5509956",
+          "published": "Sat, 18 Jul 2026 21:50:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
