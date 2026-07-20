@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-20T09:55:00.434271",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
+          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Jul 2026 19:45:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Food delivery rider wins China's top literary prize",
+          "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 03:53:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norway opens new memorial for victims of 2011 massacre",
+          "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 01:11:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍空襲擴至伊朗全境！核電城也挨炸 德黑蘭怒促IAEA公開譴責",
+          "summary": "美伊戰火20日再度升級！法新社報導，美軍空襲範圍已從荷姆茲海峽沿岸擴大至伊朗全境多個省份，南部核電重鎮布希爾（Bushehr）與北部大城大不里士（Tabriz）均遭攻擊。伊朗隨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511549",
+          "published": "Mon, 20 Jul 2026 17:08:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊荷姆茲角力升溫 伊朗：不容關鍵水道威脅國安",
+          "summary": "美國與伊朗的衝突越發激烈，為荷姆茲海峽進行的角力也持續升溫。美國中央司令部稱，美軍在美東時間19日晚上7時對伊朗發動新一輪空襲，目的是削弱伊朗軍事能力防止其攻擊穿越荷姆茲海峽的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511519",
+          "published": "Mon, 20 Jul 2026 17:05:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "世足》阿根廷首都球迷心碎暴動！警方動用催淚瓦斯、高壓水砲鎮壓",
+          "summary": "阿根廷在2026美加墨世界盃決賽中以0：1輸給西班牙，不少在阿國首都布宜諾斯艾利斯徹夜觀看球賽的民眾心碎，現場發生暴動，當局派出鎮暴警察以催淚瓦斯、高壓水砲鎮壓。  據《太陽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511466",
+          "published": "Mon, 20 Jul 2026 16:19:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
