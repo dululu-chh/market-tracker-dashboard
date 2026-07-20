@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-20T12:13:06.399474",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
+          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 19 Jul 2026 19:45:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Boy, 13, dies during World Cup celebrations in Spain",
+          "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 10:02:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+          "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 11:18:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國海警南海持棍傷人 菲律賓海軍1人遭打傷",
+          "summary": "中國與菲律賓再度在南海發生衝突，菲律賓國防部今（20）日指控中國海警以棍棒攻擊菲律賓海軍人員，造成1人頭部受傷，並PO出影片為證，中國國防部則尚未回應指控。  《路透》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511666",
+          "published": "Mon, 20 Jul 2026 19:05:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "PO文反共「回歸中華民國」 香港輕度智障男判刑2年4月",
+          "summary": "港版國安法文字獄再添一樁荒謬判決。1名領有身心障礙證明的23歲香港輕度智障男子，因在社群平台發文高喊「共產黨下台」、「回歸中華民國」，並宣傳台灣合法註冊的政黨，竟遭香港區域法院...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511639",
+          "published": "Mon, 20 Jul 2026 18:19:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍空襲擴至伊朗全境！核電城也挨炸 德黑蘭怒促IAEA公開譴責",
+          "summary": "美伊戰火20日再度升級！法新社報導，美軍空襲範圍已從荷姆茲海峽沿岸擴大至伊朗全境多個省份，南部核電重鎮布希爾（Bushehr）與北部大城大不里士（Tabriz）均遭攻擊。伊朗隨...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511549",
+          "published": "Mon, 20 Jul 2026 17:08:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
