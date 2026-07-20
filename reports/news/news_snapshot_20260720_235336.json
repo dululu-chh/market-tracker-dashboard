@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-20T23:53:34.678576",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump imposes 50% tariff on Canadian imports",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 22:26:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 21:09:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 21:30:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "震怒！川普斥伊朗殺美軍將付數倍代價 傳德黑蘭悄促停火",
+          "summary": "首次上稿 06:51更新時間 07:22 美軍3名官兵近日在中東地區陣亡，美國總統川普20日警告，伊朗要為他們殺害的每一名美國軍人付出「數倍」代價；此外，1名伊朗官員20日宣稱...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511895",
+          "published": "Tue, 21 Jul 2026 07:22:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "邊喊武統邊要捐款？廣西女哭洪災無台援 網直言：不再當傻白甜",
+          "summary": "首次上稿 07-20 22:44更新時間 07-21 06:56 中國近期接連受到梅莎、巴威颱風，以及持續性豪雨影響，廣西、浙江、遼寧等地區爆發嚴重洪災，造成當地傷亡慘重。災後...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511707",
+          "published": "Tue, 21 Jul 2026 06:56:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國社會戾氣重 江蘇妹貼文意外引爆中網共鳴",
+          "summary": "首次上稿 07-20 23:23更新時間 07-21 06:44 近年中國經濟下行，失業、欠薪等窘況在中網時有所聞，加上政府管控維穩力道加大，冤屈憤恨無處宣洩，甚至偶有「獻忠」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511758",
+          "published": "Tue, 21 Jul 2026 06:44:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
