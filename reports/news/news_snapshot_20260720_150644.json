@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-20T15:06:43.428252",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+          "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 11:18:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+          "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 14:14:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Boy, 13, dies during World Cup celebrations in Spain",
+          "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 10:02:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "邊喊武統邊要捐款？廣西女哭洪災無台援 網直言：不再當傻白甜",
+          "summary": "中國近期接連受到梅莎、巴威颱風，以及持續性豪雨影響，廣西、浙江、遼寧等地區爆發嚴重洪災，造成當地傷亡慘重。災後一名自稱來自中國廣西的女子，拍片分享遭洪水重創的家鄉，還崩潰哭訴洪災...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511707",
+          "published": "Mon, 20 Jul 2026 22:44:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "蓋亞那渡輪翻覆已知2死逾66人失蹤  船長及船員毒檢陽性還超載",
+          "summary": "南美國家蓋亞那近日發生重大船難，一艘據稱載了133人的渡輪18日晚間在北大西洋沿海翻覆沉沒，目前已確認2人罹難，另有超過66人下落不明。隨著調查深入，當局還發現船長和船員涉嫌在值...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511562",
+          "published": "Mon, 20 Jul 2026 22:12:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈瑪斯選出新領袖 停火談判代表哈雅接任政治局主席",
+          "summary": "巴勒斯坦伊斯蘭主義組織哈瑪斯（Hamas）今天宣布，負責與以色列進行間接停火協商的首席談判代表哈雅（Khalil al-Hayya）獲選為哈瑪斯政治局新任主席。  法新社報導，哈瑪斯發表...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5511773",
+          "published": "Mon, 20 Jul 2026 21:59:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
