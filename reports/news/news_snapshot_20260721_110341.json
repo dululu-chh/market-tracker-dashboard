@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-21T11:03:40.125463",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 09:16:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 09:48:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 10:43:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞360》中東雙海峽危機！中共複製鎖台？學者揭破解關鍵",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512905",
+          "published": "Tue, 21 Jul 2026 18:40:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南海仁愛暗沙衝突升溫！菲中罕見同日互召大使抗議",
+          "summary": "菲律賓總統府21日表示，總統小馬可仕（Ferdinand Marcos Jr.）召見中國駐馬尼拉大使。就在數小時前，馬尼拉駐北京使節也遭到中方召見；雙方互控在具爭議的南海挑起...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512904",
+          "published": "Tue, 21 Jul 2026 18:40:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國務院報告指中國在古巴運作3處情報設施 北京批美抹黑「賊喊捉賊」",
+          "summary": "美國國務院20日公布題為「古巴：21世紀共產主義之都」的100頁報告，指控中國在古巴維持「持續性的情報蒐集活動」，並實際運作島上18處已知信號情報（SIGINT）設施中的3處...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512880",
+          "published": "Tue, 21 Jul 2026 18:27:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
