@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-21T15:39:05.928562",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 11:42:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 09:48:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 10:43:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗最高領袖開戰受傷久未露面 總統曝兩人交流日漸增加",
+          "summary": "伊朗最高領袖穆吉塔巴（Mojtaba Khamenei）自美伊開戰受傷以來便不曾公開露面，令外界質疑他的健康狀況，不過總統裴澤斯基安（Masoud ​Pezeshkian）今（2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513135",
+          "published": "Tue, 21 Jul 2026 23:10:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "地獄級玩笑！廣播稱阿根廷世足奪冠突反轉 西班牙機長捉弄乘客挨轟",
+          "summary": "2026美加墨世界盃落幕，由西班牙擊敗阿根廷拿下大力神盃。一名西班牙機長在一架載滿著阿根廷乘客的飛機上，故意廣播讓乘客誤以為阿根廷贏得了世界盃冠軍，接著才揭曉「是西班牙贏了」，這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512978",
+          "published": "Tue, 21 Jul 2026 22:54:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "又有中共高管落馬！三峽集團廣西分公司總經理吳啟仁被查",
+          "summary": "中國中央紀委國家監察委員會今（21）日公告表示，中國長江三峽集團有限公司（三峽集團）廣西分公司總經理吳啟仁涉嫌嚴重違紀違法，目前正接受中央紀委國家監察長駐中國三峽集團軍科監察組管...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513069",
+          "published": "Tue, 21 Jul 2026 22:41:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
