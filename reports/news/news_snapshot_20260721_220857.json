@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-21T22:08:55.196745",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 19:57:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 18:07:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 17:33:22 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "封殺民主！尼加拉瓜總統奧蒂嘉宣布取消選舉",
+          "summary": "尼加拉瓜長期執政的總統奧蒂嘉（Daniel Ortega）宣布，將不再舉行任何選舉，徹底封堵反對勢力取得政權的途徑。此舉排除他明年任期屆滿時面臨的挑戰，進一步鞏固他與妻子共同掌控的政權。現年80歲、自2007年掌權至今的奧蒂嘉，19日晚間在紀念桑定革命（Sandinista revolution）的…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763555",
+          "published": "Wed, 22 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "仁愛暗沙衝突 美國務院譴責中國南海侵犯暴行",
+          "summary": "〔編譯林家宇／綜合報導〕美國國務卿魯比歐廿一日抵達菲律賓，出席東南亞國協（ASEAN）及四方安全對話（Quad）外交部長會議，在中國擴大南海野心之時，鞏固區域夥伴合作及安全承諾。美國國務院廿日也發布聲明，譴責最新一起中國海警對菲方海軍人員的攻擊事件。 魯比歐抵菲 重申2016年南海仲裁有效 承諾捍…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763551",
+          "published": "Wed, 22 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國軍艦首次在日EEZ實彈射擊 日嚴正交涉",
+          "summary": "〔駐日特派員林翠儀、國際新聞中心／綜合報導〕日本防衛省廿一日宣布，中國飛彈驅逐艦十九日在沖之鳥島附近的日本專屬經濟海域（EEZ），進行射擊訓練，這是防衛省首次確認並公布外國軍艦在日本EEZ內進行實彈演習。日本政府發言人木原稔與防衛大臣小泉進次郎均對此表示關注，日方已透過外交管道向中方提出交涉。 中…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1763552",
+          "published": "Wed, 22 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
