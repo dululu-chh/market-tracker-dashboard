@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-21T05:44:06.951979",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 00:34:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 02:41:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 21:30:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國嗨翻西班牙奪冠「中式碳水」地瓜飯立大功 被自家網友酸爆",
+          "summary": "西班牙在2026美加墨世界盃捧起大力神盃，中國媒體嗨稱在西班牙奪冠之路上「中式碳水」地瓜飯（中國稱紅薯飯）立了大功，這種硬要蹭的行為連自家網友都看不下去，紛紛留言狠酸。  據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512315",
+          "published": "Tue, 21 Jul 2026 13:39:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普點名伊朗地下核設施！以色列曝新情資：數千離心機已轉入山體",
+          "summary": "美國總統川普日前首度點名伊朗地下核設施「Pickaxe Mountain（鎬山）」可能成為攻擊目標後，《華爾街日報》21日獨家披露，以色列已向美方提出最新情報，認為伊朗去年秋天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512343",
+          "published": "Tue, 21 Jul 2026 13:11:32 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "荷姆茲海峽油輪又遇襲船員棄船逃生！伊朗稱：2油輪爆炸",
+          "summary": "伊朗伊斯蘭革命衛隊（IRGC）宣布，2艘油輪在荷姆茲海峽南部航線爆炸起火，英國海事貿易行動辦公室（UKMTO）今（21日）也透露，1艘油輪遭到不明飛行物擊中，水手們棄船逃生。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512262",
+          "published": "Tue, 21 Jul 2026 12:42:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
