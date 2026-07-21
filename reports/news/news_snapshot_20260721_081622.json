@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-21T08:16:20.662923",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 07:56:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 06:16:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 20 Jul 2026 21:30:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新英相宣布削減電費稅 就任後首項降低生活成本措施",
+          "summary": "英國大曼徹斯特市長柏南（Andy Burnham）20日成為英國新首相後，在今（21）日宣布從10月起取消英國家庭電費帳單的增值稅。這是柏南上任後為減輕數百萬英國民眾生活成本所...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512444",
+          "published": "Tue, 21 Jul 2026 15:42:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "7/21國際垃圾食物日！爽嗑「高熱量食品」 狂歡慶祝理由曝",
+          "summary": "每年7月21日是「國際垃圾食物日」（National Junk Food Day），可以盡情放縱自己享受平時被列為「高熱量」且「不健康」的美食。值得注意的是，這個節日並非任何國家...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512240",
+          "published": "Tue, 21 Jul 2026 15:36:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本首個酷暑日出現！ 岐阜縣郡上市測到40度高溫",
+          "summary": "日本列島受到高氣壓系統影響各地頻傳高溫，岐阜縣郡上市今（21日）下午1時56分（台灣時間中午12時56分）測到攝氏40度，這是日本氣象廳今年4月拍板將氣溫達40度以上的天氣正名為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5512406",
+          "published": "Tue, 21 Jul 2026 14:22:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
