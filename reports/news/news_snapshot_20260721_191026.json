@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-21T19:10:24.772039",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 18:07:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 17:33:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+          "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 21 Jul 2026 12:48:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "301調查關稅風波再起　美貿易代表指很快有行動",
+          "summary": "川普政府在最高法院裁定無權徵收全球關稅後，即引用貿易法122條開徵10%進口稅，並就301條款強迫勞動議題展開調查。貿易代表葛里爾今天表示，很快會對各國祭出新措施。他強調，將向國會及其他關係...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513173",
+          "published": "Wed, 22 Jul 2026 02:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法參議院通過法案　禁15歲以下兒童使用社群媒體",
+          "summary": "法國參議員今天通過禁止15歲以下兒童使用社群媒體的禁令。目前全球對社群媒體影響未成年人健康與安全的疑慮正日益增加。  路透社報導，如果國會下議院如同外界預期，於今天稍晚也通過這項草案，法國將...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513171",
+          "published": "Wed, 22 Jul 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國祭出新關稅　加拿大總理：正評估各項應對方式",
+          "summary": "美國總統川普（Donald Trump）計劃30天內對加拿大多項輸美商品加徵50%新關稅後，加拿大總理卡尼（Mark Carney）今天表示，他正在「評估各種應對選項」。  法新社報導，卡尼...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513168",
+          "published": "Wed, 22 Jul 2026 01:36:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
