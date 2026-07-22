@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-22T20:59:40.851736",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+          "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 20:05:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 18:57:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美FCC通過新規　禁售涉國安風險中國製關鍵硬體",
+          "summary": "美國聯邦傳播委員會（FCC）今天投票通過新規，禁止在美國銷售含有被認定構成國安風險、來自中國企業的關鍵硬體裝置。  路透社報導，美國聯邦傳播委員會握有一份企業清單，包括中國電信公司華為和中興...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514508",
+          "published": "Thu, 23 Jul 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美日澳印外長會議　研議加強支援東協制衡中國",
+          "summary": "美國、日本、澳洲與印度「四方安全對話」（Quad）外長會議今天在菲律賓首都馬尼拉舉行，針對南海、印太地區和中東局勢等議題交換意見。  共同社報導，「四方安全對話」外長發布聯合文件，內容涵蓋透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514505",
+          "published": "Thu, 23 Jul 2026 03:00:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美參院委員會通過法案　加強限制中國汽車進入美國市場",
+          "summary": "美國聯邦參議院商務、科學和交通委員會今天通過法案，強化美國政府禁止中國汽車製造商進入美國市場的措施，可能導致賓士（Mercedes-Benz）因中國投資持股，無法在美銷售車輛。  路透社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514497",
+          "published": "Thu, 23 Jul 2026 02:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
