@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-07-22T15:28:31.056054",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+          "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 14:49:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 10:15:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+          "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+          "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 15:19:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美沙擬簽署核協議！以色列剉咧等 在野痛批納坦雅胡被邊緣化",
+          "summary": "美國預計與沙烏地阿拉伯達成一項發展民用核子計畫的協議，似乎完全繞過以色列，在以國引發擔憂，在野陣營更強烈反彈，認為此舉可能在中東地區掀起核能發展競賽，甚至最後演變成核武開發。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514463",
+          "published": "Wed, 22 Jul 2026 23:25:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "李在明7/24出訪舊金山 將見黃仁勳等科技業領袖",
+          "summary": "韓國總統李在明預計7月24日至8月3日先後訪問美國、巴西、智利、阿根廷與德國，造訪舊金山期間，他將會晤晶片大廠輝達（NVIDIA）執行長黃仁勳等科技業領袖。  韓聯社報導，青瓦台國家安保...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514445",
+          "published": "Wed, 22 Jul 2026 22:59:00 +0800",
+          "keywords": [
+            "NVIDIA",
+            "晶片"
+          ]
+        },
+        {
+          "title": "伊朗擴大攻擊 歐盟增列避開約旦領空",
+          "summary": "美國和伊朗重燃戰火後，伊朗對中東的美國軍事設施打擊對象，擴大到約旦境內。歐盟航空安全總署（EASA）22日將約旦納入禁飛警示範圍，呼籲航空公司避免進入約旦領空。  路透22...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514443",
+          "published": "Wed, 22 Jul 2026 22:55:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
