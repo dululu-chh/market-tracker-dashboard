@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-22T08:16:13.515896",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 05:37:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+          "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 08:07:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+          "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 03:05:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "聽到新首相養狗秒轉身！ 英國「第一貓」拒訪畫面笑瘋380萬人",
+          "summary": "英國新首相柏南（Andy Burnham）20日正式上任，並成為英國政壇「第一貓」賴瑞（Larry）在位15年的生涯中，第7任「首席僕人」。對此，《CNN》記者前往唐寧街10號，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513776",
+          "published": "Wed, 22 Jul 2026 16:09:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國作弊集團栽在一道閃光！韓檢作弊網曝光 涉案者恐遭撤學位",
+          "summary": "一個藏在考生頸後的微型收發器突然發出光點，意外揭開一個橫跨4年的跨國韓語檢定（TOPIK）作弊網。南韓警方21日公布調查結果指出，監考人員察覺異狀後循線追查，查出一個以中國為據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513971",
+          "published": "Wed, 22 Jul 2026 16:09:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "機艙熱如蒸氣室！ 瑞安航空受困乘客「被迫買水」引怒火",
+          "summary": "歐洲最大廉價航空「瑞安航空」（Ryanair）從西班牙巴塞隆納飛往英國曼徹斯特的FR6597號班機，在跑道上嚴重延誤，乘客爆料被「困」在40℃的高溫機艙內長達2個多小時，甚至還被...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5513773",
+          "published": "Wed, 22 Jul 2026 15:58:19 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
