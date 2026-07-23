@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-23T05:48:07.389325",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 00:21:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+          "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 03:48:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熱浪2週釀「超額死亡」暴增5764人 法國公衛署驚呆：前所未見",
+          "summary": "高溫熱浪上月席捲法國，氣溫一度突破40度，造成巴黎地區死亡人數爆增，最新統計顯示，6月中旬起熱浪席捲法國兩週的時間內，法國記錄了至少5764例超額死亡，比正常預期數字暴增36%。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514942",
+          "published": "Thu, 23 Jul 2026 13:30:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "去年才血腥激戰！泰國蓋「防彈邊境牆」防柬埔寨再延7公里",
+          "summary": "泰國與柬埔寨去（2025）年因邊界主權爭議兩度駁火，造成近150人死亡、30萬人流離失所。儘管雙方達成停火協議，泰國仍持續強化邊境防禦，昨（22）日宣布已完成泰柬邊境首段長1.3...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514913",
+          "published": "Thu, 23 Jul 2026 13:27:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國洪災頻發災區慘況瘋傳！中共氣壞展開集中清理大抓人",
+          "summary": "中國近來頻傳天災，洪災尤其嚴重，災區滿目瘡痍的慘況在網路上瘋傳，而此事已引發官方關切。中共日前發出通知，將展開汛期災害事故「違法不良」資訊「集中清理整治」，調查有「移花接木」、「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5514886",
+          "published": "Thu, 23 Jul 2026 13:08:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
