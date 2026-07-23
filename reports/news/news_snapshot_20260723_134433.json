@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-23T13:44:32.533948",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+          "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 13:32:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+          "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 03:48:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "France evacuates 20,000 as wildfires spread in south-west",
+          "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 13:25:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本熊本超商搶案 男子持刀拒捕遭警方開槍擊傷",
+          "summary": "日本熊本縣昨日晚間發生一起超商持刀搶劫案。一名21歲男子持刀闖入合志市一間全家便利商店企圖搶劫，警方獲報後火速趕往現場，開槍擊中對方，嫌犯中彈受傷送醫，目前生命跡象穩定，全案已由...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515288",
+          "published": "Thu, 23 Jul 2026 21:24:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "怕了烏克蘭無人機突襲 俄國最大進出口港夜間禁航",
+          "summary": "受烏克蘭無人機頻頻打擊境內重要設施影響，俄羅斯臨黑海的諾沃羅西斯克港（Novorossiysk）暫時禁止船舶在深夜進出，另外，俄國也加強對亞速海、克赤海峽航運的限制。  路...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515668",
+          "published": "Thu, 23 Jul 2026 21:22:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美沙核能協議有前提  川普：取決於沙以關係正常化",
+          "summary": "美國22日宣布和沙烏地阿拉伯達成協議，將向沙國提供核能技術。美沙民用核能合作，升高中東核擴散和軍備競賽的疑慮。美國總統川普23日表示，這項協議不涉及濃縮鈾，而且「完全取決於」沙...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515650",
+          "published": "Thu, 23 Jul 2026 21:02:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
