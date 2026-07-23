@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-23T17:16:19.609303",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices hit $100 for the first time since May",
+          "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 15:31:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+          "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 16:17:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France evacuates 20,000 as wildfires spread in south-west",
+          "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 16:41:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "產油大國竟求援！烏無人機重創煉油廠 俄被迫進口印度汽油",
+          "summary": "由於烏克蘭無人機攻擊摧毀了境內主要煉油廠的部分設施，俄羅斯被迫進口汽油，並即將接收一批來自印度的燃油，凸顯俄國燃油短缺的嚴重程度。  英國「金融時報」23日報導，在此前遭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515761",
+          "published": "Fri, 24 Jul 2026 00:51:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "抗衡中國太平洋擴張！紐西蘭與巴紐簽署3年防衛合作協議",
+          "summary": "在太平洋地區戰略競爭加劇，以及中國影響力不斷擴張之際，紐西蘭與巴布亞紐幾內亞22日晚間簽署一項防衛合作協議，將擴大雙方的防務對話、訓練、軍事演習及人員交流。  路透報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515758",
+          "published": "Fri, 24 Jul 2026 00:25:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瑞典宣布衣服廚具禁用PFAS 2028年起生效",
+          "summary": "瑞典23日宣布，當局規劃最早在2028年禁止在服裝與廚具等消費產品中，使用所謂的「永久性化學物質」（forever chemicals）全氟烷基化合物（PFAS）。  瑞典...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515752",
+          "published": "Fri, 24 Jul 2026 00:07:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
