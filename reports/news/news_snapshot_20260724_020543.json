@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-24T02:05:41.972424",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+          "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 00:40:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices hit $100 for the first time since May",
+          "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 15:31:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+          "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:19:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美司法部撤回紐時記者傳票 暫平川普專機報導風波",
+          "summary": "美國司法部今天撤回向「紐約時報」（New York Times）記者發出的傳票。該案源於紐時幾名記者曾報導卡達贈送給總統川普的一架飛機存在安全疑慮。  法新社報導，紐時表示，聯邦檢察官在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515904",
+          "published": "Fri, 24 Jul 2026 09:59:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "西班牙野火迫1萬人撤離 首都馬德里及周邊進入緊急狀態",
+          "summary": "西班牙23日晚間宣布，首都馬德里及周邊地區和附近的阿維拉省（Avila）進入國家緊急狀態，原因是多處野火失控燃燒。  根據《法新社》報導，西班牙內政部表示，此項措施旨在加快...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515877",
+          "published": "Fri, 24 Jul 2026 09:37:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗伸手鐵證！路透：革命衛隊空降葉門 運飛彈、黃金助叛軍",
+          "summary": "4名消息人士透露，伊朗本月已將伊斯蘭革命衛隊（IRGC）指揮官、軍事顧問，以及飛彈與無人機等軍事裝備空運至葉門，顯示德黑蘭正積極強化其盟友、葉門叛軍「青年運動」（Houthis，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5515812",
+          "published": "Fri, 24 Jul 2026 09:18:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
