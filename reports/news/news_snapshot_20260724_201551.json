@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-24T20:15:49.959117",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 18:51:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 18:57:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+          "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+          "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 18:13:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不滿歐盟重罰Google　川普揚言啟動301調查並課關稅",
+          "summary": "美國總統川普不滿歐洲聯盟（EU）近日對谷歌（Google）開出的最新反托拉斯罰款，今天揚言將對其祭出關稅並啟動正式貿易調查。  法新社報導，川普在自家社群平台「真實社群」（Truth Soc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516982",
+          "published": "Sat, 25 Jul 2026 03:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "紐西蘭北島遭規模5.8地震侵襲　深度10公里",
+          "summary": "歐洲地中海地震中心（EMSC）表示，紐西蘭北島（North Island）地區今天遭規模5.8地震侵襲。     根據EMSC，這次地震深度為10公里。（編譯：徐睿承）1150725…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516979",
+          "published": "Sat, 25 Jul 2026 02:30:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "塞爾維亞太過親俄 美國會跨黨派議員遊說「OSCE年會」在南卡州辦",
+          "summary": "美國國會跨黨派議員正在聯手推動1項議案，力主讓南卡羅來納州查爾斯頓（Charleston）、而非東歐國家塞爾維亞首都貝爾格勒，主辦2027年「歐洲安全暨合作組織」（OSCE）年...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516956",
+          "published": "Sat, 25 Jul 2026 00:07:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
