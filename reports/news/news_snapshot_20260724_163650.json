@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-24T16:36:48.982303",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US hits dozens of countries with new wave of tariffs",
+          "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 12:40:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+          "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+          "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 15:22:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+          "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 13:33:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "塞爾維亞太過親俄 美國會跨黨派議員遊說「OSCE年會」在南卡州辦",
+          "summary": "美國國會跨黨派議員正在聯手推動1項議案，力主讓南卡羅來納州查爾斯頓（Charleston）、而非東歐國家塞爾維亞首都貝爾格勒，主辦2027年「歐洲安全暨合作組織」（OSCE）年...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516956",
+          "published": "Sat, 25 Jul 2026 00:07:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗灌輸恐懼 開戰後已擴大處決49名政治犯",
+          "summary": "美國聯合以色列對伊朗的戰爭持續之際，德黑蘭當局藉戰時狀態，大規模執行死刑。人權團體統計，戰爭爆發以來，伊朗已有49人因參與抗議、被控與遭查禁組織有關或涉及間諜罪等理由遭處決。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516922",
+          "published": "Fri, 24 Jul 2026 23:33:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普7/28會晤納坦雅胡  是否再聯手打擊伊朗引關注",
+          "summary": "美國網路媒體Axios24日報導，美國總統川普將於下週二（28日）在白宮會見以色列總理納坦雅胡。以色列總理辦公室已發布聲明證實此行程。   　報導稱，川普正考慮恢復對伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516937",
+          "published": "Fri, 24 Jul 2026 23:26:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
