@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-24T08:14:50.735562",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US hits dozens of trading partners with new wave of tariffs",
+          "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 07:12:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil prices hit $100 for the first time since May",
+          "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 15:31:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+          "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:19:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "瑞士男攀富士山送醫不治 日本99歲老婦獲救",
+          "summary": "日本當局今（24）日表示，1名58歲的瑞士男子在攀登富士山時失去意識後死亡，同日救援人員成功救出了1名受傷的99歲的日本老婦。  根據《法新社》報導，日本警方指出，瑞士男子...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516388",
+          "published": "Fri, 24 Jul 2026 15:49:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國連13晚空襲伊朗 德黑蘭稱襲擊巴林和約旦美軍基地",
+          "summary": "美國和伊朗不斷交火，衝突持續升溫。美國中央司令部稱，美軍於美東時間23日晚上9時完成對伊朗的空襲，這是美國連續13晚空襲伊朗。伊朗軍方今（24）日表示，為報復美國近期的攻擊，將...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516308",
+          "published": "Fri, 24 Jul 2026 15:04:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "比韓劇還曲折！SK會長崔泰源「世紀離婚案」重審 須付前妻208億",
+          "summary": "南韓財閥SK集團會長崔泰源與前總統盧泰愚之女盧素英的「世紀離婚案」歷經近9年訴訟，法院今（24）日公布最新判決。韓媒《東亞日報》報導，南韓法院於台灣時間下午1時宣判，裁定65歲的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5516195",
+          "published": "Fri, 24 Jul 2026 14:57:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
