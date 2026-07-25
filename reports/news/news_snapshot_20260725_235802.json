@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-25T23:57:55.230676",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:13:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:44:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "羅生門！日中外長見面了？矢板明夫分析「中國說謊怕被罵」",
+          "summary": "日本外務大臣茂木敏充23日表示，他在22日曾與中國外交部長王毅短暫交談，雙方談及日中關係。這也是去年底日中關係惡化以來，兩國外長首次面對面接觸。資深媒體人矢板明夫觀察指出，茂木敏...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517830",
+          "published": "Sun, 26 Jul 2026 07:43:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍連續空襲伊朗13天後喊停  美媒爆：川普親自下令",
+          "summary": "美國中央司令部（CENTCOM）連續13天對伊朗軍事目標發動夜間打擊後，不過伊朗方面通報24日夜間沒有遭到襲擊，為兩週來夜襲首次暫停。據兩名知情人士透露，是美國總統川普24日親自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517829",
+          "published": "Sun, 26 Jul 2026 07:18:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "汽車衝撞柏林同志大遊行 釀1死15傷活動取消",
+          "summary": "一輛汽車今天晚間衝入德國柏林知名的同志大遊行人群，造成1人死亡，至少15人受傷，警方隨即在活動才剛開始幾小時後就緊急宣布取消這場遊行。  警方在社群平台X上表示，正與救援人員一同前往市中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517828",
+          "published": "Sun, 26 Jul 2026 07:05:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
