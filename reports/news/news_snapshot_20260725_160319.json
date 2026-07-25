@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-25T16:03:17.605375",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+          "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 06:34:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 00:06:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "敘利亞中部兩輛巴士相撞 釀35死30傷慘劇",
+          "summary": "敘利亞國營媒體指出，連接首都大馬士革與東部代爾祖爾省（Deir ez-Zor）的一條公路今天發生兩輛巴士相撞事故，目前已造成35人喪命。  敘利亞新聞社（SANA）引述衛生當局官員說法報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517752",
+          "published": "Sat, 25 Jul 2026 23:58:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "葉門叛軍稱襲擊沙烏地紅海石油設施 嗆升級攻勢",
+          "summary": "與伊朗結盟的葉門叛軍「青年運動」今天聲稱，他們襲擊了沙烏地阿拉伯在紅海沿岸的石油設施，並揚言若再遭沙烏地攻擊，將升高報復行動。  法新社報導，青年運動（Houthi）軍事發言人薩里（Ya...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517757",
+          "published": "Sat, 25 Jul 2026 23:53:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊斯蘭革命衛隊：船隻想通過荷姆茲海峽 24小時攔4艘",
+          "summary": "伊朗伊斯蘭革命衛隊今天表示，其部隊在過去24小時內攔截了4艘試圖通過戰略要地荷姆茲海峽的船隻。  伊朗國營電視台報導，伊斯蘭革命衛隊（IRGC）的聲明指出：「在過去24小時內，有4艘船隻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517777",
+          "published": "Sat, 25 Jul 2026 23:44:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
