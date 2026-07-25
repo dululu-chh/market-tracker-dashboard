@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-25T20:12:20.865408",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:13:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 17:44:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄擬徵3萬北韓兵參戰　澤倫斯基：烏克蘭將回應威脅",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）今天指出，俄羅斯計劃徵召3萬名北韓士兵，參與這場已持續超過4年的衝突，且已著手準備接收這批部隊。  澤倫斯基強調，烏克蘭將對此威脅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517817",
+          "published": "Sun, 26 Jul 2026 03:22:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "路透：美官員欲質疑巴西大選公正性　簽證申請遭拒",
+          "summary": "兩名了解內情的巴西官員今天告訴路透社，巴西已拒絕兩名美國總統川普（Donald Trump）政府官員的簽證申請。這兩名美方官員原本計劃前往巴西，意圖對該國選舉制度的公正性提出質疑。  由於相...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517816",
+          "published": "Sun, 26 Jul 2026 03:00:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈薩克總統與普丁同台　呼籲凍結烏克蘭戰事",
+          "summary": "哈薩克總統托卡葉夫（Kassym-Jomart Tokayev）今天表示，若俄羅斯與烏克蘭衝突雙方同意凍結戰事並恢復談判，烏克蘭和平協議或許有望達成。  路透社報導，托卡葉夫與俄羅斯總統普丁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5517813",
+          "published": "Sun, 26 Jul 2026 01:06:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
