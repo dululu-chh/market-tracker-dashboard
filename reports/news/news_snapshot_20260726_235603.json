@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-26T23:56:01.492896",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 19:21:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 20:34:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 21:23:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "突然停轟伊朗？美官員曝「打完所有目標」 德黑蘭回應了",
+          "summary": "在美國總統川普的顧問告知其可供打擊的目標已所剩無幾，且對美軍武器庫存消耗情況表達擔憂後，美國已決定暫停轟炸伊朗。與此同時，1名伊朗高階官員26日告訴路透，只要美國停止攻擊，伊朗也...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518636",
+          "published": "Mon, 27 Jul 2026 07:41:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗戰爭死亡人數下降遭質疑「蓋牌」  美五角大廈更改統計類別",
+          "summary": "美國與伊朗之間在最近幾週再次爆發衝突，造成4名美軍士兵死亡，多名士兵受傷，不過在美國國防部統計的「伊朗戰爭」傷亡人數卻出現異常，這4名殉職士兵被移除，引發外界質疑是否在掩蓋人員傷...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518635",
+          "published": "Mon, 27 Jul 2026 07:29:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傳派兵數千人！美特戰部隊擬深入伊朗核陷阱 強奪9噸濃縮鈾",
+          "summary": "首次上稿 00:38更新時間 06:58 隨著華府與德黑蘭之間的核談判陷入僵局，美國軍方正研擬動用極端手段的「核選項」（Nuclear option）。知情軍方規劃人士透露...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518611",
+          "published": "Mon, 27 Jul 2026 06:58:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
