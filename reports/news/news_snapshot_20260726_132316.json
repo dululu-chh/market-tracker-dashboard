@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-26T13:23:14.323871",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 11:41:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 11:29:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "甘肅大雨山洪  渭源縣一景區10人罹難",
+          "summary": "新華社報導，甘肅省定西市渭源縣政府表示，渭源縣一景區今天下午受短時強降雨影響，引發山洪，致部分露營遊客被困。截至晚上6時，已有10人罹難、23人受傷。  新華社報導，當地公安、消防等已到...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518434",
+          "published": "Sun, 26 Jul 2026 20:09:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "受夠了！連3天擊落3架無人機 羅馬尼亞總統痛批俄入侵領空",
+          "summary": "在軍方3天來累計共擊落3架擅闖領空的無人機後，羅馬尼亞總統達恩（Nicusor Dan）26日指控俄羅斯無人機擅闖領空，「令人無法接受與難以容忍」；羅國外交部將召見俄羅斯大使表...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518385",
+          "published": "Sun, 26 Jul 2026 18:59:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "演員也遭殃！小粉紅罕見倒戈抵制 中國統戰大片《澎湖海戰》2度撤檔",
+          "summary": "一部旨在宣揚與台灣「統一」的中國「主旋律」電影，近期罕見遭到中國「小粉紅」的強烈反彈與抵制，導致該片何時上映陷入未定之天。  香港「南華早報」26日報導，這部名為「澎湖海...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518399",
+          "published": "Sun, 26 Jul 2026 18:57:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
