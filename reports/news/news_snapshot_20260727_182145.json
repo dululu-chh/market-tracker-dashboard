@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-27T18:21:43.735524",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+          "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 17:50:42 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Devastating European wildfires in maps - and how they're being tackled",
+          "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+          "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 15:59:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普透露美伊談判　若談不攏恐恢復並擴大打擊",
+          "summary": "美國總統川普今天接受美國媒體Axios訪問時表示，他決定暫停攻擊伊朗以保留另一個談判機會，不過，他也強調，若外交努力失敗，可能會恢復並擴大軍事行動。  Axios指出，最近的美伊談判著重在重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519737",
+          "published": "Tue, 28 Jul 2026 01:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "習近平快看！最新研究揭露人類壽命極限  驚見上千歲怪物",
+          "summary": "隨著醫療科技越來越進步、養生保健資訊普及，現代人壽命越來越長。不過從古至今，「長生不老」是否能夠實現，相信是不少人都相當好奇的答案。近期俄羅斯一份研究揭露，在排除所有致病與衰老因...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519708",
+          "published": "Tue, 28 Jul 2026 01:35:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "抗議被與北韓相提並論 美國代表罕見安理會離席杯葛法國發言",
+          "summary": "聯合國安全理事會27日召開聚焦烏克蘭戰爭的會議時，出現罕見的外交抗議場面。當法國大使發言時，美國代表團直接離席杯葛，以抗議法國此前在人權表決議題上，將美國與北韓及其他威權國家...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519733",
+          "published": "Tue, 28 Jul 2026 01:16:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
