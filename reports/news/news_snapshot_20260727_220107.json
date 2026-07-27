@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-27T22:01:05.496137",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 20:34:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國去年砸32億 圖謀在美帶風向",
+          "summary": "專家︰揭露的僅冰山一角 還有許多中國影響力運作完全避開監管 〔國際新聞中心／綜合報導〕美國總統川普日前發表演說指控中國干預美國大選，再度引發外界對北京在美影響力運作的關注。聯邦公開紀錄顯示，中國政府、國營媒體與中資企業長年透過「外國代理人登記法」（FARA）與「遊說公開法」（LDA）投入鉅資，試圖…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1764350",
+          "published": "Tue, 28 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "檢討索中安全保障協議》索羅門總理︰深化與美日澳紐合作",
+          "summary": "〔駐日特派員林翠儀／東京廿七日報導〕上週接連訪問美國與日本的南太平洋島國索羅門群島總理瓦爾（Matthew Wale），日前接受日本媒體專訪時表示，有意重新檢討二〇二二年與中國簽署的安全保障協議，並強調將重視與日本、美國、澳洲及紐西蘭等「傳統夥伴國家」的合作關係。   索羅門群島二〇一九年與台…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1764351",
+          "published": "Tue, 28 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本擬立法 用AI重製他人聲音「侵權」",
+          "summary": "法務省報告︰聲音為人格象徵 應受法律保護 〔駐日特派員林翠儀／東京廿七日報導〕賴清德總統的聲音遭到前國民黨小編以人工智慧（AI）技術惡意仿製的深度偽造（Deepfake）事件，引發各界對「聲音權」保障的關注。日本法務省專家檢討會廿七日通過報告書草案，首度明確指出，個人聲音與姓名、肖像同屬人格象徵，…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1764354",
+          "published": "Tue, 28 Jul 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
