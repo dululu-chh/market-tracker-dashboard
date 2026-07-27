@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-27T06:22:48.878251",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 00:27:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 19:21:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 20:34:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "野火竟引發「火積雨雲」閃電播火！法動員軍方搶救航太基地",
+          "summary": "歐洲極端野火肆虐持續惡化，法國與西班牙至今累計已有約37萬名居民被迫撤離家園。位於法國西南部的吉倫特省（Gironde）災情最為慘重，法國救災單位27日發出最新警示，當地強烈野...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519158",
+          "published": "Mon, 27 Jul 2026 14:17:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國小咖偶像霸佔高鐵座位還稱是票務出錯 遭官方打臉後倉皇道歉",
+          "summary": "中國知名度不高的男偶像李權哲（和台灣歌手李權哲同名不同人），24日搭乘北京至珠海的高鐵G1043車次準備出席活動，孰料竟霸佔其他買票旅客的座位並拒絕讓開，事後活動主辦方還稱是票務...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519090",
+          "published": "Mon, 27 Jul 2026 14:02:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普空襲喊卡內幕！美中央司令部指揮官建言：轟炸效果已達極限",
+          "summary": "在連續13天空襲伊朗後，美國總統川普突下令暫緩對伊朗發動新一輪攻擊，相關決定引發討論，有美國媒體爆料，美軍中東最高軍事指揮官、中央司令部（CENTCOM）司令古柏（Brad Co...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519049",
+          "published": "Mon, 27 Jul 2026 13:35:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
