@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-27T02:23:40.232015",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 18:40:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 19:21:26 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 20:34:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "納坦雅胡批紐約市長煽動仇恨 稱聯合國大會行程不變",
+          "summary": "以色列總理納坦雅胡預計9月出席在紐約舉行的聯合國大會，呼籲逮捕納坦雅胡的紐約市長曼達尼（Zohran Mamdani）21日承認，紐約市無權在納坦雅胡訪美期間根據國際刑事法院簽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518749",
+          "published": "Mon, 27 Jul 2026 10:14:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慘！日本佐賀民宅火災 2大人2小學女童喪命",
+          "summary": "太慘了！日本佐賀縣伊萬里市瀨戶町1棟2層樓高的民宅，於今天（27日）清晨5時30分許發生火災，消防隊前往撲救後將昏迷的2名大人、2名小學女童送往醫院搶救，可惜最終全數不治。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518771",
+          "published": "Mon, 27 Jul 2026 10:05:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "衝撞柏林遊行恐攻嫌犯藏菜園持刀襲警 被當場擊斃",
+          "summary": "震撼德國的柏林同志大遊行汽車衝撞恐怖攻擊案有重大進展。21歲的重大嫌疑人阿卜杜勒·巴勞特（Abdul Ballout）在警方圍捕行動中，於柏林西區一處菜園棚屋遭特警攻堅擊斃。德...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5518767",
+          "published": "Mon, 27 Jul 2026 09:59:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
