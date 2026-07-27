@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-27T23:11:14.830120",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 20:34:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "探底！路透民調：僅3分之1美國人支持伊朗戰爭 近7成不滿川普這事",
+          "summary": "路透／益普索（Reuters/Ipsos）27日公布最新民調顯示，僅約3分之1的美國人支持對伊朗戰爭，創下這場持續5個月衝突爆發以來的最低水準。多數受訪者認為，美國總統川普並未清...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519762",
+          "published": "Tue, 28 Jul 2026 06:55:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普再給伊朗談判機會 若談不攏將恢復並擴大美軍打擊",
+          "summary": "美國目前暫停對伊朗的空襲行動，美國總統川普27日表示，是他決定暫停打擊伊朗，藉此再給談判一次機會，不過川普強調，若外交管道失敗，他可能會下令恢復軍事行動，規模也會更大。  根...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519760",
+          "published": "Tue, 28 Jul 2026 06:40:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美駐多倫多領事館再遭槍擊！傳兇手逃逸無人傷",
+          "summary": "美國駐加拿大多倫多領事館於當地時間週一清晨遭到槍擊，所幸無人受傷，不過這也是近4個月來的第2起類似事件。  綜合外媒報導，據警方指出，位於多倫多市中心的美國領事館遭到槍擊，警...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519755",
+          "published": "Tue, 28 Jul 2026 06:26:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
