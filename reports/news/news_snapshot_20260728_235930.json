@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-28T23:59:28.798776",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+          "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 16:14:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa and PM criticise Infantino World Cup plan",
+          "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+          "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+          "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 18:19:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本強震178處設施關閉 45家醫療院所受損",
+          "summary": "日本熊本縣昨天下午4點27分（台灣時間28日下午3點27分）發生規模7.1強震，在當地造成嚴重災情，據外媒消息指出，受地震影響不少建物受損，包括學校、觀光景點在內，當局已關閉17...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521085",
+          "published": "Wed, 29 Jul 2026 07:49:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗向中東美軍「突襲」射彈 美中央司令部：已全數攔截",
+          "summary": "美國與伊朗目前暫時停止互轟，不過伊朗28日疑似又有新動作，美國中央司令部（CENTCOM）指出，伊朗試圖發射飛彈突襲美軍部隊，不過美軍已成功攔截所有伊朗飛彈。  中央司令部指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521086",
+          "published": "Wed, 29 Jul 2026 07:18:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊拉克捲衝突！沙烏地石油設施遭無人機攻擊 伊朗暗挺民兵作亂",
+          "summary": "沙烏地阿拉伯28日證實，該國防空系統攔截並摧毀數架自伊拉克境內發射、企圖攻擊沙國東部省（Eastern Province）重要石油設施的無人機。  路透報導，這是不到2天內發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521074",
+          "published": "Wed, 29 Jul 2026 07:16:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
