@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-28T16:02:03.352480",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+          "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 13:25:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa reacts with fury to Infantino World Cup plan",
+          "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+          "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "應對南海緊張、中國威脅！ 歐盟首度援助菲律賓5.5億元",
+          "summary": "因應南海局勢持續升溫，歐盟部長理事會（Council of the European Union）已正式通過，首度動用「歐洲和平機制」（EPF），向菲律賓提供1500萬歐元（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521027",
+          "published": "Tue, 28 Jul 2026 23:40:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本強震後商場坍塌 行車紀錄器拍下爆炸瞬間",
+          "summary": "日本熊本縣今天傍晚發生震度7強震，距離2016年熊本地震滿10年，再度遭遇強烈地震侵襲。地震造成南部多棟建築倒塌，其中嘉島町的「永旺夢樂城熊本」在強震後發生爆炸，商場2樓部分區域坍塌，疑似仍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521020",
+          "published": "Tue, 28 Jul 2026 23:39:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本強震多處坍塌！商場與工廠爆死傷 兩大醫院已收治逾百名傷患",
+          "summary": "朝日電視新聞今晚報導，熊本縣嘉島町大型商業設施永旺購物城（AEON Mall）已確認至少有數人死亡。由於建築物內仍可能有人受困，消防等單位將持續展開搜救行動。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520988",
+          "published": "Tue, 28 Jul 2026 23:11:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
