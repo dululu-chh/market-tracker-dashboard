@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-28T13:50:20.659839",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+          "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+          "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 09:32:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+          "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 11:50:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "強震後爆炸！熊本AEON商場2樓坍塌 傳出30人受困",
+          "summary": "日本熊本縣於當地時間今日下午4點27分左右，發生芮氏規模7.1、震源深度僅10公里的極淺層強震，多地發生災情，而熊本AEON「永旺夢樂城」（イオンモール熊本）地震後又傳出爆炸事故...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520895",
+          "published": "Tue, 28 Jul 2026 21:41:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本大地震首例死亡！ 至少179人受傷送醫  AEON有30人疑失聯......",
+          "summary": "首次上稿 21:34更新時間 21:40  日本熊本縣今天下午4點27分（台灣時間28日下午3點27分）左右，發生芮氏規模7.1、震源深度僅10公里的極淺層強震，最大震度7級...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520896",
+          "published": "Tue, 28 Jul 2026 21:40:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基抵美 將與川普會談、出席參議員葛蘭姆喪禮",
+          "summary": "「基輔獨立報」報導，烏克蘭總統澤倫斯基今天表示，他已抵達美國，準備展開正式訪問。澤倫斯基除將與美國總統川普會談，也將出席聯邦參議員葛蘭姆的喪禮。  根據基輔獨立報（The Kyiv In...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520923",
+          "published": "Tue, 28 Jul 2026 21:18:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
