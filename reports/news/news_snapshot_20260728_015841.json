@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-28T01:58:40.536830",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 20:34:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "太殘忍！日本雫石町捕熊後將其淹死 岩手縣府震怒警告",
+          "summary": "太殘忍了！日本岩手縣雫石町本月中旬在民宅土地上設置罐式陷阱，捕捉到1頭熊後竟將牠活活淹死，完全不符合岩手縣對動物安樂死的作法，縣府對此已向雫石町發出警告。  據《TBS》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519849",
+          "published": "Tue, 28 Jul 2026 09:44:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "轉發斷頭台T恤圖惹爭義 英國綠黨遭指控威脅改革黨領導人",
+          "summary": "由法拉吉（Nigel Farage）領導的英國改革黨27日表示，已向警方舉報1張由綠黨領導人波蘭斯基（Zack Polanski）在社群媒體上轉發的文章。該文章包含斷頭台T恤圖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519835",
+          "published": "Tue, 28 Jul 2026 09:42:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚！453架美波音737 MAX座椅安裝錯誤 存在安全隱患",
+          "summary": "美國聯邦航空總署（FAA）27日發布通告，指稱在境內註冊的453架波音737 MAX客機座椅安裝出錯，需要進行修正，否則在迫降的情況下恐會讓乘客受傷。  據《路透》報導，FA...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5519832",
+          "published": "Tue, 28 Jul 2026 09:10:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
