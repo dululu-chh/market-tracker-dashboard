@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-07-28T11:12:34.991294",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky to press Trump on air defences while in Washington",
+          "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 10:41:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+          "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+          "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 09:32:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "才剛發生大地震！熊本AEON購物商場驚傳大爆炸  建物全毀畫面曝",
+          "summary": "日本熊本縣今天下午4點27分（台灣時間28日下午3點27分）左右，發生芮氏規模7.1、震源深度僅10公里的極淺層強震，最大震度7級。強震發生過後逾1小時，熊本知名商場「永旺夢樂城...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520708",
+          "published": "Tue, 28 Jul 2026 18:55:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本7.1強震》全日空所有飛往熊本、長崎的航班均暫停",
+          "summary": "日本九州熊本縣今（28日）下午發生規模7.1強震，氣象廳已對有明海及八代海發布海嘯注意報，此地震導致全日空往熊本和長崎的航班均暫停營運，多起航班改道。  據…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520627",
+          "published": "Tue, 28 Jul 2026 18:54:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本7.1強震「上海也有感」！日本氣象廳揭原因",
+          "summary": "日本熊本縣今天下午4時27分（台灣時間下午3時27分）發生芮氏規模7.1強震，最大震度達7級。除了日本有明顯搖晃外，就連距離震央約900公里的中國上海，也有不少民眾表示明顯感受到...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520736",
+          "published": "Tue, 28 Jul 2026 18:42:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
