@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-28T08:24:27.485524",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+          "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+          "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+          "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 01:53:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本7.1強震波及南韓！ 多地感受搖晃 釜山報案電話響不停",
+          "summary": "日本九州熊本縣今（28）日下午發生規模7.1地震，強烈震波甚至跨海波及朝鮮半島！南韓部分地區均感受到明顯震動，其中位於朝鮮半島東南端的釜山消防當局已接獲多達157件報案，部分地區...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520454",
+          "published": "Tue, 28 Jul 2026 16:20:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "快看！出席韓戰停戰73週年晚會 金正恩罕見眼眶含淚",
+          "summary": "非常罕見！北韓領導人金正恩，27日晚間帶著女兒金主愛出席「祖國解放戰爭勝利紀念日（韓戰停戰協議簽署日）」73週年儀式，在觀看晚會表演時感動得眼眶含淚。  據《韓聯社》報導，北...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520376",
+          "published": "Tue, 28 Jul 2026 16:16:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本熊本規模7.1強震 娃娃機店天花板玻璃震碎一地",
+          "summary": "日本九州熊本縣今天下午4時27分發生芮氏規模7.1強震，震央位於熊本縣熊本地方，震源深度約10公里，日本氣象廳觀測到最大震度7級，有網友剛好在娃娃機店拍下驚悚一幕，見天花板裝飾玻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5520458",
+          "published": "Tue, 28 Jul 2026 16:14:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
