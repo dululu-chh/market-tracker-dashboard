@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-29T02:49:28.844221",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Watch: The moment quake hit Japan",
+          "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran and US trade strikes, shattering brief lull in fighting",
+          "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 02:47:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+          "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 23:25:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "噁！中國糕點品牌「瀘溪河桃酥」 消費者吃到假牙、骨頭、頭髮",
+          "summary": "有夠噁心！中國新式糕點品牌「瀘溪河桃酥」，近來陸續有消費者反映吃到假牙、骨頭、頭髮，並且紛紛PO出照片存證，讓中國網友們直呼快吐了。  目前「瀘溪河桃酥 牙冠」已登上中國微博...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521264",
+          "published": "Wed, 29 Jul 2026 10:40:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "空中巴士A350從澳洲直飛法國  全程24小時引百萬網友關注",
+          "summary": "澳洲航空計畫從明年開始提供雪梨至倫敦的直飛航班，航線開通後，將成為全球最長的商業客運航線。法國空中巴士近期針對航線進行試飛測試，一架經過改裝的空中巴士A350-1000ULR客機...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521157",
+          "published": "Wed, 29 Jul 2026 10:33:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本7.1強震！台人逛街遇天搖地動 日本店員「發枕頭」護客優先",
+          "summary": "日本九州熊本縣昨（28）日下午發生規模7.1強震，首相高市早苗今（29）日證實已造成13人死亡。一名地震當下正在熊本市購物中心「COCOSA」4樓逛街的台灣遊客，親身感受到地震帶...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5521244",
+          "published": "Wed, 29 Jul 2026 10:30:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
