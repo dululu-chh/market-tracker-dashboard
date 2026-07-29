@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-29T15:47:42.033178",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+          "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 11:47:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 13:48:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+          "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 14:27:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鮑氏傍人不矮小、有「哥們限定」活動  143萬年前足跡曝線索",
+          "summary": "肯亞北部一批約143萬年前的古人類足跡，透露有關現已滅絕的鮑氏傍人（Paranthropus boisei）更多線索。研究分析這批足跡認為，鮑氏傍人體型可能比過去所估計更高大，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522322",
+          "published": "Wed, 29 Jul 2026 22:56:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "比超級電腦更會「算」！IQM上市掀關注  芬蘭專家解析量子電腦",
+          "summary": "芬蘭量子科技新創公司IQM近日完成美國與芬蘭證券交易所上市，再度引發市場關注這項新興技術何時能真正走入商業應用。芬蘭量子科技專家表示，隨著硬體持續進步，第一批具實用價值的應用可望很快問世，有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522303",
+          "published": "Wed, 29 Jul 2026 22:42:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本強震停電斷水強碰酷暑 「移動式冷氣」急送避難所",
+          "summary": "日本熊本縣昨天發生規模7.1強震，造成嚴重災情。由於熊本縣各地持續面臨酷熱天氣，且仍有斷水、斷電情況，當地政府今天下午已向熊本縣內的避難所發送第一批移動式冷氣。  日本氣象廳指出，本週末...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522299",
+          "published": "Wed, 29 Jul 2026 22:35:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
