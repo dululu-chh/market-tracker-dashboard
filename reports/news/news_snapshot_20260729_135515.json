@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-07-29T13:55:14.087535",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+          "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 11:47:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 13:48:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+          "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 12:29:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本永旺AEON爆炸 寵物咖啡廳「25隻店貓」全部救出來了",
+          "summary": "日本熊本縣昨（28）日發生規模7.1強震，位於嘉島町的大型購物中心「永旺夢樂城熊本」（AEON Mall、イオンモール熊本）疑因瓦斯外洩大爆炸。位於商場1樓的一間寵物咖啡廳傳出2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522198",
+          "published": "Wed, 29 Jul 2026 21:46:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "癱瘓普廷戰爭金脈！ 烏克蘭強化系統戰「打在最痛處」",
+          "summary": "烏克蘭總統澤倫斯基28日在華府與美國總統川普會談後，烏軍再度深入打擊俄國境內煉油設施。金融時報報導，烏國現在對俄國能源設施的長程打擊行動有所調整，不再僅止於造成損失，而是更加鎖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522267",
+          "published": "Wed, 29 Jul 2026 21:43:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "仿效電動車模式！中國商業太空快速崛起 CSIS示警：恐對美構成戰略挑戰",
+          "summary": "美國智庫「戰略暨國際研究中心」（CSIS）最新報告指出，中國自2014年開放民間資本投入太空產業以來，商業太空快速擴張，涵蓋火箭發射、衛星製造與低軌通訊衛星部署，正重塑全球太...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522256",
+          "published": "Wed, 29 Jul 2026 21:38:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
