@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-07-29T21:55:20.550911",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+          "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 16:23:41 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+          "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+          "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 20:21:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "回敬伊朗朝美軍射5枚飛彈　川普：將狠狠打擊他們",
+          "summary": "美國總統川普今天表示，伊朗朝美軍發射5枚飛彈，結果全數遭到攔截，現在輪到美國還手，「我們要狠狠打擊他們」，但他同時也未放棄達成協議。  對於傳出伊朗將取得數百台中國製的飛彈發射器，川普表示若...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522381",
+          "published": "Thu, 30 Jul 2026 05:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本強震 重創永旺商場、製紙廠",
+          "summary": "目前至少14死 氣象廳警告︰未來一週恐再有震度7強震  〔駐日特派員林翠儀／東京廿九日報導〕日本熊本縣廿八日發生芮氏規模（M）七．一強震，據「共同社」報導，至廿九日晚間，已造成至少十四人喪生、六人呈現心肺停止，還有七人下落不明，包括嘉島町永旺夢樂城（AEON Mall）爆炸及建物坍塌造成三人死亡…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1764594",
+          "published": "Thu, 30 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台灣願馳援 日方：搶先救災 後續再評估",
+          "summary": "劉世芳：若有需求 搜救隊4小時內可出發 〔駐日特派員林翠儀、記者陳鈺馥、國際新聞中心／綜合報導〕日本熊本縣發生規模七．一強震後，台灣已完成搜救隊整備。內政部長劉世芳廿九日表示，只要接獲日本政府正式請求，搜救隊可在四小時內出發，前往熊本支援。日本官房長官木原稔表示，包括台灣在內，已有多個國家和地區向…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1764595",
+          "published": "Thu, 30 Jul 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
