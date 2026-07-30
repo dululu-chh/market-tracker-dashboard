@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-30T02:05:39.304908",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+          "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Jul 2026 01:53:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+          "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+          "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 20:21:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本7.1強震增至17人死亡  6人無生命跡象、1人仍下落不明",
+          "summary": "日本熊本縣在當地時間28日下午4點27分發生規模7.1強震，當地傷亡慘重，日本氣象廳宣布將此次地震命名為「令和8年熊本地震」。熊本縣災害對策本部於30日上午宣布，此次震災死亡人數...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522491",
+          "published": "Thu, 30 Jul 2026 09:50:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "原定奔赴搶救森林大火 阿根廷直升機墜毀7死",
+          "summary": "阿根廷西部聖胡安省（San Juan）1名官員表示，該省1架消防直升機29日墜毀，造成7人死亡。  根據《法新社》報導，這架貝爾412型直升機（Bell 412 aircr...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522453",
+          "published": "Thu, 30 Jul 2026 09:32:55 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "數十年首見！肯亞15頭大象離奇暴斃 疑誤食含氰化物番茄",
+          "summary": "肯亞南部過去一個月內有15頭大象接連離奇死亡，引發政府關注並調查。野生動物管理局週三（29日）表示，初步檢驗在大象體內驗出氰化物，懷疑牠們食用遭氰化物污染的番茄後中毒死亡。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5522476",
+          "published": "Thu, 30 Jul 2026 09:21:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
