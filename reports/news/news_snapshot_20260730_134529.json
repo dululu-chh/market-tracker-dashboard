@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-30T13:45:27.778974",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+          "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+          "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 30 Jul 2026 13:38:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本強震》避難強碰酷暑！夜間破30度 僅2成多體育館有冷氣",
+          "summary": "日本熊本縣強震災民還要遭受嚴酷的高溫酷暑襲擊！約1萬人暫住避難所，大家對中暑與身體狀況惡化感到無比不安；而留在家中的居民也飽受斷水與停電之苦。該如何防止避難生活引發的災害相關死亡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5523472",
+          "published": "Thu, 30 Jul 2026 21:23:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "女子捐血驚見「天花板有眼睛」！全裸男躲夾層偷窺嚇瘋全場",
+          "summary": "美國加州弗雷斯諾市（Fresno）一間捐血中心昨（29日）一名女子在捐血時無意間抬頭，竟發現天花板夾層藏著一名男子，正直瞪瞪的看著自己，讓她嚇得立刻通知工作人員並報警，警方從天花...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5523403",
+          "published": "Thu, 30 Jul 2026 21:23:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "葉門叛軍威脅紅海、曼德海峽航運  沙國會商組聯盟護航",
+          "summary": "伊朗支持的葉門叛軍「青年運動」（Houthis）攻擊沙烏地阿拉伯油輪，威脅紅海航運後，沙國正尋求建立國際聯盟，保護紅海航運，免於受青年運動的攻擊。  路透、半島電視台29日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5523563",
+          "published": "Thu, 30 Jul 2026 21:05:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
