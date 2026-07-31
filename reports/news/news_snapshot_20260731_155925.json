@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-31T15:59:23.879209",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+          "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 14:20:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+          "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 15:18:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "AC Milan and Italy great Baresi dies aged 66",
+          "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 09:44:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "非食源缺乏滅絕！最新研究：小行星撞擊帶來高溫塵雲  恐龍被活活烤死",
+          "summary": "約6600萬年前一場小行星撞地球事件，被普遍認為是恐龍滅絕的主要推手。美國普渡大學新發表的一份研究指出，撞擊產生的高溫塵雲籠罩地球，恐龍就在這種「如煉獄般」的環境中被活活烤死。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524830",
+          "published": "Fri, 31 Jul 2026 23:42:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "24小時蜂擁6萬移民衝歐洲！西班牙邊境失控 竟是謠言帶衝鋒",
+          "summary": "根據地方當局指出，過去24小時內約有6萬移民從摩洛哥湧入西班牙在北非的飛地休達，一試踏上歐洲的機會。一波當地5年來最嚴重邊境危機源自不脛而走的謠言。  謠言惹禍24小時湧6萬人  當...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524817",
+          "published": "Fri, 31 Jul 2026 23:34:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國暨大喊巴丹群島屬於中國 菲律賓支持加強審查學術交流",
+          "summary": "在傳出中國大學稱菲律賓巴丹群島屬於中國後，菲國國防部今天說，鑑於與中國政府有關機構對菲國教育的影響引發疑慮，菲律賓有必要對外國政府支持的學術和文化交流加強審查。  路透社報導，美國智庫「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524818",
+          "published": "Fri, 31 Jul 2026 23:14:37 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
