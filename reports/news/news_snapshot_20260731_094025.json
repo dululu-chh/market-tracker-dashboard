@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-31T09:40:22.570131",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 07:03:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+          "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 04:25:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+          "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 08:50:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "為伊朗監視賽普勒斯英軍空軍基地 雙重國籍男子被捕",
+          "summary": "倫敦警方31日表示，1名擁有英國與亞塞拜然雙重國籍的男子，日前因充當伊朗間諜被捕，此人涉嫌監視位於地中海島嶼賽普勒斯、今年3月初曾遭伊朗無人機攻擊的英國皇家空軍基地阿克洛迪瑞（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524477",
+          "published": "Fri, 31 Jul 2026 17:33:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國務院鬧烏龍！簡報非洲地圖「國家全標錯」疑AI出包全球傻眼",
+          "summary": "2026年世界愛滋病大會日前在巴西里約熱內盧登場，美國國務院在報告時卻意外成為焦點，因為簡報中的非洲地圖幾乎所有非洲國家位置全部標錯，讓現場與會人士當場傻眼，引發全球熱議。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524406",
+          "published": "Fri, 31 Jul 2026 17:18:24 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "黎巴嫩世遺古堡旁大爆炸 以色列700噸炸藥摧毀真主黨地道",
+          "summary": "黎巴嫩媒體今（31）日稱，以軍在黎巴嫩南部被列入聯合國教科文組織世界遺產名錄的博福特古堡（Beaufort castle）附近進行了一系列夜間爆破。以色列則說，以軍摧毀了伊朗支...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524347",
+          "published": "Fri, 31 Jul 2026 17:07:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
