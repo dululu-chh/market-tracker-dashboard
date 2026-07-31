@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-07-31T13:50:45.181991",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+          "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 13:04:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+          "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 04:25:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "AC Milan and Italy great Baresi dies aged 66",
+          "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 31 Jul 2026 09:44:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "路透：解放軍「蒸餾」偷師美國AI技術訓練國防系統",
+          "summary": "據路透社審閱逾80篇中國學術論文與專利資料，中國軍事研究人員利用美國OpenAI和Anthropic等公司開發的領先人工智慧（AI）模型產出資料來訓練本土AI系統，推進中國防衛能力。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524709",
+          "published": "Fri, 31 Jul 2026 21:39:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "馬斯克要出手了！投入38億元為共和黨期中選舉催票",
+          "summary": "美國富豪馬斯克（Elon Musk）支持川普的政治團體，正準備在今年11月美國期中選舉選戰投入高達1億2000萬美元（約38億台幣），為共和黨催票。這項計畫將成為今年美國期中選...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524755",
+          "published": "Fri, 31 Jul 2026 21:36:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北約軍事總部驚爆中國間諜    涉案實習生曾在WTO、歐洲太空總署工作",
+          "summary": "一名中國裔加拿大籍女子在北大西洋公約組織（NATO）軍事總部「歐洲盟軍最高司令部」（SHAPE）實習期間，涉及為第三國從事間諜活動，被比利時執法單位逮捕。路透7月31日引述消息...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5524701",
+          "published": "Fri, 31 Jul 2026 20:36:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
