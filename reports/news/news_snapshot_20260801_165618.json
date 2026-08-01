@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-01T16:56:16.770305",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 16:29:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 05:01:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普嗆參院：新司法部長任命若不給過 就推「反武器化基金」立法",
+          "summary": "美國總統川普提名的新任司法部長人選布蘭希（Todd Blanche）任命案，國會參議院司法委員會將於4日表決，然因有部分共和黨人一直阻撓布蘭希真除，川普1日撂話，布蘭希任命案過...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525665",
+          "published": "Sun, 02 Aug 2026 00:01:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美最大外送平台DoorDash使用中國AI模型  眾議院兩委員會展開調查",
+          "summary": "CNBC報導，美國眾議院兩個委員會主席正聯合調查美國企業使用中國人工智慧（AI）模型的安全問題，已致函要求美國最大食物外送公司DoorDash，提供其使用中國AI新創公司「月之...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525666",
+          "published": "Sat, 01 Aug 2026 23:56:16 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "西班牙邊境危機增至67死 桑傑士批部分歐盟國家自私",
+          "summary": "西班牙總理桑傑士今天譴責部分歐洲聯盟國家對西班牙飛地休達移民危機的回應態度「自私」，並且要求召開部長級會議。西班牙當局今天將這起事件造成的死亡數上修至67人。  法新社報導，桑傑士（Pe...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525510",
+          "published": "Sat, 01 Aug 2026 23:49:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
