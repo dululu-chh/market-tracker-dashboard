@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-01T22:48:17.937492",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 22:34:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏俄、美伊戰事互相牽動 澤倫斯基：俄軍陣亡是烏軍14倍",
+          "summary": "首次上稿 08-01 22:32更新時間 08-02 06:18 俄羅斯侵略烏克蘭戰爭持續至今已超過4年，烏克蘭總統澤倫斯基7月31日公布雙方最新傷亡估計，指俄軍陣亡人數是烏...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525640",
+          "published": "Sun, 02 Aug 2026 06:18:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "秘魯觀賞納茲卡線小飛機墜毀　13人罹難",
+          "summary": "秘魯警方今天表示，一架載旅客前往欣賞該國南部著名考古遺址納茲卡線（Nazca Lines）的小型飛機墜毀，至少13人罹難。  法新社報導，警官安德拉德（Jorge Andrade）在飛機失事...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525688",
+          "published": "Sun, 02 Aug 2026 05:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "無視菲劃設領海基線 中在黃岩島海空演訓",
+          "summary": "〔編譯張沛元／綜合報導〕為反制菲律賓在南海爭議島嶼民主礁（中稱黃岩島，菲稱馬辛洛克灘）劃設領海基線並在日前將之遞交給聯合國祕書處，中國南部戰區一日宣布在民主礁領海、向聯合國祕書處遞交領空和周邊海空域組織海空聯合演訓，為共軍三天內第二度在此海空域有所活動。 共軍南部戰區一日表示，此次演習是「針對當前…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765022",
+          "published": "Sun, 02 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
