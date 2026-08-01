@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-01T10:29:53.464637",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 10:11:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa has 'lost confidence' in Fifa leadership",
+          "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 05:01:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏克蘭無人機擊沉黑海俄國營企業的民用船 挨批是海盜",
+          "summary": "俄羅斯國營核子企業（Rosatom）負責人李卡契夫（Alexei Likhachev）1日發表聲明指出，1艘隸屬於該公司、當時正航行於黑海的民用船，在1場夜襲中遭2架烏克蘭無人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525484",
+          "published": "Sat, 01 Aug 2026 18:19:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄軍飛彈夜襲基輔 立陶宛大使館受損",
+          "summary": "立陶宛外交部1日表示，俄羅斯稍早對烏克蘭進行飛彈夜襲時，有2枚飛彈落在駐基輔的立陶宛大使館附近，導致大使館建築與設備受損，但無人傷亡，立陶宛將召見俄國大使表達抗議。  根據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525466",
+          "published": "Sat, 01 Aug 2026 17:51:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "之前垮過2次！中國最長木拱廊橋坍塌釀1死1傷",
+          "summary": "中國浙江省溫州市泰順縣南浦溪鎮的「福慶橋」完工於2020年，是中國最長的木拱廊橋，7月31日下午4時許受暴風雨影響突然坍塌，導致2人落水其中1人喪命，而福慶橋先前就被洪水沖垮過2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525389",
+          "published": "Sat, 01 Aug 2026 17:21:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
