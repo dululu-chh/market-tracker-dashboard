@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-01T14:56:11.472923",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 12:43:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+          "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 05:01:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏俄、美伊戰事互相牽動 澤倫斯基：俄軍陣亡是烏軍14倍",
+          "summary": "俄羅斯侵略烏克蘭戰爭持續至今已超過4年，烏克蘭總統澤倫斯基7月31日公布雙方最新傷亡估計，表示俄軍陣亡人數是烏軍的14倍；他也重申，烏俄戰爭和美國與伊朗戰爭密切相關。  烏...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525640",
+          "published": "Sat, 01 Aug 2026 22:32:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美32歲女狠殺父「挖出心臟」 滿手傷辯：割草受傷",
+          "summary": "美國印第安納州發生震驚社會的家庭慘劇。32歲女子塞雷娜（Serena Dolnics）涉嫌殺害69歲父親格雷戈里（Gregory Dolnics），犯案手法極度殘忍，據法庭記錄，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525517",
+          "published": "Sat, 01 Aug 2026 22:23:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本熊本又震很大！規模4.7 最大震度5弱",
+          "summary": "日本熊本縣今天晚間再次發生地震。根據日本氣象廳，當地時間晚上9時47分（台北時間8時47分）左右，熊本縣熊本地方發生規模4.7地震，震源深度約10公里，最大震度5弱，所幸此次地震沒有引發海嘯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525627",
+          "published": "Sat, 01 Aug 2026 22:04:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
