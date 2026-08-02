@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-02T15:58:56.993449",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Helicopters fighting Greece wildfires collide in mid-air",
+          "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 15:21:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 15:50:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "菲律賓海成台海衝突關鍵戰場 專家警告中國航艦恐成致命弱點",
+          "summary": "中國正全面升級在「第一島鏈」的海空軍事部署與威嚇力道，一方面在南海針對菲律賓的主權爭議採取強硬軍事行動，另一方面則試圖透過部署航空母艦戰鬥群，將台灣以東的菲律賓海轉變為關鍵戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526427",
+          "published": "Sun, 02 Aug 2026 23:48:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本城徹夜點燈 為災民「照亮一切黑暗」",
+          "summary": "日本熊本7月28日發生規模7.1強震，造成嚴重災情及人員傷亡，10年前曾遭強震損害的熊本城，也因這起地震部分建築再度受損。儘管復原之路再度變得艱難，但熊本城仍撐起「熊本象徵性地標...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526329",
+          "published": "Sun, 02 Aug 2026 23:37:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "強硬派求全勝 務實派盼談判 伊朗高層對美戰略陷分歧 角力升溫",
+          "summary": "過去1週來，隨著對美國基地及其盟友的攻擊升級，伊朗領導層在戰爭戰略上展現出相當程度的團結：態度強硬，決心表明伊朗比美國及其盟邦更能承受考驗。但在領導層內部，對於最終目標為何卻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526425",
+          "published": "Sun, 02 Aug 2026 23:30:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
