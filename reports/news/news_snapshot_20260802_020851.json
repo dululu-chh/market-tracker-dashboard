@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-02T02:08:49.980724",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 00:55:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "祕魯納斯卡線觀光飛機墜毀 13人全數罹難",
+          "summary": "祕魯1架載著11名旅客和2名機師的賽斯納C-208小型飛機，於當地時間1日下午1時許在知名觀光景點納斯卡線（Nazca Lines）上空飛行時墜毀，機上13人全數罹難。  據...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525752",
+          "published": "Sun, 02 Aug 2026 09:33:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美愛達荷In-N-Out速食店驚傳槍響 至少3死2傷",
+          "summary": "美國愛達荷州雙瀑市（Twin Falls）In-N-Out速食店，驚傳於當地時間1日下午2時30分許爆發槍擊案，至少有3人喪命、2人受傷，傷亡數字可能還會增加。  據《NBC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525739",
+          "published": "Sun, 02 Aug 2026 09:21:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "7.1強震已36死  熊本縣3649棟建築物受損",
+          "summary": "日本熊本7月28日發生規模7.1強震，造成嚴重災情，截至目前為止已造成36人死亡。熊本縣宣佈，縣內房屋受損數量已達3649棟，其中完全毀壞的建築物有181棟。  綜合日媒報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5525708",
+          "published": "Sun, 02 Aug 2026 08:26:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
