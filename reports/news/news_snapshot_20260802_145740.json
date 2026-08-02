@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-02T14:57:38.060984",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 14:46:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 10:32:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國國企倉庫大火！網傳員工「獻忠」引發  火還沒滅官方急稱零傷亡",
+          "summary": "中國國有企業「廈門象嶼集團」旗下經營供應鏈管理、國內外多式聯運物流及大宗商品倉儲配送的子公司，位於山東省的一座倉庫今天（2日）驚傳發生大火，多部目擊影片在網上瘋傳。目前起火原因還...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526345",
+          "published": "Sun, 02 Aug 2026 22:26:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加薩走廊瓦礫堆中再發現112人遺體 民防機構續搜失蹤者",
+          "summary": "加薩走廊（Gaza Strip）歷經超過兩年的以色列空襲後，當局持續尋找失蹤者與遺體，民防機構今天表示，他們又在瓦礫堆中尋獲112人的遺體。  法新社報導，加薩民防機構表示，經過136小...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526230",
+          "published": "Sun, 02 Aug 2026 21:44:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "智利中南部遭猛烈暴風雨襲擊釀2死  2千多人受困洪水",
+          "summary": "南美洲國家智利當局今天表示，當地中部和南部遭猛烈暴風雨襲擊，除了引發洪水，並已造成至少2人喪命。數個大區有多地遭下令撤離或發布警報。  法新社報導，智利內政部副部長帕維茲（Maximo ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526312",
+          "published": "Sun, 02 Aug 2026 21:23:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
