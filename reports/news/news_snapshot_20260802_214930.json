@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-02T21:49:28.649078",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 20:36:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 15:50:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄最大電商倉庫 再遭烏無人機襲擊",
+          "summary": "俄羅斯官員表示，烏克蘭無人機1日晚間深入距離前線約800公里遠的俄國窩瓦河流域，打擊薩馬拉州和薩拉托夫州，目標包括俄國最大電商「野莓」的倉庫，共釀成至少8人喪生。烏克蘭自7月中旬以來，已攻擊約12個「野莓」相關目標。俄國國防部聲稱，共擊落635架烏克蘭無人機。（路透） …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765184",
+          "published": "Mon, 03 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國張家口監控平台曝光 老外個資鉅細靡遺",
+          "summary": "駐荷網安研究員意外挖到  〔編譯張沛元／綜合報導〕中國政府透過監視攝影機、手機訊號與身分證等手段監控公民與外籍人士並非新鮮事，令人震驚的是，相關監視系統平台竟遭「外洩」，其資料之豐富詳盡與分門別類，暴露出北京當局監控境內外籍人士的深度與廣度。  紐約時報二日報導，常駐荷蘭阿姆斯特丹的網安研究…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765182",
+          "published": "Mon, 03 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普取消攻擊伊朗 要求速達協議",
+          "summary": "〔編譯張沛元／綜合報導〕美國總統川普一日表示，應伊朗與其他中東國家的要求，再加上與德黑蘭就重啟荷姆茲海峽的談判有所進展，他已取消原本揚言要對伊朗發動的新一輪攻擊，但前提是美伊必須盡快達成協議。伊朗方面稍後否認曾經要求川普勿發動新一輪攻擊，暗示並未同意重啟荷姆茲海峽，並強調川普的威脅即使只是說說，伊朗…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765179",
+          "published": "Mon, 03 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
