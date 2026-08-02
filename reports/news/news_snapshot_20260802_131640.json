@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-02T13:16:39.086244",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 10:32:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+          "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 11:49:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "德國地科中心：紐西蘭北島東海岸發生規模5.9地震",
+          "summary": "德國地球科學研究中心表示，紐西蘭北島東部海岸外今天發生規模5.9地震。  路透社報導，德國地球科學研究中心（German Research Centre for Geosciences，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526223",
+          "published": "Sun, 02 Aug 2026 21:08:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "核電廠停機遇40度熱浪來襲 匈牙利總理籲全民共體時艱",
+          "summary": "匈牙利總理馬格雅（Peter Magyar）2日表示，未來5天是匈牙利的關鍵期，因為該國不但將持續面對高溫熱浪，其唯一一座核電廠帕克什（Paks）也將全面停機。由於供電吃緊，匈...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526302",
+          "published": "Sun, 02 Aug 2026 21:03:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以軍再襲加薩釀9死 以官員稱不存在停攻協議",
+          "summary": "儘管美國總統川普日前宣布，在推動執行去年的加薩停火協議方面取得突破，以色列仍未停止攻擊加薩走廊，今天連續第2天空襲加薩，造成至少9名巴勒斯坦人死亡。  路透社報導，川普（Donald T...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526339",
+          "published": "Sun, 02 Aug 2026 20:55:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
