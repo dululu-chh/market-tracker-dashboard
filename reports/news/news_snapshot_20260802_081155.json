@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-02T08:11:53.936964",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+          "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 06:24:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 02 Aug 2026 00:55:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本AEON MALL搜救正式結束！「7死5傷」全是員工",
+          "summary": "日本九州熊本強震發生至今已滿5天，位於熊本縣嘉島町的大型購物中心「永旺夢樂城」（AEON MALL熊本）於震後不幸爆發嚴重爆炸事故，造成商場員工7人罹難、5人受傷的慘劇。警察與消...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526045",
+          "published": "Sun, 02 Aug 2026 15:53:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國好利來蛋糕上有蒼蠅停留 店員竟稱「常有的事」",
+          "summary": "太不衛生！中國知名烘焙連鎖品牌好利來，日前傳出浙江省杭州市分店的麵包上有蒼蠅，引發各界擔憂食品衛生，事發店面見狀連忙進行消毒殺蟲，好利來也承諾會徹查全國門市，孰料如今有記者去不同...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526056",
+          "published": "Sun, 02 Aug 2026 15:22:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "噁！中國瑞幸咖啡員工拿奶油槍對著嘴巴噴 網痛斥不衛生",
+          "summary": "太噁心！中國瑞幸咖啡位於山東省濟南的某間門市，1日傳出有2名女員工玩鬧時拿著店內的奶油槍對著嘴巴噴灑，讓中國網友痛批這也太不衛生，要求業者出面處理。  微博瘋傳文章顯示，這段...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5526001",
+          "published": "Sun, 02 Aug 2026 14:48:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
