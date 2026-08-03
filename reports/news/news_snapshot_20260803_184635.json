@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-03T18:46:33.409766",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 16:27:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 17:41:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國環孢子蟲病擴大　密西根州2死",
+          "summary": "美國密西根州衛生廳今天表示，州內爆發的環孢子蟲病（cyclosporiasis）疫情已造成2人死亡。  環孢子蟲病是由寄生原蟲隱孢子蟲（Cryptosporidium parvum）或環孢子...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527511",
+          "published": "Tue, 04 Aug 2026 02:21:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日圓狂跌創40年新低　美日聯手救日圓重點一次看",
+          "summary": "在日圓近期跌至40年來新低後，美國罕見再次與日本聯手介入匯市以提振日圓。日圓貶值推高進口成本和日本家庭支出，也會推高美國利率、打亂日本對美投資5500億美元計畫。  財經新聞網CNBC指出，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527508",
+          "published": "Tue, 04 Aug 2026 01:36:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美商用無人艇監控共艦 北京面臨南海灰色地帶新挑戰",
+          "summary": "總部位於美國加州的無人機製造商Seasats，7月底發布1段經路透查證的影片，顯示其「光魚」（Lightfish）無人艇6月間在菲律賓專屬經濟海域（EEZ），於中國海軍052...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527499",
+          "published": "Tue, 04 Aug 2026 00:26:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
