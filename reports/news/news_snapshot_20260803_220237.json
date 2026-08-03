@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-03T22:02:34.767955",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+          "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 15:57:27 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普堅稱美伊正談判　若沒協議伊朗會面臨「斬首」",
+          "summary": "美國總統川普（Donald Trump）今天在白宮表示，如果伊朗不同意達成結束兩國衝突的協議，就會面臨「斬首」，而德黑蘭當局還有最後一次機會。  川普重申要對伊朗發動大規模攻擊的威脅，「我認...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527526",
+          "published": "Tue, 04 Aug 2026 05:30:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日韓民眾彼此好感度 雙雙回升",
+          "summary": "〔駐日特派員林翠儀／東京三日報導〕隨著日本和南韓政府高層重啟穿梭外交、雙方關係改善，帶動民間觀光與流行文化交流，南韓民眾對日本抱持好感的比例達五成四，創十三年來新高，而日本民眾對南韓的好感度，也回升至三成五，較去年大增十個百分點以上。另一方面，南韓民眾對中國的不信任感則高達七十四％，形成強烈對比。專…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765257",
+          "published": "Tue, 04 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本勘災 高市雙手合十默哀",
+          "summary": "〔駐日特派員林翠儀／東京三日報導〕日本首相高市早苗三日首度前往七月廿八日發生震度七強震的熊本縣視察災情，她除了搭乘陸上自衛隊直升機空勘受災地區外，也前往避難所慰問災民，並與熊本縣知事木村敬會談。高市宣布，政府將把此次「令和八年熊本地震」列為「激甚災害」（特別重大災害），四日將在內閣會議通過動用超過兩…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765256",
+          "published": "Tue, 04 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
