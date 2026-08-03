@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-03T13:36:23.347122",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran denies Trump's claim that new talks will begin on Monday",
+          "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 12:44:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+          "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 10:58:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "大馬砂拉越州鱷魚出沒 今年頻繁襲人已5死",
+          "summary": "馬來西亞砂拉越州近年因鱷魚數量攀升，「人鱷衝突」日益頻繁，今年已有5人因鱷魚攻擊而死亡。當地政府與有執照的獵人及地方社區合作，將鱷魚遷移至遠離人類聚落的河川。  路透社報導，在馬來西亞婆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527401",
+          "published": "Mon, 03 Aug 2026 21:28:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "熊本災民擠通鋪爆COVID-19病例 日網再提台「避難帳篷」",
+          "summary": "日本熊本縣7月28日發生強震，觀測震度達7的宇城市內有500多人擠在市政府旁的避難所，將毛毯或毛巾鋪在地板上睡覺，沒有隔間可使用。該避難所在2日確認出現COVID-19感染者。  日本「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527262",
+          "published": "Mon, 03 Aug 2026 21:17:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈瑪斯血洗音樂節倖存 以色列男在女友墓前「殉情」",
+          "summary": "以色列2023年10月7日「諾瓦音樂節」（Nova festival）大屠殺倖存者、30歲的阿斯拉夫（Bar Asraf），週六（2日）晚間被發現身亡於埃爾卡納公墓（Elkana...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527370",
+          "published": "Mon, 03 Aug 2026 20:59:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
