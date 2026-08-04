@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-04T19:23:47.065642",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+          "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 19:00:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+          "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+          "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 18:37:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "古巴今年第6次全國大停電　36小時後恢復運作",
+          "summary": "古巴國家電力公司今天表示，經歷36小時全國大停電後，各地電網已恢復運作。  法新社報導，古巴有關當局窮於恢復發電設施和連接線路運作，引發民怨四起，他們今年遭遇6次全國大停電，而且經常碰上局部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528766",
+          "published": "Wed, 05 Aug 2026 02:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "Meta與OpenAI等4公司將見川普幕僚　談AI安全測試",
+          "summary": "路透社引述4名知情人士說法報導，美國科技公司Meta、Anthropic、Google及OpenAI人員今天將與美國總統川普幕僚會面，討論先進人工智慧（AI）模型自願安全測試。  報導說，這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528760",
+          "published": "Wed, 05 Aug 2026 01:36:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "外國人永居日本門檻擬提高！年收入須高於日本家庭平均",
+          "summary": "日本出入國在留管理廳（入管廳）4日對外公布外國人取得永久居留權（永住許可）的方針修訂草案，整體審查標準將變得更加嚴格，明確規定申請者的「經濟條件要達到與日本人同等的水準以上」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528757",
+          "published": "Wed, 05 Aug 2026 00:57:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
