@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-04T04:07:44.067015",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 03:37:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "竹蟬聲酷似華為發表會假驚呼 遭大查封反掀全網嘲諷",
+          "summary": "中國網路近期掀起1場由傳統童玩「竹蟬」引發的荒謬審查風波。網友發覺旋轉竹蟬發出的摩擦聲，與華為高層宣稱新車為「千萬內最佳」時現場聽眾的驚呼聲驚人相似，吸引大批民眾搖動竹蟬嘲諷華...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527821",
+          "published": "Tue, 04 Aug 2026 11:33:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中共管制出入境！王丹痛批：暴露統治危機與自信流失",
+          "summary": "中國政府7月底公布「國務院關於出境入境管理的規定」引發外界矚目。對此，中國民運人士王丹表示，很多人最關心是「中國要閉關鎖國」，不過，一個極權政府會在何時、又為了什麼去加強對全社會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527644",
+          "published": "Tue, 04 Aug 2026 11:32:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "赴中小心回不來？ 中國出入境新規上路前 《紐時》揭台人遭建檔追蹤",
+          "summary": "中國將於9月15日起實施新版出入境管理規定，適用範圍涵蓋所有經中國口岸離境人士，分析指出，若涉及「國家安全」等理由，當局可不事先通知限制出境，外界憂心台灣人赴中風險升高。就在新規...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5527708",
+          "published": "Tue, 04 Aug 2026 11:23:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
