@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-04T15:22:05.992675",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 14:58:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+          "summary": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way.",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 15:11:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+          "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+          "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 11:19:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "經濟環境太難了！小紅書湧現中國網友吐槽：往日榮景不過夢幻泡影",
+          "summary": "近年中國經濟放緩走下坡，尤其疫情後感受尤為明顯，牆內頻傳失業、欠薪討薪等窘況。最近中國社交平台「小紅書」上，一篇感慨當前經濟現況與就業環境貼文，引起強烈共鳴，留言區湧入各省網友大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528660",
+          "published": "Tue, 04 Aug 2026 23:14:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "香港玩具商喊「支持一個中國原則」 網酸：玩玩具還要讀國安法？",
+          "summary": "香港玩具廠商FEXT HOBBY今（4日）在臉書發表致歉聲明，「FEXT HOBBY廠牌永遠支持一個中國原則。」遭網友按「哈」甚至酸「玩個玩具都要先讀國安法？」  日前才有香...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528384",
+          "published": "Tue, 04 Aug 2026 23:02:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "物流事前「審書」！港版國安法掐斷實體書命脈  業界轉向電子書求生",
+          "summary": "隨著香港國安警察接連拘捕3家獨立書店的負責人，加上主要物流商啟動「審書」機制，傳統「台灣出版、香港銷售」的模式正面臨斷鏈危機。為了在「紅線」下求生，不少出版人與獨立書店正重新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528722",
+          "published": "Tue, 04 Aug 2026 23:00:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
