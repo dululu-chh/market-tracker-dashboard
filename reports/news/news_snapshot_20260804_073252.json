@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-04T07:32:51.121494",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 03:37:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Five dead in Moscow as Ukraine continues warehouse strikes",
+          "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 07:20:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由觀點》長鑫暴衝A股一哥 三星被偷氣死了",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528190",
+          "published": "Tue, 04 Aug 2026 15:23:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瓜地馬拉火山噴發 當局發布危險警報、疏散村莊",
+          "summary": "瓜地馬拉3日在著名活火山「火峰火山」（Fuego volcano）大規模噴發後發布危險警報，並疏散火山附近的2個村莊，以保護居民安全。  根據《法新社》報導，瓜地馬拉「國家...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528102",
+          "published": "Tue, 04 Aug 2026 15:22:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傻眼！中國女子去超市買披薩吃 餅皮底下竟有1把剪刀",
+          "summary": "離譜！中國江蘇省1名女子，3日去山姆超市買「冷吃披薩」，孰料打開盒子後驚見餅皮底下有1把剪刀，目前懷疑是廚房用品被誤放進去，山姆超市對此尚未回應。  從中國微博熱搜可以看到，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528140",
+          "published": "Tue, 04 Aug 2026 15:21:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
