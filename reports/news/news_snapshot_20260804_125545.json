@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-04T12:55:43.353425",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "More than 150 migrants rescued after boat catches fire in Channel",
+          "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 11:19:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+          "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+          "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 11:19:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Analysis: Trump challenged by cold reality from top allies",
+          "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+          "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "海王星衛星曾上演「天體大撞車」 韋伯望遠鏡揪禍首是它",
+          "summary": "太陽系中最遙遠的行星海王星目前所知有16個衛星，美國研究人員利用韋伯太空望遠鏡（JWST）觀測發現，海王星數十億年前可能曾因一顆外來者闖入，引發一場「天體連環大撞車」，擾亂海王...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528633",
+          "published": "Tue, 04 Aug 2026 20:53:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "影片曝！俄軍無人機追殺烏國平民  澤倫斯基：世界必須看見這一幕",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今（4日）公布了一段烏國平民遭俄軍無人機追殺的影片，畫面十分駭人。澤倫斯基強調，這部影片足以證明俄軍走火入魔，竟已「狩...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528601",
+          "published": "Tue, 04 Aug 2026 20:37:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本不只撞人族！ 旅日作家曝：還有不爽外國旅客「踢箱族」",
+          "summary": "日本東京澀谷的「撞人族」故意撞台灣小女孩，大家還記憶猶新，近日又出現進化版「踢箱族」？旅日作家張維中在臉書發文提到，他走在新宿的人行道上，看見日本的歐吉桑上班族，滿臉不爽，狠狠踢...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5528069",
+          "published": "Tue, 04 Aug 2026 20:19:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
