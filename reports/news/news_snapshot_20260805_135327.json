@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-05T13:53:24.987450",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+          "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 12:26:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Drone carrying explosives found at German airport, police say",
+          "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 13:36:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+          "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+          "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 11:19:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "瓜子、水餃涉及新疆原料被限制進口 在美中國人憂生活成本提高",
+          "summary": "美國國土安全部日前宣布，將40餘家中國實體增列至涉疆法案實體清單，於3日生效。其中所列實體由144家增至187家，為該清單設立以來規模最大的一次擴充，連瓜子、湯圓、餃子等中國食品...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529636",
+          "published": "Wed, 05 Aug 2026 21:21:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "攔截量「0」！ 澤倫斯基促盟邦補充愛國者 今年交付量僅去年3分之1",
+          "summary": "烏克蘭政府5日表示，俄軍前一夜的飛彈和無人機攻擊，造成基輔和周邊地區至少17人死亡、44人受傷。由於缺乏攔截武器，烏國未能攔截任何一枚來襲俄國飛彈。為此，烏國總統澤倫斯基發文力...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529899",
+          "published": "Wed, 05 Aug 2026 21:07:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西大選10月登場 現任總統魯拉民調領先",
+          "summary": "巴西總統大選將在今年10月登場，最新民調顯示，現任總統魯拉（Luiz Inácio Lula da Silva）的支持率仍領先頭號對手弗拉維奧·波索納洛（Flavio Bolso...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529898",
+          "published": "Wed, 05 Aug 2026 20:58:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
