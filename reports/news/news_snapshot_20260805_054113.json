@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-05T05:41:11.092794",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+          "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 03:44:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+          "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 05:08:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "菲律賓今午爆規模7.0強震 震源深度僅10公里",
+          "summary": "菲律賓民答那峨島的薩蘭加尼省（Sarangani）近海在台灣時間今（5日）中午12點14分發生規模7.0的強震，震源深度僅10公里。  根據菲律賓火山與地震研究所（PHIVO...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529222",
+          "published": "Wed, 05 Aug 2026 13:17:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "癌症竟如寄生蟲般傳播！ 科學家首見淡水魚罹癌可感染同類",
+          "summary": "癌症竟然也會「感染」？美國研究團隊首次發現，一種淡水魚的癌細胞能直接從一尾魚傳到另一尾魚，如同寄生生物般跨越不同宿主存活與繁殖，成為全球首例在淡水動物發現的可傳染癌症，顛覆科學...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529178",
+          "published": "Wed, 05 Aug 2026 12:45:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "AI和人類誰寫的故事好？研究找來1682名受試者 驚人結果曝光",
+          "summary": "古希臘詩人荷馬的《奧德賽》近日因被改編成電影引發熱烈討論，人類過去創作出不少經典文學巨作。然而，AI崛起後，在文學領域上也成為人類不可小覷的對手。根據1項經由1682名受試者實驗...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5529106",
+          "published": "Wed, 05 Aug 2026 12:15:59 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
