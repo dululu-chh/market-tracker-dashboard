@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-06T11:15:06.057438",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+          "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 05:00:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+          "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 09:49:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "立陶宛示警！俄擬用「烏製無人機」攻擊鄰國  破壞北約對烏克蘭支持",
+          "summary": "立陶宛國防部長考那斯（Robertas ‌Kaunas）今（6日）表示，立陶宛情報單位認為，俄羅斯正在考慮發動「假旗行動」，以繳獲的烏克蘭無人機，對波羅的海地區發動攻擊，設法破壞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531144",
+          "published": "Thu, 06 Aug 2026 19:07:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "接班人之爭檯面化！華郵：川普私下挺范斯出戰2028",
+          "summary": "美國總統川普近期私下向金主透露，他希望看到他的副總統贏得2028年總統大選，表明他對公開支持范斯（JD Vance）持開放態度。不過，部分顧問仍堅稱，川普尚未敲定接班人選。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531118",
+          "published": "Thu, 06 Aug 2026 18:54:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "第3黨傳聞再升溫！卡爾森發布「10大政治宣言」 反川普MAGA勢力成形",
+          "summary": "美國保守派評論家卡爾森（Tucker Carlson）5日透過直播，首度發表涵蓋十項理念的政治宣言，完整闡述其對美國未來的願景。雖未宣布成立新政黨，但外界普遍認為，此舉意在為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531111",
+          "published": "Thu, 06 Aug 2026 18:42:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
