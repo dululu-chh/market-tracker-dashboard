@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-06T05:20:51.870697",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversia…",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+          "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 04:44:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「俄版亞馬遜」倉儲屢遭烏無人機炸翻！中國外商也遭殃：每天都在損失",
+          "summary": "烏克蘭軍方出動無人機跨境襲擊俄羅斯境內倉庫，其中包括有「俄羅斯亞馬遜」之稱的俄電商巨頭「野莓」（Wildberries）倉儲屢遭重創，中國外貿商也損失慘重，有商家直言：「我們每天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530495",
+          "published": "Thu, 06 Aug 2026 13:09:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲政治人物陷簡訊風波 承認開會時向人抱怨「工作無聊」",
+          "summary": "澳洲坎培拉首都領地自由黨領袖帕頓（Mark Parton）今（6）日被迫承認，他在某次開會期間向某位聯絡人傳送簡訊，抱怨他的工作無聊，且文章中還夾雜著髒話。  根據《法新社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530358",
+          "published": "Thu, 06 Aug 2026 12:42:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "問「六四天安門」中國AI裝傻！提王丹跳違規 本尊酸「笑死」",
+          "summary": "中國字節跳動日前推出的生成式人工智慧（AI）「豆包」（Doubao），為中國最廣泛使用的AI模型之一。不過，中國民運人士王丹分享，在中國的學生向他透露，利用「豆包」查找關於六四天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530325",
+          "published": "Thu, 06 Aug 2026 12:42:16 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
