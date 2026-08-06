@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-06T01:59:52.251835",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+          "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 18:19:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Drone carrying explosives found at German airport, police say",
+          "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 20:01:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "荷姆茲海峽傳2次爆炸聲 航運安全情勢升溫",
+          "summary": "美國與伊朗目前仍關係緊繃並持續僵持，其中一大癥結是荷姆茲海峽控制權問題。消息人士透露，伊朗與阿曼提出的協議中，將會讓伊朗掌控經由荷姆茲海峽進出波斯灣的船舶。在此背景下當地海域情...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530158",
+          "published": "Thu, 06 Aug 2026 09:46:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最高領袖久未露面 總統坦言聯繫穆吉塔巴「非常困難」",
+          "summary": "伊朗總統裴澤斯基安（Masoud Pezeshkian）週三（5日）表示，目前與最高領袖穆吉塔巴．哈米尼（Mojtaba Khamenei）溝通「非常困難」，但強調他的存在仍是國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530142",
+          "published": "Thu, 06 Aug 2026 09:35:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普不滿被嚴重誤導？傳動怒質問赫格塞斯彈藥耗損問題",
+          "summary": "美國與伊朗先前持續互轟，多家外媒指出美國的精確彈藥與防空系統攔截彈的彈藥庫存均陷入嚴重不足的窘境。美國《華盛頓郵報》引述消息人士報導，指出美國總統川普7月31日在大衛營（Camp...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530147",
+          "published": "Thu, 06 Aug 2026 09:27:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
