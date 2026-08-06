@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-06T08:23:44.956227",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+          "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 05:00:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private …",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中東2大航道航運量急凍  荷姆茲單日僅2船通過",
+          "summary": "航運數據顯示，荷姆茲海峽（Strait of Hormuz）與曼德海峽（Bab-el-Mandeb）這兩個中東地區的重要航道，其週三（5日）的航運流量相較週二（4日）顯著減少。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530768",
+          "published": "Thu, 06 Aug 2026 16:14:07 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "女主播鏡頭前打瞌睡爆紅！背後原因曝光  網一面倒力挺",
+          "summary": "美國一名晨間主播近日在播報新聞時，因過度疲勞不小心在直播鏡頭前打瞌睡，隨即在網路上爆紅。然而，隨著背後真相曝光，不僅沒有引來任何抨擊，反而獲得大批家長與網友的熱烈聲援。  綜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530694",
+          "published": "Thu, 06 Aug 2026 16:06:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以黎會談中...2名以軍在黎巴嫩被炸死 以色列展開報復性空襲",
+          "summary": "以色列軍方表示，2名士兵5日在黎巴嫩南部喪生；而黎巴嫩衛生部稱，以色列的報復性襲擊造成至少1人死亡。此次暴力衝突升級恰逢兩國最新一輪會談之際，該會談4日在義大利首都羅馬開始，預...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5530744",
+          "published": "Thu, 06 Aug 2026 15:55:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
