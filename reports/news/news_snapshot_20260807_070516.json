@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-07T07:05:15.253379",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 00:34:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+          "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "白海豚颱風逼近日本 撤離近26萬人、取消逾500航班",
+          "summary": "白海豚颱風逼近日本西南地區，當局已向數十萬居民發布避難指示，並有超過500個航班被迫取消。Toyota亦下令9家工廠停工，以因應颱風可能造成的災害。  據《路透》報導，日本氣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531926",
+          "published": "Fri, 07 Aug 2026 14:56:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防範國際威脅！東京宣布在車站停車場下方整備「地下避難所」",
+          "summary": "東京都知事小池百合子於7日下午的例行記者會上，正式表明為了因應來自外國的彈道飛彈攻擊，計畫將在JR東京站東側地下方的都營八重洲停車場，整備一座可供民眾滯留一定時間的「地下避難所（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531912",
+          "published": "Fri, 07 Aug 2026 14:55:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "連日乾旱萊茵河水位降至新低 二戰未爆彈在科隆浮出",
+          "summary": "二戰期間，德國城市科隆遭到盟軍大轟炸，至今仍不時有未爆彈發現，隨著連日高溫乾旱，萊茵河水位降至歷史低點，1枚二戰未爆彈露出，當局緊急疏散民眾。  綜合外媒報導，一枚美製500...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531918",
+          "published": "Fri, 07 Aug 2026 14:51:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
