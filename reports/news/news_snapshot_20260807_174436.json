@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-07T17:44:34.491344",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Seven killed after Thai student opens fire at home and school",
+          "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+          "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 15:51:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+          "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 16:33:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 17:42:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "劍橋大學史上最年輕黑人教授涉抄襲請辭 校方：繼續調查聘任過程",
+          "summary": "阿戴伊（Jason Arday）曾是英國劍橋大學史上最年輕的黑人教授，他日前在被控抄襲與將遭調查後請辭，但校方7日表示，無論請辭與否，都會繼續對當年聘用阿戴伊的過程進行檢討。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532561",
+          "published": "Sat, 08 Aug 2026 00:09:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "香港宏福苑大火奪168命！最終調查報告出爐 亂丟「菸頭」釀慘劇",
+          "summary": "港媒今天報導，香港宏福苑火災獨立調查委員會昨晚公布最終調查報告，指大火可能是由菸頭引起，加上現場因施工堆積大量的易燃雜物，加速火勢蔓延。  綜合港媒報導，港府針對宏福苑火災成立的獨立調查...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532548",
+          "published": "Fri, 07 Aug 2026 23:55:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "西歐女愛上台灣男！可愛發文問「怎麼追」 國外網獻計大歪樓",
+          "summary": "有國外女網友特地跑到Reddit「台灣板」發文說，最近認識了一名台灣男子，對他好感度爆表，希望能進一步交往，但是擔心台歐文化差異「把對方嚇跑」，發文請教網友，到底該如何追求台灣男...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532343",
+          "published": "Fri, 07 Aug 2026 23:27:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
