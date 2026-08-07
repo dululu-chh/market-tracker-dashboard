@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-07T21:33:17.295645",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 21:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+          "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+          "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 14:20:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 20:33:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美中重啟報復制裁 九月川習會添變數",
+          "summary": "〔編譯張沛元／綜合報導〕值此中國國家主席習近平赴美訪問前夕，全球前兩大經濟體重啟報復性制裁，宛如去年貿易戰再現。外界關注雙方僅是試探底線，或將任由情勢升級，甚至導致習近平推遲訪美。 華府近期連串動作包括：禁止進口主要產自中國的新型人形機器人、制裁涉處理伊朗燃料的中國航運公司、以人權為由將四十餘家中…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765768",
+          "published": "Sat, 08 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北京不滿美對台軍售 柯伯吉吃閉門羹",
+          "summary": "〔編譯林家宇／綜合報導〕美國政治新聞網站Politico報導，負責制定政策的美國戰爭部次長柯伯吉，近期屢屢試圖訪問中國，卻因對台軍售和長期對中鷹派立場等因素，遭北京拒於門外。 美中去年因對等關稅報復、出口禁令以及北京在台海和南海侵犯加劇等問題關係緊張。柯伯吉過去幾個月想方設法赴中國訪問，包括要求五…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765767",
+          "published": "Sat, 08 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美擬修核武戰略 對抗中俄",
+          "summary": "〔編譯林家宇／綜合報導〕美國國家廣播公司（NBC）新聞報導，為應對與中國、俄羅斯兩大核武國家未來潛在衝突，戰爭部（國防部）負責制定政策的次長柯伯吉（Elbridge Colby）力主修正行之有年的核武策略，將重心從大規模毀滅性的戰略長程飛彈嚇阻，轉向為規模較小、適用性較高的戰術核武。 小型戰術核武…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1765765",
+          "published": "Sat, 08 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
