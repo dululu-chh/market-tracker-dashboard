@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-07T08:51:55.395010",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 08:06:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 00:34:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+          "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "處境受關注！翁山蘇姬遭緬甸政府軟禁 美國務院重申無條件釋放",
+          "summary": "美國國務院和東協輪值主席國菲律賓今（7日）重申，呼籲緬甸無條件釋放被拘留的緬甸前國務資政翁山蘇姬和其他政治犯。翁山蘇姬自2021年2月後便被緬甸政府軟禁，令外界難以得知她的處境...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532021",
+          "published": "Fri, 07 Aug 2026 16:17:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本檢討外籍人士接收基本方針 小野田：在留外國人增加是重要課題",
+          "summary": "日本政府為研討接納外國人的基本方式，召開了工作小組的首次會議。《FNN》報導，推進與外國人共生社會事務的大臣小野田紀美於會議開頭強調：「在在留外國人如此大幅增加的情況下，從中長期...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532011",
+          "published": "Fri, 07 Aug 2026 16:12:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "泰國校園槍擊案9死  學生槍手先殺祖父母再闖校園掃射奪6命",
+          "summary": "泰國首都曼谷今（7）日發生重大槍擊事件，警方表示1名學生槍手殺了自己的祖父與祖母後，又前往學校槍殺至少6人，算上死亡的槍手本人，此事件共造成9人死亡。  根據《法新社》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5531910",
+          "published": "Fri, 07 Aug 2026 15:37:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
