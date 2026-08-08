@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-08T13:42:15.913514",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Child among three killed in Russian missile attacks near Kyiv",
+          "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 13:29:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 13:23:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "質量太陽30倍！瀕死恆星爆炸 天文學家罕見完整記錄畫面曝",
+          "summary": "美國兩個研究團隊把握難得的機會，從一顆演化到生命晚期的龐大恆星，出現第一個爆炸訊號開始，一路觀測其死亡過程，發現大質量恆星的死亡方式，比天文學家過去所知更多，而且這場超新星爆炸...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533283",
+          "published": "Sat, 08 Aug 2026 20:25:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本發射「戰斧」可直抵中國     ISW：北京阻東京介入台海衝突失算",
+          "summary": "日本海上自衛隊驅逐艦「鳥海號」7月29日在太平洋試射「戰斧」巡航飛彈，射程達1600公里，若由日本周邊海域發射，打擊範圍可涵蓋中國領土。美國智庫戰爭研究所（ISW）分析，日本近期...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533160",
+          "published": "Sat, 08 Aug 2026 18:57:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美參院通過法案打擊俄國能源收入  中國「這原因」也被掃到！",
+          "summary": "美國聯邦參議院7日通過一項旨在提高對俄羅斯經濟施壓的廣泛制裁案，對從俄國進口能源課徵最高達500%關稅，並對中國等大量進口俄國能源的國家徵100%關稅，切斷俄國總統普廷的戰爭機...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533204",
+          "published": "Sat, 08 Aug 2026 18:24:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
