@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-08T04:50:56.668337",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Child among three killed in Russian missile attacks near Kyiv",
+          "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 04:23:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 22:13:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 21:19:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本大阪地鐵列車乘客行動電源起火 御堂筋線全面停駛",
+          "summary": "日本大阪地鐵御堂筋線（連接江坂站至中百舌鳥站）1輛列車，今（8日）上午10時30分驚傳1名乘客的行動電源起火，導致御堂筋線全面停駛。  據《讀賣新聞》報導，事發列車停靠在中津...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532836",
+          "published": "Sat, 08 Aug 2026 12:38:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國福建城管推倒老翁致死 執法密錄器竟「沒電」未拍下過程",
+          "summary": "中國福建省由寧德市代管的福安市，去年12月20日有1名鄭姓城管人員大力推倒老翁致死，7日在寧德市中級人民法院一審首次開庭時，死者家屬對檢方指稱「老者持續辱罵城管」的敘述不認同，要...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532801",
+          "published": "Sat, 08 Aug 2026 12:29:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美亞利桑那州民宅挖出夫妻雙屍 兒子嫌疑重大已潛逃出境",
+          "summary": "美國亞利桑那州馬里科帕郡的城市利奇菲爾德公園（Litchfield Park），6日在某處民宅後院挖出夫妻雙屍，死者的27歲兒子弗洛雷斯（Matthew Flores）涉有重嫌，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5532771",
+          "published": "Sat, 08 Aug 2026 11:27:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
