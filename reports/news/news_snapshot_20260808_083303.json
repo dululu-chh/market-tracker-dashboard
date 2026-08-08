@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-08T08:33:01.877718",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Child among three killed in Russian missile attacks near Kyiv",
+          "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 06:12:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 22:13:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國男子在南韓百貨多次行竊名牌服飾 市價估達64萬判刑6個月",
+          "summary": "中國1名30來歲男子，去年8月22日至31日期間在南韓首爾、釜山各大百貨公司偷竊名牌服飾，一共犯案20次左右，贓物市價達2804.1萬韓元（約新台幣64.2萬元），如今被法官判處...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533057",
+          "published": "Sat, 08 Aug 2026 16:17:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基首度造訪俄國盟邦塞爾維亞  與武契奇舉行元首會談",
+          "summary": "基輔當局面對俄羅斯加劇攻勢，尋求國際支持之際，烏克蘭總統澤倫斯基首度訪問俄國傳統盟友塞爾維亞，8日在塞國總統府與塞爾維亞總統武契奇（Alexander Vucic）舉行會談。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533024",
+          "published": "Sat, 08 Aug 2026 16:12:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「太平洋島國論壇」秘書長證實 台灣今年將出席年度領袖會議",
+          "summary": "「太平洋島國論壇」（Pacific Islands Forum）秘書長瓦卡（Baron Waqa）7日晚間證實，台灣將參加該區域組織今年8月底到9月初，在帛琉舉行的年度領袖會議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533062",
+          "published": "Sat, 08 Aug 2026 16:05:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
