@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-08T17:24:08.699987",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 15:56:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 16:34:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Messi's father Jorge dies aged 68 after illness",
+          "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 15:51:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏軍無人機發威！7月至今「俄版亞馬遜」20座倉庫被毀  重挫俄羅斯經濟",
+          "summary": "烏克蘭不僅以無人機襲擊能源設施，造成俄羅斯出現油荒，《路透》報導，烏克蘭還持續以長程無人機襲擊有「俄羅斯版亞馬遜」之稱網路零售商「野莓」（Wildberries）倉庫，襲擊範圍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533365",
+          "published": "Sun, 09 Aug 2026 00:16:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "旗下油輪又在荷姆茲海峽遇襲 阿聯國營公司怒轟伊朗",
+          "summary": "阿拉伯聯合大公國今天表示，阿聯國營「阿布達比國家石油公司」（ADNOC）旗下一艘油輪行經荷姆茲海峽時，遭到伊朗攻擊。  法新社報導，阿聯外交部發表聲明譴責，伊朗發射飛彈，對一艘屬於「阿布...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533272",
+          "published": "Sat, 08 Aug 2026 23:46:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄空襲烏克蘭首都基輔及周邊奪4命 民宅爆火祖孫3人罹難",
+          "summary": "俄烏戰爭已經持續將近4年半時間，烏克蘭當局今天表示，俄羅斯軍隊動用飛彈與無人機襲擊烏國首都基輔和周邊區域，導致4人死亡。  美聯社報導，在基輔市東北方的基輔州布洛瓦利（Brovary），...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533335",
+          "published": "Sat, 08 Aug 2026 23:37:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
