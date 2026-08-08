@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-08T22:23:09.760927",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+          "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 15:56:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+          "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 17:58:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "欲藉協議驅逐美軍部署 伊朗要求禁止美國軍艦航行荷姆茲海峽",
+          "summary": "首次上稿 08-08 22:14更新時間 08-09 06:17 華爾街日報報導，伊朗在與阿曼的荷姆茲海峽協議談判中，要求禁止美國海軍船隻通行荷姆茲，試圖箝制美軍數十年來在波...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533336",
+          "published": "Sun, 09 Aug 2026 06:17:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏軍無人機發威！7月至今「俄版亞馬遜」20座倉庫被毀  重挫俄羅斯經濟",
+          "summary": "首次上稿 08-09 00:16更新時間 08-09 06:07 烏克蘭不僅以無人機襲擊能源設施，造成俄羅斯出現油荒，《路透》報導，烏克蘭還持續以長程無人機襲擊有「俄羅斯版亞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533365",
+          "published": "Sun, 09 Aug 2026 06:07:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "拜登癌症擴散至骨骼外　韓特：父親仍心繫美國",
+          "summary": "前美國總統拜登（Joe Biden）罹患攝護腺癌後，據他的兒子韓特（Hunter Biden）透露，癌細胞現已擴散至骨骼以外，病情也帶來劇烈疼痛。  韓特昨天晚間接受英國廣播公司（BBC）時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533381",
+          "published": "Sun, 09 Aug 2026 05:36:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
