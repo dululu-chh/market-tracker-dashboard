@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-09T06:44:36.063870",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+          "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 23:43:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hundreds arrested over French wildfires, but who is to blame?",
+          "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 23:59:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "《彭博》爆中國對台認知戰！ 用短影音洗腦年輕人「抵抗無用」",
+          "summary": "中國對台灣的威脅已不限於台海周邊的軍演與戰機侵擾！據美國財經媒體《彭博》（Bloomberg）專欄報導，北京當局正發動1場低成本、高效率的「零成本認知戰」，利用TikTok等短...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533731",
+          "published": "Sun, 09 Aug 2026 14:34:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "最高領袖爆病危！伊朗官媒發影片闢謠卻被抓包「拿舊片」",
+          "summary": "伊朗新任最高領袖長期未公開露面，健康狀況再度引發外界揣測。伊朗官媒8日突然發布一段12秒授課影片，試圖展示領袖近期狀況，但畫面很快被質疑可能是數個月前的舊素材。  伊朗海外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533753",
+          "published": "Sun, 09 Aug 2026 14:30:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "雪梨機場兩客機險相撞 機師急煞釀空服員受傷",
+          "summary": "澳洲最繁忙機場兩架客機「險些相撞」，造成一名機組人員受傷，澳洲安全監管機構今天已展開調查。  法新社報導，這起事件發生於今天早上，捷星航空（Jetstar）機師被迫緊急煞車，以避免撞上一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533683",
+          "published": "Sun, 09 Aug 2026 14:15:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
