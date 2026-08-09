@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-09T09:33:15.382327",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+          "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 23:43:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hundreds arrested over French wildfires, but who is to blame?",
+          "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 23:59:23 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "加拿大卑詩省野火失控 逾2萬人緊急撤離",
+          "summary": "加拿大西部卑詩省一處快速蔓延、延燒面積幾乎在一夜之間翻倍的野火迫使逾2萬人連夜撤離後，當局今天宣布該省進入緊急狀態。  綜合法新社及路透社報導，在強風助長下，「鮑德山脈」（Bald Ra...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533612",
+          "published": "Sun, 09 Aug 2026 17:20:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "海外社群風傳被捕  中國前財長樓繼偉出席論壇「闢謠」",
+          "summary": "以直言著稱的中國前財政部長樓繼偉昨天出席在北京召開的全球財富管理論壇，就整理和活化國有資產發言。不久前，海外社群媒體才傳出他被捕，此次出席會議似有闢謠意味。  根據微信公眾號「全球財富管...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533506",
+          "published": "Sun, 09 Aug 2026 17:17:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "擄「海峽」勒贖 伊朗外長與IRGC異口同聲嗆美",
+          "summary": "伊朗政府高官與伊朗伊斯蘭革命衛隊（IRGC）9日不約而同拿荷姆茲海峽來開嗆美國，指稱美國若不答應伊朗的要求並持續違反雙方此前簽署的臨時協議，伊朗就不會與美國談判，也不會重新開放...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5533914",
+          "published": "Sun, 09 Aug 2026 17:13:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
