@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-10T11:02:53.061381",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+          "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 10:03:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "China evacuates one million from homes as massive storm arrives",
+          "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 07:23:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+          "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 09:51:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "印度阿薩姆邦洪災釀百死 仍有近5萬災民滯留收容所",
+          "summary": "印度東北部阿薩姆邦（Assam）的洪水災情持續惡化。當局今（10）日表示，因近期又有2人罹難，使得水患死亡人數達到100人。  《美聯社》報導，這場起於上個月的水患導致阿薩姆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535016",
+          "published": "Mon, 10 Aug 2026 18:52:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》中國狂開「芭樂票」多國下場慘！學者曝台灣2招反制中國封鎖",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535076",
+          "published": "Mon, 10 Aug 2026 18:35:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "白海豚強襲浙江！醫院變水簾洞、高樓大廈外牆「像紙片脫落」",
+          "summary": "白海豚颱風昨（9）日登陸中國浙江省沿海地區，強烈風雨不僅造成嚴重淹水，多地也陸續傳出不同災情。首當其衝的浙江，當地民眾陸續在中國社群分享各地道路淹成汪洋、大型醫院室內多處嚴重漏水...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534728",
+          "published": "Mon, 10 Aug 2026 18:14:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
