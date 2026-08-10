@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-10T21:36:12.544573",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "World's oceans hit record-high July temperatures",
+          "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+          "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general ele…",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 14:43:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "謠言終結站》網傳台灣肺癌增加因食物含致癌物？ 事實查核中心：錯誤訊息",
+          "summary": "網傳內容：近10年罹患肺癌者飆升萬人，許多不抽菸的女性也得肺癌，因為許多致癌物存在於食物中；此外，「非核家園」政策導致空氣污染，南部肺癌成長速度是北部的17倍？ 查證結果：台灣事實查核中心指出，長期接觸多環芳香烴與罹患肺癌風險有關，但目前沒有任何人體證據顯示，肺癌源自於超標的苯駢芘油品，網傳論述片…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766149",
+          "published": "Tue, 11 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東戰火未歇 葉門叛軍恢復攻擊紅海港市7死",
+          "summary": "伊朗金援  伊朗支持的葉門叛軍「青年運動」（Houthi）9日恢復對紅海港市摩卡（Mocha）的攻擊，以彈道飛彈與無人機襲擊民用基礎設施及武裝部隊，造成包括軍方人員與平民在內共7人死亡、30人受傷。而在沙烏地阿拉伯、土耳其與巴基斯坦簽署共同防禦協定後，青年運動仍持續襲擊沙國的煉油廠，開闢另一條新戰…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766145",
+          "published": "Tue, 11 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Trump unveils trade actions to compete with China on solar and chips 川普公布貿易措施 在太陽能與晶片領域與中國競爭",
+          "summary": "◎魏國金  The White House on Thursday imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used in semi…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766174",
+          "published": "Tue, 11 Aug 2026 05:30:00 +0800",
+          "keywords": [
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
