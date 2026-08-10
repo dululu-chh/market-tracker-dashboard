@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-10T07:18:55.494591",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 21:25:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Evidence that South African special forces murdered top detective shared with BBC",
+          "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 23:05:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "錯過航班！ 2長腿辣妹「拖行李攔飛機」硬闖停機坪下場慘了",
+          "summary": "俄羅斯莫斯科謝列梅捷沃國際機場（Sheremetyevo International Airport）近日上演驚險場面！兩名女子疑似因沒趕上航班，竟提著行李直接闖入管制嚴格的停機...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534661",
+          "published": "Mon, 10 Aug 2026 15:05:52 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "4名中共將領16天接連病亡 原北京軍區副司令也走了",
+          "summary": "中國解放軍退休高階將領近期接連傳出病逝消息，從7月22日至8月6日短短16天內，至少4名退休將領先後去世，包括原北海艦隊政委陳先鋒、原瀋陽軍區副司令石寶源、原北京軍區副司令兼北...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534698",
+          "published": "Mon, 10 Aug 2026 15:00:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "泰國校園槍擊案餘震？ 前議員在政府辦公室開槍",
+          "summary": "泰國首都曼谷7日發生重大槍擊事件，1名槍手殺了自己的祖父與祖母後，又前往位於暖武里府邦克魯（Bang Kruai）地區的德布詩琳學校（Debsirin Nonthaburi s...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534676",
+          "published": "Mon, 10 Aug 2026 14:48:51 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
