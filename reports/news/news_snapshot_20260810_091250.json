@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-10T09:12:48.224372",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China evacuates one million from homes as massive storm arrives",
+          "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 07:23:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 09 Aug 2026 21:25:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "混合戰成每日例行公事 德國擬強化反無人機威脅",
+          "summary": "德國萊比錫／哈雷機場（Leipzig/Halle Airport）4日發現一架裝載爆裂物的無人機，引發柏林政府高度警戒。德國內政部長杜布林德（Alexander Dobrind...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534933",
+          "published": "Mon, 10 Aug 2026 16:56:45 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美國不退亞洲反加碼 五角大廈：加深印太軍事投入",
+          "summary": "美國五角大廈負責制定政策的次長柯伯吉（Elbridge Colby）今（10）日表示，美國並未退出亞洲，反而正在「加深投入」，以維持印太地區有利的力量平衡。但柯伯吉也聲稱，美國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534891",
+          "published": "Mon, 10 Aug 2026 16:48:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不甩東協 緬甸拒絕釋放翁山蘇姬",
+          "summary": "緬甸軍政府外交部近日發表聲明，強調東南亞國家協會（東協）無須再針對緬甸指派輪值主席特使，並拒絕東協無條件釋放前民主派領袖翁山蘇姬的呼籲。  據《路透》報導，緬甸自2021年初...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5534823",
+          "published": "Mon, 10 Aug 2026 16:46:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
