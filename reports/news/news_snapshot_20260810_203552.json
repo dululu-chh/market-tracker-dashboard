@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-10T20:35:51.298317",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "World's oceans hit record-high July temperatures",
+          "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+          "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+          "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general ele…",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 14:43:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美氣候變遷推升高溫　2026年7月創史上最熱紀錄",
+          "summary": "美國國家海洋暨大氣總署（NOAA）今天表示，2026年7月是美國本土有紀錄以來最熱的月份，延續近期由人類造成的氣候變遷所推動的升溫趨勢。         法新社報導，當月美國48州的平均氣溫...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535316",
+          "published": "Tue, 11 Aug 2026 03:21:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哥倫比亞7.4強震增至111死　美洲多國允諾伸援",
+          "summary": "哥倫比亞西部今天上午發生規模7.4強烈地震，目前導致全國各地至少111人喪命，許多民眾仍受困於倒塌建築的瓦礫堆中，救難隊伍正忙著搜尋生還者。   美聯社報導，哥倫比亞新任總統艾思普雷雅（Ab...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535314",
+          "published": "Tue, 11 Aug 2026 03:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哥倫比亞西部強震釀至少77死　新政府面臨嚴峻考驗",
+          "summary": "哥倫比亞西部今天清晨發生強震，造成多座城市建築物倒塌、許多民眾被困於瓦礫堆中，目前已確認至少77人死亡。  根據路透社，這起地震發生在艾思普雷雅（Abelardo De La Espriel...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535304",
+          "published": "Tue, 11 Aug 2026 01:30:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
