@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-11T06:56:10.835151",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 132 killed in Colombia's largest  earthquake in years",
+          "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 04:06:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canada flight cancelled after child refuses to wear seat belt",
+          "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 21:06:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+          "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+          "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 20:45:29 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普傳願無核協議停戰！ 伊朗反開天價條件逼美軍退場",
+          "summary": "美國總統川普為了在11月期中選舉前結束美伊戰爭、壓低高企的汽油價格，傳出底線大幅退讓！據《華爾街日報》報導，川普近幾週私下向高階幕僚透露，只要伊朗全面重開荷姆茲海峽，他甚至願意...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535901",
+          "published": "Tue, 11 Aug 2026 14:45:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "福島核災後 水蜜桃睽違16年重返台灣市場",
+          "summary": "2011年福島核災後中斷16年的福島縣水蜜桃正式出口台灣，最快將於8月中旬恢復出貨。日本讀賣新聞報導，台灣農業部日前完成對福島縣兩處選果場的查核，確認符合輸台標準，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535918",
+          "published": "Tue, 11 Aug 2026 14:38:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲傳首起AI自主攻擊！ 幫主人搶健身房會員 暗中踢掉其他人",
+          "summary": "請人工智慧（AI）幫忙處理生活雜事，竟演變成網路攻擊！澳洲近日爆出首起「AI自主駭客」案例。一名男子請自己的AI助理幫忙預約熱門健身房課程，沒想到AI為了達成任務，不僅自行發現預...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535765",
+          "published": "Tue, 11 Aug 2026 14:16:06 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
