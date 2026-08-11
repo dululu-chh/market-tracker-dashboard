@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-11T18:54:48.610286",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+          "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 14:47:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 14:50:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "西西里島埃特納火山噴發　馬爾他部分航班受擾",
+          "summary": "義大利西西里島（Sicily）埃特納火山近日再次噴發，大量火山灰雲飄散至地中海島國馬爾他上空，迫使多家航空公司在旅遊旺季取消部分飛往馬爾他的航班。  路透社報導，馬爾他國際機場（Malta ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536609",
+          "published": "Wed, 12 Aug 2026 01:45:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國施壓太平洋島國論壇 警告勿讓台灣參與",
+          "summary": "中國近期在太平洋地區積極擴張政軍影響力，除了試射彈道飛彈引發安全疑慮，更對即將在帛琉登場的「太平洋島國論壇」（PIF）發出強硬警告，要求「妥善處理涉台問題」，企圖防堵台灣參與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536596",
+          "published": "Wed, 12 Aug 2026 00:40:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普暗中拆彈！敘利亞祕密核材料將撤走 化解「髒彈」危機",
+          "summary": "美國新聞網站Axios在10日報導，據以色列與美國官員透露，國際原子能總署（IAEA）不久後將撤離敘利亞一處秘密設施中儲存的核材料。川普政府已就處理方式與敘利亞和以色列政府達...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536584",
+          "published": "Wed, 12 Aug 2026 00:25:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
