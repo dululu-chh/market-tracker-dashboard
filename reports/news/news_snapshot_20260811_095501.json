@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-11T09:54:59.617694",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+          "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 08:57:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:39:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:42:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "館長快看！白海豚強襲中國上海  住宅慘淹2人被「活活電死」",
+          "summary": "去年網紅「館長」陳之漢遊中國上海，浮誇吹捧當地各種設施進步程度海放台灣，引發各界議論。然而今年7、8月，上海接連遭颱風的強風暴雨重創，當地民眾紛紛自嘲中國最繁榮大城市排水系統落後...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536087",
+          "published": "Tue, 11 Aug 2026 17:34:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "飛來橫禍！曬衣架從天而降「套中乘客」 機車慘摔連撞轎車釀2傷",
+          "summary": "泰國曼谷近日發生一起驚悚的高空墜物意外！一個掛滿衣物的曬衣架精準砸中行駛中的摩托計程車，導致機車瞬間失控連撞周邊車輛，更讓騎士與後座乘客不幸受傷，畫面曝光後瞬間引發社群熱議。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536133",
+          "published": "Tue, 11 Aug 2026 17:16:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊戰爭重創能源命脈 伊朗力拚9月底前恢復天然氣產能",
+          "summary": "美伊戰爭爆發後，伊朗天然氣產能因遭到襲擊而受到衝擊，目前伊朗正在修復受損的能源基礎設施，企圖在9月底前恢復天然氣生產能力。  根據《路透》報導，伊朗官員7月稱，自美伊戰爭爆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536161",
+          "published": "Tue, 11 Aug 2026 17:11:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
