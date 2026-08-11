@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-11T05:01:44.178222",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 132 killed in Colombia's largest  earthquake in years",
+          "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 04:06:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canada flight cancelled after child refuses to wear seat belt",
+          "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 21:06:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+          "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+          "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 10 Aug 2026 20:45:29 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "哥倫比亞7.4強震  網紅直播目睹「機場天花板、鋼架掉落」",
+          "summary": "哥倫比亞西部10日發生規模7.4強震，造成至少111人死亡、數百人受傷，逾1600棟建築嚴重受損。地震發生時，網紅賈耶戈斯（José Gallegos）恰好在哥倫比亞首都佩雷拉（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535628",
+          "published": "Tue, 11 Aug 2026 12:33:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慘！兄弟倆在委內瑞拉地震痛失親人 搬到哥倫比亞又遇強震",
+          "summary": "哥倫比亞西部10日發生規模7.4世紀地震，目前已造成至少132人死亡、570人受傷，而有對兄弟檔6月才剛在委內瑞拉規模7.2、7.5強震中痛失親人，沒想到搬來哥國後又遭遇駭人地牛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535598",
+          "published": "Tue, 11 Aug 2026 12:04:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭控害神戶貼反中標籤 上畠寛弘中文發文嗆不歡迎中國遊客",
+          "summary": "日本神戶市議員上畠寛弘因挺台言論、積極推動台日交流，以及曾與民眾黨支持者「小草」於社群平台隔空互嗆等行為，吸引許多台灣網友關注。上畠寛弘透露，他8日接到電話稱「因為他的緣故，神戶...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5535451",
+          "published": "Tue, 11 Aug 2026 11:43:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
