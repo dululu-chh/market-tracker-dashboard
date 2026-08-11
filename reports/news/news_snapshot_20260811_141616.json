@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-11T14:16:14.782686",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+          "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:58:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:39:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 10:43:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "札波羅熱遭轟炸釀6死 澤倫斯基控俄軍使用北韓飛彈",
+          "summary": "烏克蘭東南部城市札波羅熱（Zaporizhzhia）今（11日）遭到俄羅斯轟炸，導致6人死亡。烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）PO文說，俄軍襲擊中使用...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536506",
+          "published": "Tue, 11 Aug 2026 22:06:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美網紅國鳥「賈姬」病逝 巢穴即時影像曾吸引全球目光",
+          "summary": "被外界視為加州成功復育象徵的白頭海鵰賈姬（Jackie），在接受當地猛禽中心治療後仍不幸病逝。  綜合美聯社與英國廣播公司（BBC）報導，10多年來，全球自然愛好者透過即時影像直播，觀看...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536504",
+          "published": "Tue, 11 Aug 2026 21:57:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哥倫比亞7.4強震  累計已知164人罹難",
+          "summary": "哥倫比亞10日發生規模7.4強震，該國西部地區災情慘重，目前已知164人罹難，尚有多人受困在倒塌的建築物中。  《路透》報導，哥國第三大城、擁有220萬人口的卡利（Cali）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536421",
+          "published": "Tue, 11 Aug 2026 21:15:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
