@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-11T11:39:53.393781",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+          "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:58:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 09:39:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 10:43:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南韓最大廉航「濟州航空」爆個資外洩 乘客僅獲賠2280元",
+          "summary": "南韓最大廉航「濟州航空」傳乘客個資外洩，上百名乘客護照號碼遭Naver搜尋公開。目前濟州航空正致電告知受害乘客情況，除了承諾全額負擔受害乘客重辦護照的費用外，也將額外發放每人10...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536267",
+          "published": "Tue, 11 Aug 2026 18:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "昌鴻颱風直撲日本關東地區！陸空交通受衝擊  多地花火大會喊卡",
+          "summary": "今年第15號颱風「昌鴻」直撲日本，預計今（11）日晚間登陸關東地區。隨著颱風逼近，鄰近太平洋沿岸的地區開始出現明顯風雨，JR東日本預計發生誤點或停駛；羽田、成田、仙台、福島等機場...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536260",
+          "published": "Tue, 11 Aug 2026 18:55:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》長崎「外交翻車」戰狼不領情！ 學者：看清中國嘴臉",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5536342",
+          "published": "Tue, 11 Aug 2026 18:54:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
