@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-12T21:41:41.250505",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+          "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 20:57:13 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "哥倫比亞強震 32歲女受困36小時獲救",
+          "summary": "哥倫比亞西部10日發生規模7.4強震，為哥國本世紀以來最強烈地震，目前死亡人數已下修至216人。在重災區卡利市一棟倒塌的5層樓公寓，搜救人員成功救出一度因缺氧而臉色發紫的2個月大男嬰沙羅孟及其受傷的父親，為陷入絕望的災區注入一劑強心針。震央以東的皮瑞拉市也傳出捷報，一名32歲女子拉戈在受困廢墟長達3…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766435",
+          "published": "Thu, 13 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "首例! 中國利用AI代理 網攻台灣政府",
+          "summary": "駭客以開源AI發動自主攻擊 〔國際新聞中心／綜合報導〕金融時報十二日獨家報導，疑似中國駭客利用公開的人工智慧（AI）工具，成功駭入台灣政府網站。這是首度發生這類網路入侵事件，凸顯AI正如何徹底改變網路戰的面貌。 短短四天 兵分八路攻擊 最早發現這起駭侵事件的以色列AI公司Dream研究人員指出…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766430",
+          "published": "Thu, 13 Aug 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "試射洲際飛彈未充分預警 中國惹毛41國",
+          "summary": "〔編譯張沛元／綜合報導〕美國與另外四十國十一日發表聯合聲明，呼籲在發射長程彈道飛彈前應至少提早廿四小時預警通知—儘管通篇聯合聲明中並未點名中國，但卻提及近期在太平洋地區的飛彈活動，顯然是針對今年七月初曾向太平洋海域試射可搭載核彈頭的潛射洲際彈道飛彈的中國。不滿被影射的北京當局稍後嗆華府此舉出於政治目…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766431",
+          "published": "Thu, 13 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
