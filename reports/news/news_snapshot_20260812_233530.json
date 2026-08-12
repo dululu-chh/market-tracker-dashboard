@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-08-12T23:35:29.248347",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+          "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 21:53:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "高市早苗與伊朗總統熱線 反對在荷姆茲海峽收取通行費",
+          "summary": "由於美國與伊朗談判仍未有共識，荷姆茲海峽目前尚未正常通行，對國際航運影響甚大，日本首相高市早苗12日與伊朗總統裴澤斯基安（Masoud Pezeshkian）進行20分鐘的電話會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538032",
+          "published": "Thu, 13 Aug 2026 07:07:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "讚揚美軍海上封鎖如銅牆鐵壁  川普嗆：伊朗對此無能為力",
+          "summary": "美國與伊朗談判仍未有共識，美國總統川普12日發文強調，美國已完全掌控荷姆茲海峽（Strait of Hormuz），而面對美軍有如「鋼鐵城牆」般的海上封鎖，伊朗一點辦法都沒有。不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538030",
+          "published": "Thu, 13 Aug 2026 06:47:18 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "研究：AI加速癌症新藥試驗 最多省下1.8億元成本",
+          "summary": "率先分享給美國網路媒體「Axios」的研究報告顯示，人工智慧（AI）不僅正在加速早期藥物開發，更開始在癌症治療的臨床試驗中，創造價值數百萬美元的效益。  塔夫茨藥物開發研...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538009",
+          "published": "Thu, 13 Aug 2026 06:14:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
