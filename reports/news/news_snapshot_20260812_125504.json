@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-12T12:55:03.086805",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+          "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 03:44:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+          "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 11:28:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本靖國神社頒布新規：一般民眾禁穿軍裝和cosplay參拜",
+          "summary": "靖國神社供奉自明治維新時代以來為日本戰死的軍人及軍屬，其中大多數是日俄戰爭、第二次中日戰爭以及在太平洋戰爭中陣亡的日本軍官兵，今（12日）靖國神社社務所在官網上公告，日後除本身有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537768",
+          "published": "Wed, 12 Aug 2026 20:21:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "深圳炸雞店訂單暴增 新手男店員崩潰倒地抽搐 網曝：月薪僅9千",
+          "summary": "中國深圳一間炸雞店男店員在獨自值班時，因突如其來的海量訂單不堪負荷，在工作崗位直接情緒崩潰倒地不斷抽搐，影片曝光後在網路上引發熱烈討論。  影片畫面顯示，當時該間炸雞店僅有一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537449",
+          "published": "Wed, 12 Aug 2026 19:59:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普政府計畫裝修白宮 華郵：至少投入9億美元",
+          "summary": "據美國媒體報導，美國總統川普預計將投入至少9億美元（約合新台幣290億）裝修白宮，而這筆款項預計向政府機構或私人籌措。  《華盛頓郵報》（​Washington Post）指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537730",
+          "published": "Wed, 12 Aug 2026 19:59:46 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
