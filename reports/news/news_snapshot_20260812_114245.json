@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-12T11:42:44.119202",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+          "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+          "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 11 Aug 2026 19:09:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+          "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 03:44:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "朱鎔基2000年台灣總統大選前「嗆台獨」 反助攻政黨輪替",
+          "summary": "前中國國務院總理朱鎔基今天辭世，享壽98歲。一向給人快人快語印象的他，在台灣2000年總統大選、首次政黨輪替前3天，豎著眉毛、提高聲量警告「台獨」的那一幕，最為台灣人知曉。  朱鎔基是湖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537758",
+          "published": "Wed, 12 Aug 2026 19:24:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "萊茵河水位降至史上新低 嚴重影響德國企業營運",
+          "summary": "德國企業指出，萊茵河（Rhine）水位降至史上新低正日益打亂企業營運；化工產品製造商、公用事業公司、鋼鐵廠與農產品貿易商都警告說，他們正面臨成本上升、運輸瓶頸與產量受限等問題。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537703",
+          "published": "Wed, 12 Aug 2026 18:48:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國前總理朱鎔基病逝！昔鐵腕反腐喊「準備百口棺材 一口留給我」",
+          "summary": "中國官媒今天（12日）傍晚發布重磅快訊，中國共產黨原正國級領導人、第14屆及15屆中央政治局常委、國務院前總理朱鎔基，於今天上午11時6分在北京因病逝世，享耆壽98歲。  朱...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5537700",
+          "published": "Wed, 12 Aug 2026 18:35:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
