@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-13T06:12:10.643535",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+          "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now i…",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+          "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 01:31:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "熊本城強震後新增數十處受損 今重新開放、遊客可登上天守閣",
+          "summary": "日本熊本縣7月28日遭受規模7.1強震襲擊，縣內知名景點熊本城也因為石牆崩塌等災情暫停開放，而在地震發生兩週後，熊本城今日首度開放遊客參觀，並且能登上天守閣一覽周邊風光。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538517",
+          "published": "Thu, 13 Aug 2026 14:06:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "隔著螢幕都有味道！中國炸雞店員工「手伸褲摳屁股」沒洗手直接打包",
+          "summary": "中國浙江溫州近日傳出一起令人作嘔的餐飲衛生事件。有民眾在瀏覽外送平台的「明廚亮灶」直播時，無意間目擊一家韓式炸雞店的員工，將手伸進褲子內「摳屁股」長達20多秒。隨後未經洗手消毒，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538303",
+          "published": "Thu, 13 Aug 2026 13:51:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全家登日本火山看流星雨！70多歲男突失蹤 火山口內驚見倒臥1人",
+          "summary": "日本驚傳一起在火山口墜落意外，1名70多歲男子昨（12日）與家人前往九州霧島山最高峰韓國岳，參加流星雨觀測行程，今（13日）晨準備下山時，赫然發現男子失蹤；導遊緊急報警，今午搜索...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538453",
+          "published": "Thu, 13 Aug 2026 13:20:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
