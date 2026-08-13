@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-13T12:55:58.006522",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+          "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now i…",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UK defends seizing shadow fleet tanker after Putin threat",
+          "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 11:05:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 08:12:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "印度7貧困礦工挖出「17.96克拉鑽石」 瓜分百萬翻轉命運",
+          "summary": "印度中部鑽石產區潘納（Panna）近日有7名生活困苦的勞工，在自己承租的礦區意外發現一顆17.96克拉的天然鑽石，估計價值高達500萬盧比（約新台幣168萬元），有望翻轉7人的命...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5539078",
+          "published": "Thu, 13 Aug 2026 20:52:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏無人機打出連鎖效應！俄公路貨運費漲逾1成  加劇通膨壓力",
+          "summary": "烏克蘭無人機攻擊俄羅斯能源設施，造成的衝擊已從能源供應進一步擴散到物流業。受燃料價格上漲、部分地區供應依然吃緊影響，俄國7月公路貨運價格平均上漲12%到15%，中國到莫斯科的公...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5539126",
+          "published": "Thu, 13 Aug 2026 20:46:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄國軍官在克里米亞被暗殺身亡 當局逮捕為烏克蘭情報單位效力女子",
+          "summary": "克里米亞最大城市塞凡堡（Sevastopol）今（13）日發生一起命案，一名俄羅斯軍官遭殺害身亡。俄羅斯官員表示，當局已將此案定調為暗殺事件。  《路透》報導，俄羅斯派駐的塞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5539073",
+          "published": "Thu, 13 Aug 2026 20:32:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
