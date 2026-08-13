@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-13T09:57:32.067806",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+          "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now i…",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+          "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 08:12:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+          "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 01:31:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "反駁川普「完全控制」主張 伊朗稱仍掌控荷姆茲海峽",
+          "summary": "伊朗準軍事組織「巴斯杰」（Basij）部隊負責人塔伊布（Hossein Taeb）今（13）日表示，荷姆茲海峽目前處於伊朗的控制與管理之下，並強調美國在該地區的行動被伊朗挫敗，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538833",
+          "published": "Thu, 13 Aug 2026 17:28:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "聯合國：阿富汗神學士回鍋執政5年 婦女行動受限幾乎「不出門」",
+          "summary": "根據聯合國婦女署（U.N. Women）12日發布的數據，由於神學士（Taliban）政權頒布法令限縮女性行動自由與參與公眾生活，半數阿富汗女性如今每月只出門1、2次。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538863",
+          "published": "Thu, 13 Aug 2026 17:21:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國密設衛星追蹤設施蒐集情報 遭紐西蘭破局",
+          "summary": "紐西蘭安全情報局（NZSIS）今（13）日在國安報告中表示，中國天文單位曾試圖在紐西蘭設置衛星追蹤基礎設施，藉此收集情報，所幸這項計畫被紐西蘭當局挫敗。  《路透》報導，紐西...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538746",
+          "published": "Thu, 13 Aug 2026 17:09:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
