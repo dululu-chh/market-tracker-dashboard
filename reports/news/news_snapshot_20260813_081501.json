@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-13T08:15:00.603044",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+          "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now i…",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli settlers besieging Palestinian families in West Bank village",
+          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+          "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 01:31:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "14人角逐大位！尚比亞總統大選登場 希奇萊馬拚連任遇強敵",
+          "summary": "盛產銅礦的非洲東南部內陸國尚比亞13日舉行總統大選，尋求連任的現任總統希奇萊馬（Hakainde Hichilema）的執政之路，面臨尚國經濟困境與獲得反對聯盟力挺的挑戰者的考...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538678",
+          "published": "Thu, 13 Aug 2026 15:31:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "為救溺水母親 日18歲孝子捲入外海身亡",
+          "summary": "日本高知縣東洋町知名衝浪勝地「生見海岸」日前發生一起溺水悲劇，一名18歲的男大學生與父母前往海邊遊玩時，母親不慎遭海浪捲走，孝順的男大生見狀，第一時間與父親一同游入海中救人，雖然...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538552",
+          "published": "Thu, 13 Aug 2026 15:27:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德媒：習近平治下  朱鎔基逝世為改革時代畫沉重句號",
+          "summary": "前中國國務院總理朱鎔基昨天在北京逝世，引發中國民間熱議。德國之聲今天發表文章，指中國在現任領導人習近平治下，經濟樂觀時代已走到尾聲。對許多經歷過經濟改革時代的中國人而言，朱鎔基的逝世為這個時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5538487",
+          "published": "Thu, 13 Aug 2026 14:53:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
