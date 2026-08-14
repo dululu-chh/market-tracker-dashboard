@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-14T14:12:51.075356",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Unprecedented' rain in Japan kills eight people",
+          "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 10:36:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+          "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 12:19:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US says dozens of countries helped China dodge Trump's tariffs",
+          "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+          "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 08:39:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國預告「史無前例」經濟施壓伊朗 專家認為難改局勢",
+          "summary": "美國財政部長貝森特13日表示，預計下週公布對伊朗的經濟孤立措施，規模將達到「前所未有」程度；同日，美國戰爭部長（國防部長）赫格塞斯表明，美軍有能力「無限期」對伊朗執行海上封鎖。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540397",
+          "published": "Fri, 14 Aug 2026 22:08:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加速烏克蘭佔領區「俄化」 克里姆林宮撤銷多處邊境區",
+          "summary": "俄羅斯侵略烏克蘭後，佔領烏國東部盧甘斯克、頓內茨克州等4州部分地區，現在俄國準備以「完成兼併」為由，撤銷這些地區與俄國之間的「邊境區」（border zone），進一步將這些佔...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540375",
+          "published": "Fri, 14 Aug 2026 21:36:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "搶救文資！西班牙野火失控  11世紀3國王遺骸緊急撤出",
+          "summary": "西班牙東北部亞拉岡自治區遭野火肆虐，一座建立於10世紀、安葬著3位11世紀亞拉岡國王遺骨及歷史文物的古老修道院，正面臨被大火吞噬危險。當局13日展開緊急救援，順利將修道院內的文物...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540344",
+          "published": "Fri, 14 Aug 2026 21:16:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
