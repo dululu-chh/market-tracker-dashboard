@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-14T12:52:40.006197",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Unprecedented' rain in Japan kills eight people",
+          "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 10:36:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US says dozens of countries helped China dodge Trump's tariffs",
+          "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+          "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 08:39:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 13 Aug 2026 21:43:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "查德總統特赦9名政敵 包括前總理兼主要反對派領袖",
+          "summary": "中非國家查德總統馬哈馬特．德比（Mahamat Idriss Deby）14日赦免9名遭判刑入獄的反對派領袖，包括曾在2024年與德比爭奪總統大位的查德前總理馬斯拉（Succe...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540312",
+          "published": "Fri, 14 Aug 2026 20:34:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯不接受黑海停火協議  全球糧價恐再飆",
+          "summary": "隨著近幾週黑海商船頻遭襲擊推高全球糧價，俄羅斯外交部週五（14日）聲明，拒絕烏克蘭提議的黑海停火協議。  據《路透社》指出，俄羅斯外交部發言人札哈羅娃（Maria Zakha...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540203",
+          "published": "Fri, 14 Aug 2026 19:17:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "天乾物燥氣溫狂飆 英國打火弟兄「壓力山大」",
+          "summary": "英國國家消防長會議（NFCC）主席加里根（Phil Garrigan）14日表示，英國消防員在高溫與乾旱下撲滅多起野火，「壓力山大」。  加里根（Phil Garrigan...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540181",
+          "published": "Fri, 14 Aug 2026 18:18:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
