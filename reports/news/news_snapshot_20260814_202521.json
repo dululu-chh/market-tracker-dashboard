@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-14T20:25:18.613347",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+          "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:25:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+          "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 12:19:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "槍殺健保CEO引發兩極輿論　曼吉昂認罪恐判終身監禁",
+          "summary": "28歲男子曼吉昂（Luigi Mangione）今天就跟蹤指控向聯邦法官認罪時，坦承在紐約曼哈頓（Manhattan）街頭槍殺了聯合健康保險公司（UnitedHealthcare）主管。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540474",
+          "published": "Sat, 15 Aug 2026 02:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國憲法委員會批准「協助死亡」法案 安樂死有嚴格條件",
+          "summary": "法國最高憲法機構「憲法委員會」14日裁定，國會通過的「協助死亡」（assisted dying）法案完全符合憲法；該法案允許罹患不治之症、承受難以緩解痛苦的成年人，在符合嚴格條...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540457",
+          "published": "Fri, 14 Aug 2026 23:49:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華府二戰紀念碑遭塗鴉 川普大罵：哪來的畜生",
+          "summary": "美國總統川普14日不滿華府「二戰紀念碑」廣場遭人惡搞，誓言對動手破壞的「畜生」追緝到底。  2004年落成的「二戰紀念碑」廣場，是紀念二次世界大戰中的40萬名陣亡美軍，與1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540459",
+          "published": "Fri, 14 Aug 2026 23:47:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
