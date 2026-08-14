@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-14T22:16:19.126940",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+          "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:25:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+          "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+          "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 12:19:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "對公公不敬「有失體統」  33歲汶萊王妃王室頭銜全被拔",
+          "summary": "首次上稿 8-14 23:19更新時間 8-15 06:10  國營的汶萊廣播電視台（RTB）報導，汶萊蘇丹哈山納包奇亞（Sultan Hassanal Bolkiah）認為他其中一名兒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540402",
+          "published": "Sat, 15 Aug 2026 06:10:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「華盛頓號」航艦轉調中東  專家：美太平洋戰略恐生變",
+          "summary": "首次上稿 8-14 22:25更新時間 8-15 05:58 華爾街日報報導，自去年11月出航，今年1月轉調中東的航空母艦「林肯號」，部署時間已超過250天，且長達200天未...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540404",
+          "published": "Sat, 15 Aug 2026 05:58:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台海若衝突 小馬可仕：不想成為交戰國",
+          "summary": "不允許從菲發動攻擊 〔編譯張沛元／綜合報導〕菲律賓總統小馬可仕十四日表示，菲律賓無意在台海爆發衝突時淪為區域內交戰國，不會允許從菲律賓發動攻擊；儘管中菲持續因南海主權爭議以致關係緊張，但菲律賓仍期盼與北京重設關係以及繼續探討共同探勘南海油氣；至於台灣，菲律賓將持續在「一中政策」的框架下維持與台灣既…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766679",
+          "published": "Sat, 15 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
