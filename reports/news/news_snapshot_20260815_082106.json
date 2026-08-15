@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-15T08:21:04.499893",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+          "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 08:16:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+          "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+          "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 07:53:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+          "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:54:58 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "李在明喊話金正恩 終結「韓戰狀態」和平共存",
+          "summary": "南韓總統李在明週六（15日）發表光復節演說時，向北韓發出對話邀請，強調南北兩韓應坐下來討論「和平共存」。李在明主張以「和平體制」取代現行的韓戰停戰協定，並建立多層次安全保障機制以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540885",
+          "published": "Sat, 15 Aug 2026 16:10:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "少說狠話多拚軍力！ 柯伯吉揭美軍新戰略：第一島鏈築拒止防線",
+          "summary": "面對中國持續擴張軍力，美國國防政策高層正在調整對中嚇阻方式，不再把強硬言詞當成主要手段，而是強化第一島鏈周邊的實質軍事能力。美國國防部主管政策事務次長柯伯吉（Elbridge ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540936",
+          "published": "Sat, 15 Aug 2026 15:32:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國劣質動畫電影《牛來》 受民眾好奇影響票房暴增10多倍",
+          "summary": "中國低品質動畫電影《牛來》，本月5日在沒有任何宣傳的情況下上映，後續票房僅7352人民幣（約新台幣3.5萬元）、278人觀看，消息傳出後引起各界好奇，今（15日）票房已破10萬人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540858",
+          "published": "Sat, 15 Aug 2026 15:26:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
