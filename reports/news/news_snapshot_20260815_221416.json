@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-15T22:14:14.748012",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 21:49:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 20:58:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 20:21:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "謠言終結站》美最激進參選人？ 左翼醫師發言被斷章取義",
+          "summary": "網傳消息：民主黨左翼公衛醫師塞德5日在密西根州聯邦參議員初選中擊敗黨內建制派對手，挑戰成為美國史上第一位穆斯林參議員。美國共和黨有關機構迅速發布攻擊廣告，剪輯塞德多段自稱「我確實很危險」的談話，將其標籤為「美國最激進的參議員候選人」。其標籤為「美國最激進的參議員候選人」。  查證結果：誤導。法新…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766818",
+          "published": "Sun, 16 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼1日2強震 東部7.7 西部蘇門答臘6.9",
+          "summary": "清晨淺層強震 至少40死 數千人撤離 〔編譯林家宇／綜合報導〕印尼東部佛羅雷斯島（Flores）十五日清晨發生規模七．七地震，隨後出現多起顯著餘震。當局一度發布海嘯警報，搜救工作則因通訊中斷與道路坍方持續受阻。據官方統計已至少四十人不幸罹難，預料死傷人數將持續攀升，數千人被迫撤離家園；同日晚間在西…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766813",
+          "published": "Sun, 16 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會籌備進度不明 北京不安",
+          "summary": "〔國際新聞中心／綜合報導〕中國國家主席習近平預定九月廿四日訪問華府，距行程僅剩不到六週，但香港南華早報十五日獨家報導指出，川普政府內部籌備混亂、缺乏明確主導單位，雙方峰會成果進展有限，讓北京方面不安。 距習近平訪美 剩不到6週 消息人士表示，目前並無任何美官員或機構真正主導習訪美的籌備工作，與川…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766817",
+          "published": "Sun, 16 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
