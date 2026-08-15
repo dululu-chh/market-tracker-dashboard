@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-15T06:26:43.657156",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+          "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 00:01:53 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+          "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 06:21:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國遭白海豚回馬槍暴雨！太湖流域江浙滬多處淹水不斷",
+          "summary": "白海豚颱風殘餘環流在進入中國內陸湖北省後，受高空槽（位於高空的低壓槽）影響殺了個回馬槍，轉頭侵襲江蘇省、浙江省、上海等地，位於江蘇、浙江交界的太湖14日升至警戒水位．已達到「流域...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540734",
+          "published": "Sat, 15 Aug 2026 13:38:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "林肯號戰區苦撐240天！ 川普冷回：部署還遠遠不夠久",
+          "summary": "美軍核動力航艦「林肯號」（USS Abraham Lincoln）在中東執行任務，連續在海上超過240天，整體部署已逾260天，官兵長期遠離家園引發家屬與國會議員關注。美國總統...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540754",
+          "published": "Sat, 15 Aug 2026 13:17:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西客家緣樓落成 海外台灣客家懇親大會圓滿落幕",
+          "summary": "由世界台灣客家聯合總會主辦、巴西客屬崇正總會承辦的2026海外台灣客家懇親大會，12至14日在巴西聖保羅隆重舉行，昨透過全球唯一的客家樂活養生村「巴西客家緣樓」落成剪綵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540758",
+          "published": "Sat, 15 Aug 2026 13:09:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
