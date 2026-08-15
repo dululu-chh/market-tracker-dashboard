@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-15T11:14:16.306003",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+          "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 08:52:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+          "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:54:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 00:01:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "打工修老宅挖到3.3億黃金！比利時工讀生驚呆了",
+          "summary": "比利時東法蘭德斯省一處建築工地工人日前施工時，意外挖到一大批金條、金塊，估計價值高達900萬歐元（約3.3億台幣），而「挖到寶」的是一名18歲工讀生，他利用暑假到工地打工。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541100",
+          "published": "Sat, 15 Aug 2026 18:31:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "專挑逾6000未婚女性密送中國！ 北韓金正恩「秘密金庫」操盤內幕曝光",
+          "summary": "北韓無視國際社會制裁，持續擴大向海外輸出勞力以賺取外匯！一份最新曝光的北韓內部機密文件顯示，北韓自2024年至2026年3月期間，向中國吉林省圖們經濟開發區秘密派遣約7000名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541037",
+          "published": "Sat, 15 Aug 2026 17:42:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼7.7強震死亡人數上修為38人",
+          "summary": "印尼國家災害應變總署署長蘇哈里揚托（Suharyanto）15日修正此前公布的傷亡人數，指稱印尼東部規模7.7強震，已造成至少38人死亡。  蘇哈里揚托在記者會表示，已確認...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541028",
+          "published": "Sat, 15 Aug 2026 17:25:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
