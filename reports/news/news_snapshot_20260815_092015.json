@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-15T09:20:14.014723",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+          "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 08:52:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+          "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 18:54:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+          "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+          "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 00:01:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "格陵蘭爭奪戰副作用？ 冰島8/29就是否重啟加入歐盟談判舉行公投",
+          "summary": "人口40萬的冰島選民將於8月29日的1場公投中，就下面這個簡單問題表態：冰島是否應該重啟與歐洲聯盟（EU）的「入盟」談判？其結果除了攸關這個北歐國家是否會成為第28個歐盟成員國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541015",
+          "published": "Sat, 15 Aug 2026 17:05:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "親美友中沒這種事！美中AI競賽加劇 華府發函要夥伴國家選邊站",
+          "summary": "路透報導，美國準備告知數十個國家必須在美中人工智慧（AI）競賽中選邊站，如果他們加入北京的競爭架構，就會被排除在美國主導的AI聯盟之外。  華府去年啟動「矽盛世」（Pax ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540999",
+          "published": "Sat, 15 Aug 2026 16:57:28 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "南韓西江大學18萬則個資遭竊取 包含前總統朴槿惠",
+          "summary": "南韓首爾西江大學系統遭受外部攻擊，今（15日）證實教職員、在校生、畢業校友共18萬則個資洩漏，其中包含南韓首個遭彈劾下台的前總統朴槿惠。  據《韓聯社》報導，西江大學表示，1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5540915",
+          "published": "Sat, 15 Aug 2026 16:22:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
