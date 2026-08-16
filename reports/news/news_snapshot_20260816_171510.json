@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-16T17:15:08.727888",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 15:50:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+          "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:53:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏克蘭發動開戰以來最大規模無人機攻擊 俄軍防空系統面臨極限",
+          "summary": "俄羅斯當局表示，烏克蘭15日至16日發動自開戰以來最大規模的無人機攻勢之一，造成莫斯科附近一座物流倉庫起火，並導致至少6人死亡。  英國「衛報」報導，俄羅斯國防部表示，已...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542118",
+          "published": "Mon, 17 Aug 2026 00:59:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "牙敗！日本秋田機場驚見這一幕  台灣竟成了「國內線」",
+          "summary": "台灣因為與日本關係友好、美食豐富且飛行時間短，長期高居日本人最愛的旅遊目的地之一。沒有想到近日有日本遊客在秋田縣秋田機場的出發航班資訊顯示螢幕上，台灣竟然成了「國內線」，拍下照片...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542086",
+          "published": "Mon, 17 Aug 2026 00:54:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚爆內部曾討論全面撤中  微軟過去5年已關閉15家中國分公司！",
+          "summary": "近年中國經濟成長放緩、法規與政策不確定性增加，加上美中地緣政治緊張局勢加劇，促使許多外國企業將部分業務或新投資從中國分散出去。有外媒近日披露，曾經認為「撤出中國」是種不可思議想法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542055",
+          "published": "Mon, 17 Aug 2026 00:08:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
