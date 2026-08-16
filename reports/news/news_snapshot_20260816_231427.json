@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-16T23:14:25.454060",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 22:41:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "越航起飛撞擊！台灣乘客曝光第一視角 網驚：很多空難都是這開頭......",
+          "summary": "越南航空（Vietnam Airlines）15日一架從德國慕尼黑飛往越南河內的班機，在起飛時發生嚴重的技術性飛行事故，所幸最終安全迫降，機上乘客與機組人員均安。事後有台灣乘客曝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542089",
+          "published": "Mon, 17 Aug 2026 06:28:43 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美進口車商發起「拒絕中國車」！憂市場遭吞噬促立法封殺",
+          "summary": "代表美國9400多家進口車經銷商的「美國國際汽車經銷商協會」（AIADA），本月初發起一項名為「拒絕中國車」（No China Autos）的運動，以主席達羅（Mike Da...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542136",
+          "published": "Mon, 17 Aug 2026 06:03:08 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "北韓兵越過分界線 南韓今年首度警告射擊",
+          "summary": "〔國際新聞中心／綜合報導〕南韓政府消息人士透露，數名北韓士兵近日越過東部戰線的兩韓軍事分界線（MDL），南韓軍方隨即鳴槍示警，促使北韓士兵撤返。這是今年以來南韓軍方首次因北韓軍隊越界而實施警告射擊。  韓聯社十六日報導，這批北韓士兵上週越過東部戰線軍事分界線後，韓軍依程序鳴槍示警，朝軍士兵隨後撤…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1766927",
+          "published": "Mon, 17 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
