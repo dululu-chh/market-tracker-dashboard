@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-16T15:15:13.155868",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 15:14:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+          "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:53:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "比保全有效！日團粉絲高舉「小熊維尼」 中國粉絲集體秒收手機",
+          "summary": "日本跨媒體企劃《BanG Dream!》旗下樂團「RAISE A SUILEN」，8月14、15日在香港開唱，吸引各國邦邦廚（粉絲暱稱）朝聖。未料活動期間傳出，不少中國粉絲散場後...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542015",
+          "published": "Sun, 16 Aug 2026 22:59:59 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "伊朗軍方懸賞3萬美元捉拿美軍 女性生擒或擊斃獎金雙倍",
+          "summary": "法新社報導，伊朗軍方16日宣布，將懸賞等值3萬美元（約新台幣96萬元）的獎金，獎勵擊斃或俘虜美國士兵的人員；若由女性執行，獎金將提高為雙倍。  國營伊朗通訊社（IRNA）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542070",
+          "published": "Sun, 16 Aug 2026 22:53:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慘絕人寰！哥倫比亞孕婦遭活體剖腹奪胎 母女雙亡嫌犯拒認罪",
+          "summary": "哥倫比亞近期發生一起慘絕人寰的「奪胎兇殺案」，一名懷胎將近10個月的婦女波托西（Maria Camila Potosi）不幸被一群企圖搶奪胎兒的犯罪集團盯上，波托西被強行剖腹奪胎...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542000",
+          "published": "Sun, 16 Aug 2026 22:18:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
