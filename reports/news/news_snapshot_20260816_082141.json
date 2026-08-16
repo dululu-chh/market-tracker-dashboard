@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-16T08:21:39.511459",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+          "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 08:14:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 04:13:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+          "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 07:58:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "讀者傻了！中國網路作家離世引大量捐款 3年後為領錢「復活」",
+          "summary": "離譜！中國網路文學平台「番茄小說」的作家文黛黛，於2023年8月撰寫校園愛情小說《春日藏歡喜》時心臟病離世，一時之間引起民眾不捨並大量使用平台打賞功能捐款，孰料她如今卻發文「復活...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541721",
+          "published": "Sun, 16 Aug 2026 16:12:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "江澤民百歲冥誕前全版緬懷 人民日報不忘強調「忠於習近平」",
+          "summary": "中共明天將為已故領導人江澤民舉行100歲冥誕紀念大會，黨媒人民日報今天全版篇幅刊登紀念文章肯定其功績，並藉由「更加緊密團結」在以習近平為核心的黨中央周圍等語，強調全黨要忠於習近平。  人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541471",
+          "published": "Sun, 16 Aug 2026 15:56:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華郵預測美總統人選  共和黨2強競逐、民主黨局勢未明",
+          "summary": "「華盛頓郵報」統計下屆美國總統可能參選者，共和黨仍是副總統范斯與國務卿魯比歐兩強競逐；民主黨欠缺領袖，多位年輕世代網路聲勢看漲。各界關注期中選舉後進步派席次變化對人選的影響。  華盛頓郵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541338",
+          "published": "Sun, 16 Aug 2026 15:41:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
