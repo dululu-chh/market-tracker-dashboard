@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-16T11:15:16.634018",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+          "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 10:52:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 08:23:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+          "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 08:49:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "印尼7.7強震增至51死 5000人被迫撤離",
+          "summary": "印尼東部的東努沙登加拉省（East Nusa Tenggara）15日發生規模7.7強震，造成嚴重災情。官員表示，目前已知有51人罹難，113人受傷，其中36人傷勢較嚴重，約50...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541805",
+          "published": "Sun, 16 Aug 2026 18:24:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印尼7.7強震至少51死 該國10年來最致命地震一次看",
+          "summary": "印尼東部昨天遭規模7.7強震侵襲，至少造成51人死亡，救援行動仍在進行中。以下為印尼國家災害應變總署（BNPB）記錄的過去十年來最致命地震。  2018年9月28日，印尼發生規模7.5強...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541874",
+          "published": "Sun, 16 Aug 2026 18:02:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》中國「割韭菜」新招？警民火爆互槓！網轟：對百姓敲骨吸髓",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541888",
+          "published": "Sun, 16 Aug 2026 17:41:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
