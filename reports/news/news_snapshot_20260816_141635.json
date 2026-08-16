@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-16T14:16:34.150426",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+          "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 10:52:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+          "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 12:53:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國客大減56％日本觀光仍旺 台韓歐美旅客填補缺口",
+          "summary": "日媒分析，隨著日中雙邊關係不見好轉，中國旅客需求疲軟，日本今夏旅遊季對中國遊客的高度依賴預計將有所降低，並期望藉由其他亞洲國家及歐洲旅客，彌補中國客缺口。  日本共同社報導，今年前6個月...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541956",
+          "published": "Sun, 16 Aug 2026 21:36:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "西班牙暴雨釀洪災2死2傷 7地區列黃色警戒",
+          "summary": "西班牙當局表示，該國西北部農村地區暴雨引發洪水及土石流，造成2名年長婦女喪生、2名嬰兒受傷。當局今天對7個地區發布暴風雨及大雨黃色警戒。  西班牙民防部門今天警告，中部及北部7個地區恐有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541937",
+          "published": "Sun, 16 Aug 2026 21:07:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市早苗上任10個月訪11國 首重鞏固盟友抗中國施壓",
+          "summary": "日本首相高市早苗自去年10月上任以來，已經走訪11個國家，主要集中於美國及東南亞志同道合的夥伴等盟邦，目的是在中國於國際舞台加強批評日本之際，鞏固對外關係。  日經亞洲（Nikkei A...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542012",
+          "published": "Sun, 16 Aug 2026 20:52:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
