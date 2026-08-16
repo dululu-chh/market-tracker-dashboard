@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-16T04:29:26.021548",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 04:13:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 20:58:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 15 Aug 2026 20:21:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "嚇壞！越南航空德國起飛時衝出跑道機尾擦地 盤旋洩油後返降",
+          "summary": "乘客嚇壞！越南航空VN34航班波音夢幻客機787-9，15日原定從德國慕尼黑飛往越南河內，孰料起飛時衝出跑道盡頭且機尾擦地、毀損跑道標誌燈，後續盤旋洩油且經過2次低空進場才返降原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541541",
+          "published": "Sun, 16 Aug 2026 12:21:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓世紀離婚案SK會長崔泰源上訴！前妻要求213億全給現金談不攏",
+          "summary": "南韓財閥SK集團會長崔泰源與前總統盧泰愚之女盧素英的「世紀離婚案」，法官於今年7月24日裁定男方在財產分割中支付女方9440億韓元（約新台幣213.4億元），不過，崔泰源提議以股...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541484",
+          "published": "Sun, 16 Aug 2026 11:42:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "才被警告隔天又折返……中國男拍美國B-2基地下場慘了",
+          "summary": "35歲中國籍男子吳麒麟（Qilin Wu，音譯）去年底兩度出現在美國密蘇里州懷特曼空軍基地周邊，拍攝B-2「幽靈」（Spirit）匿蹤轟炸機及基地設施；首次遭美軍警告不得拍攝後...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5541500",
+          "published": "Sun, 16 Aug 2026 11:38:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
