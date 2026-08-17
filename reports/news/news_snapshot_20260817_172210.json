@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-17T17:22:08.240391",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 16:26:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia and Ukraine trade more deadly strikes",
+          "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+          "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 06:24:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鎖國新法將上路 前黨校教授：中國小學課本已教「閉關鎖國好處」！",
+          "summary": "中國國務院上月底頒布《關於出境入境管理規定》，被許多學者和反共圈人士譏諷是「鎖國新法」，不少牆內中國人也大崩潰。前中共中央黨校教授蔡霞近日分享，如今「閉關鎖國」在中國小學生課本上...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543194",
+          "published": "Tue, 18 Aug 2026 00:58:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美跨黨派參議員抨擊川普縮減美韓軍演 批其拋棄盟友討好獨裁者",
+          "summary": "美國跨黨派資深參議員17日強烈批評總統川普縮減與南韓聯合軍事演習的決定，警告此舉將有利於北韓，並使華府在亞洲最親密的盟友之一感到不安。  法新社報導，川普在演習開始的幾小...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543224",
+          "published": "Tue, 18 Aug 2026 00:38:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英國首相也被騙！柏南誤與冒牌川普幕僚長通訊息",
+          "summary": "4名官員向美國新聞網站Politico透露，英國首相柏南（Andy Burnham）曾與1名冒充美國總統川普（Donald Trump）最親近顧問之一的人士互傳訊息。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543215",
+          "published": "Mon, 17 Aug 2026 23:59:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
