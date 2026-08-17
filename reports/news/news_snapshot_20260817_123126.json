@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-17T12:31:25.514446",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+          "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 06:24:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+          "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 12:27:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukrainian strikes kill six in Russia, acting governor says",
+          "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 11:14:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紐約百人鬥毆爆槍戰！無辜5寶媽中彈身亡",
+          "summary": "美國紐約市布魯克林區週日凌晨發生槍擊案，一名33歲，育有5名孩子母親，在街頭衝突中不幸遭流彈擊中，儘管她負傷逃至附近酒吧求救，最終仍因傷勢過重、失血過多宣告不治。  據《…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542832",
+          "published": "Mon, 17 Aug 2026 19:54:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》菲網炸裂嗆爆北京滾出去！ 戰狼顧人怨「這事」竟惹怒41國？",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542958",
+          "published": "Mon, 17 Aug 2026 18:13:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "AI駭客攻台會自己換招！遭阻竟能改用另一招",
+          "summary": "台灣政府機關7月遭遇一波結合人工操作與人工智慧代理的境外網路攻擊，攻擊手法引發外界關注。以色列資安公司Dream Security分析發現，攻擊者使用多個AI代理分頭執行任務，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542842",
+          "published": "Mon, 17 Aug 2026 17:59:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
