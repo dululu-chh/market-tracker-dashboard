@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-17T21:20:53.549463",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia and Ukraine trade more deadly strikes",
+          "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia's prominent anti-war politician jailed for 11 years",
+          "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "60天談判期屆滿美伊分歧未解　川普稱不尋求延長",
+          "summary": "美國與伊朗6月簽署旨在終結戰事的諒解備忘錄（MOU），並設定60天的談判期。如今期限屆滿，雙方立場仍相距甚遠。川普今天在白宮告訴記者，不尋求延長與伊朗的諒解備忘錄。  根據哥倫比亞廣播公司新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543246",
+          "published": "Tue, 18 Aug 2026 04:30:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美戰爭部查大學對外合作　轉型孔子學院列關注名單",
+          "summary": "五角大廈今天要求全美30間學術機構強制稽查與中國、俄羅斯、伊朗等國的學術合作計畫，已經轉型或更名的孔子學院也列入「受關注外國實體」。  五角大廈今天公布新聞稿指出，已正式通知全美30個學術機...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543244",
+          "published": "Tue, 18 Aug 2026 03:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美媒：習近平9月訪美與川普會談  無意參加聯合國大會",
+          "summary": "政治新聞媒體Politico今天報導，中國國家主席習近平9月訪美將在華府與美國總統川普（Donald Trump）會面，不會順道前往紐約參加聯合國大會發表演說。  報導引述4名熟悉習近平行程...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543243",
+          "published": "Tue, 18 Aug 2026 03:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
