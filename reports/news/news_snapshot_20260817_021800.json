@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-17T02:17:59.069017",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 00:06:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "歐盟擬擴大對俄制裁 受制裁實體總數恐增三分之一",
+          "summary": "歐盟外交與安全政策高級代表卡拉斯（Kaja Kallas）近日告訴德國媒體，歐盟計劃在未來幾個月大幅擴大對俄羅斯的制裁，並強調該制裁將對俄羅斯影響深遠。  根據《路透》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542255",
+          "published": "Mon, 17 Aug 2026 10:09:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本慶應義塾大學女高材生 打工時盜走顧客信用卡買化妝品被捕",
+          "summary": "日本頂尖私立名校慶應義塾大學，傳出22歲女大生新澤かれん在運動中心打工時竊走顧客的信用卡，前往東京新宿區購買化妝品，目前已被警方逮捕。  據《TBS》報導，警方表示，大4女學...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542247",
+          "published": "Mon, 17 Aug 2026 09:49:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西巴士事故 9女1童罹難",
+          "summary": "巴西1輛巴士16日在里約熱內盧北部一處陡峭的山區翻覆，造成至少10人死亡。里約熱內盧消防部門表示，事故發生當時有8人當場死亡，另有2人在送醫後不治。  根據《法新社》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5542211",
+          "published": "Mon, 17 Aug 2026 09:30:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
