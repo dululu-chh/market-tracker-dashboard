@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-18T08:29:12.727646",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+          "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+          "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 06:40:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:24:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏軍首度用「英製無人機」打擊俄國   莫斯科警告：倫敦將承擔後果",
+          "summary": "俄羅斯駐倫敦大使館18日警告英國，針對英國向烏克蘭提供無人機襲擊俄國本土一事，倫敦當局必須承擔後果。此前，英國媒體報導稱，烏軍首度使用英製無人機，對俄境目標實施長程打擊。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543982",
+          "published": "Tue, 18 Aug 2026 16:07:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "保護青少年心理健康！日本Meta推新制 搜尋自殺關鍵字將通知家長",
+          "summary": "青少年透過社群軟體與同儕互動，時常看見他人在網上展示精采生活，免不了產生比較心態，進而導致焦慮等症狀，Meta日本子公司於17日宣布，為保護青少年心理健康，若孩子在平台內反覆搜尋...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543838",
+          "published": "Tue, 18 Aug 2026 15:22:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓釜山海上纜車旁驚傳15人遭黃蜂螫傷！包含5名台灣旅客",
+          "summary": "南韓釜山松島海上纜車站點附近，今（18日）中午驚傳15人遭到黃蜂螫傷，其中有5名台灣旅客，消防員獲報抵達現場後將12人送往醫院治療。  據《韓聯社》報導，釜山廣域市消防災難本...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543894",
+          "published": "Tue, 18 Aug 2026 15:14:17 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
