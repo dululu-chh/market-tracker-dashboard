@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-18T09:27:22.399603",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+          "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia warns UK will pay for supplying drones to Ukraine",
+          "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 09:11:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:24:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "被控傳播虛假訊息   YT頻道「Azad」遭伊朗禁播",
+          "summary": "自美國和以色列2月28日對伊朗發動聯合空襲後，伊朗加強了對媒體的管控。伊朗司法部門近日稱，已禁止YouTube頻道「Azad」播出，原因是傳播「虛假訊息」。該頻道創始人表示，伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544016",
+          "published": "Tue, 18 Aug 2026 16:53:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭無人機大軍夜襲莫斯科釀3傷 克里米亞多處斷電",
+          "summary": "俄羅斯官員表示，烏克蘭今（18）日清晨使用大量無人機攻擊首都莫斯科及周邊地區，造成至少3人受傷，其中1名傷患是年僅10歲的小女孩。  《路透》報導，莫斯科市長索比亞寧（Ser...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544009",
+          "published": "Tue, 18 Aug 2026 16:52:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽快沒船了！週一僅「個位數」通過 低於10天均值",
+          "summary": "受美國與伊朗和平談判陷入僵局影響，中東航運要道荷姆茲海峽（Strait of Hormuz）的船舶通航量於17日（週一）雖較週末微幅回升，但仍維持在個位數低檔。  據《路透》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544006",
+          "published": "Tue, 18 Aug 2026 16:46:41 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
