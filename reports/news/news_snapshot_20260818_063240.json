@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-18T06:32:38.828616",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+          "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:00:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:24:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Inside secret police warehouse as Germany targets small boats gangs",
+          "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+          "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:02:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中客集體瘋狂插隊 南韓仁川機場出招防範了！",
+          "summary": "南韓仁川國際機場近來多次傳出中國旅客集體插隊的情況，機場如今做出改善措施，在1號航廈3樓報到櫃檯排隊處安裝透明擋板，避免有中客從縫隙中穿越。  據《韓聯社》報導，仁川機場日前...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543807",
+          "published": "Tue, 18 Aug 2026 14:15:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗暗殺換機只帶她！ 美媒爆35歲女助理成川普「安撫奶嘴」",
+          "summary": "在美國第一夫人梅蘭妮亞近期顯著減少公開露面之際，美國總統川普身邊1名35歲的私人女助理，因與總統極度親密的互動成為全美焦點！這名助理不僅隨身攜帶小型印表機隨時為川普列印資料而獲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543759",
+          "published": "Tue, 18 Aug 2026 14:05:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印度「冰原」美照洗版！婚攝、MV搶進「白雪山谷」 研究揭含致癌物",
+          "summary": "印度西北部拉賈斯坦邦（Rajasthan）基尚加爾（Kishangarh）一處大理石廢料堆置場，因滿布白色石屑，宛如一片白雪覆蓋的山谷，近來成為網紅景點，吸引遊客、婚紗攝影團隊等...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543710",
+          "published": "Tue, 18 Aug 2026 13:59:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
