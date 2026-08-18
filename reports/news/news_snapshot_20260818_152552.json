@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-18T15:25:49.945344",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+          "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Inside secret police warehouse as Germany targets small boats gangs",
+          "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+          "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:02:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Brazil's President Lula hails oil discovery near Amazon river",
+          "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 13:13:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "巴勒斯坦裔美國人返鄉護家 升星條旗對抗以色列屯墾者",
+          "summary": "巴勒斯坦裔美國人里迪（Loui Ridi）在約旦河西岸古斯拉村（Qusra）的住宅，遭以色列屯墾者包圍超過一週後，他近日從美國返鄉保衛老母親和家園，並在屋頂升起巨大美國國旗，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544468",
+          "published": "Tue, 18 Aug 2026 23:13:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓釜山纜車驚傳虎頭蜂攻擊 釀10多傷含5名台灣人",
+          "summary": "綜合韓國SBS電視台及朝鮮日報報導，韓國釜山松島海上纜車廣場今天發生虎頭蜂攻擊事件，約15至16人遭螫傷，包括5名台灣人。  釜山消防災難本部今天表示，今天上午11時58分接獲通報，西區...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544418",
+          "published": "Tue, 18 Aug 2026 22:33:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱美國與伊朗革命衛隊檯面下溝通管道暢通 德黑蘭駁斥「妄想」",
+          "summary": "美國總統川普接受福斯新聞電話專訪時提到，華盛頓與伊朗伊斯蘭革命衛隊（IRGC）官員的檯面下溝通管道保持暢通。但革命衛隊發言人否認，稱川普的說法是「妄想」。  伊朗首席談判代...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544426",
+          "published": "Tue, 18 Aug 2026 22:25:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
