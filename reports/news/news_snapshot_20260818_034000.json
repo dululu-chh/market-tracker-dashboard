@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-18T03:39:58.661964",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 02:06:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia warns UK over supplying drones to Ukraine",
+          "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北約被嫌、南韓遭砍軍演！ 川普連環算帳「連調解國都要炸」",
+          "summary": "美國總統川普近期接連對不願配合美方中東戰事的盟友施壓，從歐洲北約盟國、亞洲盟友南韓，到長期協助美伊斡旋的波斯灣國家阿曼，接連成為白宮點名對象。北約被嫌支援不足、南韓遭縮減美韓軍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543516",
+          "published": "Tue, 18 Aug 2026 11:29:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "東南亞又爆校園槍擊！7年級學生在大學內開直播掃射 至少2死9傷",
+          "summary": "東南亞地區再度爆出校園槍擊案！菲律賓警方表示，今（18日）南部民答那峨島城市三寶顏（Zamboanga）1所高中發生槍擊事件，至少有2人中彈。  綜合菲律賓媒體報導，菲律賓三...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543475",
+          "published": "Tue, 18 Aug 2026 11:12:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國央企總經理猥褻陪酒女員工後被捕 網傳有官員涉入",
+          "summary": "中國江蘇省啟東市高考（大學入學考試）狀元、北京清華大學畢業學霸、央企招商局蛇口工業區控股股份有限公司（招商蛇口）浙江省總經理趙海峰，7月底傳出猥褻被叫來陪酒的合作商女員工，目前已...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5543419",
+          "published": "Tue, 18 Aug 2026 11:07:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
