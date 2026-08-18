@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-18T13:37:49.493340",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+          "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+          "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+          "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 05:24:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "五角大廈升高學術合作管控指向中國  納入孔子學院關聯機構",
+          "summary": "美國戰爭部（國防部）17日要求全美30間大學等學術機構，稽查與中國、俄羅斯或伊朗等國的學術合作關係，包括和更名後的中國「孔子學院」有關聯之機構、組織。南華早報報導，更名後的孔子...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544355",
+          "published": "Tue, 18 Aug 2026 21:13:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "西班牙格拉納達再爆餘震釀3傷、建物受損 名勝阿爾罕布拉宮管制",
+          "summary": "西班牙南部城市格拉納達（Granada）繼15日的規模5.0地震後，今（18）日又發生3次規模4以上的餘震，造成3人受傷，部分建築物牆壁出現裂縫，知名景點阿爾罕布拉宮（Alham...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544317",
+          "published": "Tue, 18 Aug 2026 21:00:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "網瘋傳北京出大事！他驚曝北戴河爆槍戰 習近平連夜逃回中南海",
+          "summary": "最近網上出現不少使用簡體中文的中國網友發帖宣稱「北京出大事」，但沒人具體說明所謂何事，直到流亡美國的上海前企業家胡力任驚爆，中國共產黨一年一度的「北戴河會議」近日爆發一起槍戰，中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544163",
+          "published": "Tue, 18 Aug 2026 20:04:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
