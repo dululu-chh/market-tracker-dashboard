@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-19T00:53:27.333723",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meta hooked children on Facebook and Instagram, court hears",
+          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+          "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Earthquake rocks Spain's historic Granada, injuring three",
+          "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川金再會？美官員：川普要求籌劃峰會 最快今秋見金正恩",
+          "summary": "據美國官員透露，美國總統川普正推動與北韓領導人金正恩再次舉行峰會，最快可能在今年秋天成行。  《韓聯社》引述《華爾街日報》（WSJ）18日報導，據美國官員透露，川普已私下討論...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544565",
+          "published": "Wed, 19 Aug 2026 08:24:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不甩川普縮減軍演！北韓怒轟美韓「戰爭販子」 嗆行使自衛權",
+          "summary": "北韓官媒北韓中央通信社（KCNA，朝中社）19日譴責美國與南韓舉行聯合軍事演習，並強調將繼續行使自衛權，因應其宣稱「來自兩國的軍事威脅」。  路透報導，北韓中央通信社19日發...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544531",
+          "published": "Wed, 19 Aug 2026 07:55:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "SpaceX火箭撞月球留下18公尺巨坑 NASA最新影像曝光",
+          "summary": "美國太空探索公司SpaceX一枚獵鷹9號（Falcon 9）火箭的上級火箭8月5日撞擊月球，美國國家航空暨太空總署（NASA）週二（18日）公布撞擊區域照片，顯示新形成的撞擊坑直...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544550",
+          "published": "Wed, 19 Aug 2026 07:45:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
