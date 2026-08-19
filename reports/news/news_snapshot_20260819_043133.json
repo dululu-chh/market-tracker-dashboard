@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-19T04:31:32.073152",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+          "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 03:56:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta hooked children on Facebook and Instagram, US court hears",
+          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "Meta青少年成癮官司開打！29州聯手告上法院恐逼臉書、IG改版",
+          "summary": "Meta旗下臉書（Facebook）與Instagram是否刻意讓青少年「滑不停」，如今正式進入法庭攻防！美國29州聯手控告Meta涉嫌以容易讓人上癮的設計吸引兒童與青少年，1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544940",
+          "published": "Wed, 19 Aug 2026 12:20:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉隱瞞新冠疫情相關文件 佛奇前顧問認罪",
+          "summary": "美國前首席傳染病專家佛奇（Anthony Fauci）的前顧問莫倫斯（David Morens）18日承認，他曾串謀規避公共記錄法，隱瞞與研究經費補助和新冠疫情相關的政府文件。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544841",
+          "published": "Wed, 19 Aug 2026 12:19:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國國企女員工被叫去陪酒又遭猥褻 央視證實官員涉案被捕",
+          "summary": "離譜至極！中國國企「廈門建發集團」浙江省杭州分公司年輕女員工李靜（化名），7月26日晚間接到建發杭州負責人馬政綱的電話，催促她到餐廳包廂參加宴會，隨後她被迫陪酒並遭到猥褻，官媒《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544808",
+          "published": "Wed, 19 Aug 2026 12:07:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
