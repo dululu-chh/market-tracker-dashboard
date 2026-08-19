@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-19T13:39:39.566704",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+          "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 12:41:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 11:00:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+          "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 08:25:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "與攻台有關！中國西沙「羚羊礁」首期造島完工 恐成南海最大軍事基地",
+          "summary": "路透19日報導，中國已完成西沙群島（Paracels archipelago）羚羊礁（Antelope Reef）的第一階段造島工程，可能成為中國在該地區最大軍事基地，在未來...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545672",
+          "published": "Wed, 19 Aug 2026 21:04:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "代理國防部長轉正 烏克蘭國會壓倒性高票批准",
+          "summary": "烏克蘭國會今（19）日以壓倒性票數通過代理國防部長赫馬拉（Yevhenii Khmara）正式轉為國防部長的人事案。赫馬拉表示，他將加強烏克蘭國防工業發展，確保士兵能拿到更多武器...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545604",
+          "published": "Wed, 19 Aug 2026 20:58:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國擬在民主礁周邊建海洋觀測站 南海生態布局引美菲警戒",
+          "summary": "中國科學院南海海洋研究所（SCSIO）18日宣布，中國已核准在中沙群島海域興建「中沙群島海洋生態環境野外科學觀測研究站」，觀測範圍涵蓋中菲存在主權爭議的民主礁（中國稱黃岩島，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545661",
+          "published": "Wed, 19 Aug 2026 20:54:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
