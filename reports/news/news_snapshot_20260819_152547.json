@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-19T15:25:45.698456",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+          "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 13:53:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 11:00:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+          "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 03:56:35 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中非共和國金礦坍塌 至少百人罹難",
+          "summary": "當地消息人士對法新社透露，中非共和國境內、與喀麥隆接壤的邊境地區一處非法金礦發生山崩，造成至少100人罹難。  法新社報導，距離巴布阿鎮（Baboua）約50公里的贊博耶（Zamboye...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545763",
+          "published": "Wed, 19 Aug 2026 23:19:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "氣候變遷加速瑞士冰河融化 34年前失蹤登山客遺體現蹤",
+          "summary": "瑞士警方今天表示，34年前失蹤的2名比利時登山客遺體已被發現，隨著特里夫特冰川（Trift Glacier）融化而重見天日。氣候變遷加速冰川融化，退縮的冰層因而發現多年前、甚至數十年前的登山...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545728",
+          "published": "Wed, 19 Aug 2026 23:13:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭男子涉北溪管線爆炸案 波蘭放了他、克羅埃西亞又逮人",
+          "summary": "德國檢方19日表示，一名烏克蘭男子涉嫌參與2022年「北溪」天然氣管線爆炸案，在克羅埃西亞被捕。這名男子先前曾在波蘭被捕，但是波蘭當局認為，若這類破壞行動確實是烏克蘭所為也是戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545753",
+          "published": "Wed, 19 Aug 2026 23:05:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
