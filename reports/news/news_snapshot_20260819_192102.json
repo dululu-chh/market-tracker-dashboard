@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-19T19:21:00.989841",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 17:23:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+          "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 17:16:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "加薩5歲女童遭槍殺　以色列首度坦承開火展開調查",
+          "summary": "以色列軍方今天首度承認，旗下部隊曾於2024年在加薩向載有5歲巴勒斯坦女童欣德．拉賈布（Hind Rajab）的車輛開火，並表示已下令對這起引發國際公憤的殺戮事件展開刑事調查。  法新社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545805",
+          "published": "Thu, 20 Aug 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "天文學家發現銀河系已知最快恆星 助解密中心黑洞自旋",
+          "summary": "天文學家偵測到銀河系中已知速度最快的恆星，它正繞著銀河系中心的超大質量黑洞疾馳。  英國「衛報」19日報導，這顆名為S301的恆星，以每秒約2萬5000公里的速度運行，比...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545795",
+          "published": "Thu, 20 Aug 2026 02:11:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普預告今年稍晚會晤金正恩 稱北韓擁57枚「強大」核武",
+          "summary": "美國總統川普19日表示，他將在今年稍晚會晤金正恩，尋求恢復他在第一次總統任期內與這位北韓領導人所建立的關係，並透露平壤現在擁有57枚「非常強大的」核武。  法新社報導，川...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545798",
+          "published": "Thu, 20 Aug 2026 02:09:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
