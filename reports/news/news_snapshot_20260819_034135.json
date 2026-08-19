@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-19T03:41:32.843146",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+          "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 02:41:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Meta hooked children on Facebook and Instagram, US court hears",
+          "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "前防長呼籲舉行戰時選舉  澤倫斯基面臨開戰以來最大政治危機",
+          "summary": "烏克蘭總統澤倫斯基7月撤換前國防部長費多羅夫（Mykhailo Fedorov）之後引發一連串政治風暴，烏軍總司令也因此做出人事更動，而在澤倫斯基公布新任防長人選之際，費多羅夫1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544760",
+          "published": "Wed, 19 Aug 2026 11:12:19 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美韓軍演遭川普腰斬！取消第二階段「南韓收回兵權」受挫",
+          "summary": "美韓「乙支自由護盾」（UFS）聯合軍演19日宣布提前結束、整體時間砍半，背後更直接重創南韓收回「戰時作戰指揮權」（OPCON）的歷史大計！南韓軍方證實，應美方要求取消原定24日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544789",
+          "published": "Wed, 19 Aug 2026 11:08:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "奈及利亞網紅涉走私近9億元古柯鹼 搭機逃亡前被捕",
+          "summary": "奈及利亞國家緝毒局（NDLEA）18日表示，在Instagram上擁有70萬粉絲的奈國49歲網紅麥可（Afolabi Kazeem Micheal），涉嫌走私2800萬美元（約新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5544722",
+          "published": "Wed, 19 Aug 2026 11:03:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
