@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-20T05:24:39.069019",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 05:10:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+          "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 05:07:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+          "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 05:12:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川金有聯繫？金與正冷回「毫不知情」 但曝金正恩「仍念舊情」",
+          "summary": "美國總統川普近日下令縮減美韓年度「乙支自由護盾」（UFS）聯合軍演，對此北韓勞動黨中央委員會總務部長金與正回應稱，北韓對此「完全不感興趣」；至於川普宣稱與北韓領導人金正恩保持溝通...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545999",
+          "published": "Thu, 20 Aug 2026 13:09:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚悚影片曝！日本掛彈F-15降落失控打滑 旋轉180度機翼觸地",
+          "summary": "日本沖繩縣那霸機場日前發生一起軍機事故。一架隸屬那霸基地的F-15戰鬥機降落時發生意外，機身向左傾斜，不僅左翼摩擦跑道冒出濃煙與火光，整架戰機更在滑行過程中旋轉180度逆向停擺。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546212",
+          "published": "Thu, 20 Aug 2026 12:51:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美韓軍演規模遭砍！李在明不反嗆還「超贊同」：對川普決斷表示敬意",
+          "summary": "美國總統川普不滿南韓總統李在明拒協助伊朗戰爭，宣布縮減美韓軍演規模，還要準備與北韓領導人金正恩見面；面對川普的怒火，李在明公開回應，稱完全贊同半島安全由韓國自己負責的決定，還表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546173",
+          "published": "Thu, 20 Aug 2026 12:48:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
