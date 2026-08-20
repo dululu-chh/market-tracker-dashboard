@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-20T07:35:46.790859",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 07:19:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+          "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+          "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 07:33:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "空中撞機！小飛機猛撞警用直升機「碎成多塊」 飛行員當場慘死",
+          "summary": "美國賓夕法尼亞州18日晚間發生一起空中相撞事故，一架小型飛機與一架州警直升機在空中相撞。事故造成小飛機飛行員當場身亡，直升機上的2名州警則受傷送醫。  據《紐約郵報》報導，美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546406",
+          "published": "Thu, 20 Aug 2026 15:24:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國狼醫再爆50項性犯罪指控 涉案橫跨30年",
+          "summary": "法國檢方19日表示，已對數十年來強姦和性侵患者而被定罪的外科醫生拉史考奈克（Joel Le Scouarnec）展開新調查，調查涉及約50項新的性犯罪指控。  根據《法新社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546414",
+          "published": "Thu, 20 Aug 2026 15:20:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "光州雙年展「台灣」被消失！旅韓13年台人怒發聲：還我們名字",
+          "summary": "南韓光州雙年展將在9月登場，台灣首度由國立台灣美術館以「Taiwan Pavilion」（台灣館）名稱提案參展，未料官方主視覺海報與電子文宣無預警將「台灣」字樣抹去，擅自改以國美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546319",
+          "published": "Thu, 20 Aug 2026 14:49:12 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
