@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-20T02:14:20.291092",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 00:48:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 02:02:48 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美伊戰事持續延燒  五角大廈公開最新「傷亡名單」",
+          "summary": "美國國防部「國防傷亡分析系統」（DCAS）統計，自美伊戰爭爆發至今，受傷美軍人數已超過750人。  根據美國《CNN》報導，美國國防部上個月在「國防傷亡分析系統」中新增「海外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545924",
+          "published": "Thu, 20 Aug 2026 09:59:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲援助人員於加薩遇害 外長怒批以色列拒調查",
+          "summary": "澳洲外交部長黃英賢今（20）日稱，她對以色列決定不對澳洲援助人員弗蘭克康（Lalzawmi \"Zomi\" Frankcom）及其同事於加薩遇害一事展開刑事調查感到「憤慨」。她強...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545885",
+          "published": "Thu, 20 Aug 2026 09:32:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普躲暗殺仍帶著她！美女助理形影不離 私信告白「你是我的一切」",
+          "summary": "美國總統川普身邊的1名35歲私人女助理，近日備受外媒關注，她不僅與川普「形影不離」，日前川普因伊朗暗殺威脅而秘密更換專機時，她更是少數能一起換機的核心親信，據傳與川普密切合作的她...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5545828",
+          "published": "Thu, 20 Aug 2026 09:31:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
