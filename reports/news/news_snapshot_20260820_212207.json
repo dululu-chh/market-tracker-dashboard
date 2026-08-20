@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-20T21:22:05.064556",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 19:52:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 18:55:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+          "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 17:14:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "習近平到訪前　美認定美籍研究員敏辛遭中國不當拘留",
+          "summary": "美國籍緬甸研究員敏辛（Min Zin）6月被中國當局拘捕，美國國務院今天表示已認定敏辛遭不當拘留，這使得確保他獲釋成為美方首要任務。  路透社報導，國務院做出此舉幾週後，美國總統川普（Don...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547073",
+          "published": "Fri, 21 Aug 2026 03:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "USGS：秘魯南部強震　規模6.7",
+          "summary": "美國地質調查所（USGS）表示，南美洲國家秘魯南部今天發生規模6.7強震，目前尚未傳出傷亡或災損。  法新社報導，這起地震震央位於烏帕瓦喬（Upahuacho）西北方約40公里處，距離首都利...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547071",
+          "published": "Fri, 21 Aug 2026 03:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華府將對伊朗祭史上最嚴厲制裁　美財長促中國配合",
+          "summary": "美國財政部長貝森特今天表示，美國將對伊朗實施「史上最嚴厲制裁」，敦促北京與華府當局合作，並稱24日將召開記者會說明細節。  綜合路透社與法新社報導，貝森特（Scott Bessent）告訴C...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547052",
+          "published": "Fri, 21 Aug 2026 01:21:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
