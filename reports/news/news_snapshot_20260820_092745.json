@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-20T09:27:43.909658",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 09:14:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+          "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump vows tougher economic measures on Iran and supporting countries",
+          "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 09:13:18 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普拋毀滅性經濟制裁 伊朗批「失敗策略」",
+          "summary": "美國總統川普19日在「真實社群」（Truth Social）上發文宣布，他將對伊朗發動「史上針對任何國家最具毀滅性的經濟行動」。對此伊朗外交部長阿拉奇（Abbas Araghc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546534",
+          "published": "Thu, 20 Aug 2026 16:59:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川金四會前下馬威？北韓突發射不明飛行物",
+          "summary": "就在美國總統川普公開表示將在今年稍後與北韓領導人金正恩會面的數小時後，南韓軍方指出，北韓今天朝東部海域發射至少1枚不明飛行物。  疑似彈道飛彈  南韓聯合參謀本部（JC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546588",
+          "published": "Thu, 20 Aug 2026 16:40:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯對基輔拂曉轟炸  至少12死逾30人受傷",
+          "summary": "烏克蘭首都基輔（Kyiv）今（20日）清晨再度遭到俄羅斯彈道飛彈轟炸。烏克蘭官員表示，俄軍空襲導致12人死亡與30多人受傷，且多處設施受損，部分地區電力供應中斷。  《路透》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546506",
+          "published": "Thu, 20 Aug 2026 16:38:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
