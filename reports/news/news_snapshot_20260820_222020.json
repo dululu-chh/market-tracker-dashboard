@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-20T22:20:18.528144",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 19:52:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 18:55:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+          "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 17:14:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱北韓有57枚核武 下半年川金會",
+          "summary": "〔編譯林家宇／綜合報導〕美國總統川普十六日宣布大幅縮減與南韓「乙支自由護盾」聯合軍演時間，向北韓領導人金正恩遞出橄欖枝後，十九日進一步表示，兩人會在今年後半會面。川普還表明，北韓擁有五十七枚核武。 川普當日出席白宮新直升機停機坪啟用儀式時，罕見表明北韓擁有五十七枚威力強大的核武，「絕不應當讓這樣的…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1767455",
+          "published": "Fri, 21 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "極限經濟戰 川普全面孤立伊朗",
+          "summary": "〔編譯林家宇／綜合報導〕美國總統川普廿日宣布，對伊朗發動規模史無前例的經濟戰行動，徹底切斷德黑蘭與國際的經貿往來。為達目標，警告對任何與伊朗從事商業往來的國家祭出重懲，號召所有盟友與美國並肩，一同孤立、擊敗伊朗威脅。  號召盟友同步 擊敗伊朗威脅  川普發文寫道向伊朗提供了甚於以往的協議契機…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1767452",
+          "published": "Fri, 21 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北方四島軍演大射彈 俄日更緊張",
+          "summary": "〔國際新聞中心／綜合報導〕俄羅斯太平洋艦隊廿日在南千島群島（日本稱北方四島）沿岸附近實施大規模飛彈射擊演習，動用巡洋艦、核動力潛艦及岸防系統，對超過三百公里外的假想敵艦標靶發射多型飛彈。此次演習緊接在俄國總統普廷首次登上爭議島嶼之後，加劇俄日外交緊張。 此次演習是俄太平洋艦隊自八月四日起在日本海、…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1767454",
+          "published": "Fri, 21 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
