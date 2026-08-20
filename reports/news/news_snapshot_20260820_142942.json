@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-20T14:29:40.280457",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+          "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 13:56:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+          "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump vows tougher economic measures on Iran and supporting countries",
+          "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 09:13:18 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "嚴懲與伊朗經貿往來國家 川普經濟戰可能扯進中國",
+          "summary": "美國總統川普20日宣布，對伊朗發動規模史無前例的經濟戰行動，徹底切斷德黑蘭與國際的經貿往來。為達目標，警告對任何與伊朗從事商業往來的國家祭出重懲。  雖然川普在文中未點名伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546979",
+          "published": "Thu, 20 Aug 2026 22:22:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "稱北韓核武上看百枚  南韓防長：不認為美方放棄朝鮮半島無核化",
+          "summary": "南韓國防部長安圭伯20日出席國防委員會會議時，向國會議員說明，依照國內研究機構估算，平壤的核武庫約為80至120枚，軍方的評估則因機敏性，難以透露確切數字。雖然不否認平壤當前擁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546972",
+          "published": "Thu, 20 Aug 2026 22:14:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "悚！電梯門還開著就下墜  印度嬤困電梯井縫隙慘死",
+          "summary": "印度近日驚傳電梯夾死人意外，一名婦人準備踏出電梯時，電梯突然不明原因往下墜落，她因來不及逃出，慘遭電梯門夾住，並掉入電梯井縫隙受重傷，經緊急送醫搶救，仍宣告不治。  據《…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5546828",
+          "published": "Thu, 20 Aug 2026 21:49:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
