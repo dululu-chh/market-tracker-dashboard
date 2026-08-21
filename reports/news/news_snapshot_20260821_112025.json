@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-21T11:20:24.065859",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearf…",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+          "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+          "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+          "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:47:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "新聞360》安華親中嗆台大馬人也怒！台灣反制有「絕招」",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547884",
+          "published": "Fri, 21 Aug 2026 18:29:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "批烏國、歐洲「還在夢想俄國失敗」 俄國老調重彈：終戰方案須符合現實",
+          "summary": "俄羅斯21日表示，願意傾聽美國就如何結束烏克蘭戰爭所提出的新構想，但是任何方案都須反映「戰場現實」。  路透21日報導，俄羅斯外交部副部長雷雅布可夫（Sergei Ryab...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547919",
+          "published": "Fri, 21 Aug 2026 18:09:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴勒斯坦退役上校遭以軍擊斃 2兒過去也遭殺害",
+          "summary": "以色列軍隊今（21）日在約旦河西岸北部城市傑寧（Jenin）擊斃了1名巴勒斯坦男子。以軍主張，這名男子是「恐怖分子」，曾試圖刺傷1名士兵。  根據《法新社》報導，巴勒斯坦衛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547756",
+          "published": "Fri, 21 Aug 2026 18:00:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
