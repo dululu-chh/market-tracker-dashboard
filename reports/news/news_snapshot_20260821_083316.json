@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-21T08:33:14.210254",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearf…",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 18:55:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+          "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+          "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "加薩空襲致波蘭公民身亡 以色列停止究責引華沙抗議",
+          "summary": "波蘭外交部20日說，對以色列決定不再就2024年加薩志願者車隊遭到攻擊一案追究刑事責任感到「非常失望」，召見以色列駐華沙大使。波蘭副外交部長涅姆奇茨基（Ignacy Niemc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547666",
+          "published": "Fri, 21 Aug 2026 16:21:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華府揚言祭出歷來最嚴厲制裁 伊朗國會議長怒嗆「不公不義」",
+          "summary": "針對美國揚言將對伊朗祭出歷來最嚴厲制裁，伊朗國會議長兼首席談判代表卡利巴夫（Mohammad Baqer Qalibaf ）21日表示，德黑蘭方面必須制定計劃，以克服這些「不公...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547696",
+          "published": "Fri, 21 Aug 2026 16:11:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "富士山丟包7歲兒 日本狠父竟為攻頂留子半山腰",
+          "summary": "在日本富士山發生了一起令人捏把冷汗的登山意外。1位居住於愛知縣名古屋市的小學二年級7歲男童，於昨（20日）在富士山山小屋附近獲救。經警方調查發現，該男童原本與48歲的父親及就讀國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5547639",
+          "published": "Fri, 21 Aug 2026 15:44:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
