@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-21T14:28:59.680703",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearf…",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+          "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 13:07:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+          "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:47:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "稱德黑蘭占優勢！華府揚言發動「經濟D-Day」  伊朗總統：現在是時候結束戰爭",
+          "summary": "在美國表示，將對伊朗進行強力經濟制裁後，伊朗總統裴澤斯基安（Masoud Pezeshkian）21日表示，現在是結束與美國持續數月的戰爭的時候，他認為，德黑蘭現在對華府占有優...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548134",
+          "published": "Fri, 21 Aug 2026 22:23:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "誓言經濟孤立壓垮伊朗  美財長貝森特要各國「選邊站」",
+          "summary": "美國財政部長貝森特20日表示，為了在全球經貿體系中徹底孤立德黑蘭，各國必須在美國和伊朗之間「選邊站」，若執意與伊朗維持商業往來，美國將傾注全力對抗。 　 貝森特接受CNBC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548126",
+          "published": "Fri, 21 Aug 2026 22:05:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本又震！東京規模5.5地震 最大震度3",
+          "summary": "日本東京今天晚間9時2分（台北時間8時2分）左右發生規模5.5地震，最大震度3，沒有引發海嘯之虞。  根據日本氣象廳消息，震央位於八丈島東方外海，震源深度約60公里，地震規模推估為5.5...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548070",
+          "published": "Fri, 21 Aug 2026 20:37:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
