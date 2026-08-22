@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-22T17:15:08.351347",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 16:45:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 16:20:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "歐盟6國呼籲對石油公司徵收「暴利稅」",
+          "summary": "根據法新社22日看到的信函內容，由於中東戰事導致石油公司利潤飆升，6個歐洲聯盟（EU）成員國出面呼籲，要求在全歐盟範圍內對石油公司徵收「暴利稅」。  德國、義大利、奧地利、...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549042",
+          "published": "Sat, 22 Aug 2026 23:39:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "緬甸軍方空襲寺廟奪14命 目擊者怒控：佛節期間鎮壓",
+          "summary": "據兩位目擊事後慘狀的反抗軍戰士透露，緬甸軍方昨天對一座寺廟發動空襲，當時平民正聚集寺內參加「守夏節」禪修活動，造成14人喪生。  法新社報導，自從2021年軍方發動政變推翻翁山蘇姬（Au...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548924",
+          "published": "Sat, 22 Aug 2026 23:35:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "積欠聯合國50億美元  美將繳交8.5億美元部分會費",
+          "summary": "首次上稿 22:20更新時間 23:33  聯合國陷入嚴重財務危機，一度傳出可能本月面臨破產。根據美聯社和路透21日報導，最大金主美國近日由國務院發函告知國會，將支付聯合國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549006",
+          "published": "Sat, 22 Aug 2026 23:33:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
