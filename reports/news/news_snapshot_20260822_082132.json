@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-22T08:21:30.718173",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+          "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 04:46:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearf…",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "對伊戰爭陷僵局！美期中選舉將至  川普外交政績掛蛋原因曝",
+          "summary": "隨著伊朗戰爭陷入燒錢對峙，加上從烏克蘭到加薩的危機仍懸而未決，值此11月初投票的美國期中選舉即將進入白熱化階段，去年回鍋白宮時承諾要當「和平締造者」、以解決國際衝突為第2任期核...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548712",
+          "published": "Sat, 22 Aug 2026 16:11:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國雲南二手菸問題嚴重 當地人籲：旅客可瘋狂打電話投訴",
+          "summary": "中國時不時有室內抽菸、電梯抽菸的糾紛傳出，有雲南省民眾21日發文自嘲當地的二手菸問題非常嚴重，建議旅客可以多打電話投訴，引起中國各地網友共鳴。  1名居住在雲南的微博用戶表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548670",
+          "published": "Sat, 22 Aug 2026 16:02:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國女遊客痛批青海馬場教練猥褻竟沒被開除 當局急發布調查結果",
+          "summary": "中國1名女子今年6月1日在青海省旅遊時，遭到祁連山大草原峨堡鎮馬場「喀爾瑪牧家園」張姓教練以強抱、觸摸胸部與私處、試圖強吻嘴唇等方式猥褻，雖然在她報警後張男被行政拘留13天，但放...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548588",
+          "published": "Sat, 22 Aug 2026 15:18:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
