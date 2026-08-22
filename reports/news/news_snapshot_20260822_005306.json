@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-22T00:53:04.957238",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+          "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearf…",
+          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 19:49:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "One killed in sword attack at Swedish school",
+          "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 21 Aug 2026 21:03:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "瑞典高中開學發生慘案！ 18歲校友「持劍攻擊」釀1死3傷",
+          "summary": "瑞典一所高中當地時間週五（21日）發生攻擊案，一名18歲少年持利劍攻擊學生，造成1人死亡、3人受傷。警方開槍制伏並逮捕嫌犯，據媒體報導，行凶者是這所學校的前學生，有傷害前科。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548229",
+          "published": "Sat, 22 Aug 2026 07:52:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全球首例！ 大蟒蛇罹癌接受「電脈衝化療」挽回一命",
+          "summary": "首次上稿 8-21 23:33更新時間 8-22 06:16 英國一家動物園為一條罹患癌症的蟒蛇，進行結合手術和電脈衝化療（electrochemotherapy, ECT）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5548176",
+          "published": "Sat, 22 Aug 2026 06:16:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市9月內閣改組 維新可望首度入閣",
+          "summary": "〔駐日特派員林翠儀／東京廿一日報導〕日本首相高市早苗已著手規畫九月中下旬進行上台後首次內閣及自民黨高層人事改組。官房長官木原稔留任幾成定局，執政聯盟日本維新會也將首次派員入閣。自民黨方面最大焦點為幹事長鈴木俊一是否續任。這次人事牽動高市秋季臨時國會推動消費稅減稅、積極財政及年底修訂安保三文件，也被視…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1767583",
+          "published": "Sat, 22 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
