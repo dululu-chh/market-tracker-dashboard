@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-23T06:30:25.377037",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 20:02:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國民眾服用「痛風神糖」身體異常 成分竟驗出致命廢料",
+          "summary": "離譜！中國浙江省杭州市周姓民眾飽受痛風之苦，購買號稱天然萃取、對身體無負擔的「美力森海洋魚低聚肽薑黃壓片糖果」，客服聲稱這能替代降尿酸處方藥非布司他（febuxostat），孰料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549401",
+          "published": "Sun, 23 Aug 2026 14:26:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "誰是2028川普接班人？最新民調曝魯比歐、范斯對決出現反差",
+          "summary": "美國2028年總統大選雖還有一段時間，共和黨接班競爭已提前受到關注。最新全美民調顯示，國務卿魯比歐（Marco Rubio）在多項2028年假想總統對決中的表現優於副總統范斯（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549406",
+          "published": "Sun, 23 Aug 2026 14:12:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國老人身體不適在棋牌館坐下後死亡 親屬竟向店家索賠近50萬",
+          "summary": "令人心寒！中國湖南省衡陽市1名身患多種慢性病的老者，近日在路上走著感到身體不適，到街旁棋牌館門口椅子坐下後失去意識，老闆娘發現老翁沒有反應後趕緊幫忙並叫來救護車，最終送醫不治，孰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549343",
+          "published": "Sun, 23 Aug 2026 13:26:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
