@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-23T05:23:03.937377",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 20:10:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 20:02:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國預言家曝2028台海恐爆危機 更稱中國可能走向分裂",
+          "summary": "英國知名預言家帕克（Craig Hamilton-Parker）曾準確預測英國女王伊莉莎白二世逝世、川普當選美國總統，近期針對未來局勢發表最新預測，將2028年形容為可能出現重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549307",
+          "published": "Sun, 23 Aug 2026 12:21:01 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中國多省拉警報！颱風紫檀進逼 廣西預警山洪機率高",
+          "summary": "7月才遭梅莎颱風重創的廣西，如今又面臨輕颱紫檀威脅。中國水利部和氣象局22日晚間聯合發布紅色山洪災害氣象預警；自然資源部與氣象局聯合發布橙色地質災害氣象風險預警。  紅色山洪災害氣象預警...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549213",
+          "published": "Sun, 23 Aug 2026 11:17:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》俄國再爆「缺油荒」民眾騎馬上街！她曝普廷神隱內幕：莫斯科要政變了",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549247",
+          "published": "Sun, 23 Aug 2026 11:14:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
