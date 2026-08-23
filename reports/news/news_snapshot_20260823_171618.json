@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-23T17:16:16.108119",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+          "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 12:56:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+          "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+          "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 12:52:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "香港掀「數位排毒」風潮 擺脫全天候連線焦慮 專家籲找回生活主導權",
+          "summary": "在步調緊湊、行程滿檔且高度連網的香港，越來越多民眾開始嘗試「數位排毒」（Digital Detox）。面對無所不在的螢幕與「全天候連線」的文化，從週末遠離手機、靜心冥想，到建...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549895",
+          "published": "Mon, 24 Aug 2026 01:04:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "6年前因非裔選民受挫 美前運輸部長為2028白宮夢試水溫",
+          "summary": "美國前運輸部長布塔朱吉（Pete Buttigieg）上回在南卡羅來納州發表政治演說，是6年前坦承在南卡州的民主黨總統候選人黨內初選中落敗；當年的初選結果證明布塔朱吉未能贏得該...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549878",
+          "published": "Mon, 24 Aug 2026 00:45:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華爾街日報：普廷將下達新動員令 奪占烏東頓巴斯全境",
+          "summary": "上個月，俄羅斯軍官密訪位於波羅的海的飛地加里寧格勒（Kaliningrad），親自監督動員當地居民的戰備規劃與程序，涵蓋食宿安置與武裝細節。西方情報官員透露，這僅是俄國全國眾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549889",
+          "published": "Mon, 24 Aug 2026 00:34:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
