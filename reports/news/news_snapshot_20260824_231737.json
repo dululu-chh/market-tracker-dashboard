@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-24T23:17:35.619873",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+          "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 19:12:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+          "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 17:29:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+          "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 10:40:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "AI合作協議　英國率先取得烏克蘭復仇者平台實戰數據",
+          "summary": "英國首相柏南今天訪問基輔期間，與烏克蘭總統澤倫斯基簽署人工智慧（AI）夥伴關係協議，英國成為第一個獲准使用烏克蘭國防部「復仇者實驗室」（Avengers Labs）實戰資料AI平台的外國夥伴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551005",
+          "published": "Tue, 25 Aug 2026 05:54:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "美將敘利亞移出支持恐怖主義名單　解除相關制裁",
+          "summary": "美國今天將敘利亞從「支持恐怖主義國家」名單中移除，並解除相關制裁措施，顯示兩國關係進一步回溫。  法新社報導，美國國務院也撤銷將「努斯拉陣線」（al-Nusrah Front），又稱「沙姆解...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551004",
+          "published": "Tue, 25 Aug 2026 05:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "極端熱浪襲日 空調衣救毛孩",
+          "summary": "日本今年夏天出現極端高溫，熱浪席捲全國。日本孕婦裝製造商「Sweet Mommy」開發出一款寵物專用空調涼感衣，內建散熱風扇，可讓空氣在衣物內部循環，陪伴毛小孩度過炎炎夏日。圖為名為Makana和Milk的兩隻母法國鬥牛犬，展示這款空調涼感衣。\b（路透） …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1767986",
+          "published": "Tue, 25 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
