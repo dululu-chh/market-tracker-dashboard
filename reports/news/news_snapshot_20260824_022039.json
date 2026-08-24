@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-24T02:20:37.978678",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+          "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 12:56:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 19:11:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 23 Aug 2026 18:17:37 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "李在明施政滿意度40.2％創任內新低 已經連六週下滑",
+          "summary": "南韓民調機構「Realmeter」24日公布最新民調，南韓總統李在明的施政滿意度已經降至40.2％，創任內新低紀錄，且施政滿意度呈現連6週下降趨勢。  根據南韓《韓聯社》報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5550000",
+          "published": "Mon, 24 Aug 2026 09:56:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國四川規模4.7地震 全國收到誤報7.7引恐慌",
+          "summary": "中國四川省宜賓市長寧縣今（24日）早上8時26分發生規模4.7地震，震源深度5公里，但中國各地民眾都收到規模7.7的誤報通知，引起了不小的恐慌。  「中國地震台網」微博帳號指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5550011",
+          "published": "Mon, 24 Aug 2026 09:35:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "狂燒逾5000公頃！美國內華達野火蔓延 近9萬人撤離",
+          "summary": "美國內華達州第三大城市雷諾市（Reno）野火肆虐，本週末已有數萬人撤離。由於火勢持續在該市郊區蔓延，23日又有居民接獲撤離命令。  路透報導，當地官員23日上午證實，由於「霍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5549940",
+          "published": "Mon, 24 Aug 2026 09:22:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
