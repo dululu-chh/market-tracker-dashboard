@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-24T13:45:23.728167",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+          "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 10:40:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+          "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 13:35:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "King of Norway's health has worsened, palace says",
+          "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+          "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 08:31:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "泰國南端4府2天78起縱火攻擊 當局正尋求與反叛組織重啟和談",
+          "summary": "泰國分離主義組織「民族革命陣線」活躍的南端4府過去這週末合計傳出至少78起縱火和爆裂物攻擊事件，目標包括政府大樓、鐵路、商店、汽車和電線桿，並已造成至少3人受傷。  路透社報導，根據泰國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5550887",
+          "published": "Mon, 24 Aug 2026 21:36:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美警告「經濟D-Day」將襲伊朗  調停人赴德黑蘭磋商",
+          "summary": "隨著美國準備對伊朗的貿易夥伴祭出「史上最大規模的金融攻勢」，巴基斯坦陸軍參謀長穆尼爾今天抵達伊朗首都德黑蘭進行調停。  路透報導，伊朗方面不顧美方威脅，矢言「若這場經濟戰持續」，將切斷波...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5550856",
+          "published": "Mon, 24 Aug 2026 21:30:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭獨立紀念日 澤倫斯基：基輔渴望和平但不屈服",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）在今天烏克蘭35週年獨立紀念日發表措辭堅定的演說，稱烏克蘭渴望和平，但絕不會不惜代價屈服俄羅斯。  路透社報導，英國首相柏南（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5550808",
+          "published": "Mon, 24 Aug 2026 21:22:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
