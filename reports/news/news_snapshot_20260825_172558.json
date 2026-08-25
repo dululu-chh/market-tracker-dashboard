@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-25T17:25:55.956344",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Brain disease in dead NFL players 'higher than previously shown'",
+          "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:54:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "維蘇威火山爆發週年  探索「小龐貝」古城獨特遺跡",
+          "summary": "8月24日是歷史記載維蘇威火山爆發日，這場西元一世紀大災難造成全球知名的龐貝遺跡，但許多遊客未必熟悉，附近古城「艾可拉諾」還有另一座同樣被當時火山灰封存的遺跡，規模雖較小但保存更完好，甚至可...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552123",
+          "published": "Tue, 25 Aug 2026 23:59:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國林肯號8/22離開中東 計畫停靠泰國讓水兵休整",
+          "summary": "泰國官員今天表示，美國林肯號航空母艦將於下週停靠泰國。此前該艦在中東長時間部署，曾經傳出艦上環境惡化，發生心理健康問題的消息。  路透社報導，林肯號航空母艦（USS Abraham Li...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552161",
+          "published": "Tue, 25 Aug 2026 23:58:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美加貿易戰升溫 加拿大祭出最高50％對等報復關稅",
+          "summary": "美國總統川普與加拿大的貿易談判破裂後，上週末對多項加拿大商品加徵50%關稅。加拿大今天宣布對價值約200億美元的美國商品祭出報復性關稅，以對等方式反制。  美國財經媒體CNBC報導，加拿...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552245",
+          "published": "Tue, 25 Aug 2026 23:51:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
