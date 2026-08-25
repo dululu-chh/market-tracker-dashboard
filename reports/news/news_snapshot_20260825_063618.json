@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-25T06:36:16.276616",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+          "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 06:16:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 24 Aug 2026 22:13:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+          "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 04:06:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普先下一城！最高法院放行郵寄投票限制 另一道禁制令還擋著……",
+          "summary": "距離11月美國期中選舉不到3個月，川普政府推動限制郵寄投票的法律戰再出現重大轉折。美國聯邦最高法院24日以6比3裁決，暫停下級法院針對23州及華盛頓特區所下的禁制令，讓川普政府...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551576",
+          "published": "Tue, 25 Aug 2026 14:26:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "確認了！中國「插口袋擺拍哥」劉勁松 接任駐澳大使",
+          "summary": "中日雙方去年關係陷入緊張，時任中國外交部亞洲司司長的劉勁松在北京與日本官員會談後，於日方不知情下刻意在媒體鏡頭前擺出「雙手插口袋」的輕佻姿態，引起各界議論，如今劉勁松已升任為中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551511",
+          "published": "Tue, 25 Aug 2026 14:21:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普殺進聯合國秘書長選戰！面談6人卻稱沒屬意 最新投票風向變了",
+          "summary": "聯合國下一任秘書長選戰升溫，美國川普政府已直接介入選拔過程。美國《華盛頓郵報》報導，美國駐聯合國代表團今年夏天已與6名候選人進行多次會談，但美國高層同時強調，目前並沒有屬意的特...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551501",
+          "published": "Tue, 25 Aug 2026 13:54:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
