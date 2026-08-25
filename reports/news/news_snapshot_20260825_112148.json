@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-25T11:21:45.018907",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 10:56:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 09:08:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US removes Syria from list of state sponsors of terrorism",
+          "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+          "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "澤倫斯基拋3點停戰方案 指2027夏季前為俄烏停戰黃金期",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）指出，從今年年底到明年夏天結束前，烏克蘭與俄國有機會達成停火協議，而烏克蘭已經和西方國家草擬出一份停戰方案，準備遞交給...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552040",
+          "published": "Tue, 25 Aug 2026 19:14:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本祭典爆奪命意外 18歲男學生遭「巨型燈籠」重擊夾柱身亡",
+          "summary": "日本新潟縣阿賀野市昨日晚間舉行年度傳統盛事「水原祭」（水原まつり），未料在活動中發生嚴重意外，一名18歲男學生頭被夾在巨型燈籠與商店街拱廊柱子之間，導致頭部重創流血，送醫搶救後宣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551882",
+          "published": "Tue, 25 Aug 2026 18:43:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "懸賞千萬美元！伊朗官媒播恐嚇片 揚言暗殺川普幼子拜倫",
+          "summary": "就在美國祭出史上最嚴厲制裁之際，伊朗國營電視台近日播出一段長約3分鐘的恐嚇影片，公然將目標對準美國總統川普20歲的幼子拜倫（Barron Trump），不僅宣稱已全面掌控其行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551996",
+          "published": "Tue, 25 Aug 2026 18:38:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
