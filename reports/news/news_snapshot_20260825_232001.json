@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-25T23:19:59.539604",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普宣布荷姆茲海峽水雷全數清除 警告伊朗再布雷就摧毀船隻",
+          "summary": "美國與伊朗目前仍在爭奪荷姆茲海峽的控制權，美國總統川普25日公開宣布，伊朗在荷姆茲海峽鋪設的水雷已被全數清除，並警告伊朗不要再設置水雷。  川普在「真實社群」（Truth S...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552280",
+          "published": "Wed, 26 Aug 2026 06:35:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏克蘭和平談判陷僵局 美CIA局長突訪莫斯科",
+          "summary": "首次上稿 08-25 23:25更新時間 08-26 06:10 美國中央情報局（CIA）局長雷克里夫於美東時間8月25日被證實正在俄羅斯首都莫斯科進行會談，美國哥倫比亞廣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552236",
+          "published": "Wed, 26 Aug 2026 06:10:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普扮另類推手》南韓明年國防預算擬增9% 1兆6500億飆新高",
+          "summary": "創21年來最大增幅 〔編譯管淑平／綜合報導〕南韓準備將明年度國防預算大增九％，達到七十一兆八千億韓元（約一兆六千五百億台幣），是南韓國防預算首次突破七十兆韓元。 南韓中央日報、經濟先驅報廿四日報導，政府已經編列明年國防預算，從今年的六十五兆八千億韓元大舉提高到約七十一兆八千億韓元，相關部會正在進…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1768142",
+          "published": "Wed, 26 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
