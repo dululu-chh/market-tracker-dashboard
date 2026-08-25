@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-25T13:44:00.393857",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:54:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US removes Syria from list of state sponsors of terrorism",
+          "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+          "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "這也是川普對金正恩的善意？ 美韓外長通話官方新聞稿不提「無核化」",
+          "summary": "在美國總統川普頻頻向北韓領導人金正恩釋出善意，推動兩人會談之際，南韓外交部長趙顯和美國國務卿魯比歐24日通電話，兩國公佈的會談紀要未見朝鮮半島無核化，引發外界注意。對此，南韓外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552167",
+          "published": "Tue, 25 Aug 2026 21:37:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "疑早期預警雷達！西沙鴨公島驚見中國新軍事設施",
+          "summary": "最新衛星影像顯示，中國在南海具主權爭議的西沙群島（Paracel Islands）羚羊礁（Antelope Reef）附近的小島上，興建全新的軍事設施。分析人士認為，中國目前...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552163",
+          "published": "Tue, 25 Aug 2026 21:26:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美伊局勢降溫？ 美外交人員最快本週重返中東",
+          "summary": "美國媒體今（25）日報導，美國國務院正準備讓先前因美伊戰爭而撤離中東的外交人員重返崗位，其中以色列、黎巴嫩、沙烏地阿拉伯等國家將分配到較充足的人力。  根據《紐約時報》（Ne...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552044",
+          "published": "Tue, 25 Aug 2026 21:23:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
