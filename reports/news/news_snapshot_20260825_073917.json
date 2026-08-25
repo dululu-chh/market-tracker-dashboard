@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-25T07:39:16.427284",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+          "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 06:54:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 06:59:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+          "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 04:06:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南韓濟州警方吃案風暴擴大！3天來尋獲4失蹤者遺體",
+          "summary": "南韓濟州島警方爆出吃案醜聞，某警員在受理失蹤通報後草率處理，其一共經手298件失蹤事件，竟然大多數都是自行結案，當局重新展開搜索行動後，這3天已找到4名失蹤者的遺體。  據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551678",
+          "published": "Tue, 25 Aug 2026 15:24:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本69歲老婦遇戀愛詐騙 夢想海外買房一起生活損失千萬",
+          "summary": "悽慘！日本京都府京都市中京區69歲老太太，在社交平台認識外國男子後談起了網戀，夢想著在海外買房一起生活，陸續匯出5445萬日圓（約新台幣1090萬元）全都沒了。  據《產經新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551581",
+          "published": "Tue, 25 Aug 2026 14:41:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國少林武校爆醜聞！學生被逼吃屎 百名校友集結維權討錢",
+          "summary": "中國規模最大的民辦武術學校「河南嵩山少林塔溝武術學校」近期接連爆發重大管理醜聞，包含教練收賄施暴、學生遭殘酷霸凌逼吞排泄物，以及強扣保證金長達十餘年引發畢業校友集體抗議與肢體衝突...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5551223",
+          "published": "Tue, 25 Aug 2026 14:35:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
