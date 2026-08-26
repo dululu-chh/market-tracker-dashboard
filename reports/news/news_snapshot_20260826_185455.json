@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-26T18:54:53.072089",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+          "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+          "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 11:32:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 14:42:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+          "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 15:42:45 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "尼泊爾嚴重土石流暫無台人遇難　印度人員待命救援",
+          "summary": "尼泊爾發生嚴重土石流及洪災，已知有至少95人喪命、近400人失蹤。根據兼轄尼泊爾的駐印度代表處瞭解，目前並未傳出有台灣人遇難，印度方面則已派員到邊境處待命前往救援。  印度時報（Times ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553611",
+          "published": "Thu, 27 Aug 2026 00:48:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "藝術家高兟遭中國定罪判刑3年　美國表達嚴重關切",
+          "summary": "美國今天就中國將藝術家高兟定罪一事表達「嚴重關切」。高兟最著名的作品之一是毛澤東銅像「懺悔」，該作品描繪毛澤東跪地懺悔的樣貌。  法新社報導，華府這番公開指責，距離中國國家主席習近平預計對美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553606",
+          "published": "Thu, 27 Aug 2026 00:24:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "稱CIA局長訪莫斯科屬「半例行」任務 川普暗示與結束烏俄戰爭有關",
+          "summary": "美國總統川普26日接受保守派廣播主持人貝克專訪時表示，中央情報局（CIA）局長雷克里夫前往莫斯科的行程屬「半例行性質」（semi-routine），並暗示此行與推動結束俄烏戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553595",
+          "published": "Wed, 26 Aug 2026 23:58:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
