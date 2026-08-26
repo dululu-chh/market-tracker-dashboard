@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-26T08:36:38.768758",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+          "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "再吃台灣豆腐！中國手遊玩家買西門町廣告標「TAIWAN CHINA」",
+          "summary": "中國手機乙女遊戲《戀與深空》其中角色「黎深」即將生日，中國玩家「黎深0905生賀組」在許多知名景點買廣告，其中包含台北西門町、日本新宿等。不過有眼尖網友發現，過往大剌剌寫著「中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552984",
+          "published": "Wed, 26 Aug 2026 16:18:38 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "澳洲機場接連發生滑行衝突 運輸安全局展開調查",
+          "summary": "澳洲運輸安全局（ATSB）26日對雪梨機場2起滑行衝突事件展開調查，1起涉及維珍航空和澳洲航空的飛機，另1起涉及捷星航空和龐巴迪的飛機。  根據《路透》報導，1架維珍航空7...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552961",
+          "published": "Wed, 26 Aug 2026 15:58:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本20歲女病患看診遭「玩具塞下體」！ 嫌犯竟是台籍醫生范育仁",
+          "summary": "日本杉並區警視廳荻窪署今（26）日宣布，杉並區「荻窪國際醫院」75歲台籍院長范育仁，涉嫌在診間內將情趣玩具塞入女患者下體遭到逮捕。對此，范供稱「這是診察的一環」。目前全案由警方偵...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5552985",
+          "published": "Wed, 26 Aug 2026 15:49:14 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
