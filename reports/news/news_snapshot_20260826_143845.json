@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-26T14:38:43.908614",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+          "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+          "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 11:32:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+          "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 12:32:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "盼擴大星鏈使用權 澤倫斯基授勳馬斯克",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）今（26）日頒發了國家最高榮譽給太空探索技術公司（SpaceX）創辦人馬斯克（Elon Musk）。烏克蘭當前正在請求...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553353",
+          "published": "Wed, 26 Aug 2026 22:17:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法航前空服員得乳癌列入「職業病」 創法國航空業首例",
+          "summary": "法新社報導，法國1名前空服員成功爭取將其罹患的乳癌認列為職業病，創下該國航空業首例，可望為後續類似的索賠案件鋪路。  法國民主工會聯盟（CFDT）與委任律師指出，這項裁決...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553546",
+          "published": "Wed, 26 Aug 2026 22:13:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最高領袖至今神隱  川普：相信穆吉塔巴還活著",
+          "summary": "在美國與伊朗談判結束戰爭陷入僵局之際，伊朗最高領袖穆吉塔巴（Mojtaba Khamenei）的生死或健康狀況，是另一個備受關注的焦點。美國總統川普26日表示，他相信這名伊朗最...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553547",
+          "published": "Wed, 26 Aug 2026 22:12:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
