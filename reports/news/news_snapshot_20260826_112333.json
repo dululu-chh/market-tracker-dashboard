@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-26T11:23:31.874887",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+          "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 10:56:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+          "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 26 Aug 2026 08:01:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "又有車手赴日犯案！婦人遭詐4700萬日圓  涉案台人「真實姓名」曝光",
+          "summary": "日本三重縣一名50多歲女性誤信詐騙話術，陸續被詐團騙走逾4700萬日圓（約合新台幣940萬元）。日本警方接獲報案後，於25日逮捕52歲南韓籍車手尹達雄（音譯），並將在附近把風的2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553324",
+          "published": "Wed, 26 Aug 2026 19:16:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "驚悚末日片！喜馬拉雅山土石流 中國吉隆口岸遭摧毀 民眾狂奔下秒全活埋",
+          "summary": "中國多家官媒今（26日）下午證實，西藏自治區日喀則市吉隆縣吉隆口岸，遭來自喜馬拉雅山脈尼泊爾一側的土石流侵襲，造成重大人員傷亡。隨後網上瘋傳土石流如同海嘯般一瞬間摧毀吉隆口岸的影...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553305",
+          "published": "Wed, 26 Aug 2026 19:02:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴基斯坦醫院惡火燒死14新生兒 疑冷氣機故障釀禍",
+          "summary": "在26日一早巴基斯坦醫院嬰兒房火災中喪子的新生兒的父母，事後泣訴當時的驚恐與絕望，怒控苦候數小時才等來為時已晚的救援，「把我的孩子還給我」。  這起奪走14條新生兒性命的大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5553290",
+          "published": "Wed, 26 Aug 2026 18:55:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
