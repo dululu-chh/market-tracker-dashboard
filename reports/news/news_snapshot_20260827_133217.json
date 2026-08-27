@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-08-27T13:32:15.641032",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+          "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+          "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 27 Aug 2026 09:50:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 27 Aug 2026 09:55:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+          "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 27 Aug 2026 11:20:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "恐怖！印度25歲工人跌入沸騰「糖漿池」慘死  監視器畫面流出......",
+          "summary": "印度中部馬哈拉施特拉邦（Maharashtra ）一間黑糖加工廠，日前發生一起驚悚事故，一名25歲年輕男子在工作時，不慎跌入沸騰的糖漿池，現場影片在網上曝光，嚇壞不少人。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5554669",
+          "published": "Thu, 27 Aug 2026 21:03:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "沖繩知事選舉開跑 牽動西南防衛與日美同盟",
+          "summary": "日本沖繩縣知事選舉27日公告，9月13日投開票。這次共有6人登記參選，創1972年以來最高記錄，但主要為尋求第3任的現任知事玉城丹尼與前那霸市副市長古謝玄太之間的對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5554636",
+          "published": "Thu, 27 Aug 2026 19:30:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》美兵推揭中共犯台劇本全失敗關鍵曝光！專家爆習斬首行動恐壓垮共軍",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5554562",
+          "published": "Thu, 27 Aug 2026 18:29:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
