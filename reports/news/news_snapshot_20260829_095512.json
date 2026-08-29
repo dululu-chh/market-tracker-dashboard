@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-29T09:55:09.839438",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+          "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 09:38:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 02:42:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紀念美國鄉村樂天后 桃莉芭頓可能冠名田納西州納許維爾機場",
+          "summary": "美國田納西州州長李（Bill Lee）28日宣布，計劃將該州首府兼美國鄉村音樂大本營納許維爾（Nashville）的機場，更名為桃莉芭頓（Dolly Parton）機場，以紀念...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5556583",
+          "published": "Sat, 29 Aug 2026 17:38:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日圓貶值加物價上漲 日本防衛裝備最多貴7成",
+          "summary": "日本防衛省回顧現行2023年度到2027年度「防衛力整備計畫」的實際成果後，提出報告指出，受到日圓貶值與物價上漲等因素影響，主要防衛裝備較2023年度貴上4成到7成。  「日本經濟新聞」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5556580",
+          "published": "Sat, 29 Aug 2026 17:31:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》驚悚山洪戳破中國救災！陳破空嗆爆：大規模造假",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5556554",
+          "published": "Sat, 29 Aug 2026 17:19:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
