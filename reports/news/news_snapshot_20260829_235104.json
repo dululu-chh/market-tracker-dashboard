@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-29T23:51:01.817346",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+          "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+          "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 17:52:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "冰島是否重啟入歐談判 公投結果預計30日揭曉",
+          "summary": "冰島今天結束一場攸關是否重啟加入歐洲聯盟談判的歷史性公投，晚間隨即開始計票。這場公投牽動當地民眾關切的生活成本、安全、主權及漁業資源控制權。  路透社報導，投票晚間10時結束，隨即啟動複...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5556818",
+          "published": "Sun, 30 Aug 2026 07:11:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "尼日軍政府稱平息叛變　傳俄軍助奪回首都空軍基地",
+          "summary": "西非國家尼日今天發生士兵叛變，叛變士兵攻向總統府，並一度迫使國家電視台中斷播出。軍政府隨後表示已重新掌控局勢。  法新社報導，尼日3年前爆發政變後由軍政府統治，但在將領蒂亞尼（Abdoura...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5556809",
+          "published": "Sun, 30 Aug 2026 05:30:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "史上最大石油交易! 美取得650億桶委油控制權",
+          "summary": "川普：讓美國石油儲量增加1倍以上 〔編譯林家宇／綜合報導〕美國總統川普廿九日宣布，與委內瑞拉訂立「史上最大規模石油協議」，美國從中取得超過六五〇億桶已探明石油儲量的多數控制權。華盛頓郵報消息指出，藉由這紙長達一百年的協議，川普政府盼能激勵觀望中的能源企業大舉投資開採。 委內瑞拉是全球石油儲量規模…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1768595",
+          "published": "Sun, 30 Aug 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
