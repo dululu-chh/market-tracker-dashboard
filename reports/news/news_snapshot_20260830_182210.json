@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-30T18:22:08.401660",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+          "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 16:48:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iceland votes against restarting EU membership talks",
+          "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 16:11:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+          "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 17:49:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "被視為「伊斯蘭版北約」　麥加共同防禦協定將首次集會",
+          "summary": "根據「麥加共同防禦協定」設立的戰略政治與國防委員會，其首次會議明天將在土耳其第一大城伊斯坦堡召開。  土耳其國家通訊社安納杜魯新聞社（Anadolu Agency）報導，根據土耳其外交部消息...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557551",
+          "published": "Mon, 31 Aug 2026 01:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "資料中心惹民怨成美國期中選舉黑馬議題 考驗共和黨選情",
+          "summary": "帶動美國人工智慧（AI）熱潮的資料中心計畫，意外成11月期中選舉攻擊目標。電費增加及噪音引發的民怨，已令民主黨人轉為批評科技業大公司，並有愈來愈多共和黨人加入行列。  法新社報導，根據美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557538",
+          "published": "Mon, 31 Aug 2026 00:40:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "傑出的一手！與美敲定25年石油協議 委國臨時總統鞏固個人權力",
+          "summary": "美國總統川普與委內瑞拉臨時總統羅德里格斯（Delcy Rodriguez）達成一項為期25年的「歷史性」雙邊能源協議，由美國透過與民間企業合作，取得委國650億桶探明原油儲量...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557535",
+          "published": "Sun, 30 Aug 2026 23:43:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
