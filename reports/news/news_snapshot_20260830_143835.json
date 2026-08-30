@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-30T14:38:03.374035",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iceland votes against restarting talks on joining EU",
+          "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 10:49:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+          "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 12:44:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Canada installs large Lake Ontario sign in latest jab at US",
+          "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 14:25:43 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北賽普勒斯外海載近270人客輪翻覆 已知7死、237人獲救",
+          "summary": "今日一艘載有約267名乘客與船員的雙體客運渡輪，在北賽普勒斯外海發生翻覆意外，當地政府獲報後緊急派出巡邏艇與搜救直升機趕到現場，周邊民間船隻也紛紛救援，正全面進行搜救行動中。據土...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557437",
+          "published": "Sun, 30 Aug 2026 22:18:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美媒：新疆試飛基地大規模擴建  可能為轟20測試鋪路",
+          "summary": "美國軍事網站「戰區」披露，據衛星影像公司「星球實驗室」（Planet Labs）近日拍攝的衛星圖像，中國新疆一處靠近羅布泊的空軍基地正大規模擴建，可能為測試轟20隱形轟炸機等新一代軍機做準備...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557379",
+          "published": "Sun, 30 Aug 2026 21:59:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北賽普勒斯外海載約270人客船翻覆 當局展開搜救",
+          "summary": "路透社引述北賽普勒斯媒體報導，一艘載有約270人的客船今天在北賽普勒斯外海翻覆，目前正展開搜救行動。  北賽普勒斯土耳其共和國控制的基里尼亞市（Kyrenia）市長森庫爾（Murat S...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557436",
+          "published": "Sun, 30 Aug 2026 21:47:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
