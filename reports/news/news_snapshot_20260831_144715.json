@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-08-31T14:47:13.573930",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Iran trade strikes for first time in weeks",
+          "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 13:47:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Man arrested after Swiss rave shooting that killed woman",
+          "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+          "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 13:11:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+          "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+          "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 10:18:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共20大奉命強行帶走胡錦濤 習近平親信孔紹遜將升任甘肅省長",
+          "summary": "在2022年10月22日中共20大閉幕會上，中共中央辦公廳副主任兼秘書局長孔紹遜即奉總書記習近平之命，與安全人員一同將前總書記胡錦濤強行帶離會場，該場景震驚全世界。而根據中國媒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558649",
+          "published": "Mon, 31 Aug 2026 22:39:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "威脅伊朗石油命脈 川普發AI生成影片「把哈格島炸成碎片」",
+          "summary": "美國總統川普31日在真實社群發布兩段人工智慧生成短片，寫道「哈格島被炸成碎片」，影片中可見一座布滿石油設施的島嶼遭飛彈轟炸，陷入一片火海。哈格島為伊朗石油經濟命脈，掌控該國9成...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558633",
+          "published": "Mon, 31 Aug 2026 22:32:37 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "愛沙尼亞情報首長揭普廷進退維谷 革命可能一夕爆發",
+          "summary": "2022年2月爆發的烏俄戰爭已進行超過4年半，雙方尚未有達成和平協議的明確跡象。北大西洋公約組織（NATO）成員國愛沙尼亞對外情報局（EFIS）局長羅辛（Kaupo Rosin...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558638",
+          "published": "Mon, 31 Aug 2026 22:18:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
