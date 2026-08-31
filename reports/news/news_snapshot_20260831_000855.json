@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-08-31T00:08:54.080052",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+          "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 20:02:43 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 23:53:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iceland votes against restarting EU membership talks",
+          "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 30 Aug 2026 16:11:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍突襲！時隔一個月再度攻擊伊朗 轟炸火箭發射陣地",
+          "summary": "美國與伊朗關係持續緊繃，不過美軍30日針對伊朗拉拉克島（Larak island）的兩處火箭發射陣地進行打擊，這也是美軍自7月29日以來、時隔1個月對伊朗發動攻擊。  綜合外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557571",
+          "published": "Mon, 31 Aug 2026 07:04:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國大峽谷暴洪急撤數十人 20多人疑似失聯",
+          "summary": "據美國國家公園管理局，大峽谷發生嚴重暴洪，數十人被迫撤離，大量巨石、金屬結構物和其他雜物被沖刷進科羅拉多河，目前正尋求20多名可能失蹤或失聯民眾的消息。  美聯社報導，流入科羅拉多河（C...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557573",
+          "published": "Mon, 31 Aug 2026 06:58:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國3年57上將出事 傳與習近平親信苗華、鍾紹軍賣官有關",
+          "summary": "首次上稿 08-30 23:03更新時間 08-31 06:54 前中共中央政治局常委、中紀委書記尉健行的撰稿人王友群近日撰文指出，從中共二十大至今，中共沒有打過一場戰爭，外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5557511",
+          "published": "Mon, 31 Aug 2026 06:54:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
