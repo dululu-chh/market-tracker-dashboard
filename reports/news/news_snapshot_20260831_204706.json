@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-08-31T20:46:58.982488",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+          "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran trade strikes for first time in weeks",
+          "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 13:47:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Man arrested after Swiss rave shooting that killed woman",
+          "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+          "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 31 Aug 2026 13:11:35 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本發展飛彈水下無人載具與極音速武器 牽制共軍侵台能力惹惱北京",
+          "summary": "中國近期再度抨擊日本擴張軍備，特別點名日本計畫為水下無人載具（UUV）配備長程飛彈，並在澳洲測試極音速武器。分析人士指出，這些舉動可能威脅「第一島鏈」內的解放軍兩棲部隊與水面...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558706",
+          "published": "Tue, 01 Sep 2026 03:19:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯新型噴射無人機日夜狂轟 烏克蘭加速研發攔截器反制",
+          "summary": "烏克蘭正緊急研發攔截器，以反制近幾個月來在全國各地造成嚴重破壞的新一代俄羅斯噴射無人機。除了克里姆林宮的彈道武器與新型巡弋飛彈外，這些噴射無人機已對首都基輔及其周邊地區造成大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558709",
+          "published": "Tue, 01 Sep 2026 03:16:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯日夜狂轟基輔 新型噴射無人機戰術圖瓦解烏克蘭士氣",
+          "summary": "俄羅斯對烏克蘭的襲擊已轉向一種令人恐懼的新戰術，近日不斷朝首都基輔的鬧區發射無人機。隨著空襲警報幾乎響個不停，這波日夜不休的攻擊讓當地居民筋疲力盡且神經緊繃，也讓基輔面臨自2...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5558705",
+          "published": "Tue, 01 Sep 2026 03:14:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
