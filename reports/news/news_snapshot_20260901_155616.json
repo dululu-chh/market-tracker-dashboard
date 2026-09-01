@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-01T15:56:14.330673",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany says Russia behind Leipzig airport drone attack",
+          "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 15:50:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+          "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+          "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+          "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 07:37:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普強推安大略湖改名「美國湖」  民調：63％美國人反對",
+          "summary": "次上稿 23:33更新時間 23:43  路透／益普索（Reuters/Ipsos）最新民調顯示，多數美國人民反對總統川普調升加拿大進口商品關稅的舉措，以及將安大略湖（Lak...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559977",
+          "published": "Tue, 01 Sep 2026 23:43:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "原油運輸將被油管取代 貝森特：荷姆茲2年內就毫無價值",
+          "summary": "彭博報導，美國財政部長貝森特週二指出，隨著原油運輸將被油管取代，荷姆茲海峽很快將變得「毫無價值」（worthless）。  這條波灣能源關鍵水道在近期衝突中，一直被伊朗所控...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559974",
+          "published": "Tue, 01 Sep 2026 22:58:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽陷入水雷戰 專家點出美國難題",
+          "summary": "華爾街日報分析，美軍事隔一個月再對伊朗發動空襲，凸顯儘管冒著升高衝突風險，也要贏得對伊朗的荷姆茲掌控權之爭。伊朗試圖使用火箭作為載具，意味著埋設的水雷尺寸及構造相對簡易，然而，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559947",
+          "published": "Tue, 01 Sep 2026 22:37:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
