@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-01T11:13:14.846887",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+          "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+          "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+          "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 07:37:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+          "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 10:30:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "逼英國增加軍費 川普擬重新檢視福克蘭群島立場",
+          "summary": "美國總統川普（Donald Trump）昨（8月31日）表示，美國正在重新檢視對於福克蘭群島的立場，此前有英媒報導稱，華府正以福克蘭群島議題為要脅，要求英國增加國防開支。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559702",
+          "published": "Tue, 01 Sep 2026 18:56:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓警察謊報失蹤者下落 吃案達25起",
+          "summary": "南韓濟州島一名警員被查出，為了減少工作量，竟在未確認失蹤者下落的情況下草率結案。警方全面清查他過去約16個月經手的300起失蹤案件，再發現25起假結案，而這25名失蹤者最後全數...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559617",
+          "published": "Tue, 01 Sep 2026 18:53:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "墜海失蹤26小時！日本柴犬漂流5公里外小島「奇蹟生還」",
+          "summary": "日本愛媛縣近期發生寵物墜海失蹤事件，一隻黑色柴犬跟著飼主搭遊艇出海，不慎掉進海裡下落不明，飼主焦急不已，四處託人協尋。這隻柴犬失蹤超過26小時後，在距離落海處約5公里外的小島被人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5559374",
+          "published": "Tue, 01 Sep 2026 18:38:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
