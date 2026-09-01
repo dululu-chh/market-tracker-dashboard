@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-01T19:11:06.790323",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany says Russia behind Leipzig airport drone attack",
+          "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 16:53:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US launches more strikes on Iran as state media reports explosions",
+          "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 17:54:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+          "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+          "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "尼泊爾邊境洪災　聯合國初估留下逾240萬噸廢棄物",
+          "summary": "中國與尼泊爾邊境近日發生嚴重洪災，迄今死亡人數超過1000人，聯合國開發計畫署（UNDP）初步估算，洪災過後產生逾240萬噸廢棄物。  美國有線電視新聞網（CNN）報導，聯合國開發計畫署今天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560012",
+          "published": "Wed, 02 Sep 2026 02:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "克宮：美中俄領袖可能於APEC峰會舉行三方會談",
+          "summary": "克里姆林宮外交政策顧問鄂夏柯夫（Yuri Ushakov）透露，俄羅斯總統普廷（Vladimir Putin）與中國國家主席習近平已商討，在中國今年稍晚主辦亞太經濟合作會議（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560007",
+          "published": "Wed, 02 Sep 2026 02:50:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德俄關係再惡化！德國控俄國策劃機場無人機攻擊 將關閉駐波昂領事館",
+          "summary": "德國政府1日指控俄羅斯是上個月萊比錫／哈雷機場（Leipzig/Halle Airport）一架載有爆裂物無人機企圖發動攻擊的幕後黑手，並宣布關閉俄羅斯駐波昂（Bonn）總領...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560003",
+          "published": "Wed, 02 Sep 2026 02:32:31 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
