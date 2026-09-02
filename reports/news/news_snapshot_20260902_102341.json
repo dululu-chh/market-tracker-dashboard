@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-02T10:23:40.359467",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+          "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 10:00:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+          "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+          "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 05:03:09 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Why US troops have a history in this raucous Thai city",
+          "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
+          "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 07:18:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "槍殺柯克不認罪！猶他州檢方控犯嫌加重謀殺 可判死刑",
+          "summary": "美國保守派人士柯克（Charlie Kirk）遇害案有新進展，被告羅賓森（Tyler Robinson）1日在猶他州法院對包括加重謀殺在內的7項罪名表示不認罪。由於檢方控以可判...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560994",
+          "published": "Wed, 02 Sep 2026 18:05:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美襲伊朗釀婚禮4死逾50傷 伊朗議長怒批美國「撒旦」",
+          "summary": "美國1日對伊朗發動攻擊，伊朗國家電視台稱，伊朗南部戰略要道荷姆茲海峽沿岸以及波斯灣的1座島嶼都發生爆炸，此外伊朗南部克爾曼省（Kerman）的1座機場也遭到攻擊。伊朗紅新月會稱...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560836",
+          "published": "Wed, 02 Sep 2026 17:17:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》中國人「迷惑行為」連環翻車！一句「台灣」秒讓小粉紅急了",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560942",
+          "published": "Wed, 02 Sep 2026 17:13:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
