@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-09-02T05:20:43.530157",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+          "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it …",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 05:12:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+          "summary": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tiger Woods to change plea after crash arrest",
+          "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 00:26:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "黃之鋒消瘦出庭認罪！多國外交官旁聽 民眾高喊「撐住」他微笑點頭",
+          "summary": "正因香港民主派「47人案」服刑的前香港眾志秘書長黃之鋒，今（2）日上午在香港高等法院出庭應訊，就其面臨的第2宗《香港國安法》案件正式當庭認罪。黃之鋒被控一項「串謀勾結外國或者境外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560463",
+          "published": "Wed, 02 Sep 2026 13:04:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "尼泊爾洪災5日人失聯！驚傳是大阪教師一家5口",
+          "summary": "尼泊爾與中國邊境日前爆發嚴重洪災，導致重大傷亡，有5名日本人至今下落不明。日媒報導，這5人疑似是日本大阪市一對夫婦與其3名子女，其中丈夫為一間大阪府立學校的教職員。  根據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560442",
+          "published": "Wed, 02 Sep 2026 12:46:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓首例！男子放話炸毀首爾新世界百貨 需全額賠償警力費用",
+          "summary": "南韓1名20來歲男子先前發文威脅要炸毀首爾中區明洞的新世界百貨總店，使得當局調派大批警力巡邏，首爾中央地方法院如今裁定嫌犯需全額負擔出警費用，這是南韓首次有恐嚇文章被判處全數賠償...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5560416",
+          "published": "Wed, 02 Sep 2026 12:29:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
