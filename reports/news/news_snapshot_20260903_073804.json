@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-03T07:38:03.326512",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+          "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+          "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+          "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+          "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+          "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "疑報復美國空襲釀婚禮4死 伊朗再襲科威特美軍基地",
+          "summary": "自美國1日對伊朗目標發動空襲後，伊朗對位於約旦、科威特、巴林、阿拉伯聯合大公國內的美國基地發動報復性襲擊。伊朗3日再度攻擊科威特，科威特軍方稱正在攔截來自伊朗的飛彈與無人機。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561860",
+          "published": "Thu, 03 Sep 2026 15:09:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "光州雙年展恢復台灣館名稱 中國宣布退展",
+          "summary": "光州雙年展恢復「台灣館」名稱，光州市長閔炯培先前強調，政治與行政力量不應介入藝術領域，然而中國加大抗議力道，在光州市發表聲明稱尊重「一個中國」後，中國展覽團隊今天舉行記者會表達抗議，宣布退出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561914",
+          "published": "Thu, 03 Sep 2026 14:54:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「喜馬拉雅海嘯」罹難、失蹤者再飆升！ 尼泊爾1252死、4875失聯",
+          "summary": "中國、尼泊爾邊境世紀洪災「喜馬拉雅海嘯」，今（3日）最新罹難人數公布，尼泊爾警方表示，截至今上午，罹難人數上升至1252人，另有4875人失聯。  綜合外媒報導，尼泊爾警方今...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561841",
+          "published": "Thu, 03 Sep 2026 14:02:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
