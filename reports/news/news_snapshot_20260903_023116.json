@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-03T02:31:14.153263",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+          "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+          "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+          "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 21:34:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+          "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+          "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 02 Sep 2026 16:49:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "加拿大中國留學生偷拍機場照片 疑涉間諜行為遭美方拘捕",
+          "summary": "1名在加拿大留學的中國籍學生在入境美國後，因被控在機場拍攝飛機及相關設施照片，並「作出虛假陳述」，在密西根州遭到逮捕。經調查這名留學生坦承有「中國聯絡人」會寄送中國SIM卡給他，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561412",
+          "published": "Thu, 03 Sep 2026 10:13:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美加數千萬駕照資訊曝光 恐成北美最大資訊外洩案",
+          "summary": "美國聯邦調查局（FBI）2日表示，該機構正在調查1份報告，報告稱數千萬份屬於美國和加拿大的駕照在暗網上被出售。  根據《法新社》報導，美國獨立記者克雷布斯（Brian Kr...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561443",
+          "published": "Thu, 03 Sep 2026 10:12:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "哈利王子搬回英國！川普不滿梅根「1點」：很高興他們離開美國",
+          "summary": "美國總統川普2日直言，他樂見英國哈利王子（Prince Harry）一家搬離美國，並批評其對英國王室不敬。  綜合外媒報導，哈利與美國籍妻子梅根（Meghan Markle）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5561355",
+          "published": "Thu, 03 Sep 2026 10:10:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
