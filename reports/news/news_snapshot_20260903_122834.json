@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-03T12:28:32.900273",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+          "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+          "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+          "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+          "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 11:35:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+          "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 11:45:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "積極接觸川普！普廷鬆口俄烏仍有「和平機會」",
+          "summary": "俄羅斯總統普廷3日表示，俄烏兩國仍有達成和平協議的可能性，並透露莫斯科當局正與美國總統川普政府保持接觸。但他也指出，烏克蘭近期針對商船的襲擊與對俄國領空的警示，正使雙方重啟和談變...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562309",
+          "published": "Thu, 03 Sep 2026 20:11:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "慕尼黑知名軍工企業總部外遭放火 德國外長痛批「恐怖主義」",
+          "summary": "德國慕尼黑一家知名軍工企業總部外週四（3日）傳出疑遭縱火事件，警方隨後在附近加油站逮捕兩名保加利亞籍嫌犯。由於德國近日接連發生電網破壞事件，加上上月機場無人機攻擊疑雲，當局正全面...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562355",
+          "published": "Thu, 03 Sep 2026 20:01:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "獨攀受困峭壁不上不下！ 美國男竟單手抓山壁  滑手機等待救援",
+          "summary": "美國近日發生一起攀登受困事件，雖未造成死傷，但引發外界熱烈討論的是，救援單位釋出的影片可見，受困者竟攀在陡峭岩壁上，一邊使用手機，似乎對身陷險境渾然不覺。  綜合外媒報導，事...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562245",
+          "published": "Thu, 03 Sep 2026 19:46:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
