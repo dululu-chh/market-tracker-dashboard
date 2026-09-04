@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-04T00:38:46.392444",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+          "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 16:16:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US investigating if missile hit Iran wedding, Vance says",
+          "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 22:19:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+          "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+          "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "100億公里太空長征！歐日探測器耗時8年逼近水星 迎最棘手關卡",
+          "summary": "歐洲與日本合作執行的「貝皮可倫坡」（BepiColombo）水星探測任務，在歷經8年、飛行超過100億公里後，正式進入「棘手」的抵達階段。相互連接的兩具探測器3日成功脫離一路推進...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562592",
+          "published": "Fri, 04 Sep 2026 08:23:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓出兵荷姆茲？傳最快年底前部署 青瓦台回應曝光",
+          "summary": "南韓多家媒體3日晚間引述政府及軍方消息人士報導，南韓正準備部署軍事力量，以支援荷姆茲海峽（Strait of Hormuz）的航行自由，並計畫在今年底前派遣相關兵力。  路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562586",
+          "published": "Fri, 04 Sep 2026 07:38:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "共軍發AI動畫噴高市早苗 「全片抄襲吉卜力」日網炸鍋",
+          "summary": "首次上稿 9-3 22:36更新時間 9-4 06:10 中國政府近年頻繁利用人工智慧（AI）技術，針對敵對國家生成大量極具攻擊性或內容虛假的圖文影音，大搞認知作戰。解放軍海外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5562141",
+          "published": "Fri, 04 Sep 2026 06:10:43 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
