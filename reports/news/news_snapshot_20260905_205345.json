@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-05T20:53:44.160035",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
+          "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 05 Sep 2026 20:15:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+          "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+          "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 05 Sep 2026 20:41:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+          "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+          "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 04 Sep 2026 22:48:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗西部油罐車交通事故引發爆炸　至少10死6傷",
+          "summary": "伊朗國營媒體今天指出，一輛油罐車在西部公路上因交通事故爆炸，導致至少10人喪命，另有6人受傷。  伊朗國營媒體報導，薩南達治（Sanandaj）首長表示，這輛油罐車當時行駛在連接哈梅丹（Ha...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564524",
+          "published": "Sun, 06 Sep 2026 04:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美特使會見普丁磋商俄烏止戰　擬6日訪基輔",
+          "summary": "俄羅斯總統普丁今天在克里姆林宮與美國特使庫許納和魏科夫展開會談，討論如何結束已持續逾4年的俄烏戰爭；兩位美國特使預計明天首次訪問烏克蘭首都基輔。   法新社報導，俄羅斯電視台（Russian...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564522",
+          "published": "Sun, 06 Sep 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "希臘F-4戰機墜毀兩飛官身亡　防長赴事故現場",
+          "summary": "希臘雅典通訊社（ANA）報導，希臘空軍一架F-4幽靈式戰機今天在雅典郊外一處基地參加航空展時墜毀，機上兩名飛官罹難；希臘國防部長取消原定行程，趕赴事故現場。  當地媒體指出，墜機原因尚不明朗...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564513",
+          "published": "Sun, 06 Sep 2026 02:36:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
