@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-06T18:49:13.506429",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+          "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 18:33:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "German far-right set for big win in eastern state - projections",
+          "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 18:15:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+          "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 16:00:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "極右翼德國另類選擇黨贏得邦選舉 有望戰後首次執政",
+          "summary": "最新出口民調顯示，極右翼、反移民的「德國另類選擇黨」（AfD）6日在全球矚目的薩克森—安哈特邦（Saxony-Anhalt）議會選舉中，取得歷史性勝利，得票率高達44.5％，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565282",
+          "published": "Mon, 07 Sep 2026 02:36:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "與美特使會談後　澤倫斯基：目前看來冬天仍得繼續戰爭",
+          "summary": "烏克蘭總統澤倫斯基今天表示，雖然與美國特使在基輔的會談獲得「正面評價」，但是「目前看來」，與俄羅斯的戰爭今年冬天似乎仍會繼續。  法新社報導，澤倫斯基（Volodymyr Zelenskyy...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565280",
+          "published": "Mon, 07 Sep 2026 01:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "出口民調：極右翼德國另類選擇黨德東邦議會選舉勝出",
+          "summary": "根據投票結束後公布的出口民調，極右翼德國另類選擇黨（AfD）可望在薩克森－安哈特邦議會選舉中勝出，但是該黨能否單獨執政邦政府目前仍不得而知。  路透社報導，德國第一電視台（ARD）的出口民調...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565279",
+          "published": "Mon, 07 Sep 2026 01:06:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
