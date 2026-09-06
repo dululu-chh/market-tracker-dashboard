@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-09-06T16:39:56.005414",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+          "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 15:32:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "German far-right set for big win in eastern state - exit polls",
+          "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 16:21:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+          "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 16:00:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "曾因核武超級電腦惹怒美國！中國國防科大曝AI課程 全面融入實戰場景",
+          "summary": "隨著全球各國軍隊積極探索人工智慧（AI）在戰略規劃、部隊訓練與前線作戰中的應用，軍事人員需要具備的技能也隨之改變。為了讓未來的軍事將領與軍官能更妥善地應對智能化戰爭，中國軍方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565270",
+          "published": "Mon, 07 Sep 2026 00:27:19 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "無人機藏卡車炸翻俄空軍基地！烏「蜘蛛網」行動成中共AI戰新範本",
+          "summary": "中國軍方學者近期發表研究指出，中國在探討新型戰時訊息傳遞模式時，應借鏡烏克蘭的資訊戰經驗，因為在複雜的現代資訊環境中，光有先進技術仍嫌不足，成功的關鍵在於將資訊戰略與軍事行動...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565261",
+          "published": "Sun, 06 Sep 2026 23:53:44 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "維德角巴士墜谷至少25死 事故原因待當局調查",
+          "summary": "非洲西部外海島國維德角的官方通訊社Inforpress今天指出，一輛巴士在福戈島（Fogo）墜谷，造成至少25人喪命，其中許多是中小學生和青少年。  Inforpress報導，該事故發生...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565251",
+          "published": "Sun, 06 Sep 2026 23:52:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
