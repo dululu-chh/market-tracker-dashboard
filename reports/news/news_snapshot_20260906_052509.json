@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-06T05:25:07.375819",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+          "summary": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
+          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 02:24:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+          "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+          "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 05 Sep 2026 22:44:07 GMT",
+          "keywords": []
+        },
+        {
+          "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+          "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 06 Sep 2026 05:04:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "太好運！朋友送彩券當生日禮物 美國男抱走3千萬大獎",
+          "summary": "運氣太好了！美國伊利諾州布雷德伍德（Braidwood）1名男子，近來在生日派對上收到朋友送的彩券，沒想到最後中了100萬美元（約新台幣3168萬元）大獎。  據《UPI》報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564762",
+          "published": "Sun, 06 Sep 2026 13:07:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "消失9年！「全球最大海龜」重返大馬海灘 產下44顆蛋",
+          "summary": "馬來西亞近日傳出一起振奮保育界的好消息，當地漁業局工作人員在海灘巡邏時，發現異常巨大的爬行痕跡，經確認後這些痕跡來自全球極度瀕危第一級保育類動物「革龜」（Leatherback ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564685",
+          "published": "Sun, 06 Sep 2026 12:37:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "員工盜賣害「吉伊卡哇」活動喊停 日本藏壽司宣布打9折補償顧客",
+          "summary": "日本藏壽司8月21日至9月30日和人氣動漫「吉伊卡哇」舉行聯名活動，孰料卻出現員工盜賣扭蛋獎品和相關贈品的事件，使得公司不得不提前喊停，並且今天（6日）、明天（7日）全品項打9折...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5564684",
+          "published": "Sun, 06 Sep 2026 12:04:49 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
