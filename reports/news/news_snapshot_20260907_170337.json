@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-07T17:03:35.518558",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+          "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+          "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 14:50:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israeli strikes in southern Lebanese village kill 12",
+          "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 13:39:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "埃及美女主持人涉製毒販毒判死 一聽「絞刑」當庭崩潰痛哭",
+          "summary": "埃及39歲知名電視女主持人哈利法（Sarah Khalifa）涉及組織販毒集團，並從海外進口合成毒品所需原料，近日被開羅法院判處絞刑，讓她當庭崩潰痛哭求情，「我的父母把我教得很好...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566335",
+          "published": "Tue, 08 Sep 2026 00:08:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "廣場舞後「暴走團」崛起 中國擬修法嚴管",
+          "summary": "繼廣場舞之後，「暴走團」成為中國中老年人的最愛，但由於屢因佔用道路、噪音擾民等問題引起爭議，中國全國人大常委會日前初次審議「中華人民共和國道路交通安全法（修訂草案）」，特別對「暴走團」作出規...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566144",
+          "published": "Mon, 07 Sep 2026 23:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "無人機風波 俄報復關閉德國駐聖彼得堡總領事館",
+          "summary": "俄羅斯政府今（7）日宣布，由於德國關閉了俄國駐波昂（Bonn）領事館及柏林（Berlin）俄羅斯文化中心，將關閉德國駐聖彼得堡（St. Petersburg）總領事館作為回應。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566288",
+          "published": "Mon, 07 Sep 2026 23:15:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
