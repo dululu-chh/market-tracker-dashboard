@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-07T11:19:13.515999",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 11:10:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli strikes in southern Lebanese village kill nine",
+          "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 10:16:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+          "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+          "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 05:31:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "路透：共軍加速投入軍用人形機器人 模擬城鎮戰與對台攻擊",
+          "summary": "路透檢閱逾百份中國軍方採購公告、學術研究與官方文件後發現，中國國防機構正加速研發人形機器人的軍事用途，並為其最終的戰時部署作準備，相關工作在2025年與2026年動能大增，重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566150",
+          "published": "Mon, 07 Sep 2026 19:09:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "才澄清沒戴假髮！川普「招牌金髮消失」 罕見棕髮亮相",
+          "summary": "美國總統川普（Donald Trump）長年以來都頂著招牌蓬鬆金髮，鮮少在鏡頭前大幅更換造型，然而，他近日被媒體捕捉到髮色明顯轉為棕褐色，這般巨大轉變立刻在社群平台掀起熱烈討論。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5565927",
+          "published": "Mon, 07 Sep 2026 18:59:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉非法轉移半導體技術至中國 比利時逮捕雙重國籍男子",
+          "summary": "比利時檢調單位今（7）日證實，一名具有中國及比利時雙重國籍的男子今年5月因間諜罪名被捕，他涉嫌將半導體技術非法轉移至海外，而他曾任職的公司目前已宣告破產。  《路透》報導，比...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566038",
+          "published": "Mon, 07 Sep 2026 18:25:53 +0800",
+          "keywords": [
+            "半導體"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
