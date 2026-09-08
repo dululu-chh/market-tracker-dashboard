@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-08T17:00:08.247486",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+          "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 08 Sep 2026 14:46:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Renoir paintings worth millions stolen in French museum heist",
+          "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+          "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 08 Sep 2026 13:35:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Argentina to file criminal case against oil company operating in Falklands",
+          "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+          "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 08 Sep 2026 11:09:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中方趁菲防長演說遞紙條質疑南海仲裁　遭嗆知恥一點",
+          "summary": "菲律賓防長鐵歐多洛今天在韓國出席首爾安全對話時，在台上收到中國代表遞來的紙條，上頭對2016年南海仲裁案的裁決提出質疑，讓鐵歐多洛當場以菲律賓話要求對方「多點羞恥心」。  鐵歐多洛（Gilb...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5567595",
+          "published": "Wed, 09 Sep 2026 00:48:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國湖南、江西爆慘重山崩、土石流！ 災民拍片自救竟被要求刪影片",
+          "summary": "中國近期天災不斷，南方地區受到沙德爾颱風殘餘環流和滯留氣流影響，最近降下破紀錄暴雨，其中湖南、江西內陸山區傳出嚴重的山體滑坡和土石流災情，上萬人受災，但官方通報罹難數字卻只有個位...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5567561",
+          "published": "Wed, 09 Sep 2026 00:25:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阿聯曾預警哈瑪斯「地震級」行動？納坦雅胡疑漠視 衝擊以色列大選",
+          "summary": "以色列總理納坦雅胡（Benjamin Netanyahu）8日陷入新的政治風暴！以色列媒體披露，2023年10月7日巴勒斯坦激進組織「哈瑪斯」突襲以色列前約10天，阿拉伯聯合...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5567593",
+          "published": "Wed, 09 Sep 2026 00:24:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
