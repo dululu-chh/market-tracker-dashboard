@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-08T02:34:20.527249",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 22:23:03 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+          "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+          "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 21:12:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+          "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "維穩考量  港媒：中共悄然成立中央社會治理工作領導小組",
+          "summary": "據報導，2025年底中共內部成立了「中央社會治理工作領導小組」，成立的目包括要「抓好新經濟組織、新社會組織、新就業群體黨的建設」，並加強社會治理工作以維護社會穩定。  明報今天報導，中共...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566489",
+          "published": "Tue, 08 Sep 2026 10:28:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉貪遭突襲搜查 烏檢察總長火速辭職",
+          "summary": "烏克蘭檢察總長克拉弗成柯（Ruslan Kravchenko）近日涉及貪腐指控，其辦公室遭反貪腐官員搜查。克拉弗成柯7日宣布辭職，稱不希望檢察總長辦公室被當作政治鬥爭的工具。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566480",
+          "published": "Tue, 08 Sep 2026 10:27:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基爆料普廷「不敢惹川普」 稱普廷可能「做球」送外交勝利",
+          "summary": "烏克蘭總統澤倫斯基7日接受美媒《Axios》專訪時透露，美國正在探討烏克蘭和俄羅斯是否可以在冬季採取能緩和戰爭局勢的相關措施，同時重啟談判、以達成更廣泛的和平協議。澤倫斯基也爆料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5566476",
+          "published": "Tue, 08 Sep 2026 10:02:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
