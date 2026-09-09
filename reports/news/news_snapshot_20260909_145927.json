@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-09T14:59:25.496833",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+          "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 13:29:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+          "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+          "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 09 Sep 2026 10:20:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗擴大荷姆茲海峽「禁區」延伸到阿拉伯海 未協調進入船隻恐制裁",
+          "summary": "伊朗伊斯蘭革命衛隊（IRGC）9日表示，將擴大荷姆茲海峽周邊的「禁區」，範圍涵蓋該海峽外水域，延伸到遠及阿拉伯海部份區域。革命衛隊警告，未經與伊朗協調進入禁區的船隻，日後可能遭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5568822",
+          "published": "Wed, 09 Sep 2026 22:40:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐美多國聯合制裁西岸屯墾區 以色列報復關閉百年英領事館",
+          "summary": "為抗議以色列在約旦河西岸擴張屯墾區、對巴勒斯坦人日益升溫的暴力，英國、法國、加拿大等多個西方國家，本週宣布對以色列祭出制裁措施，藉此向以色列總理納坦雅胡（Benjamin N...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5568815",
+          "published": "Wed, 09 Sep 2026 22:25:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "毛澤東過世50週年 經濟逆風催生民間「平均主義」懷舊情緒",
+          "summary": "中共建政領袖毛澤東過世9日屆滿50週年。在中國經濟成長趨緩、社會焦慮攀升的背景下，民間再度掀起對毛澤東時代「平均主義」的懷舊情緒；而在政治高層，中國國家主席習近平打破「改革開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5568798",
+          "published": "Wed, 09 Sep 2026 22:12:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
