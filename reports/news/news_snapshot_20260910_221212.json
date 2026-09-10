@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-10T22:12:10.035382",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 18:15:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Can Trump really pay $5,000 to every American adult?",
+          "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+          "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 16:48:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+          "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 16:31:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "東京一夜入秋！氣溫驟降8度  比札幌還冷",
+          "summary": "首次上稿 9-10 22:24更新時間 9-11 06:05 日本關東地區10日迎來10月級寒意！東京都心最高溫僅22.5度，竟比札幌的23.7度還低，最低溫17.7度更是今年...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5569981",
+          "published": "Fri, 11 Sep 2026 06:05:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "今年8月全球史上最熱 聖嬰模式強化2027「只會更熱」",
+          "summary": "首次上稿 9-10 22:50更新時間 9-11 06:04 歐洲氣候監測單位10日指出，今年8月是有紀錄以來全球最熱的1個月，海洋溫度也創新高；專家警告，隨著空前的聖嬰現象...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570019",
+          "published": "Fri, 11 Sep 2026 06:04:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瑞士阿爾卑斯山區遊覽車翻覆　荷蘭團多人死傷",
+          "summary": "瑞士警方今天表示，瑞士東部靠近阿爾卑斯山區蘇施（Susch）村莊附近發生遊覽車翻覆車禍，造成多人死亡，另有數人受傷。   路透社報導，格勞賓登邦（Graubuenden）警方在X平台上發文表...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570088",
+          "published": "Fri, 11 Sep 2026 05:30:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
