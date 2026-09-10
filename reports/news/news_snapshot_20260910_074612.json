@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-10T07:46:11.146050",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+          "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 06:56:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran war won't end until after crucial November elections, says Trump",
+          "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 05:56:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+          "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 06:30:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "立陶宛冷凍水餃指名用台灣芒果！網友看了皺眉 必勝客認輸發聲了",
+          "summary": "飲食文化衝擊又一樁！1名網友近日在網路分享，在立陶宛超市買到1款「台灣芒果冷凍水餃」，開箱試吃後直呼「不會吃第2次了」。貼文曝光後瞬間引發熱議，連知名連鎖比薩品牌「必勝客」也跑來...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5569483",
+          "published": "Thu, 10 Sep 2026 15:34:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉替中國蒐集AUKUS核潛艇情報 澳洲男子遭判3年6月",
+          "summary": "澳洲商人切爾戈（Alexander Csergo）因涉及外國干預被定罪，10日遭雪梨地方法院判處3年6個月監禁，最快可於下個月獲得假釋資格。  根據《法新社》報導，現年58...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5569412",
+          "published": "Thu, 10 Sep 2026 15:12:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "同事遭殃！中國留學生「AI換臉」製1141件色情影像 南韓判刑出爐",
+          "summary": "1名30歲中國籍留學生涉嫌在南韓利用人工智慧（AI）深偽技術，將研究室同事等7名受害者的臉部合成至不雅影片及照片中，共製作1141件色情內容，本月10日一審遭判處有期徒刑1年6個...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5569155",
+          "published": "Thu, 10 Sep 2026 13:55:25 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
