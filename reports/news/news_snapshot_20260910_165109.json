@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-10T16:51:07.509152",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+          "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 13:23:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Watch: Is Trump's $5,000 election pledge legal?",
+          "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+          "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran war won't end until after crucial November elections, says Trump",
+          "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 10:43:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本F-15戰機緊急降落那霸機場 跑道一度關閉",
+          "summary": "日本航空自衛隊一架F-15戰機於今天晚間7時15分左右在沖繩縣那霸機場緊急降落，導致跑道一度關閉，目前沒有人員受傷的通報消息。  液壓系統故障  共同社報導，日本航空自衛隊那霸基地指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570042",
+          "published": "Thu, 10 Sep 2026 23:29:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄逮捕英使館警衛稱「烏克蘭線民」 英國：挑撥離間伎倆",
+          "summary": "俄羅斯聯邦安全局（FSB）今天宣布逮捕一名在英國駐俄大使館擔任警衛的俄籍男子，宣稱該男子「叛國」、為烏克蘭安全局（SBU）服務並支援烏方意圖對英國外交官發動的「恐怖行動」，目的為嫁禍於俄方，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570028",
+          "published": "Thu, 10 Sep 2026 23:22:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "今年8月全球史上最熱？聖嬰模式強化2027「只會更熱」",
+          "summary": "歐洲氣候監測單位10日指出，今年8月是有紀錄以來全球最熱的1個月，海洋溫度也創新高；專家警告，隨著空前的聖嬰現象（El Nino）模式強化，情況在未來恐將更糟。  全球的陸...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570019",
+          "published": "Thu, 10 Sep 2026 22:50:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
