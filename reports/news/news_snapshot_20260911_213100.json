@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-11T21:30:59.440749",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+          "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 20:11:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+          "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+          "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 16:00:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel says it has destroyed major underground Hezbollah base",
+          "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 15:50:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沙烏地輸油管遭襲暫停運作　市場關注全球油供風險",
+          "summary": "沙烏地阿拉伯能源部官員今天向官方媒體表示，「東西輸油管」（East-West Pipeline）遭遇攻擊，當局已關閉位於利雅德及麥地那地區管線，這起事件造成多人受傷並引發市場關切。  法新社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571221",
+          "published": "Sat, 12 Sep 2026 04:21:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "以哈戰火未歇　以色列空襲加薩擊斃哈瑪斯高階指揮官",
+          "summary": "以色列軍方今天指出，已在前一天對加薩（Gaza）空襲中擊斃一名哈瑪斯（Hamas）高階指揮官。儘管美國支持的斡旋行動正試圖挽救2025年停火協議，以色列仍持續在巴勒斯坦領土進行轟炸行動。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571216",
+          "published": "Sat, 12 Sep 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普出席911恐攻紀念儀式：那天我們都是紐約客",
+          "summary": "適逢911恐攻事件25週年，美國總統川普今天在五角大廈舉行的紀念儀式上表示，美國永遠不會忘記2001年911恐攻，「那天我們都是紐約客」。川普也不忘提及伊朗，並向那些正在努力確保德黑蘭絕不會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571210",
+          "published": "Sat, 12 Sep 2026 02:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
