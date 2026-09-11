@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-11T05:31:44.224367",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 18:15:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Can Trump really pay $5,000 to every American adult?",
+          "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+          "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 16:48:37 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+          "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 16:31:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "25死才公布！青島貨輪火災再現「高層先指示、地方後報數字」",
+          "summary": "中國山東青島一艘外籍貨輪昨（10）日靠港維修時起火，釀25死5傷。警消指出，搜救人員得從狹窄艙門進入船艙底部，面對高溫、濃煙及濕滑樓梯，增加救援難度。值得注意的是，這起事故再次出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570378",
+          "published": "Fri, 11 Sep 2026 13:13:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「克宮特工」疑雲未解！遭法驅逐評論員擬復出節目",
+          "summary": "法國內政部長努涅斯（Laurent Nunez）10日警告，若法國1家電視台讓1名被指控為克里姆林宮特工的俄籍評論員重新在節目中露面，可能會面臨刑事訴訟。  根據《法新社》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570376",
+          "published": "Fri, 11 Sep 2026 12:17:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "香港支聯會被控顛覆政權鄒幸彤等3人判重刑 王丹諷中共連歷史記憶都懼怕",
+          "summary": "已解散的香港支聯會及其前主席李卓人、前副主席鄒幸彤和何俊仁因觸犯「煽動顛覆國家政權」，今日遭香港高等法院判處入獄，其中鄒幸彤刑期最重，判7年3個月，李卓人7年、何俊仁5年2個月。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570360",
+          "published": "Fri, 11 Sep 2026 12:06:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
