@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-09-11T10:25:15.352728",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+          "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+          "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 10 Sep 2026 22:36:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+          "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 05:41:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "AI「10年內毀滅人類」？ 川普：我比較在意維持對中國優勢",
+          "summary": "近日人工智慧（AI）研究人員紛紛提出警告，AI技術可能失控、甚至毀滅人類，美國總統川普10日被問到這個問題時表示，他並不擔心，他更在意的是美國能否在AI競賽中維持對中國的優勢。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570917",
+          "published": "Fri, 11 Sep 2026 18:07:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "紐時：范斯致電美軍指揮官 了解戰況及彈藥庫存吃緊",
+          "summary": "「紐約時報」引述現任與前任官員報導，美國副總統范斯春夏期間曾罕見直接致電駐紮中東、歐洲及亞洲的美軍指揮官，尋求他們對美伊戰爭的坦率評估，包括戰況及彈藥庫存不足問題。  紐約時報（The ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570734",
+          "published": "Fri, 11 Sep 2026 17:57:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "緬甸第二大城機場遭無人機襲擊 被迫關閉兩天",
+          "summary": "緬甸第二大城市曼德勒的達達烏國際機場（Tada-U International Airport）於10日遭反抗軍發射無人機襲擊，導致該機場關閉，所有國際航線全面暫停。緬甸國際航空...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5570837",
+          "published": "Fri, 11 Sep 2026 17:29:12 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
