@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-11T14:48:21.553544",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+          "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 05:41:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel says it has destroyed major underground Hezbollah base",
+          "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 14:46:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不只從911汲取教訓  英情報首長：做好準備因應下一場震撼",
+          "summary": "美國11日紀念「911恐怖攻擊」25週年之際，英國對內情報機關「軍情五處」（MI5）警告，如今情報機關已不能只執著於過去的威脅，而是必須有所準備，下一場類似「911攻擊」足以撼...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571147",
+          "published": "Fri, 11 Sep 2026 22:39:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗總統：美國施壓已達「關鍵且危險」階段",
+          "summary": "伊朗總統裴澤斯基安（Masoud Pezeshkian）11日表示，美國對伊朗的施壓已達到「關鍵且危險」的階段。  裴澤斯基安在「金磚國家」（BRICS）高峰會召開前夕，於...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571153",
+          "published": "Fri, 11 Sep 2026 22:31:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "共和黨大會黃金時段登台 華郵：強化范斯2028接班風向",
+          "summary": "為期兩天的美國共和黨達拉斯大會10日落幕。呼聲最高的副總統范斯安排黃金時段演說，受到支持者熱烈歡迎；另一熱門人選國務卿魯比歐則出訪南美，未出席大會。 　 范斯登台時群眾高呼...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571136",
+          "published": "Fri, 11 Sep 2026 22:02:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
