@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-12T17:38:49.969006",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 17:05:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 12:15:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+          "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱樂見愛爾蘭統一　願助解福克蘭群島爭議",
+          "summary": "美國總統川普今天在訪問愛爾蘭期間表示，他樂見愛爾蘭「統一」（unified），而且他認為這「終究將發生」，甚至「現在」也可以發生。儘管英國顯然會有意見，川普說，愛爾蘭能夠統一將是很棒的事，「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572106",
+          "published": "Sun, 13 Sep 2026 01:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗稱阿曼將主辦荷莫茲海峽會議　巴林表明不參加",
+          "summary": "波斯灣島國巴林今天表示，不會參加在阿曼舉行的伊朗和波斯灣國家討論荷莫茲海峽未來的會議，並呼籲讓這道海峽在無「歧視、收費或許可」的限制下開放通行。  法新社報導，美國和以色列2月28日對伊朗開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572099",
+          "published": "Sun, 13 Sep 2026 00:15:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不甩北京制裁！菲防長籲國際強化軍事合作 堅定抵制中國戰狼外交",
+          "summary": "菲律賓國防部長鐵歐多洛（Gilberto Teodoro）日前在參加首爾國防對話時，當場反擊來自中國駐南韓大使館武官的突襲字條，指責中國在南海的「霸凌、脅迫與侵略」行徑。鐵歐多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572098",
+          "published": "Sun, 13 Sep 2026 00:01:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
