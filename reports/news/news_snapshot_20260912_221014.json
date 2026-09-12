@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-12T22:10:12.191519",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 12:15:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+          "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沙國關閉關鍵油管 衝擊油價",
+          "summary": "遭伊拉克無人機攻擊 〔編譯張沛元／綜合報導〕沙烏地阿拉伯「東西向輸油管線」十二日遭無人機空襲後緊急關閉，這條橫跨阿拉伯半島、全長一千兩百公里的重要原油動脈被迫停擺。美國總統川普隨後表示，伊朗「很可能」就是這次攻擊的幕後黑手。 川普稱伊朗可能是幕後黑手 沙國當局表示，東西向輸油管線遭到數架來自伊…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1770420",
+          "published": "Sun, 13 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "沖繩縣知事選舉 中國威脅成新焦點",
+          "summary": "〔編譯張沛元／綜合報導〕日本沖繩縣知事選舉將於十三日投票，選前民調顯示現任知事玉城丹尼與挑戰者古謝玄太勢均力敵，選情極度膠著。這場選舉凸顯出在地緣政治緊張加劇下，日本年輕選民逐漸接受強化軍事力量以對抗中國威脅，過去在沖繩總能煽動選民情緒的「美軍基地」議題，已不再是催票神器。 日本英文報日本時報報導…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1770425",
+          "published": "Sun, 13 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "金磚新德里宣言 籲中東「最大程度克制」",
+          "summary": "關切中東及西亞緊張局勢  〔國際新聞中心／綜合報導〕金磚國家（BRICS）峰會十二日在印度首都新德里登場，包括中國、俄羅斯、伊朗及印度在內的十一個成員國發布「新德里宣言」，對中東及西亞緊張局勢持續升級深表關切，並呼籲各方保持「最大程度克制」，避免採取可能進一步惡化局勢的行動。  金磚國家外長…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1770421",
+          "published": "Sun, 13 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
