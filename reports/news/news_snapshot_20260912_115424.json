@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-12T11:54:22.994982",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 11:00:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+          "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 11:27:44 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+          "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 11 Sep 2026 20:34:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本沖繩縣即將變天？ 挑戰者古謝來勢洶洶 威脅尋求三連霸的玉城",
+          "summary": "日本沖繩縣知事選舉13日投票，選前最新民調顯示，兩大候選人基本上勢均力敵，但獲得執政黨自民黨支持的挑戰者古謝玄太，以些微優勢領先尋求三連霸的現任知事玉城丹尼。然因有4成選民仍未...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571910",
+          "published": "Sat, 12 Sep 2026 19:12:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "出席金磚國家峰會   習近平：反對侵犯別國主權、干涉別國內政",
+          "summary": "中國國家主席習近平12日在「金磚國家」（BRICS）領袖峰會上，呼籲該集團成員國「反對冷戰思維和陣營對抗，反對侵犯別國主權、干涉別國內政」。  12日才搭機抵達印度新德里的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571922",
+          "published": "Sat, 12 Sep 2026 19:00:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北極成新前線！歐洲強化北極戰略 防俄也盯中國布局",
+          "summary": "歐洲多國領袖13日將在芬蘭北極區邊緣羅文尼米鎮（Rovaniemi）舉行北極峰會，隨著大國在北極的角力升高，這場峰會將討論加強對北極的安全和防衛投資，強化歐洲在該區域影響力。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5571864",
+          "published": "Sat, 12 Sep 2026 18:14:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
