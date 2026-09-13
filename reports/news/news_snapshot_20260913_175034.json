@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-13T17:50:32.734440",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 17:38:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 16:29:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+          "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 13:30:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不適還是不爽？習近平訪印臉色超難看 傳遭「冷落」畫面瘋傳！",
+          "summary": "中國國家主席習近平12日至13日出訪印度參加金磚峰會，這是他睽違7年來首次訪印，引發國際關注這是否會成為中印兩國「破冰」象徵。不過12日的峰會開幕式上，習近平被發現臉色相當難看，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572911",
+          "published": "Mon, 14 Sep 2026 00:32:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普反對減緩AI研發 「誰贏得AI就能贏得一切」",
+          "summary": "美國總統川普13日表示，有許多「非常負面的力量」正在誇大人工智慧（AI）不可能發生的風險。他強調，希望確保美國維持在AI產業的全球領導地位。  路透報導，當在愛爾蘭的高爾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572932",
+          "published": "Sun, 13 Sep 2026 23:49:22 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普警告澤倫斯基 勿攻擊俄羅斯柴油設施",
+          "summary": "美國總統川普今天表示，他已警告烏克蘭總統澤倫斯基，應「停止破壞俄羅斯的柴油」設施，因為此舉造成柴油短缺。  法新社報導，川普訪問愛爾蘭期間告訴記者：「讓他（澤倫斯基）打擊目標，但不要攻擊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572906",
+          "published": "Sun, 13 Sep 2026 23:17:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
