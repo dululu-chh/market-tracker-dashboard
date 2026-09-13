@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-13T05:34:12.573102",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 12 Sep 2026 12:15:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+          "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+          "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 00:49:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "印尼載逾240人客輪海上失聯 已103人獲救",
+          "summary": "印尼1艘載有240多人的客輪，今（13日）從東爪哇省前往婆羅洲島的南加里曼丹省途中，疑似在爪哇海（Java Sea）遭強烈暴風雨，自此與陸地又失去聯繫。印尼當局獲報，派員前往客輪...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572380",
+          "published": "Sun, 13 Sep 2026 13:10:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傻眼！日本長野縣列車開走後 司機驚覺列車長還在月台",
+          "summary": "離譜！JR東日本大糸線1輛列車，11日中午12時54分從長野縣松本市島內車站出發後，司機發覺列車長被留在月台沒有上車，但已無法倒車回去接人。  據《讀賣新聞》報導，JR東日本...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572389",
+          "published": "Sun, 13 Sep 2026 13:09:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓擴大間諜法今生效！ 中國科技竊密成國安新防線",
+          "summary": "南韓13日正式擴大刑法「間諜罪」適用範圍，過去主要針對北韓等敵對國家的規定，如今擴及所有外國，涉及為外國竊取、蒐集及提供國家機密等行為，都可能面臨間諜罪追訴。新法上路之際，南韓...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572358",
+          "published": "Sun, 13 Sep 2026 12:32:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
