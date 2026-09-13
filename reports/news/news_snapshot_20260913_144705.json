@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-13T14:47:04.050204",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+          "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 11:13:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran war reshapes Brics ties but also exposes divisions",
+          "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 11:23:42 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+          "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 13:30:38 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "習近平將訪美 網傳川普送大禮宣布「放棄台灣」？ 查核中心曝真相",
+          "summary": "中國國家主席習近平預計本月底訪美，和美國總統川普會晤，有消息傳出北京要求美方此次川習會前不要批准對台軍售，否則習近平可能取消行程。除此之外，急於在11月期中選舉前爭取外交政績的川...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572805",
+          "published": "Sun, 13 Sep 2026 22:30:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "與美鬧僵 加拿大擬爭取歐盟「準會員國」",
+          "summary": "華爾街日報12日獨家報導，為應對與美國之間不斷升溫的貿易戰，加拿大總理卡尼（Mark Carney）正尋求與歐盟建立更緊密的關係，並探討讓加拿大成為歐盟「準會員國」（asso...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572887",
+          "published": "Sun, 13 Sep 2026 22:14:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "習近平車隊現身新德里 藏人追趕高喊「打倒習近平」",
+          "summary": "中國國家主席習近平9月12日抵達印度新德里，參加金磚峰會，遭遇藏人抗議，有抗議者追趕習近平的專車，高喊「自由西藏」、「打倒習近平」等口號。 　Ｘ平台帳號YiFeng Su（＠...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572858",
+          "published": "Sun, 13 Sep 2026 21:38:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
