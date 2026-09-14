@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-14T17:26:07.920138",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "China criticises idea it is in 'malicious competition' over AI",
+          "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 14 Sep 2026 11:31:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 14 Sep 2026 12:18:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+          "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 14 Sep 2026 08:36:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "軍力和台灣相當！波蘭外長嗆普廷：6週讓俄煉油廠全滅",
+          "summary": "烏俄戰爭全面爆發至今已持續逾4年半，歐洲與北約近期面臨俄羅斯升級的「混合戰」（Hybrid Warfare，例如灰色地帶騷擾、認知與資訊戰、無人機破壞）襲擾。波蘭副總理兼外交部長...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5573961",
+          "published": "Tue, 15 Sep 2026 01:03:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "廣州大學城喋血！見人就拿刀刺眼睛 女子臉上插刀驚悚片瘋傳！",
+          "summary": "中國廣東省廣州市下轄番禺區的「廣州大學城」商業區，今天（14日）下午驚傳隨機傷人事件，一名男子持刀攻擊路人，一鎖定目標就將刀子對準受害者眼部插進去，驚悚畫面在網上瘋傳掀起熱議。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5573934",
+          "published": "Mon, 14 Sep 2026 23:22:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "荷姆茲海峽管理計畫會議喊卡 阿曼：為凝聚各方共識延後",
+          "summary": "地處關鍵能源航道荷姆茲海峽兩端的伊朗與阿曼，過去一段時間密切協商管理海峽的合作計畫。兩國原定14日在阿曼首都馬斯開特與其他波斯灣國家商討、簽署管理協議，如今確定延期。  阿...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5573953",
+          "published": "Mon, 14 Sep 2026 22:36:09 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
