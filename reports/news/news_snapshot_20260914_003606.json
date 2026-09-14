@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-14T00:36:04.690617",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 13 Sep 2026 18:20:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "金磚國家試圖擴大影響力　籲勿將關鍵礦產武器化",
+          "summary": "印度的金磚國家事務代表達萊拉今天表示，金磚國家為期兩天峰會討論主軸為將合作機制與成果和全球南方分享，印度總理莫迪更公開呼籲，勿將關鍵礦產武器化，以免阻礙共榮。  金磚國家（BRICS）12日...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5572964",
+          "published": "Mon, 14 Sep 2026 05:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市關鍵勝利》沖繩變天 古謝玄太當選知事",
+          "summary": "自民黨與部分在野黨合組聯盟 扳倒執政12年反美軍機場勢力 〔駐日特派員林翠儀／東京十三日報導〕日本沖繩縣知事選舉十三日投開票，獲自民黨等保守及中間政黨支持的前那霸市副市長古謝玄太，擊敗尋求三連任的現任知事玉城丹尼等五人，確定當選。這場選舉不僅讓沖繩「變天」，也宣告沖繩縣反美軍基地勢力，從已故前知事…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1770562",
+          "published": "Mon, 14 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本強化海纜防護 將補助企業引進鋪設船",
+          "summary": "〔國際新聞中心／綜合報導〕近年來，在台灣周邊與北歐波羅的海，相繼發生疑似中國與俄羅斯涉入的海底電纜切斷事件，促使各國紛紛在政府層級強化相關設施的防護與整備體制。由於日本企業在海纜大型鋪設船的數量上大幅落後歐美國家，因此日本政府將全面啟動對專用海纜鋪設船引進支援計畫。 「讀賣新聞」報導，海底電纜承載…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1770564",
+          "published": "Mon, 14 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
