@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-15T10:51:53.289199",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 08:49:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+          "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 02:50:36 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Denmark says Russian warship fired flares at military helicopter",
+          "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 10:12:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "遭無人機攻擊！沙國紅海輸油動脈恐部份停擺數週 牽動全球原油供應",
+          "summary": "沙烏地阿拉伯關鍵輸油管「東西輸油管」遭無人機攻擊後，主要設施受損，估計需停擺數週修復，在伊朗戰爭已限制荷姆茲海峽航運之際，沙國原油出口選項進一步縮減，推升油價。能源分析機構指出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574999",
+          "published": "Tue, 15 Sep 2026 18:44:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "新聞360》戰狼狂炒一中槓上多國顧人怨！「這國」轉向挺台中國氣炸了",
+          "summary": "訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574998",
+          "published": "Tue, 15 Sep 2026 18:39:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "吃燉肉險奪命！孩子數八角竟有「13個角」 媽媽嚇壞整鍋全倒！",
+          "summary": "時常用來去除肉類腥味和增加料理香氣的香料「八角」（大茴香），要小心混入「冒牌貨」！近日中國浙江一名家庭主婦燉煮紅燒牛肉給家人享用，小孩因好奇心數起八角的角數，意外發現其中一顆竟多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574766",
+          "published": "Tue, 15 Sep 2026 18:25:35 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
