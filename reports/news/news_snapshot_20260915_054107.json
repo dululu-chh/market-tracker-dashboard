@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-15T05:41:05.850995",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 03:47:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+          "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+          "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 03:50:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Nato jets down drone that entered Lithuanian airspace",
+          "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 02:22:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本百歲以上人瑞連續56年增加！首次超過10萬人",
+          "summary": "長壽之國！日本厚生勞動省今（15日）公布統計資料，國內100歲以上人瑞比去年多了7914人達10萬7677人，已是連續56年增加，並且首次突破10萬人大關。  據《產經新聞》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574410",
+          "published": "Tue, 15 Sep 2026 13:20:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "對台軍售要搬上川習會？美媒揭北京盤算 川普難跨這道關",
+          "summary": "美國總統川普與中國國家主席習近平預計9月24日在華府會面，對台軍售是否成為雙方談判的一部分，引發外界關注。北京持續將台灣問題視為美中關係的敏感議題，而川普若試圖把軍售納入與中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574437",
+          "published": "Tue, 15 Sep 2026 13:06:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國少年竊聽濟州機場航空交通管制被捕 還偷拍軍事設施",
+          "summary": "小心匪諜！南韓濟州特別自治道警察廳14日表示，中國1名10多歲的少年在濟州國際機場竊聽航空交通管制被捕，其相機內還有偷拍軍事設施的照片。  據《東亞日報》報導，韓警指出，中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5574385",
+          "published": "Tue, 15 Sep 2026 12:36:44 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
