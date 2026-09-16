@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-09-16T19:18:06.088757",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "EU chief backs plan for Canada to become 'associate member'",
+          "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 16 Sep 2026 18:36:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+          "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 16 Sep 2026 17:16:47 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川習會前夕　貝森特：美方願與中國討論AI共同風險",
+          "summary": "美國新聞網站Axios今天引述美國財政部長貝森特（Scott Bessent）聲明報導，貝森特表示在本週末即將登場的人工智慧會談中，美國願意與中國討論共同面臨的風險。  路透社引用Axios...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5576581",
+          "published": "Thu, 17 Sep 2026 02:36:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普淡化AI威脅　聯合國秘書長疾呼防範",
+          "summary": "聯合國秘書長古特瑞斯（Antonio Guterres）今天警告，人工智慧（AI）快速發展的風險不容忽視。他指出，強化AI監管將是他在下週聯合國大會與各國領袖的會談重點。  路透社報導，古特...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5576578",
+          "published": "Thu, 17 Sep 2026 01:54:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "人工智慧先驅班吉歐示警AI失控風險　籲比照核武管制",
+          "summary": "人工智慧（AI）研究先驅、加拿大電腦科學家班吉歐（Yoshua Bengio）告訴法新社，人類正在失去對這項技術的控制，世界需要類似核武管制的防護規範。  法新社報導，近幾週以來，各界對AI...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5576573",
+          "published": "Thu, 17 Sep 2026 01:36:04 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
