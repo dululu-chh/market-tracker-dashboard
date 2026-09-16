@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-16T05:41:57.758706",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 16 Sep 2026 01:29:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Denmark says Russian warship fired flares at military helicopter",
+          "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 11:40:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What weapon could the US have put into space?",
+          "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 15 Sep 2026 14:23:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "又壓獻忠案？ 廣州大學城多人遭砍 現場「偷外賣」反衝中國熱搜",
+          "summary": "中國廣東省商業區「廣州大學城」14日發生無差別攻擊事件，造成多人眼部受傷流血送醫，據傳是3至7名團夥持刀犯案，驚悚畫面目前在全網瘋傳。然而，這起血腥事件並未在任何中國新聞媒體、社...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5575656",
+          "published": "Wed, 16 Sep 2026 13:35:48 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉組「行刑隊」掃毒！杜特蒂嗆「願爛在牢裡」 遭押18個月首露面",
+          "summary": "菲律賓前總統杜特蒂（Rodrigo Duterte）預計16日在荷蘭海牙公開露面，這將是他18個月前被移送國際刑事法院（ICC）、就掃毒戰爭相關謀殺指控受審以來，首度公開現身。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5575750",
+          "published": "Wed, 16 Sep 2026 13:16:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南非盜獵者闖國家公園遇象群疑被踩死  同伴回憶：聽見他的慘叫聲",
+          "summary": "南非克魯格國家公園（Kruger National Park）以園區內豐富的野生動物著名，不過也吸引許多圖謀不軌的盜獵者，克魯格國家公園指出，兩名盜獵者非法進入園區卻遭遇象群，兩...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5575733",
+          "published": "Wed, 16 Sep 2026 13:14:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
