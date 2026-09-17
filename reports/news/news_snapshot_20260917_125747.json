@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-17T12:57:45.385032",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+          "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+          "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 05:00:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+          "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+          "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ninth woman's body found as South African police investigate string of deaths",
+          "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 12:07:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "暴龍非冷血巨獸！體溫36度和人類相似  稱霸陸地原因曝",
+          "summary": "暴龍（Tyrannosaurus rex）並非「冷血巨獸」，這種看法先前已廣為科學家接受，但是，一直難以確定這種白堊紀時期頂級掠食者的體溫。一份16日發表的研究，從暴龍牙齒化石...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577624",
+          "published": "Thu, 17 Sep 2026 20:46:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市內閣改組前1天！張榮恭拜會石破茂 上畠寛弘質疑釋放政治訊號",
+          "summary": "國民黨副主席張榮恭16日拜會前日本首相石破茂，說明國民黨「九二共識、反對台獨」及「台灣無事、日本就無事」的兩岸路線，引發日本自民黨神戶市議員上畠寛弘批評。上畠今天在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577580",
+          "published": "Thu, 17 Sep 2026 20:15:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市早苗發問卷選閣員  否認布局明年總裁選舉",
+          "summary": "日本首相高市早苗今天表示，這次內閣改組前向自民黨籍眾議員發放人事意願問卷，並親自逐一審閱，依據議員的專業知識、政策能力、工作熱忱及執行能力選拔閣員。她強調，選拔是依據「能力主義」，為了加速推...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577584",
+          "published": "Thu, 17 Sep 2026 19:55:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
