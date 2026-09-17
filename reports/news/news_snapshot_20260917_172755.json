@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-17T17:27:52.802305",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Canada welcomes EU proposal to become 'associate member'",
+          "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ninth woman's body found as South African police investigate string of deaths",
+          "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 13:44:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+          "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+          "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 17 Sep 2026 05:00:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "人妻的誘惑！美聯邦調查局警告 女性藉「傳統人妻」假交友陷阱肉搜移民局官員",
+          "summary": "美國政府透明度倡議組織「人民財產」（Property of the People）透過公共紀錄請求取得的一份內部備忘錄顯示，美國聯邦調查局（FBI）曾向全美執法機關發出警告，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577774",
+          "published": "Fri, 18 Sep 2026 00:49:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普將親自迎接習近平  王毅與魯比歐通話鋪路  專家看淡川習會成果",
+          "summary": "美國總統川普預定24日在白宮與中國國家主席習近平舉行會談。法新社17日報導，美國官員證實，川普將在美東時間23日親自前往安德魯聯合基地迎接習近平，兩人隔天舉行會談。不過，分析...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577752",
+          "published": "Fri, 18 Sep 2026 00:04:59 +0800",
+          "keywords": []
+        },
+        {
+          "title": "路透：中國受沙烏地所託 私下請伊朗約束葉門叛軍",
+          "summary": "路透社引述3名伊朗消息人士報導，德黑蘭支持的葉門叛軍「青年運動」過去1週在紅海一帶突襲擴大控制範圍後，中國受沙烏地阿拉伯所託，私下請求伊朗協助約束其行動。  消息人士指出，利雅德之所以求...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5577751",
+          "published": "Fri, 18 Sep 2026 00:01:01 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
