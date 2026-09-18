@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-18T22:10:06.748540",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 21:45:19 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+          "summary": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
+          "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 18:56:17 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "CNN驚爆 AI誤判中國船隻涉伊朗核計畫 美軍險啟動攔截行動",
+          "summary": "美國有線電視新聞網（CNN）18日獨家報導，美軍今年春季在與伊朗交戰期間，曾因一份由人工智慧（AI）協助生成的錯誤情報報告，誤認一艘位於中東地區的中國船隻運載核武計畫相關零組...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578867",
+          "published": "Sat, 19 Sep 2026 06:06:47 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "以持續報導「假新聞」為由　川普禁CNN等媒體進入白宮",
+          "summary": "美國總統川普今天宣布，將禁止美國有線電視新聞台（CNN）、政治新聞網站Politico、新聞頻道MS NOW等3家媒體進入白宮，稱這些媒體持續報導「假新聞」，還揚言未來可能對更多新聞媒體採取...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578872",
+          "published": "Sat, 19 Sep 2026 05:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "接收義艦! 印尼首艘航艦 改裝維修開銷大",
+          "summary": "〔編譯管淑平／綜合報導〕印尼十八日接收義大利贈與艦齡四十一年的航空母艦，為該國首艘航艦，也是繼泰國後，第二個東南亞國家擁有航艦。印尼政府表示，這艘航艦將強化印尼海洋安全以及災害應變能力。 這艘前義大利「加里波底號」航艦十八日抵達雅加達北部丹絨普瑞港，下週將正式加入印尼海軍，艦名將改為「三佛齊號」（…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771245",
+          "published": "Sat, 19 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
