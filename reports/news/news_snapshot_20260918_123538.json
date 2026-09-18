@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-18T12:35:36.565788",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three dead and eight injured in Philippines school shooting",
+          "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 11:01:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Police begin operation to move migrants from Ceuta beaches",
+          "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 11:59:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+          "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+          "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 11:49:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "巴基斯坦西北部自殺炸彈攻擊至少16死 包括5名警務人員",
+          "summary": "巴基斯坦警方指出，西北部18日發生自殺炸彈攻擊，自殺炸彈客駕駛裝載爆裂物的汽車衝撞警察設施，還有隨行槍手開火；事發當時正好有人在裡面的清真寺做禮拜，造成至少16人死亡，包括5名...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578668",
+          "published": "Fri, 18 Sep 2026 19:57:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "富士山封山期山難頻傳！靜岡縣強制遞登山申請書 違者最高罰1萬",
+          "summary": "富士山封山期間仍頻繁發生山難，日本靜岡縣知事鈴木康友今（18日）說，將對封山期登山者實施「強制提交登山申請書」制度，若未提交者處以罰鍰，金額落在5萬日圓（約新台幣1萬元）以下，預...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578547",
+          "published": "Fri, 18 Sep 2026 19:35:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯國會選舉投票起跑 普廷所屬「團結俄羅斯黨」毫無懸念可望獲勝",
+          "summary": "俄羅斯18日起一連3天舉行受到嚴格控制的國會大選投票。這是俄國邁入第5年俄烏戰爭爆發以來所舉行的首場國會選舉，總統普廷所屬「團結俄羅斯黨」（United Russia Part...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578590",
+          "published": "Fri, 18 Sep 2026 18:20:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
