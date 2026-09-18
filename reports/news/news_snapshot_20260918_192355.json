@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-18T19:23:53.686169",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three dead and eight injured in Philippines school shooting",
+          "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 11:01:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Shots heard as police start moving migrants from Ceuta beaches",
+          "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 18 Sep 2026 11:59:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北約秘書長示警雙戰區衝突 中國犯台恐牽動俄侵歐",
+          "summary": "北大西洋公約組織（NATO）秘書長呂特示警，中國若入侵台灣，可能迫使俄羅斯也攻擊歐洲，北約須為歐洲與印太兩個戰區同時發生衝突的情況做好準備。  英國GB新聞台（GB News）報導，呂特...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578839",
+          "published": "Sat, 19 Sep 2026 00:00:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "瑞典大選右翼輸了 左派陣營領導人安德森出馬組閣",
+          "summary": "瑞典國會議長諾倫（Andreas Norlen）18日說，與各政黨領導人選後磋商後，他已委任反對陣營領袖、社會民主黨（Social Democrats）領導人安德森（Magda...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578834",
+          "published": "Fri, 18 Sep 2026 23:44:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "忘了要看家？熱情「阿金」遇賊闖空門 竟叼玩具邀請一起玩",
+          "summary": "美國加州4歲黃金獵犬日前在飼主出門期間，發現陌生男子闖進家中，但是牠不但沒有好好看家，反而一直示意邀請對方跟牠玩。飼主透過監視器畫面發現後，既哭笑不得又擔心愛犬安危。  法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5578598",
+          "published": "Fri, 18 Sep 2026 23:20:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
