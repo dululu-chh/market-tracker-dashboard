@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-19T17:41:49.126943",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+          "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 05:36:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 13:39:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本UQ印UT需是「自己畫的」 似顏繪畫家曝「這行為」超護版權",
+          "summary": "有似顏繪畫家在日本連鎖服飾店UNIQLO，想將自己畫的圖案印成T恤，結果店員懷疑是「別人畫的」，又跟他說「網路上有找到這張圖」，令網友驚喜「守護作品的版權意識真是感人」。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579466",
+          "published": "Sun, 20 Sep 2026 00:17:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會或鬆綁部分關稅 美國仍不會放寬出口管制",
+          "summary": "美國總統川普、中國國家主席習近平今年第二場領袖峰會24日將在華府登場。美聯社報導，人工智慧（AI）、貿易、關稅和稀土等議題將擺上峰會議程，雙方或許會鬆綁部分關稅，但應不會促使美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579739",
+          "published": "Sat, 19 Sep 2026 23:51:07 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "F-35匿蹤零組件莫名運往香港後下落不明 擔憂落入中國手中",
+          "summary": "美國政治新聞網站Politico報導，原定送回美國維修的尖端戰鬥機F-35機敏零組件，運送過程中竟無故轉運至香港，至今仍下落不明。由於該部件含有先進匿蹤技術機密，若落入中國等對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579740",
+          "published": "Sat, 19 Sep 2026 23:27:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
