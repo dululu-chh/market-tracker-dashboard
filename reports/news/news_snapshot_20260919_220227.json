@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-19T22:02:26.101339",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+          "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+          "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Journalists denied White House access after Trump banned some media outlets",
+          "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 19:13:49 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沙烏地遇襲　土耳其暗示可依共同防禦協定提供援助",
+          "summary": "土耳其外交部長費丹今天表示，由於葉門叛軍「青年運動」持續對沙烏地阿拉伯發動攻擊，沙烏地可能有軍事需求，而土方已準備好按照兩國及巴基斯坦先前簽署的共同防禦協定，向沙烏地提供援助。  路透社報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579797",
+          "published": "Sun, 20 Sep 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "網軍升級AI代理 中伊帶風向介選",
+          "summary": "〔編譯張沛元／綜合報導〕紐約時報十八日報導，近幾個月來，伊朗、中國以及以色列的一些團體以新穎方式使用人工智慧（AI）在社群媒體上進行前所未見的影響力運動，令美國官員與安全研究人員深感擔憂，因為國家與組織聯手AI策略，將能在僅需最低人力干預下，把在網路上帶風向的速度與規模，提升到人類難以輕易做到的地步…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771360",
+          "published": "Sun, 20 Sep 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中英對照讀新聞》Bayeux mania peaks as 1,000-year-old tapestry exhibition opens in London1000年歷史的貝葉掛毯狂熱在倫敦展覽開幕之際達到高峰",
+          "summary": "◎林家宇 The first visitors to the British Museum’s blockbuster ‌Bayeux Tapestry exhibition spoke of their excitement at seeing with their own eyes the 1…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771342",
+          "published": "Sun, 20 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
