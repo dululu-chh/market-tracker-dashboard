@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-19T14:07:01.763993",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 05:36:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 19 Sep 2026 13:39:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "擋中俄！美國、丹麥格陵蘭協議畫防線 排除非北約國家設基地",
+          "summary": "美國總統川普18日宣布，已與丹麥和格陵蘭政府就格陵蘭問題達成協議，賦予華府廣泛權力來保障和捍衛格陵蘭，美國將對該島安全有「永久掌控權」。消息人士透露，該協議禁止非北大西洋公約組...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579716",
+          "published": "Sat, 19 Sep 2026 21:52:38 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏佔區首納俄國會大選 軍警上門施壓「槍口下投票」",
+          "summary": "俄羅斯國會大選18日展開投票，莫斯科這次首度將侵略烏克蘭後，在烏國佔領的四個地區納入國會選舉。烏國和歐盟譴責俄國在這些地區舉行投票違法，當地人權團體則披露，佔領當局派軍警陪同選...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579618",
+          "published": "Sat, 19 Sep 2026 19:27:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "對烏出售價值26.8億美元防空軍備  美國務院批准",
+          "summary": "在基輔當局多次請求華府支援以抵禦俄羅斯攻擊後，美國18日批准1項價值26.8億美元（約台幣851.7億元）的潛在的防空設備軍售案。這項對烏軍售案依法必須接受美國國會審查。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5579582",
+          "published": "Sat, 19 Sep 2026 18:55:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
