@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-21T11:42:58.962730",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 08:56:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 00:05:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Seven Ethiopian rebel groups form new alliance",
+          "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 10:29:34 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "軍委7人僅剩2人！習近平政治地位新提法成看點 中共五中全會10/26登場",
+          "summary": "中共中央政治局21日宣布，中共第二十屆中央委員會第五次全體會議（五中全會）將於10月26日至29日在北京召開，會議將審議「全面從嚴治黨」相關決定稿。英國廣播公司（BBC）中文網...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581393",
+          "published": "Mon, 21 Sep 2026 18:08:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「中巴邊界會議」為何惹惱印度？三方領土爭議一次看",
+          "summary": "數十年來，印度一直拒絕承認中國與巴基斯坦在喜馬拉雅一處有爭議地區所劃定的邊界，並主張該地為印度領土。因此，中巴日前召開邊界聯合委員會首次會議，進一步制度化相關管理機制，引發印度強烈反彈。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581364",
+          "published": "Mon, 21 Sep 2026 17:59:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "刻意模糊？日本超市賣中國產鮪魚 標籤誤導以為「國產」 網憂品質問題",
+          "summary": "有日本網友爆料，近日在超市購買生鮮時，發現店家刻意在標籤上動手腳，讓消費者以為買到國產鮪魚，實則買到「中國產」鮪魚。貼文曝光後，讓網友開始擔心品質問題。  日本網友在X上爆料...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581246",
+          "published": "Mon, 21 Sep 2026 17:28:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
