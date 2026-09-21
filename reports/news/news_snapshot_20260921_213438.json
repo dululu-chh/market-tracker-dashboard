@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-21T21:34:36.113768",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 15:58:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+          "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+          "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 16:54:56 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國研究船駛近阿拉斯加 美密切監控",
+          "summary": "〔國際新聞中心／綜合報導〕美國海岸防衛隊（USCG）北極區指揮官、海軍少將李特（Bob Little）表示，基於對美國國土安全的關切，美方正「密切注意」中國研究船在阿拉斯加州北極海域一舉一動。 今年已四艘 在美北極海域活動 李特廿一日在挪威首都奧斯陸參加北極安全會議期間向路透指出，今年迄今已有四…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771644",
+          "published": "Tue, 22 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前夕 赴美晤川普 日相高市將促勿在台灣問題讓步",
+          "summary": "〔駐日特派員林翠儀／東京廿一日報導〕日本首相高市早苗廿一日晚間啟程前往美國，出席在紐約舉行的聯合國大會，並將於當地時間廿二日與美國總統川普舉行峰會。日本媒體報導，日本政府高度警戒川普可能為了在美中經貿關係上取得成果，在台灣議題上對中國做出讓步，高市此行的重要任務，就是趕在廿四日「川習會」前先向川普「…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771620",
+          "published": "Tue, 22 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬克宏挺加拿大 成歐盟準會員國",
+          "summary": "法國總統馬克宏（左）20日在加拿大東岸外海的法國屬地聖比爾與密克隆群島（Saint Pierre and Miquelon），與加拿大總理卡尼（右）會面。馬克宏表態支持加拿大成為歐盟首個「準會員國」的提議，並積極深化與加拿大在太空、國防、能源及商務領域的戰略夥伴關係。在加拿大與美國關係持續惡化之際，…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771642",
+          "published": "Tue, 22 Sep 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
