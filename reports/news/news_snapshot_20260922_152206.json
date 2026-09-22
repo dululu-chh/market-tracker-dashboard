@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-09-22T15:22:04.518630",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+          "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 14:03:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 13:49:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+          "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+          "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 12:54:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄國鄰愛沙尼亞邊境祭通行限制 引發新一波動員揣測",
+          "summary": "俄羅斯在與愛沙尼亞接壤的兩個地區實施臨時通行管制，包括限制夜間移動，引發外界揣測，是否與準備動員有關係。愛沙尼亞政府表示，正在密切監視情勢。  基輔獨立報22日引述愛沙尼亞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582946",
+          "published": "Tue, 22 Sep 2026 23:02:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍檢討歐洲兵力部署！立陶宛人數未減",
+          "summary": "立陶宛總統瑙塞達（Gitanas Nausėda）今（22）日證實，新美軍部隊正前往立陶宛，確認美軍將持續在該國駐防。美方正通盤檢視在歐洲兵力部署架構，立陶宛確定駐防人數不會縮減...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582963",
+          "published": "Tue, 22 Sep 2026 22:59:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "沙國介入葉門10年仍難壓制青年運動 專家點出兩大關鍵",
+          "summary": "沙烏地阿拉伯擁有豐沛資金和先進武器，10多年來卻一直未能壓制葉門叛軍「青年運動」（Houthis）。受伊朗支持的青年運動如今控制葉門整個紅海沿岸，封鎖沙國石油出口，日前更以飛彈...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582930",
+          "published": "Tue, 22 Sep 2026 22:49:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
