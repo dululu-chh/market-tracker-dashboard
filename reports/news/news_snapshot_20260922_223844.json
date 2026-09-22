@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-22T22:38:42.920201",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 21:50:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+          "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+          "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US to build two military bases in Greenland under new deal with Denmark",
+          "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 21:36:55 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "威脅「未達協議將摧毀伊朗」後 川普透露：美伊官員已會談",
+          "summary": "美國總統川普22日在聯合國大會發表演說，他在演說中威脅伊朗，如果不能盡快達成結束戰爭的協議，他可能會「摧毀」伊朗。而在川普發出「威脅」後不久，川普表示，美國與伊朗官員已舉行了一場...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5583047",
+          "published": "Wed, 23 Sep 2026 06:31:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中分歧多 川習仍尋求穩定關係",
+          "summary": "〔編譯林家宇／綜合報導〕美國總統川普與中國國家主席習近平今年第二場峰會即將展開。這是習近平時隔十一年，再度赴美進行國是訪問。白宮廿一日公布接待習近平夫婦的日程安排，包括川普廿三日將親自前往華府近郊的安德魯聯合基地（Joint Base Andrews），迎接習近平與彭麗媛，以及在白宮玫瑰花園舉行閱兵…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771787",
+          "published": "Wed, 23 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "路透稱習近平將引用八一七公報 要川普停售台灣武器╱美國六項保證 力保對台軍售防線",
+          "summary": "要求停止交付我已採購軍備 〔國際新聞中心／綜合報導〕熟知內情的消息人士透露，中國國家主席習近平本週訪問華府期間，預計將引用一九八二年美中簽署的「八一七公報」，當面施壓美國總統川普停止對台軍售，甚至進一步要求美方停止交付台灣已採購的軍備，以交換北京向伊朗施壓，協助緩解美伊衝突。相關舉動可能在習近平廿…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771786",
+          "published": "Wed, 23 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
