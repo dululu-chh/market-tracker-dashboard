@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-09-22T05:44:40.468824",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 01:04:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+          "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy securit…",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 05:16:07 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "杜鵑颱風襲日釀4死6失蹤 430棟房屋受災",
+          "summary": "杜鵑颱風襲擊日本帶來豪雨，神奈川縣、千葉縣接連發生土石流，目前已造成4人死亡、6人失蹤，大約有430棟房屋受災，警消正在持續搜救中。  據《NHK》報導，神奈川縣橫須賀市長井...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582165",
+          "published": "Tue, 22 Sep 2026 13:09:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會前夕！習近平看到什麼「罕見窗口」？WSJ揭北京從政壇到網路影響台灣",
+          "summary": "中國持續對台施加軍事壓力之際，也加強接觸台灣反對台獨的政治人物，並透過社群平台、假網站與人工智慧不實資訊影響台灣輿論；美中兩國領袖本週將在華府會面，台灣則面臨美國政策走向與中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582119",
+          "published": "Tue, 22 Sep 2026 12:40:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "華為部門月餅驚傳害員工集體腹瀉 疑為過期、代糖等原因",
+          "summary": "中國華為智慧汽車解決方案（BU）部門，近來向員工發放中秋節禮盒，孰料21日傳出多人在食用後腹瀉不止，在網路上掀起熱議，目前懷疑可能和過期或者是代糖有關。  從中國微博瘋傳文章...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582068",
+          "published": "Tue, 22 Sep 2026 12:36:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
