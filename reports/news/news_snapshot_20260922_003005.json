@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-22T00:30:03.892260",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+          "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 00:16:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+          "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+          "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 16:54:56 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普支持率持續崩跌  創下政治生涯新低、期中選舉拉警報",
+          "summary": "美國總統川普展開第二任期後，因作風激進、支持率呈現逐漸下滑趨勢，《路透》最新民調顯示，川普的支持率下滑至32％，創下川普政治生涯新低，主要原因在於伊朗戰爭造成油價上漲，從而導致美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581744",
+          "published": "Tue, 22 Sep 2026 07:35:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "習近平夫婦9/23抵達美國訪問  白宮公開一系列行程細節",
+          "summary": "中國國家主席習近平與夫人彭麗媛將於23日抵達美國，展開一連串國是訪問行程，美國第一夫人梅蘭妮亞（Melania Trump）辦公室21日公開習近平夫婦訪美一連串行程，包括歡迎儀式...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581734",
+          "published": "Tue, 22 Sep 2026 07:05:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "生命奇緣！女嬰獲男童器捐存活 23年後嫁給救命恩人弟",
+          "summary": "首次上稿 00:19更新時間 06:42 美國23年前的一場致命車禍，意外將兩個陌生家庭串起，多年後更譜出意想不到的愛情故事。2003年一名10歲男童遭遇車禍不幸身亡，父母依他...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5581675",
+          "published": "Tue, 22 Sep 2026 06:42:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
