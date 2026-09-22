@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-22T10:46:43.163088",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+          "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 08:17:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 10:45:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+          "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy securit…",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 07:14:12 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "對中國威脅感下降  美非營利組織民調：美國人出兵保台支持率下降了......",
+          "summary": "加拿大約克大學副教授沈榮欽今天（22日）分享美國非營利組織「芝加哥全球事務委員會」（Chicago Council on Global Affairs）發布有關美國公民對於出兵保...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582679",
+          "published": "Tue, 22 Sep 2026 18:40:32 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "剛密訪俄羅斯  CIA局長與澤倫斯基愛爾蘭碰面",
+          "summary": "烏克蘭總統澤倫斯基前往紐約出席聯合國大會途中，在愛爾蘭與美國中央情報局（CIA）局長雷克里夫（John Ratcliffe）會面，值得注意的是，雷克里夫不到一個月前，才密訪俄羅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582721",
+          "published": "Tue, 22 Sep 2026 18:11:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "G7外長籲伊朗停止支援青年運動 警告恐加劇全球動盪",
+          "summary": "七大工業國集團（G7）外交部長21日向伊朗呼籲，停止提供葉門青年運動武器與支持，並強調此作法已造成危險局勢升級，可能危及國際貿易並引發全球動盪。  根據《路透》報導，青年運...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5582587",
+          "published": "Tue, 22 Sep 2026 17:17:37 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
