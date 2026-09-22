@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-22T19:29:35.992492",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to build two military bases in Greenland under new deal with Denmark",
+          "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 18:43:29 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+          "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 14:03:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+          "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+          "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 22 Sep 2026 12:54:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "歐盟同意妥協版制裁協議　將兩名俄富豪移出黑名單",
+          "summary": "外交官員表示，歐洲聯盟（EU）國家今天達成一項妥協版協議，延長對俄羅斯的制裁，其中將把俄羅斯權貴尤斯馬諾夫（Alisher Usmanov）和弗里德曼（Mikhail Fridman）移出黑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5583033",
+          "published": "Wed, 23 Sep 2026 03:06:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "高市早苗紐約會川普　美中峰會前協調對中認知",
+          "summary": "日本首相高市早苗今天在紐約與美國總統川普舉行會談，這也是兩人自今年3月華府會談後，時隔半年再度面對面會晤。  由於美中領袖會談預計24日登場，雙方也針對中國及亞洲安全情勢交換意見。  FNN...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5583034",
+          "published": "Wed, 23 Sep 2026 03:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱解決俄烏戰爭速度比想像快　必要時加大經濟施壓",
+          "summary": "俄烏戰爭持續超過4年半，美國總統川普今天在聯合國大會發表演說表示，美國正和俄羅斯、烏克蘭的領導人合作，一定會解決，且「發生的速度會比想像還快」。他還說，已將一項俄羅斯制裁法案簽署成法，若有必...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5583030",
+          "published": "Wed, 23 Sep 2026 02:00:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
