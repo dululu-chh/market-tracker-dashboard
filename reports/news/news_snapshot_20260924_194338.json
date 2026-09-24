@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-24T19:43:36.867935",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "White House restores access to media outlets banned by Trump after judge's order",
+          "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 18:06:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+          "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 19:02:36 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川習會在華府登場　第一夫人行程與時尚同受矚目",
+          "summary": "在中國國家主席習近平於華府進行國是訪問期間，美國第一夫人梅蘭妮亞與中國第一夫人彭麗媛，今天前往當地一間規模相當大的國立亞洲藝術博物館參觀，以展現雙方的文化連結。  美聯社報導，兩位第一夫人稍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585610",
+          "published": "Fri, 25 Sep 2026 03:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭川普封殺6天後　CNN等3媒體獲准重返白宮",
+          "summary": "美國總統川普禁止有線電視新聞網（CNN）、新聞頻道MS NOW及政治新聞網站Politico的記者進入白宮6天後，聯邦法官下令恢復其採訪權限，這3家媒體今天終於獲准重返白宮。  法新社報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585609",
+          "published": "Fri, 25 Sep 2026 03:00:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習白宮會談結束　未回應是否談到台灣",
+          "summary": "美國總統川普今天在白宮迎接來訪的中國國家主席習近平並舉行雙邊會談。川普會後表示，雙方進行「一場很棒的會議」。對於媒體問及會中是否討論台灣、人工智慧（AI）等議題，川、習兩人都未回應。  習近...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585608",
+          "published": "Fri, 25 Sep 2026 02:54:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
