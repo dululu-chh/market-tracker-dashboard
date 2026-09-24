@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-24T05:45:26.090254",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 03:22:54 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 23 Sep 2026 22:01:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 23 Sep 2026 18:15:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏俄戰爭爆發後首次！澤倫斯基宣布：2名北韓戰俘已移交給南韓",
+          "summary": "烏克蘭總統澤倫斯基週三（23日）在聯合國大會發表演說時宣布，烏克蘭已將2名北韓戰俘移交給南韓，這是烏俄戰爭開戰以來，首批被移送南韓的北韓戰俘。  據《路透》報導，澤倫斯基在聯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5584771",
+          "published": "Thu, 24 Sep 2026 13:36:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台灣人都這樣做 名廚在溫哥華教用金門高梁烤烏魚子",
+          "summary": "一些住在溫哥華的台灣移民大概都記不得上次何時曾吃過烏魚子，但有一群剛學華語不久的加拿大朋友卻特別幸運，他們在幾天前參加一場由大溫哥華台灣僑界聯合會主辦的台灣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5584779",
+          "published": "Thu, 24 Sep 2026 13:35:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "影片曝光！英國教練機演習中墜毀 2名飛行員彈射逃生",
+          "summary": "英國國防大臣斯特里廷（Wes Streeting）表示，1架英國空軍「鷹式T2」（Hawk T2）教練機23日在北威爾斯的1次訓練演習中墜毀，目前正在進行調查。  根據《法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5584621",
+          "published": "Thu, 24 Sep 2026 11:52:10 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
