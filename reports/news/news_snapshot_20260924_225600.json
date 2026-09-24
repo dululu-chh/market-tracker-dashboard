@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-24T22:55:58.787225",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 21:21:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "White House restores access to media outlets banned by Trump after judge's order",
+          "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 18:06:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "獨遊日本遭誣陷偷東西嚇哭 台人曝警「憑店員指控」就搜身",
+          "summary": "首次上稿 9-24 23:43更新時間 9-25 05:54 獨旅原本是件開開心心的事情，但有台灣人到日本東京淺草逛手作寄物店時，明明沒有買東西，警方卻疑似僅憑店員隻字片語就搜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585423",
+          "published": "Fri, 25 Sep 2026 05:54:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「軍售無須先諮詢中國」 美眾議員公開信促川普重申支持台灣",
+          "summary": "首次上稿 9-24 23:03更新時間 9-25 05:52 美國總統川普與中國國家主席習近平24日峰會登場前夕，以眾議院外交委員會亞太小組主席金映玉（Young Kim）為...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585525",
+          "published": "Fri, 25 Sep 2026 05:52:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中咸認「時勢在我」核心議題互不讓步",
+          "summary": "〔國際新聞中心／綜合報導〕全球矚目的「川習會」廿四日在白宮登場，但外界分析都認為不會有重大突破。美聯社指出，關鍵不在於雙方不想談，而在於美國總統川普與中國國家主席習近平均深信「時間站在自己這一邊」，導致彼此都不願在核心議題上先讓步，峰會因此更像是一場避免衝突與風險管控的戰略對峙。 「戰略暨國際研究…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1771989",
+          "published": "Fri, 25 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
