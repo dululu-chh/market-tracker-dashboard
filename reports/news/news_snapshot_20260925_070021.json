@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-25T07:00:19.420527",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "summary": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 06:40:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 03:57:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 00:44:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川習會突破有限 川普將帶習近平參訪國家檔案局",
+          "summary": "美國總統川普明天將陪同中國國家主席習近平參觀美國國家檔案局，作為雙方峰會後的延續行程。外界預期，兩人將藉此場合，針對美中關係的歷史與未來走向闡述立場。   路透社報導，今天在白宮舉行的盛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585983",
+          "published": "Fri, 25 Sep 2026 14:54:19 +0800",
+          "keywords": []
+        },
+        {
+          "title": "出現了！習近平下榻飯店外湧抗議者 「不明人士」現身監控",
+          "summary": "中國國家主席習近平23日抵達美國進行國是訪問，美方在他下榻的華府華爾道夫飯店外圍滿層層防護，但仍有反共人士到場抗議，同時也出現不明人士到場監控抗議人士。  綜合媒體報導，美方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585961",
+          "published": "Fri, 25 Sep 2026 13:54:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普盛情接待習近平 白宮外反習抗議聲浪不斷",
+          "summary": "美國總統川普親自前往機場迎接中國國家主席習近平，並帶他參觀新建的直升機坪，晚間還舉行燭光晚宴。然而，在白宮外，反對習近平政策的抗議活動今天幾乎未曾停歇。  美聯社報導，示威者的訴求多元，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585922",
+          "published": "Fri, 25 Sep 2026 13:45:23 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
