@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-25T01:06:13.462031",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 00:44:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "White House restores access to media outlets banned by Trump after judge's order",
+          "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 24 Sep 2026 23:17:00 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "聯大代表集體退席！ 以色列總理納坦雅胡怒斥「道德懦夫」",
+          "summary": "以色列總理納坦雅胡（Benjamin Netanyahu）週四（23日）在聯合國大會發表演說，大批代表當場退席，會場多數座位空置。他痛斥離場者是「道德懦夫」，並稱以色列在加薩進行...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585657",
+          "published": "Fri, 25 Sep 2026 08:41:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川習會排場盛大 美媒：未見重大突破",
+          "summary": "美國總統川普與中國國家主席習近平今天在白宮會談，美國主流媒體觀察，川普親自接機，並安排軍禮、國宴等高規格禮遇；美中雖將貿易休兵延長2個月，但會談的實質進展有限，未見重大突破。  「紐約時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585634",
+          "published": "Fri, 25 Sep 2026 08:24:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「守護台灣自由！」川習會場外抗議聲不斷 習近平抵白宮參加國宴",
+          "summary": "中國國家主席習近平赴美進行國是訪問，美國總統川普今晚在白宮舉行國宴接待習近平一行人。場外抗議民眾大喊Keep Taiwan Free（守護台灣自由）、Free Hong Kong（解放香港）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5585649",
+          "published": "Fri, 25 Sep 2026 08:20:37 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
