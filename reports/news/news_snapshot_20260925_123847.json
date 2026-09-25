@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-25T12:38:45.479987",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+          "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 10:36:55 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 03:57:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 25 Sep 2026 11:44:44 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "太恐怖了！83歲奶奶不想安樂死 痛哭45分鐘仍被強制執行",
+          "summary": "安樂死計畫再度引發巨大爭議。加拿大安大略省患有胃癌的83歲老奶奶史特格曼（Brigitte Stegemann），今年 7 月於照護中心接受安樂死（醫療協助死亡，MAiD）離世。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586221",
+          "published": "Fri, 25 Sep 2026 20:31:44 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "中國早有計畫攔截？F-35匿蹤零件離奇轉送香港  美議員「極度憂心」",
+          "summary": "原定從澳洲送往美國的一批F-35戰機敏感零件，運送途中被離奇轉運香港，最終落入中國政府手中，引發美國國會關切。兩名主管情報與軍事事務的關鍵聯邦參議員表示，此事「極度令人憂心」，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586243",
+          "published": "Fri, 25 Sep 2026 18:16:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澤倫斯基爆料 川普已同意授權烏克蘭生產「愛國者」飛彈",
+          "summary": "烏克蘭總統澤倫斯基25日表示，美國總統川普告訴他，允許烏克蘭生產先進的「愛國者」防空攔截飛彈。  川普此前對此事的立場曾有所反覆。「愛國者」飛彈是唯一能攔截俄羅斯彈道飛彈的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586211",
+          "published": "Fri, 25 Sep 2026 17:45:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
