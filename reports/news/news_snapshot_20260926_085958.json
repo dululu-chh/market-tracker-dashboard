@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-26T08:59:56.236655",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 05:03:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bangkok roads submerged as flood disaster declared",
+          "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 07:21:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中方發布川習會8點成果共識清單  未提及台灣議題",
+          "summary": "中國國家主席習近平今天下午結束對美國國是訪問後回到北京。據新華社報導，美中達成8點成果共識，涉及雙邊關係定義、經貿、禁毒、人工智慧、伊朗議題，與回顧美中在第二次世界大戰是「盟友」的歷史；中方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586934",
+          "published": "Sat, 26 Sep 2026 16:48:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "赴日當詐騙車手！台灣女取875萬金塊被活逮 姓名、無碼照全都露",
+          "summary": "台灣籍女子涉嫌企圖詐騙日本老翁手1.8公斤金塊被活逮，日本警方懷疑她擔任面交取貨「車手」。  《MBS》報導，這起詐欺未遂案發生於9月25日，遭現行犯逮捕的是來自台灣、自稱從...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586901",
+          "published": "Sat, 26 Sep 2026 16:38:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "獨家》美方安排看「舊金山和約」 習近平喊卡",
+          "summary": "來自華府媒體圈消息，原本美方安排習近平要到國家檔案局（NARA）看宣揚民主自由的美國獨立宣言及美國憲法、權利法案，同時安排看不平等條約中的《望廈條約》、《天津條約》，最後繞去看...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5586913",
+          "published": "Sat, 26 Sep 2026 16:12:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
