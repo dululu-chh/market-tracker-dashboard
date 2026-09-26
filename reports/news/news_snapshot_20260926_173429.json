@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-09-26T17:34:27.373313",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 16:58:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+          "summary": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 16:53:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "British national among six dead in building explosion close to Acropolis in Athens",
+          "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 12:47:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普證實拒伊朗停火提案　指對方「輸得一塌糊塗」",
+          "summary": "美國總統川普（Donald Trump）今天拒絕伊朗提出的停火協議。伊朗方面表示，若協議獲採納，荷莫茲海峽（Strait of Hormuz）最快可在一週內恢復航運。  法新社報導，荷莫茲海...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587245",
+          "published": "Sun, 27 Sep 2026 01:30:06 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普建議澤倫斯基到莫斯科和談？ 烏克蘭政府斥「假消息」",
+          "summary": "根據彭博25日報導，在美國尋求為烏克蘭和俄羅斯和談重新注入動能之際，總統川普日前再次敦促烏克蘭總統澤倫斯基，前往莫斯科與俄羅斯總統普廷會面。不過澤倫斯基辦公室已經否認此事。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587214",
+          "published": "Sun, 27 Sep 2026 00:30:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗總統：錢放中國根本拿不出來     傳川習會後北京仍拒制裁德黑蘭",
+          "summary": "伊朗總統裴澤斯基安（Masoud Pezeshkian）25日接受美國福斯新聞專訪時，面對「北京是否支付這場戰爭」的詢問回應說，「我們在中國的資金被封鎖（blocked）」。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587219",
+          "published": "Sat, 26 Sep 2026 23:48:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
