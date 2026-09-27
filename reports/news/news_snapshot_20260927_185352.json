@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-09-27T18:53:50.604286",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 07:44:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 14:09:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
+          "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 26 Sep 2026 23:04:08 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國美軍基地附近逮5嫌　涉預備恐怖主義行為",
+          "summary": "英國反恐警察今天表示，在一個美國空軍使用的基地附近，依涉嫌「預備恐怖主義行為」罪名逮捕5名男子，正在調查該起「重大」事件。  法新社報導，倫敦都會區警察局（Metropolitan Poli...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5588056",
+          "published": "Mon, 28 Sep 2026 02:45:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "紐時揭中國看待AI末日論：失控就拔插頭 抓人就沒事了",
+          "summary": "在美國矽谷，科學家最深層的噩夢是人工智慧（AI）發展過於先進，最終失控發動戰爭或核武攻擊。但在北京看來，應對方式極其簡單：拔掉插頭、切斷網路，並逮捕相關負責人。  紐約時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5588045",
+          "published": "Mon, 28 Sep 2026 00:29:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "葉門政府軍襲軍營波及市場 青年運動稱釀7死40傷",
+          "summary": "葉門武裝組織青年運動控制的衛生部表示，塔伊茲省（Taiz）馬維亞（Mawiya）路口一處市集的店家昨天遭到襲擊，造成7人死亡，40人受傷，傷者中包括兒童。  國際承認的葉門政府隨後指出，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587942",
+          "published": "Mon, 28 Sep 2026 00:22:27 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
