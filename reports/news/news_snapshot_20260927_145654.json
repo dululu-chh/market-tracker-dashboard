@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-27T14:56:53.383518",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 07:44:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+          "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 11:38:03 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 14:09:22 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "鐵幕！中國20名大學生、研究生用VPN翻牆 遭校方祭出處分",
+          "summary": "首次上稿 14:10更新時間 20:42  中國哈爾濱工程大學（下稱哈工程）數學科學學院20名學生，在本月18日至19日使用VPN翻牆連接到國外網路，被學院祭出警告處分，無疑...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587557",
+          "published": "Sun, 27 Sep 2026 20:42:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "希斯洛機場蓋第3跑道？英相拒表態：倫敦人自己決定",
+          "summary": "英國首相柏南（Andy Burnham）27日拒絕表態支持倫敦希斯洛機場（Heathrow）蓋第3條跑道的計劃，稱此擴建案應由居住這座靠近倫敦市區的機場附近的居民來定奪。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587833",
+          "published": "Sun, 27 Sep 2026 18:59:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "尼加拉瓜逾1/10國土供中企採礦 助北京擴張中美洲影響力",
+          "summary": "英國「金融時報」27日報導，過去3年來，尼加拉瓜已將超過全國總面積10分之1的礦業特許經營權授予中國企業。隨著北京與華府在此區域爭奪影響力，此舉大幅擴大中國在這個蘊藏豐富黃金...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5587814",
+          "published": "Sun, 27 Sep 2026 18:19:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
