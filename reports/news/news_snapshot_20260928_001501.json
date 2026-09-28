@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-09-28T00:14:59.956751",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Embattled Serbian president resigns, paving way for early elections",
+          "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 20:04:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Two bodies found after avalanche hits Himalayan climbing group",
+          "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 27 Sep 2026 17:05:26 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "預告美伊重啟談判！川普嗆德黑蘭「高估籌碼」：1年前或許會同意",
+          "summary": "美國總統川普27日強調，儘管他已拒絕伊朗提出的停火方案，但他仍預期美國與伊朗將於下週恢復談判。  法新社報導，伊朗官員近日前往紐約出席聯合國大會時，提出一項為期7天的停火提議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5588084",
+          "published": "Mon, 28 Sep 2026 07:32:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "英軍基地險遭恐攻 5男持爆裂物被逮、川普讚逮捕行動「太棒了」",
+          "summary": "英國政府授權美國軍方使用的費爾福皇家空軍基地（RAF Fairford）27日發生重大事件，英國警方宣布在基地外圍的社區房舍中逮捕5名男子，因涉嫌策劃恐怖攻擊而被拘留。  綜...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5588075",
+          "published": "Mon, 28 Sep 2026 07:25:35 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "尼加拉瓜逾一成國土 割給中企採礦",
+          "summary": "尼國獲中國超過十億美元融資 〔國際新聞中心／綜合報導〕英國「金融時報」廿七日報導，過去三年來，尼加拉瓜已將超過全國總面積十分之一的礦業特許經營權，授予中國企業，尼國也已獲得超過十億美元的中國融資，用於基礎設施、能源與電信建設。隨著北京與華府在此區域爭奪影響力，此舉大幅擴大中國在這個蘊藏豐富黃金的中…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1772390",
+          "published": "Mon, 28 Sep 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
