@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-09-30T16:37:48.730088",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 30 Sep 2026 15:29:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 30 Sep 2026 14:53:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+          "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 30 Sep 2026 11:36:23 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英相打破禁忌拋返歐構想！法總統馬克宏：歡迎回來",
+          "summary": "英國首相柏南（Andy Burnham）9月30日公開將英國重新加入歐盟的構想提上談判桌，打破歷任英國首相的政治禁忌。法國總統馬克宏（Emmanuel Macron）隨即以英...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5591386",
+          "published": "Wed, 30 Sep 2026 23:43:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "避險基金大老捐卡內基美隆大學955億 創美高教史最大單筆捐款",
+          "summary": "美國知名高等學府卡內基美隆大學（Carnegie Mellon University）近日喜從天降，獲得美國高等教育史上最大單筆捐款─30億美元（約台幣955億元）。卡內基美隆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5591376",
+          "published": "Wed, 30 Sep 2026 23:20:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "波音737MAX驟降萬呎！以總理：正副機師血戰 平安迫降沙國",
+          "summary": "阿拉伯聯合大公國廉航杜拜航空（Flydubai），一架載約150名旅客的波音737 Max 8的FZ1073航班，今發生高空驚魂事件，一名機師突然刺傷另名機師，並企圖讓班機墜地。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5591336",
+          "published": "Wed, 30 Sep 2026 23:18:29 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
