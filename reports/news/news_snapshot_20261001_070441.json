@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-01T07:04:39.683889",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US death row inmate survives execution attempt after two lethal injections",
+          "summary": "Her lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 07:01:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 06:42:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "What we know about stabbing on Flydubai flight to Israel",
+          "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 02:31:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "舉Taiwan毛巾被制止！亞運委員會：會場負責人錯誤認知",
+          "summary": "愛知・名古屋亞運日前在台灣和中國比賽當中，因為有球迷高舉「Taiwan」字樣的應援毛巾，遭工作人員制止，引爆台灣球迷不滿。對此，大會組織委員會表示，這是會場負責人等的錯誤認知。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592022",
+          "published": "Thu, 01 Oct 2026 14:24:12 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "21公分吉娃娃竟穿戰術裝！ 墨西哥國民衛隊讓牠受訓搜救",
+          "summary": "墨西哥國民衛隊近日出現一名特殊成員，一隻身高僅21公分、體重7公斤的吉娃娃「科曼多」（Comando），不僅配備迷你頭盔、護目鏡與戰術背心，還正接受搜索與救援訓練。  路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5591930",
+          "published": "Thu, 01 Oct 2026 13:39:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "距北韓僅2公里！兩韓邊境頻傳「爆炸聲」 南韓軍方曝原因",
+          "summary": "南韓西北部邊境地區近月持續傳出來自北韓方向的爆炸聲，由於一天最多可達數十次，引發當地居民不安。  韓聯社報導，綜合多方消息，南韓仁川市江華郡松海面堂山里自今年7月起，每天持續...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5591583",
+          "published": "Thu, 01 Oct 2026 13:32:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
