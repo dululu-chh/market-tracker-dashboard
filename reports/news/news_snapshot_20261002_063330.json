@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-02T06:33:29.487321",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 05:26:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 22:28:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+          "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 02:49:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "杜拜航空為何「剛好」多2名飛行員因應劫機衝突？ 真相曝光",
+          "summary": "杜拜航空（flydubai）FZ1073航班近日發生疑似劫機事件，一度險釀重大空難。事件中最受關注的細節之一，是為何當時機上恰好還有另外2名飛行員？以色列媒體披露，這並非航空公司...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593119",
+          "published": "Fri, 02 Oct 2026 14:06:59 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "港媒：美駐港領館高層遊說商界協助黎智英獲釋",
+          "summary": "據稱，美國駐港澳總領事館高層近日曾接觸香港「具份量」的商界人物，提問他們能否協助遊說港府和北京釋放壹傳媒集團創辦人黎智英，但相關建議遭冷遇。  信報今天刊登評論文章，透露了上述訊息。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592965",
+          "published": "Fri, 02 Oct 2026 13:33:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "SpaceX太空船抵達國際太空站 創美國最快航程紀錄",
+          "summary": "美國太空探索科技公司（SpaceX）太空船「優雅號」（Grace）今天與國際太空站完成對接，創下美國太空船前往國際太空站的最快航行紀錄；船上4名太空人將在太空站展開約6個月的任務。  法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592821",
+          "published": "Fri, 02 Oct 2026 13:27:41 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
