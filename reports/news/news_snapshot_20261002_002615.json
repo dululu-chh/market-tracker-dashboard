@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-02T00:26:13.994311",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 22:28:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What happened in the failed execution of Christa Pike - and what next?",
+          "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 22:52:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+          "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 01 Oct 2026 19:59:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "詭異！芬蘭多名國會議員住所遭闖入 總理發聲",
+          "summary": "芬蘭近日傳出多起疑似闖入國會議員住家的案件，芬蘭國會證實此事並強調數量「相當可觀」，芬蘭總理歐爾波（Petteri Orpo）對此表示，這些事件「很可能」與外國勢力有關。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592688",
+          "published": "Fri, 02 Oct 2026 08:21:23 +0800",
+          "keywords": []
+        },
+        {
+          "title": "認了北約規模是俄2倍！普廷嗆西方勿碰「這領土」：否則動用核武",
+          "summary": "俄羅斯總統普廷1日表示，當今世界正處於「危險時刻」，警告西方勿透過威脅俄國飛地加里寧格勒（Kaliningrad）的方式，升高在烏克蘭問題上與俄羅斯的對峙。此前莫斯科已明確表示，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592687",
+          "published": "Fri, 02 Oct 2026 07:55:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "尼泊爾希姆隆峰基地營遭雪崩掩埋　15名工作人員罹難",
+          "summary": "尼泊爾北部希姆隆峰的登山基地營上週末遭到雪崩掩埋，造成多名當時在現場準備迎接外國登山客事宜的尼泊爾工作人員困在其中。救難人員今天表示，已確定至少有15人罹難。  路透社報導，這是將在本月結束...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5592676",
+          "published": "Fri, 02 Oct 2026 05:54:04 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
