@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-02T13:28:00.827797",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "School protests send shivers down French government's spine",
+          "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+          "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 11:06:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "康乃爾大學性侵案延燒 社群平台「I am Jane Doe.」護被害者",
+          "summary": "美國常春藤名校康乃爾大學（Cornell University）爆發重大校園性侵醜聞。一名曾經就讀該校的女學生指控，2024年曾遭Chi Phi兄弟會館7名成員下藥並集體性侵，事...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593617",
+          "published": "Fri, 02 Oct 2026 20:59:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "首位在烏克蘭殉職英國軍人 觀摩烏軍新裝備遭爆炸波及不治",
+          "summary": "英國傘兵胡利（George Hooley）2025年在烏克蘭協助烏軍對抗俄羅斯時，因捲入一場爆炸事故而身亡，成為2022年俄羅斯與烏克蘭全面開戰以來，首名在烏克蘭殉職的英國軍人。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593624",
+          "published": "Fri, 02 Oct 2026 19:41:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "極端融冰成常態 瑞士冰河今年消失5％冰量",
+          "summary": "歐洲今年夏季熱浪破紀錄，瑞士冰河也付出沉重代價。1日發表的一份報告顯示，今年瑞士冰河流失超過5%的冰量，是歷來融冰最嚴重的年份之一。科學家警告，過去被視為異常的極端融冰，如今幾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593601",
+          "published": "Fri, 02 Oct 2026 18:58:53 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
