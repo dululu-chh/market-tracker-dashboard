@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-02T18:53:21.851019",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Riot police clash with students as education protests rage in France",
+          "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 17:43:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+          "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 17:44:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "萊比錫機場無人機炸彈攻擊事件   指向GRU暗殺部隊",
+          "summary": "德國萊比錫—哈雷機場8月發生無人機炸彈攻擊未遂，《政客》（Politico）網站和《每日電訊報》2日披露更多內幕，指出一名與俄羅斯軍事情報總局（GRU）關係密切的男子，疑似負責...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593831",
+          "published": "Fri, 02 Oct 2026 23:42:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "全球平均餘命只差疫情前0.1歲 世衛：健康餘命恢復較慢",
+          "summary": "世界衛生組織（WHO）今天表示，全球平均餘命已經接近COVID-19（2019冠狀病毒病）疫情之前的水準，但健康餘命恢復速度較為緩慢。  WHO年度全球衛生估計報告指出，2023年全球平...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593813",
+          "published": "Fri, 02 Oct 2026 23:06:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普AI沙皇人選曝光？傳國家情報總監克雷頓兼任",
+          "summary": "2位知情人士透露，美國總統川普（Donald Trump）預計最快本週五宣布，由美國國家情報總監克雷頓（Jay Clayton）出任「AI沙皇」（AI czar）。  美國有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5593816",
+          "published": "Fri, 02 Oct 2026 22:56:39 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
