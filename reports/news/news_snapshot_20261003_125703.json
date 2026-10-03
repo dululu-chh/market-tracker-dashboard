@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-03T12:57:01.199604",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 11:20:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+          "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 11:48:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Protesters across Spain demand action over housing crisis",
+          "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 12:16:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "稱北韓成功試射AI飛彈  金與正大酸日韓「追蹤能力低下」",
+          "summary": "北韓今（3日）清晨朝日本海發射一枚彈道飛彈，引起日本與南韓警戒。北韓領導人金正恩的胞妹金與正事後指出，北韓試射的是一枚導入人工智慧（AI）技術的中程戰略飛彈，又嘲諷日本與南韓在追...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594544",
+          "published": "Sat, 03 Oct 2026 20:10:17 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "自由觀點》3億靈活就業 中共與大明王朝",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594480",
+          "published": "Sat, 03 Oct 2026 20:00:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "夏威夷天然地標消失！「霍雷海蝕門」崩落太平洋",
+          "summary": "有500多年歷史的夏威夷大島著名地標「霍雷海蝕門」（Hōlei Sea Arch），經過海浪長年侵蝕後，已於近日崩塌，消失在太平洋中。  美國有線電視新聞網（CNN）2日報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594557",
+          "published": "Sat, 03 Oct 2026 19:56:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
