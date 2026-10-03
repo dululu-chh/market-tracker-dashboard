@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-10-03T19:41:01.818508",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+          "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 16:16:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "西班牙租屋援助措施遭國會否決　數萬人上街抗議",
+          "summary": "西班牙國會議員否決政府提出的租屋援助措施後，今天有數以萬計民眾走上首都馬德里及其他城市的街頭抗議，要求提供負擔得起的住房。  法新社報導，這波示威延續了已持續逾1週的危機，起因是87歲退休婦...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594725",
+          "published": "Sun, 04 Oct 2026 03:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "女囚死刑執行失敗　田納西州獄政首長請辭",
+          "summary": "美國南部田納西州州長李比爾今天宣布，日前女囚派克的死刑執行失敗後，該州獄政首長斯特拉達已請辭，將於本月離職。  法新社報導，女囚派克（Christa Pike）的律師表示，她目前情況危急、失...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594718",
+          "published": "Sun, 04 Oct 2026 01:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "曝中國取得數百台浸潤式DUV 美研機構籲收緊出口管制",
+          "summary": "美國研究機構指出，在美國限制向中國出口先進半導體製造設備之際，中國仍取得數百台可用於製造先進晶片的浸潤式深紫外線（DUV）微影系統，顯示現行出口管制可能存在漏洞，建議全面禁止向中國出口浸潤式...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594517",
+          "published": "Sun, 04 Oct 2026 00:24:49 +0800",
+          "keywords": [
+            "半導體",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
