@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-04T02:20:20.764814",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "醫療飛機載6人驚傳在美國麻州失蹤 當局展開搜救",
+          "summary": "加拿大醫療飛機業者Latitude Air Ambulances，2日深夜有1架專機載6人從英國海外領土百慕達的L·F·韋德國際機場出發，準備前往美國麻薩諸塞州波士頓，孰料3日凌...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594811",
+          "published": "Sun, 04 Oct 2026 10:03:27 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "NFL舊金山49人隊老闆5千元買春被捕 聯盟禁賽6場罰款1590萬",
+          "summary": "NFL舊金山49人隊老闆約克（Jed York）今年8月在俄亥俄州拖車公園試圖花160美元（約新台幣5090元）買春被捕，NFL本月2日宣布對其禁賽6場、罰款50萬美元（約新台幣...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594801",
+          "published": "Sun, 04 Oct 2026 09:42:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄「新空襲戰略」鎖定烏平民 澤倫斯基：將加倍奉還打擊俄煉油廠",
+          "summary": "俄羅斯持續對烏克蘭發動空襲，烏克蘭也以無人機攻擊俄羅斯能源設施與基礎設施進行反制。烏克蘭總統澤倫斯基3日指出，俄羅斯總統普廷下令軍事打擊允許俄軍打擊更多平民目標，為了反制俄羅斯，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5594779",
+          "published": "Sun, 04 Oct 2026 09:05:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
