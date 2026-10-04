@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-04T22:11:46.510155",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 14:25:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 16:51:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國基地疑似成為恐攻目標　美國空軍撤離所有轟炸機",
+          "summary": "在針對英國費爾福皇家空軍基地一起疑似恐怖攻擊陰謀展開調查後，美國空軍已經將駐紮這處由美軍營運、曾經用於打擊伊朗的空軍基地內的轟炸機調回國內。  美聯社報導，根據一位不願意具名的五角大廈官員說...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595585",
+          "published": "Mon, 05 Oct 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南海爭議海域 中國連日擾菲",
+          "summary": "〔國際新聞中心／綜合報導〕菲律賓政府四日指控中國海軍與海警三日至四日期間在南海兩處爭議海域，分別對菲國公務飛機與執法船隻進行危險干擾與「不必要的恐嚇」，包括一架巡邏機三日在民主礁（Scarborough Shoal，中稱黃岩島，菲稱馬辛洛克灘）空域，遭中國殲-16戰機危險逼近，接著四日在中業島（Th…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773282",
+          "published": "Mon, 05 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉強盜殺人 沖繩美軍陸戰隊員被捕",
+          "summary": "日本向美抗議 要求全面配合調查 〔編譯張沛元／綜合報導〕日本警方四日逮捕一名駐紮於沖繩基地、涉嫌強盜殺人的美軍陸戰隊員，日本首相高市早苗對此表示遺憾，日本外務省與防衛省也向美軍與駐日大使表達強烈抗議、要求全面配合調查，徹底防止類似事件再犯。甫上台的沖繩縣知事古謝玄太痛批，此案證明美軍此前承諾的加強…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773280",
+          "published": "Mon, 05 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
