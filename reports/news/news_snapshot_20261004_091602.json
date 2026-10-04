@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-04T09:16:00.542330",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 08:48:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Australia investigating Flydubai co-pilot's links to country",
+          "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 06:19:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "扯！南韓懷胎34週孕婦被搶走優先座 老太太：我也生過小孩",
+          "summary": "有夠離譜！南韓社群平台近來有篇文章瘋傳，從中可以看到1名懷胎34週的孕婦搭乘地鐵時，由於腳踝受傷一拐一拐地想走到「孕婦優先座」坐下，沒想到卻被老太太搶走座位。  據《東亞日報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595230",
+          "published": "Sun, 04 Oct 2026 16:59:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日媒：習近平在川習會批日本 川普疑似沒理會",
+          "summary": "日媒今天引述消息人士披露，中國國家主席習近平9月24日在川習會期間，向美國總統川普表示不滿日相高市早苗政府的安全保障政策與史觀，而川普疑似沒有理會習近平。  日本「產經新聞」引述西方情治...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595051",
+          "published": "Sun, 04 Oct 2026 16:33:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍冷戰間諜衛星突解體！ 為何碎裂至今不明",
+          "summary": "1顆1988年發射、被多家媒體認為是冷戰末期美國間諜衛星的「USA 32」，9月13日在近地軌道突然碎裂。美國太空部隊證實，目前仍在分析解體原因，尚無法確定衛星為何會分解。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595194",
+          "published": "Sun, 04 Oct 2026 16:32:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
