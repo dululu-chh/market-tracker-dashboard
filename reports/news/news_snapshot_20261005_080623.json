@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-05T08:06:19.284964",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+          "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 03:16:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US air force removes all bombers from British military base RAF Fairford",
+          "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 07:14:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Watch: How Brazil's dramatic election unfolded",
+          "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+          "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 04:51:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄實驗室研究員打破鼠疫試管後死亡 多間醫院展開隔離",
+          "summary": "俄羅斯伊爾庫次克州謝列霍夫（Shelekhov）的防疫研究所（Anti-Plague Research Institute），傳出實驗室女研究員希皮洛娃（Darya Shipil...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596085",
+          "published": "Mon, 05 Oct 2026 15:53:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "女共諜在美跟監賴總統兒子被逮捕房仲經歷曝光 最高面臨10年刑期",
+          "summary": "首次上稿 10-05 13:44更新時間 10-05 15:28（新增刑責內容） 美國加州34歲女子張婉瑩（Wanying \"Heather\" Zhang），涉嫌在華盛頓州西雅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595954",
+          "published": "Mon, 05 Oct 2026 15:28:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打不贏人類就搬救兵！GPT-6 Astra玩《星海爭霸》竟用這招作弊",
+          "summary": "人工智慧如果打不贏人類，會不會直接拿人類寫好的程式來用？OpenAI的GPT-6 Astra近日參加經典即時戰略遊戲《星海爭霸：怒火燎原》（StarCraft: Brood W...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596127",
+          "published": "Mon, 05 Oct 2026 15:19:59 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
