@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-05T01:30:10.150581",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 14:25:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 04 Oct 2026 16:51:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄羅斯實驗室疑有傳染病原外洩！研究員死於「不明肺炎」人心惶惶",
+          "summary": "俄羅斯伊爾庫次克州謝列霍夫（Shelekhov）的防疫研究所（Anti-Plague Research Institute），疑似發生傳染病原外洩事故，1名女性研究員因感染「不明...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595650",
+          "published": "Mon, 05 Oct 2026 09:20:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西總統大選初步計票 波索納洛子佛拉維歐微幅領先",
+          "summary": "巴西緊繃的總統大選首輪下午開票，參議員佛拉維歐．波索納洛在初步計票中取得微幅領先。這場選舉因貪腐醜聞、經濟焦慮和美國干預指控而備受關注。   路透社報導，13位候選人中競爭最激烈的是兩大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595592",
+          "published": "Mon, 05 Oct 2026 08:09:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「SI」更好！馬斯克呼應川普「超級智慧」 宣布SpaceXAI將更名",
+          "summary": "SpaceX執行長馬斯克（Elon Musk）4日在社群媒體證實，他將把公司旗下的人工智慧（AI）部門更名為「SpaceXSI」，呼應美國總統川普推動以「超級智慧」（Super ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5595590",
+          "published": "Mon, 05 Oct 2026 07:51:28 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
