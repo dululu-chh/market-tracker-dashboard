@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-05T17:42:41.673222",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+          "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 16:13:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 11:34:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 16:32:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "因罵習近平判18年！任志強其實沒死 他曝目前慘況……",
+          "summary": "昔因公開批評習近平遭判入獄18年的中國地產大亨任志強，近日傳出已在獄中去世，引發牆外輿論熱議。不過印太戰略智庫執行長矢板明夫5日晚間表示，他透過特殊管道查證，其實任志強還活著，但...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596608",
+          "published": "Tue, 06 Oct 2026 00:58:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "魁北克分離派放眼重返執政 加拿大總理團結抗美路線面臨考驗",
+          "summary": "加拿大以法語為主的魁北克省5日舉行選舉，魁北克分離派勢力放眼重返執政，恐將考驗加拿大總理卡尼（Mark Carney）為對抗美國所訴諸的全國團結號召。  法新社報導，卡尼...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596624",
+          "published": "Tue, 06 Oct 2026 00:46:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "印度向塔吉克、土庫曼出售「天空」防空飛彈 進軍中亞市場與中國競爭",
+          "summary": "印度國防部秘書長辛赫（Rajesh Kumar Singh）日前證實，印度已成功將自主研製的「天空」（Akash）防空飛彈系統，售予中亞國家塔吉克與土庫曼。這項軍售案標誌著新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596619",
+          "published": "Tue, 06 Oct 2026 00:24:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
