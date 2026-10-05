@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-05T23:36:06.515877",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "France braces for national day of school protests after injuries and mass arrests",
+          "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 21:18:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 05 Oct 2026 11:34:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "因罵習近平判18年！任志強其實沒死 他曝目前慘況……",
+          "summary": "首次上稿 10-06 00:58更新時間 10-06 06:56 中國地產大亨任志強昔因公開批評習近平遭判入獄18年，近日盛傳已在獄中去世，引發牆外輿論熱議。不過印太戰略智庫執...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596608",
+          "published": "Tue, 06 Oct 2026 06:56:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西前總統波索納洛大反撲！長子有望登大位 4家族成員入主國會",
+          "summary": "首次上稿 10-05 22:15更新時間 10-06 06:48 南美洲最大經濟體巴西總統暨國會大選結果四日出爐。前總統波索納洛（Jair Bolsonaro）之子，右翼參議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596564",
+          "published": "Tue, 06 Oct 2026 06:48:51 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "前OpenAI吹哨者再示警：科技公司無力控制AI目標 人類恐面臨滅絕風險",
+          "summary": "首次上稿 10-06 02:44更新時間 10-06 06:16 前OpenAI與Anthropic員工、「吹哨者」考克森（Jacob Coxon）5日再次警告，頂尖的人工...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5596641",
+          "published": "Tue, 06 Oct 2026 06:16:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
