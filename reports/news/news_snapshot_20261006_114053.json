@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-06T11:40:52.735815",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Former German spy chief arrested for espionage and treason",
+          "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+          "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 06 Oct 2026 10:05:42 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 06 Oct 2026 07:02:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+          "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 06 Oct 2026 02:22:24 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "涉開車超速 蕭邦大賽銀獎日本鋼琴家反田恭平被起訴",
+          "summary": "日本知名音樂家反田恭平是第18屆蕭邦國際鋼琴大賽銀獎得主。他去年12月在首都高速公路駕駛轎車時，時速達144公里，超過速限，已被依涉嫌違反道路交通法起訴。  日本TBS電視台報導，東京地...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5597500",
+          "published": "Tue, 06 Oct 2026 18:42:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "發現宇宙深處高能微中子！ 比利時學者榮獲2026諾貝爾物理獎",
+          "summary": "繼昨日（5日）生醫獎得主出爐後，2026年諾貝爾物理學獎今（6日）揭曉，由比利時粒子物理學家哈爾岑（Francis Halzen）獲得殊榮。今年適逢諾貝爾獎創設125週年，各獎項...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5597389",
+          "published": "Tue, 06 Oct 2026 18:09:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "安全布局大轉彎！立陶宛修憲解禁核武首輪投票過關、爭取美軍常駐",
+          "summary": "俄羅斯帶來的威脅正改變立陶宛的安全布局，該國國會6日在修憲首輪投票中，贊成解除實施逾30年的境內部署核子武器禁令；另外，美國總統川普表示，會考慮美軍永久駐紮立陶宛。  路透...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5597492",
+          "published": "Tue, 06 Oct 2026 17:23:45 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
