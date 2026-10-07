@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-07T08:13:43.165551",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+          "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 07 Oct 2026 07:07:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+          "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+          "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 07 Oct 2026 05:02:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What is pneumonic plague and how does it spread?",
+          "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+          "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 06 Oct 2026 15:35:22 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "法國高中生抗議爆衝突 近500人被捕、馬克宏急開會",
+          "summary": "法國高中校舍老舊、教育資源匱乏等問題掀起大規模抗議行動，今天演變成零星暴力衝突，近500人被捕，總統馬克宏（Emmanuel Macron）為此召開緊急會議。  法新社報導，這波示威潮始...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5598484",
+          "published": "Wed, 07 Oct 2026 14:48:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "男足亞運奪金不用當兵炫耀過頭韓網大炎上 國防部長出手了",
+          "summary": "名古屋亞運南韓男子足球隊奪金，創四連霸壯舉，全隊獲得免服兵役獎勵，不料多名球員竟公開嗨喊不用當兵，引發南韓社會炎上；有議員怒批應該立刻拔掉亞運金牌免疫獎勵，國防部長姜信哲也對相關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5598460",
+          "published": "Wed, 07 Oct 2026 14:46:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "豪宅代孕圈養逾20童！華裔富商夫妻遭控虐童 天價保釋金曝光",
+          "summary": "美國加州1對富商夫妻透過代孕生下逾20名子女，並讓多名孩子集中住在亞凱迪亞（Arcadia）豪宅。這起案件調查超過1年後，洛杉磯郡檢方6日正式起訴66歲宣國軍（Guojun X...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5598379",
+          "published": "Wed, 07 Oct 2026 14:23:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
