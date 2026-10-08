@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-08T16:03:24.142715",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 12:43:56 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 15:02:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+          "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 15:43:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國調查記者白兆東要被「送中」了 泰國啟動引渡",
+          "summary": "泰國當局今天啟動中國調查記者白兆東的引渡程序。根據其律師及官員提供法新社的說法，白兆東遭北京當局通緝，已在泰國遭拘留數月。  法新社報導，據無國界記者組織（RSF）指出，56歲的白兆東曾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600407",
+          "published": "Thu, 08 Oct 2026 23:12:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "葉門飢餓危機背後隱患：恰特草嚼食文化",
+          "summary": "內戰讓葉門現有1830萬人面臨急性糧食不安全。除了戰爭影響，背後還有一道早已深植葉門日常生活的恰特草嚼食文化，因為種植占用大量珍貴地下水，嚴重影響葉門糧農發展，導致人民深陷在貧窮與飢餓惡性循...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600432",
+          "published": "Thu, 08 Oct 2026 23:06:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「好奇號」火星觀測日出  30億年奇特岩層入鏡",
+          "summary": "美國國家航空暨太空總署（NASA）近日公布火星探測車「好奇號」（Curiosity）拍攝的火星日出壯麗景象，呈現「夏普山」一處推測30億年前形成的古老岩層，而這片岩層正是NAS...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600405",
+          "published": "Thu, 08 Oct 2026 23:00:15 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
