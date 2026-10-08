@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-08T21:43:46.535244",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 16:31:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 15:02:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+          "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 17:38:59 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "斐濟中國商人涉賄 美禁止全家入境",
+          "summary": "〔編譯管淑平／綜合報導〕美國政府七日宣布制裁斐濟「海外華人服務中心」主任趙福剛，指其涉嫌向斐濟公民行賄，為中國利益行事，禁止他本人及直系親屬入境美國。趙福剛否認相關指控，並要求美國政府公布指控所依據的具體細節。 美國國務院發言人皮戈特指出，「趙福剛濫用公職身分，透過向斐濟公民行賄，推動中國政府、企…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773834",
+          "published": "Fri, 09 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反制中國 日本擬研究引進核潛艦",
+          "summary": "〔駐日特派員林翠儀／東京八日報導〕日本政府預定年底修訂「安保三文件」，其中一項重大變革是擬載明將調查、研究自衛隊引進核動力潛艦的方針。日本媒體報導，面對中國海軍擴大太平洋活動範圍，日本政府內部認為，現有傳統動力潛艦恐難以維持足夠的嚇阻及應對能力。而首相高市早苗七日在國會答詢時強調，目前對潛艦採用「新…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773835",
+          "published": "Fri, 09 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Volkswagen profits drop 10% as embattled automaker considers massive job cuts 處境艱難的汽車製造商福斯利潤下滑10％，考慮大裁員",
+          "summary": "◎ 張沛元  Volkswagen took a sizeable knock to its profits during the second quarter as it considers cutting tens of thousands of jobs to better compete…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773788",
+          "published": "Fri, 09 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
