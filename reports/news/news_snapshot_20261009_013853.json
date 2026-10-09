@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-09T01:38:51.620685",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 23:11:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 01:25:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 16:31:29 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美軍二戰後首度槍決！ 胡德堡槍手12/3伏法「全程直播」",
+          "summary": "美國五角大廈官員證實，美軍預計於12月3日對胡德堡軍事基地槍殺13人的凶手哈桑（Nidal Hasan）執行行刑隊槍決，且過程將採「線上直播」，創下美軍逾60年來首度執行死刑、也...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600513",
+          "published": "Fri, 09 Oct 2026 08:48:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "認了俄烏戰爭陷僵局！克宮罕見附和魯比歐 發言人曝「解決方向」",
+          "summary": "俄羅斯媒體引述克里姆林宮發言人培斯科夫（Dmitry Peskov）8日的說法指出，俄羅斯同意美國國務卿魯比歐（Marco Rubio）有關「俄烏衝突陷入僵局」的看法。  路...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600509",
+          "published": "Fri, 09 Oct 2026 08:12:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "向「AI」宣戰！川普嚴令改稱「SI」：不接受就是敵人",
+          "summary": "美國總統川普8日警告，任何將ChatGPT或Claude等大型語言模型稱為「人工智慧」（Artificial Intelligence）的人，都將被他視為「敵人」。  綜合媒...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600496",
+          "published": "Fri, 09 Oct 2026 07:34:31 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
