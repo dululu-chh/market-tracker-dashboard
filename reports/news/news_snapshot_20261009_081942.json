@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-09T08:19:40.454048",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 07:05:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+          "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 08 Oct 2026 23:11:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "ICE agent shoots man in New York City",
+          "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+          "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 04:26:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "「青年運動」狂炸！沙國利雅德機場客機起火、緊急停飛",
+          "summary": "伊朗支持的葉門叛軍「青年運動」近日加大對沙烏地阿拉伯的飛彈襲擊力道。沙國首都利雅德機場8日再遭攻擊，導致一架停放於航廈的國營客機起火嚴重受損，多間國際航空公司已緊急宣布暫停飛往利...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600993",
+          "published": "Fri, 09 Oct 2026 16:16:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "訂新幹線注意！ JR東日本逾600萬筆個資恐外洩",
+          "summary": "JR東日本今（9日）宣布，因軟銀（SoftBank）旗下雲端子公司「IDC Frontier」伺服器遭外部非法入侵，波及相關郵件發送系統，導致旗下購票系統「Ekinet（えきねっ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600929",
+          "published": "Fri, 09 Oct 2026 15:36:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍涉強盜殺人有「特殊待遇」 沖繩議會籲修改日美地位協定",
+          "summary": "駐日美軍1名陸戰隊員涉嫌在沖繩縣那霸市殺害1名當地女子並洗劫財物，引發日本社會強烈公憤。沖繩縣議員9日通過1項決議，呼籲修改被視為給予美軍在日本特殊待遇的「日美地位協定」。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5600903",
+          "published": "Fri, 09 Oct 2026 15:21:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
