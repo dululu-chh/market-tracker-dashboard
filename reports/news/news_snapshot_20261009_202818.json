@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-09T20:28:15.569125",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 20:13:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 18:40:05 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "規模7.7強震襲巴拿馬　觸發東太平洋沿岸海嘯警報",
+          "summary": "巴拿馬今天發生規模7.7強震，引發首都民眾恐慌，亦觸發危險海嘯警報。  法新社報導，美國地質調查所（USGS）表示，地震發生於格林威治標準時間17時56分（台灣時間今晨1時56分），震央位於...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601415",
+          "published": "Sat, 10 Oct 2026 04:21:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中美洲巴拿馬規模7.7強烈地震 首都劇烈搖晃",
+          "summary": "中美洲國家巴拿馬，今天在當地時間10月9日中午12點56分（台灣時間10月10日凌晨1點56分）發生規模7.7強烈地震，根據美國地質調查局（USGS）監測，震央在巴拿馬南部皮塔洛...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601411",
+          "published": "Sat, 10 Oct 2026 03:26:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "國際刑事法院前法官獲頒諾貝爾和平獎後　美宣布制裁法院",
+          "summary": "曾任職國際刑事法院（ICC）並指控以色列在加薩犯下種族滅絕罪的南非法學家皮萊（Navi Pillay）剛獲頒諾貝爾和平獎後，美國即宣布制裁ICC，並揚言癱瘓其運作，此舉引發聯合國、歐盟及多國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601410",
+          "published": "Sat, 10 Oct 2026 03:00:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
