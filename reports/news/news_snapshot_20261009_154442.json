@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-09T15:44:40.851753",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+          "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 14:00:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Firing squad execution to be livestreamed, Pentagon says",
+          "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 12:24:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+          "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 09:43:22 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "諾貝爾和平獎得主皮萊 曾促中國公布六四真相",
+          "summary": "南非法官皮萊（Navanethem “Navi” Pillay），以對促進和平和國際法的貢獻，獲得今年諾貝爾和平獎。她曾在聯合國人權事務高級專員任內，要求中國揭露「六四事件」真...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601373",
+          "published": "Fri, 09 Oct 2026 23:05:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "人口販運報告中國持續劣評！美國務院另指跨國詐騙威脅國安",
+          "summary": "美國國務院在8日發布的「2026年人口販運報告」中，持續將中國列為人口販運最嚴重的「第三級」國家。除了新疆維吾爾及其他民族的強迫勞動處境，中國人士在東南亞建立的跨國犯罪集團規模...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601364",
+          "published": "Fri, 09 Oct 2026 22:48:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭美國國務院列為人口販運最嚴重層級 港府痛斥抹黑",
+          "summary": "美國國務院8日發布「2026年人口販運報告」，香港今年遭降至「第三級」，引發港府強烈反彈。  依照國務院評鑑準則，未全面達成消除人口販運最低標準，也沒有做出顯著努力的國家，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601365",
+          "published": "Fri, 09 Oct 2026 22:44:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
