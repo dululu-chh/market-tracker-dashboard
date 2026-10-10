@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-10T00:26:36.815903",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 00:19:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "期中選舉前政策大轉彎！ 川普向普廷買柴油 澤倫斯基痛批",
+          "summary": "美國期中選舉倒數之際，美國總統川普於美東時間週五（10日）宣布，已與俄羅斯總統普廷達成協議，將自俄羅斯進口數百萬噸柴油，以平抑美國國內高漲的燃油價格。烏克蘭總統澤倫斯基痛批這是「...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5601443",
+          "published": "Sat, 10 Oct 2026 08:07:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "菲南海醫療行動 控中國水砲阻撓",
+          "summary": "〔編譯張沛元／綜合報導〕中國與菲律賓再次為南海爭議海域仁愛暗沙（中稱仁愛礁，菲稱愛尤銀礁）大打口水戰，菲國海岸防衛隊指控中國海警阻撓與延誤其進行一場醫療撤離行動，中方則強調曾提供必要便利，並反控菲國顛倒黑白與混淆視聽。 菲國八日欲從其擱淺於仁愛暗沙的二戰時期登陸艦「馬德雷山號」，撤離一名受傷的菲國…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773923",
+          "published": "Sat, 10 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "德前情報局長涉洩密中國 歐洲徹查",
+          "summary": "〔國際新聞中心／綜合報導〕德國聯邦情報局（BND）前局長韓寧（August Hanning）本週因涉嫌間諜活動遭逮捕，德國明鏡週刊九日披露，他與一名中國退役高階將領長期保持聯繫。 數度前往中國 結識退將 該刊報導，二〇〇五年卸任的韓寧曾數度前往中國，並結識一位曾任職於中國駐前東德大使館的前官員。…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1773920",
+          "published": "Sat, 10 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
