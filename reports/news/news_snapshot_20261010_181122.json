@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-10T18:11:20.082986",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 18:01:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 14:16:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Several injured in attack on airport in Saudi capital Riyadh",
+          "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 16:56:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "194歲象龜像「活龍」！研究曝基因組是關鍵",
+          "summary": "人類尋找長壽祕訣，或許能從一隻194歲的陸龜身上找到線索。住在南大西洋聖赫勒拿島的亞達伯拉象龜「強納森」（Jonathan），是目前已知現存最長壽陸生動物。科學家分析牠的基因組...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602275",
+          "published": "Sat, 10 Oct 2026 23:53:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國跨黨派議員齊聲撻伐 批直播死刑「噁心至極」",
+          "summary": "美國戰爭（國防）部計畫在12月3日公開直播死刑槍決，引發美國跨黨派、宗教和人權組織齊聲撻伐。  2009年11月5日美國籍巴勒斯坦裔槍手哈山襲擊德州胡德堡基地醫療設施，造成...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602221",
+          "published": "Sat, 10 Oct 2026 23:46:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國騷擾交流計畫參與者 美暫停在中港澳招募人員",
+          "summary": "日本共同社英文網九日報導，知情人士透露，美國已於七月底暫停在中國、香港及澳門招募政府資助專業交流計畫的參與者，原因是中國當局騷擾有意參加計畫的人士。但這項措施不影響美國在台協...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602270",
+          "published": "Sat, 10 Oct 2026 23:35:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
