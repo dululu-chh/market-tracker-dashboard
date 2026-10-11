@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-11T01:29:08.717669",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 19:28:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+          "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 00:21:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+          "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+          "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "英國男子闖入動物園圍欄 遭老虎活活咬死",
+          "summary": "位於英國南約克郡的約克郡野生動物園（Yorkshire Wildlife Park），10日下午1時35分許有1名男子闖入老虎區圍欄，被猛虎啃咬後喪命。  據《CNN》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602354",
+          "published": "Sun, 11 Oct 2026 09:20:01 +0800",
+          "keywords": []
+        },
+        {
+          "title": "不滿澤倫斯基下令襲擊俄國煉油廠  川普：烏克蘭該換總統了",
+          "summary": "美國總統近期與俄羅斯總統普廷達成協議，從俄羅斯購買柴油，而烏俄戰事未歇，川普數週以來，一直呼籲烏克蘭總統澤倫斯基停止對俄羅斯能源基礎設施的攻擊。川普10日表示，澤倫斯基想給全世界...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602321",
+          "published": "Sun, 11 Oct 2026 07:52:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "沙烏地阿拉伯利雅德機場遇襲 至少12死逾300傷",
+          "summary": "位於沙烏地阿拉伯的利雅德哈立德國王國際機場（King Khalid International Airport），近期頻繁遭到葉門叛軍「青年運動」武裝組織（Houthi，另譯為胡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602313",
+          "published": "Sun, 11 Oct 2026 07:37:40 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
