@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-11T23:23:11.142093",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Poland detains man suspected of planning assassination of PM Tusk",
+          "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "刺胳針列17項人類滅絕威脅清單 AI惡意使用、核衝突居首",
+          "summary": "英國醫學雜誌「刺胳針」發布未來75年公共衛生風險最新評估報告，列出17項可能造成人類滅絕的重大威脅，其中以人工智慧（AI）的惡意使用及核子衝突居首。  英國「衛報」（The Guardi...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5602989",
+          "published": "Mon, 12 Oct 2026 06:21:14 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普和普丁達成柴油協議　美國參議員批違法",
+          "summary": "美國7位跨黨派聯邦參議員今天發表聯合聲明，質疑總統川普允許俄羅斯柴油出口的協議是否合法，因為自從莫斯科入侵烏克蘭以來，美國就已下達進口禁令。  法新社報導，川普9日宣布，已經與俄羅斯總統普丁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5603127",
+          "published": "Mon, 12 Oct 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄研究員疑染鼠疫亡 中蒙警戒》蒙古啟動邊境健康監測 內蒙發風險提示",
+          "summary": "〔國際新聞中心／綜合報導〕俄羅斯西伯利亞近期傳出疑似感染鼠疫死亡案例，引發國際關注。儘管世界衛生組織（WHO）聲稱死因仍有待查證，且無疫情擴散跡象，但由於人員往來頻繁，與俄羅斯接壤的蒙古國已啟動邊境健康監測，中國內蒙古呼倫貝爾市疾病預防控制中心，也緊急發布鼠疫防控風險提示。 俄羅斯西伯利亞及遠東地…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1774191",
+          "published": "Mon, 12 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
