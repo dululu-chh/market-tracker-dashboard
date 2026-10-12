@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-12T03:47:46.918937",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Poland detains man suspected of planning assassination of PM Tusk",
+          "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不爽持續與台灣維持邦交 中國外交部封殺貝里斯、巴拉圭2部長",
+          "summary": "中國外交部今日（12日）針對巴拉圭資通訊科技部長畢亞德（Gustavo Villate）與貝里斯外交部長馮賽卡（Francis Fonseca）祭出制裁，原因在於巴拉圭與貝里斯持...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5603350",
+          "published": "Mon, 12 Oct 2026 11:33:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "千人泡泡路跑淪奪命陷阱！菲律賓小學生接連觸電倒地釀2死2傷",
+          "summary": "菲律賓伊莎貝拉省（Isabela）卡烏延市（Cauayan City）日前舉行一場吸引上千名學童與家長參與的「泡泡趣味路跑」，沒想到設備疑似嚴重漏電，導致4名幼童在泡泡區內遭受電...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5603295",
+          "published": "Mon, 12 Oct 2026 11:10:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "人倫慘劇！她拿父親數億韓元投資慘賠 不滿遭訓斥竟弒父",
+          "summary": "南韓忠清南道天安市發生人倫悲劇，1名40來歲的女子拿著爸爸給的錢投資慘賠，不滿父親屢次訓斥竟於9月13日將其殺害並隱瞞，直到本月8日才由警方發現遺體，天安東南警察署11日宣布依照...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5603237",
+          "published": "Mon, 12 Oct 2026 11:09:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
