@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-12T20:45:57.114029",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 12 Oct 2026 17:32:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 12 Oct 2026 20:17:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 12 Oct 2026 05:00:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "拋棄狗血霸總劇情！中國官媒搶攻AI微短劇市場 「主旋律」洗腦再進化",
+          "summary": "北京正迅速擴大人工智慧（AI）在短影音與「微短劇」宣傳活動中的應用，以符合當局強調利用科技強化意識形態工作與引導輿論的高層指示。  香港「南華早報」12日報導，與目前充斥...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5604193",
+          "published": "Tue, 13 Oct 2026 02:44:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "反嗆川普！青年運動警告美國勿介入葉門戰事 揚言痛擊美方區域利益",
+          "summary": "葉門叛軍「青年運動」（Houthis）官員12日警告，如果美國介入葉門戰爭，將面臨「痛苦的報復」。據報導，在經歷數次攻擊後，沙烏地阿拉伯已請求華府協助對付該組織。  法新...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5604197",
+          "published": "Tue, 13 Oct 2026 02:40:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美期中選舉大灑幣！馬斯克捐逾2.76億美元 力保共和黨國會優勢",
+          "summary": "全球唯一身價破兆美元的富豪馬斯克（Elon Musk），已悄悄成為今年美國期中選舉已知最大的政治金主。自今年7月以來，他已豪擲超過2.76億美元（約新台幣88億元），試圖力保...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5604188",
+          "published": "Tue, 13 Oct 2026 02:39:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
