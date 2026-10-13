@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-13T09:59:00.433601",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+          "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 08:03:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+          "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 02:26:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "菲國副總統4彈劾案撤3項  杜特蒂長女總統夢仍有變數",
+          "summary": "菲律賓副總統薩拉．杜特蒂（Sara Duterte）彈劾案13日出現重大轉折，參議院組成的彈劾法庭同意檢方撤回四項彈劾指控中的三項，包括涉嫌威脅刺殺總統，僅保留財產來源不明一項...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605056",
+          "published": "Tue, 13 Oct 2026 17:43:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由說新聞》俄羅斯「肺鼠疫疑雲」這幕嚇壞中國人！他驚揭一驚悚可能",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605040",
+          "published": "Tue, 13 Oct 2026 17:34:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "講不聽！川普政府狂砍數百棵樹 法官怒問：你們騙我？",
+          "summary": "美國總統川普政府計畫改造華府一座公共高爾夫球場，上週末卻有數百棵樹遭到移除。負責審理相關訴訟的聯邦法官雷耶斯（Ana Reyes）先前已要求政府，未經通知法院不得擅自採取不可逆...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5604611",
+          "published": "Tue, 13 Oct 2026 17:27:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
