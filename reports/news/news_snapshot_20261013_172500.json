@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-13T17:24:59.207470",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+          "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+          "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 17:10:50 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 13 Oct 2026 08:03:34 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "蒙面特務突襲飯店上銬！俄羅斯依間諜罪嫌逮「北海道新聞」記者 恐面臨20年重刑",
+          "summary": "俄羅斯與日本因烏克蘭和北方領土問題而關係緊張之際，俄國國營媒體報導，俄羅斯聯邦安全局（FSB）13日表示，已依間諜罪嫌逮捕一名日本記者。根據俄羅斯法律，間諜罪名最高可判處20...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605325",
+          "published": "Wed, 14 Oct 2026 00:33:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黃仁勳、馬斯克意興闌珊？深圳APEC邀美企高層踢鐵板 傳因安排草率遭婉拒",
+          "summary": "知情人士透露，部分美國高階企業主管對於出席下個月在中國深圳舉行的「亞太經濟合作會議」（APEC）峰會及相關商業活動，顯得意興闌珊，原因包括行程細節有限、預期難有實質突破，且缺...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605318",
+          "published": "Tue, 13 Oct 2026 23:49:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗盯上軍事設施、俄升高混合戰  MI5：英國安全威脅10年暴增4倍",
+          "summary": "英國對內情報安全機關軍情五處（MI5）首長麥卡勒姆（Ken McCallum）13日警告，伊朗正加強試圖打擊英國更難下手的目標，如軍事據點等；俄羅斯也升高對烏克蘭盟邦的混合戰。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605319",
+          "published": "Tue, 13 Oct 2026 23:35:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
