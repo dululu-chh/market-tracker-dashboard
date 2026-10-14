@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-14T21:12:37.548374",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+          "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Student protesters attack government buildings in Tirana",
+          "summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+          "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 20:29:05 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+          "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 15:12:46 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普以國家稱索馬利蘭　數百民眾首都集會慶祝",
+          "summary": "美國總統川普日前稱索馬利蘭與索馬利亞不同，是一個「完全不同的國家」，數百名索馬利蘭民眾今天在首都廣場集會慶祝，他們歡迎川普的說法，也認為美國將承認索馬利蘭。  法新社報導，索馬利蘭（Soma...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606629",
+          "published": "Thu, 15 Oct 2026 05:06:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國8州聯手控告OpenAI　指ChatGPT危害兒童",
+          "summary": "美國愛荷華州及堪薩斯州等8州今天表示，它們已在全美多地法院控告OpenAI，指控ChatGPT對兒童造成危害，曾教導兒童傷害自己或他人。  路透社報導，美國8州在州法院提出訴訟，要求法院命令...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606626",
+          "published": "Thu, 15 Oct 2026 04:00:06 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "歐盟憂心中國供應風險　擬與越南擴大關鍵礦產合作",
+          "summary": "根據路透社取得的歐盟內部文件，歐盟因擔憂關鍵礦物的供應風險，正尋求與越南加強合作，擴大鎢、稀土與銻等國防及工業原料的來源，降低對中國的依賴。  越南擁有豐富的關鍵礦產，包括鎢、稀土、銻、鉍和...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606623",
+          "published": "Thu, 15 Oct 2026 03:21:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
