@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-14T07:00:23.282625",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 00:17:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 04:36:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Turkey police raid opposition TV station, halting live broadcasts",
+          "summary": "Halk TV says its staff are unable to enter the building in Istanbul, and a new manager was appointed to run the channel.",
+          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 06:32:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "格陵蘭資源再受關注 川普稱大規模勘探將展開",
+          "summary": "美國、丹麥和格陵蘭9月簽署1項格陵蘭安全協議，結束此前美國總統川普多次聲稱要控制戰略位置優越、礦產資源豐富的格陵蘭所導致的緊張局勢。川普14日表示，格陵蘭即將展開大規模石油、天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605935",
+          "published": "Wed, 14 Oct 2026 14:55:35 +0800",
+          "keywords": []
+        },
+        {
+          "title": "往返台灣！日本高知龍馬機場開通首個國際定期航班 擴大對台交流",
+          "summary": "日本高知縣南國市「高知龍馬機場」，將從明年3月28日開始由台灣虎航開通往返服務，成為該機場首個國際定期航班，高知縣希望藉此擴大與台灣的交流。  據《讀賣新聞》報導，在此之前，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605905",
+          "published": "Wed, 14 Oct 2026 14:40:16 +0800",
+          "keywords": []
+        },
+        {
+          "title": "大阪地標「固力果跑跑人」將暫別！ 11月底熄燈、明年春天重新亮相",
+          "summary": "日本大阪最具代表性的地標之一「道頓堀固力果看板」（道頓堀グリコサイン，俗稱︰Glico Man、固力果跑跑人），即將在今年11月底暫時告別大眾，迎接睽違逾12年的大改造。江崎格力...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5605839",
+          "published": "Wed, 14 Oct 2026 14:14:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
