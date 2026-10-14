@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-14T17:45:35.538295",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+          "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+          "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 15:12:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 15:26:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "教宗接受手術切除腫瘤　醫師：已恢復行走和進食",
+          "summary": "梵蒂岡今天表示，羅馬天主教教宗良十四世接受手術切除肺部癌腫瘤後，今天已恢復正常進食，並開始行走及進行呼吸訓練，且初步檢查結果顯示他術後恢復情況正常。  美聯社報導，教宗良十四世（Pope L...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606603",
+          "published": "Thu, 15 Oct 2026 00:24:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美星鏈設限削弱烏軍！澤倫斯基顧問看穿川普心思",
+          "summary": "烏克蘭表示，美國太空探索科技公司（SpaceX）無預警限制烏軍高速移動載具使用「星鏈」（Starlink）衛星網路的連線能力，導致烏軍部分行動被迫中斷。烏國總統澤倫斯基的顧問1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606601",
+          "published": "Thu, 15 Oct 2026 00:21:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "財神爺敲門！退休爸閣樓翻出15年前寶可夢卡牌 鑑定價值破千萬",
+          "summary": "英國一名退休室內裝潢師近日從報紙上看到有一張寶可夢卡牌拍出6000英鎊（約合新台幣25萬）的新聞後，才想起他在家中閣樓也存放了一批塵封約15年的卡牌，而經過拍賣行鑑定，他的這些卡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606571",
+          "published": "Wed, 14 Oct 2026 23:34:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
