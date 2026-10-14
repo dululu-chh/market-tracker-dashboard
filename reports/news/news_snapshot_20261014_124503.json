@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-14T12:45:01.707836",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+          "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 11:32:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 11:17:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 14 Oct 2026 12:27:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "白朗峰「長高」 最新測量結果比2023年高近兩公尺",
+          "summary": "測量人員今天表示，法國最高峰白朗峰上個月測量的高度比2023年上次公布的測量結果高出近兩公尺，使得這座阿爾卑斯山脈最高峰為4807.47公尺高。  法新社報導，法國東南部上薩瓦省（Hau...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606442",
+          "published": "Wed, 14 Oct 2026 20:17:45 +0800",
+          "keywords": []
+        },
+        {
+          "title": "貝里斯總理：中國制裁外長不合理 更堅定支持台灣",
+          "summary": "中國對台灣友邦貝里斯部長馮賽卡實施制裁，貝里斯總理布里仙紐今天接受中央社專訪時表示，對中國此舉深感關切與失望，並認為相關措施毫無道理、錯誤且不合法。他強調這不會影響貝里斯與台灣兩國關係，反而...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606455",
+          "published": "Wed, 14 Oct 2026 20:10:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "時機敏感！中國遼寧號西太平洋練兵 巧碰美日利劍軍演",
+          "summary": "中國海軍遼寧號航空母艦編隊14日赴西太平洋相關海域展開訓練，這是遼寧號今年第二度赴西太平洋演訓。由於美日兩國即將於19日起舉行大規模聯合軍演「利劍27」，演習範圍涵蓋日本西南...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5606361",
+          "published": "Wed, 14 Oct 2026 18:59:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
