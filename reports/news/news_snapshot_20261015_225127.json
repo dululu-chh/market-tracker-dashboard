@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-15T22:51:26.021221",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+          "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+          "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 16:50:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國俄勒岡州小學槍擊案 警方：多人受害、槍手已死",
+          "summary": "美國警方今天表示，西北部俄勒岡州一所小學發生槍擊案，造成「多人受害」，槍手已死亡。  法新社報導，本德警察局（Bend Police Department）發言人米勒（Sheila Mi...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607862",
+          "published": "Fri, 16 Oct 2026 06:34:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "羅馬尼亞黑海商船遭無人機襲擊起火　造成7人失蹤",
+          "summary": "兩艘化學品運輸船於羅馬尼亞黑海沿岸附近遭無人機擊中並起火燃燒，搜救團隊今天搜尋7名失蹤船員，再度引發外界對這條烏克蘭使用的重要航運路線安全的疑慮。  路透社報導，羅馬尼亞總統達恩（Nicus...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607857",
+          "published": "Fri, 16 Oct 2026 05:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "月領34萬零用錢！阿聯「10兆王室媳婦」淪毒蟲癱坐倫敦街頭",
+          "summary": "首次上稿 10-15 22:48更新時間 10-16 05:50 阿拉伯聯合大公國阿布達比王室近日傳出醜聞，32歲的王室成員瑪赫拉（Mahrah Al Nahyan）今年6月在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607797",
+          "published": "Fri, 16 Oct 2026 05:50:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
