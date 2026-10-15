@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-15T15:29:04.069837",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+          "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 15:17:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 15:09:15 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 15:26:16 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "組閣難達共識！瑞典社民黨安德森出任總理案 國會壓倒性否決",
+          "summary": "瑞典中左翼在野陣營於9月國會大選囊括過半席次後，國會議員今天以壓倒性票數否決社會民主黨領袖安德森出任總理。她日前已告訴議長，難以和其他左翼政黨籌組聯合政府。  法新社報導，瑞典國會以24...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607785",
+          "published": "Thu, 15 Oct 2026 23:10:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "月領34萬零用錢！阿聯「10兆王室媳婦」淪毒蟲癱坐倫敦街頭",
+          "summary": "阿拉伯聯合大公國阿布達比王室近日傳出醜聞，32歲的王室成員瑪赫拉（Mahrah Al Nahyan）今年6月在英國倫敦街頭被發現失去意識，身旁還躺著一名男子，當時由她照顧的3歲男...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607797",
+          "published": "Thu, 15 Oct 2026 22:48:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西國會通過下修每週工時至40小時  有望抬升總統魯拉選情",
+          "summary": "巴西參議院14日通過憲法修正案，將每週44小時法定工時降低至40小時且維持現有工資，預估將嘉惠超過3700萬名勞工。力拚在25日總統大選第二輪投票逆轉的現任總統魯拉選情，也有望...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607806",
+          "published": "Thu, 15 Oct 2026 22:43:52 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
