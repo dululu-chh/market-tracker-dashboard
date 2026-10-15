@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-15T19:38:42.653381",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+          "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+          "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 17:18:49 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 16:50:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "葉門叛軍襲政府臨時首都總統府　傳釀至少4死10傷",
+          "summary": "葉門叛軍「青年運動」今天對葉門政府臨時首都亞丁（Aden）的總統府馬希克宮（Al-Maashiq Palace）發動奪命飛彈攻擊，消息人士稱至少4人死亡、10人受傷。  獲伊朗支持的青年運動...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607845",
+          "published": "Fri, 16 Oct 2026 03:30:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "CNN：烏克蘭愛國者飛彈耗盡　澤倫斯基籲美增援與川普分歧加深",
+          "summary": "一名知情人士今天告訴美國有線電視新聞網（CNN），烏克蘭已耗盡美製愛國者（Patriot）防空系統的飛彈，使烏克蘭在面對俄羅斯彈道飛彈攻擊時更加脆弱。  CNN報導，這個嚴峻的局勢發展，正值...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607844",
+          "published": "Fri, 16 Oct 2026 02:30:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "組閣難達共識！瑞典社民黨安德森出任總理案 國會壓倒性否決",
+          "summary": "瑞典中左翼在野陣營於9月國會大選囊括過半席次後，國會議員今天以壓倒性票數否決社會民主黨領袖安德森出任總理。她日前已告訴議長，難以和其他左翼政黨籌組聯合政府。  法新社報導，瑞典國會以24...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607785",
+          "published": "Thu, 15 Oct 2026 23:10:33 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
