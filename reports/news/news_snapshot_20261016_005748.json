@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-16T00:57:47.208839",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+          "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 16:50:18 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+          "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "百事痛失肯德基！ 全美門市改賣可口可樂",
+          "summary": "連鎖炸雞巨頭肯德基（KFC）正式宣布與可口可樂簽約，選定其為全美門市的全新飲品合作夥伴。這也象徵肯德基與百事長達近40年的合作夥伴關係正式畫下句點。全美門市預計於2027年春季全...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607896",
+          "published": "Fri, 16 Oct 2026 08:33:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏無人機狂轟俄煉油廠！澤倫斯基怒批川普「背叛」 美烏裂痕恐擴大",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）宣布，基輔將不再遵守美國總統川普推動的能源設施停火協議。烏克蘭隨後於15日對俄羅斯1座煉油廠發動攻擊，使美烏關係面臨進...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607874",
+          "published": "Fri, 16 Oct 2026 07:45:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美奧勒岡州小學爆槍擊！釀4死多傷 槍手疑被民眾擊斃",
+          "summary": "美國奧勒岡州本德市（Bend）1所小學15日發生槍擊案，1名槍手開火導致多人受傷，事件造成4人身亡。警方表示，槍手隨後遭擊斃，可能被現場1名持槍民眾開槍擊中。  美國有線電視...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5607868",
+          "published": "Fri, 16 Oct 2026 07:17:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
