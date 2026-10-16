@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-16T22:24:46.342154",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+          "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Tru…",
+          "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+          "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 14:31:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump denies limiting Ukraine access to Starlink network",
+          "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 19:33:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "背鍋俠？油價飆漲川普頻開嗆  澤倫斯基笑而不答",
+          "summary": "首次上稿 10-16 22:00更新時間 10-17 05:58 針對近日頻遭美國總統川普指控是油價飆漲罪魁禍首，烏克蘭總統澤倫斯基16日在被問到，是否被川普當成其在美國國內...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5608970",
+          "published": "Sat, 17 Oct 2026 05:58:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美緬重啟對話 近月來已兩次",
+          "summary": "〔編譯管淑平／綜合報導〕美國正加強與緬甸軍政府重新接觸。路透十六日引述知情人士披露，美緬雙方上週在日本東京會談，為兩國一個月內第二次會談，日本的角色也耐人尋味。美國國務院尚未回應最新這場會談，緬甸軍政府發言人也未回應。日本外務省拒絕評論特定外交往來。 華府與緬甸九月在奈比多首次會談，聚焦爭取釋放遭…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1774840",
+          "published": "Sat, 17 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國操控 幽靈船現蹤釣魚台",
+          "summary": "〔駐日特派員林翠儀／東京十六日報導〕日本產經新聞十六日揭露，去年底中共解放軍對台發動大規模圍台軍演前後，釣魚台列嶼（尖閣諸島）附近海域出現一艘名為「FUCK JAPAN」的神秘貨輪，但經日方確認，海上並無此船。調查顯示，該船的船舶自動識別系統（AIS）訊號疑似來自中國，專家懷疑是中國有組織的電子欺騙…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1774835",
+          "published": "Sat, 17 Oct 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
