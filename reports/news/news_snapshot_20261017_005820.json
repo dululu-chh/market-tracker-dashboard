@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-17T00:58:18.244082",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+          "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Tru…",
+          "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 23:07:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+          "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 14:31:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "北韓試射新魚雷「潛-2.0」 官方宣稱導入AI技術",
+          "summary": "北韓17日透過官方媒體宣布，成功試射新型超高速精準導引魚雷武器系統「潛-2.0」（Jam-2.0）實彈，並強調這款魚雷在目標探測與導引功能上採用了人工智慧技術。  綜合外媒報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609090",
+          "published": "Sat, 17 Oct 2026 08:29:10 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "白宮美女新聞秘書傳上任5天被炒魷魚！川普出聲了",
+          "summary": "美國白宮新聞秘書札卡利亞（Katie Zacharia）上任還不到1週，就因為律師資格問題受到審視，外媒消息更傳出，札卡利亞已被炒魷魚，美國總統川普（Donald Trump）被...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609061",
+          "published": "Sat, 17 Oct 2026 07:21:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "背鍋俠？油價飆漲川普頻開嗆  澤倫斯基笑而不答",
+          "summary": "首次上稿 10-16 22:00更新時間 10-17 05:58 針對近日頻遭美國總統川普指控是油價飆漲罪魁禍首，烏克蘭總統澤倫斯基16日在被問到，是否被川普當成其在美國國內...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5608970",
+          "published": "Sat, 17 Oct 2026 05:58:18 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
