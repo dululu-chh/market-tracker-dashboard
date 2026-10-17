@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-17T21:21:30.434900",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+          "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 20:52:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 19:19:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 18:38:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紐約曼哈頓地鐵站槍擊案釀1死　列車暫不停靠",
+          "summary": "美國紐約曼哈頓中城一處地鐵站月台今天發生民眾爭執，最終演變成槍擊事件，一名男子中彈身亡。警方調查期間，列車暫不停靠該站。  美聯社報導，槍擊事件發生於今天中午12時20分左右，地點為第7大道...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609949",
+          "published": "Sun, 18 Oct 2026 05:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法抗議浪潮蔓延歐洲多國　義大利比利時爆發警民衝突",
+          "summary": "法國爆發激烈抗議之際，義大利、比利時、葡萄牙及阿爾巴尼亞等國家的民眾今天同步舉行示威，抗議生活成本高漲或教育問題，多地發生警民暴力衝突。  路透社報導，義大利警民今天在米蘭大教堂（Milan...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609948",
+          "published": "Sun, 18 Oct 2026 04:30:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法全國示威演變成暴力衝突　縱火破壞頻傳逾400人被捕",
+          "summary": "法國全國示威活動在多座大城市演變成暴力衝突，示威群眾破壞縱火、洗劫商家、闖入政府機構與警察局，警方則出動催淚彈和水砲強力鎮壓。截至今天晚間，全法已有超過400人遭到逮捕。  法國各地今天展開...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609947",
+          "published": "Sun, 18 Oct 2026 03:45:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
