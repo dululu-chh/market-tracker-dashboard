@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-17T10:00:59.397570",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 09:42:13 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 09:58:17 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 03:11:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "曾諷中國沒像樣廁所！白宮美女發言人剛被炒魷魚  北京送暖「多來看看」",
+          "summary": "前美國白宮新聞秘書札卡利亞（Katie Zacharia），曾嘲諷中國連像樣的廁所都沒有憑啥崛起，不過她已收到來自北京的邀請，希望自稱曾任職於北京的法律事務所的札卡利亞，可以多...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609656",
+          "published": "Sat, 17 Oct 2026 17:51:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國男日本耍詐！用飯店Wi-Fi狂寄48萬筆釣魚郵件",
+          "summary": "中國籍男子涉嫌利用飯店客房Wi-Fi發送大量釣魚郵件，被日本警方逮捕。  日媒報導，被警方以電腦使用詐欺等罪嫌逮捕的，是住在神戶市中央區、無業的39歲中國籍嫌犯葉加鋒。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609618",
+          "published": "Sat, 17 Oct 2026 17:30:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗伊斯蘭革命衛隊：超級油輪違規穿越荷姆茲海峽 觸水雷起火",
+          "summary": "伊朗伊斯蘭革命衛隊（IRGC）17日說，1艘違規穿越荷姆茲海峽的大型油輪在海峽上碰觸水雷並爆炸起火。但IRGC並未說明確切事發地點。  IRGC指出，載運200多萬桶原油、...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5609600",
+          "published": "Sat, 17 Oct 2026 17:04:05 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
