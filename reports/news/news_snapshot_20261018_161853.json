@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-10-18T16:18:51.492322",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+          "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 15:46:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+          "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 05:04:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "開戰最大規模！烏軍逾千架無人機轟炸 聖彼得堡油庫陷火海",
+          "summary": "烏克蘭18日對俄羅斯發動開戰以來最大規模的空襲行動之一，出動超過1000架無人機狂轟俄國本土，導致聖彼得堡（St. Petersburg）的石油出口碼頭與油庫陷入一片火海。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610743",
+          "published": "Sun, 18 Oct 2026 23:59:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國暴動重創總統馬克宏 「跛鴨」困境加劇 川普喊話：關閉邊境",
+          "summary": "法國各地17日爆發大規模動亂，抗議生活與燃油成本高漲的示威浪潮，與已持續數週的高中生抗議活動全面合流，在巴黎、馬賽、里昂等逾百處地點引爆激烈警民衝突。在法國面臨內政與外交雙重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610731",
+          "published": "Sun, 18 Oct 2026 23:24:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國務院更新對中旅遊警示 新增「不當拘留」風險指標",
+          "summary": "美國新聞網站Semafor取得的一份最新規劃顯示，美國國務院正在更新對中國的旅遊警示，調升美國公民在當地遭「不當拘留」（wrongful detention）的風險等級。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610716",
+          "published": "Sun, 18 Oct 2026 22:56:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
