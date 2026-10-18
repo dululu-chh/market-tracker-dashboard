@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-18T22:10:25.241667",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 21:37:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the fro…",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本國家級證照 台灣人正名「台灣」",
+          "summary": "醫生、獸醫師等職業 不用再被迫登記為「中國」 〔國際新聞中心／綜合報導〕日本政府近期針對醫師、獸醫師、美髮師及保育員等各部會管轄的三二二項國家級證照進行制度調整，全面解除過去僅限填寫「國籍」的單一限制。隨著各主管機關陸續完成修法與行政調整，台灣出身者在取得相關國家證照並進行登記時，文件欄位已可正式…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1775055",
+          "published": "Mon, 19 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "謠言終結站》4種食物可溶解血栓？誇大傳聞",
+          "summary": "網傳內容：4種食物可溶解血栓，包括白花椰菜可防止血管鈣化、香菇可抑制血小板凝結、酪梨可預防動脈硬化，生薑則被稱為「食物界的阿斯匹靈」？ 查證結果：台灣事實查核中心引述心臟血管內科醫師指出，前述4種食物因富含纖維、不飽和脂肪酸等，確實有益心血管健康，但無法溶解已形成的血栓，傳言過度誇大；服用抗血栓藥…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1775060",
+          "published": "Mon, 19 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "卸任前內外交迫》法國明年總統大選 黨內憂馬克宏拖累選情",
+          "summary": "〔國際新聞中心／綜合報導〕法國各地十七日爆發大規模動亂，抗議生活與燃油成本高漲的示威浪潮，與已持續數週的高中生抗議活動全面合流，在巴黎、馬賽、里昂等逾百處地點引爆激烈警民衝突。在法國面臨內政與外交雙重困境、政府試圖推動樽節預算之際，這場動盪成為總統馬克宏（Emmanuel Macron）卸任前的嚴峻…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1775057",
+          "published": "Mon, 19 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
