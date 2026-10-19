@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-10-19T11:49:34.457873",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+          "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+          "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 09:24:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+          "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 10:33:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "自由說新聞》法國抗議震撼一幕瘋傳！ 示威變調「深層原因」成台灣借鏡",
+          "summary": "【更多內容  請見影片】 訂閱【自由追新聞】 全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611539",
+          "published": "Mon, 19 Oct 2026 18:21:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "澳洲國會議員海恩斯遭車輛蓄意衝撞 重傷命危",
+          "summary": "澳洲總理艾班尼斯（Anthony Albanese）表示，國會議員海恩斯（Helen Haines）今（19）日在她位於旺加拉塔（Wangaratta）的辦公室附近遭車輛蓄意撞擊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611421",
+          "published": "Mon, 19 Oct 2026 17:56:56 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "未收到美國攻擊預警 烏克蘭遭俄羅斯襲擊致1死8傷",
+          "summary": "烏克蘭總統澤倫斯基18日接受美國國家廣播公司（NBC）採訪時說，美國與烏克蘭在經歷一段摩擦後，雙方的情報共享管道已恢復運作。但烏克蘭首都基輔19日凌晨遭到俄羅斯飛彈襲擊，造成1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611405",
+          "published": "Mon, 19 Oct 2026 17:29:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
