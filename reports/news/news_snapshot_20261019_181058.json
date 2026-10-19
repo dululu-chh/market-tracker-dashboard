@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-19T18:10:56.433336",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Australian MP critically injured after being hit by car in apparent attack",
+          "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 17:18:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+          "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 16:22:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "法國示威演變成暴力衝突　北部城市局部宵禁",
+          "summary": "法國爆發多年來最嚴重的街頭暴力衝突後，官方宣布今天和明天晚間在北部數座城市實施局部宵禁。  法新社報導，根據法國總理勒克努（Sebastien Lecornu）辦公室說法，里爾（Lille）...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611746",
+          "published": "Tue, 20 Oct 2026 01:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反制中國擴張！美軍密集演習部署「泰風系統」 釋放聯戰訊號",
+          "summary": "在外界對中國軍力擴張的疑慮正日益加深之際，統率駐亞洲美國陸軍部隊的美國太平洋陸軍（US Army Pacific）司令克拉克（Ronald Clark）上將表示，他希望在印太...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611745",
+          "published": "Tue, 20 Oct 2026 00:58:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "菲參議員怒批中國大使 擬提案列不受歡迎人物 籲其主動打包走人",
+          "summary": "針對中國駐菲律賓大使井泉日前發表「若動武可輕易取勝」的言論，菲律賓參議員杜爾弗（Erwin Tulfo）19日表示，與其等著被菲律賓參議院正式宣告為「不受歡迎人物」（pers...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611744",
+          "published": "Tue, 20 Oct 2026 00:55:36 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
