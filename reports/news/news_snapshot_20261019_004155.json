@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-19T00:41:53.761739",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+          "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 22:22:51 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "暫緩對俄制裁惹議  川普痛批澤倫斯基不想結束戰爭",
+          "summary": "美國總統川普先前暫緩實施對俄羅斯制裁與關稅措施，引發各界抨擊，川普18日在社群媒體發文指出，他正在針對烏俄戰爭進行和平談判，「因此不希望做任何愚蠢的事，把俄羅斯逼離談判桌」。針對...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610800",
+          "published": "Mon, 19 Oct 2026 07:58:44 +0800",
+          "keywords": []
+        },
+        {
+          "title": "強風助長加拿大軍事基地靶場火勢  4人死亡、數十人重傷",
+          "summary": "加拿大亞伯達省（Alberta）中部一處軍事基地17日發生重大火災，加拿大總理卡尼（Mark Carney）18日表示，這場火災造成加國最大軍事基地之一的溫賴特基地（CFB Wa...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610786",
+          "published": "Mon, 19 Oct 2026 07:13:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "加拿大軍事基地重大事故 總理：已知4軍人罹難數十人重傷",
+          "summary": "首次上稿 03:12更新時間 06:10 加拿大總理卡尼今天表示，西部亞伯達省一處軍事基地發生火災，造成4名軍人喪生、數十人重傷。他形容這起事件是軍方於承平時期在本土最嚴重悲劇之一。 \r...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5610775",
+          "published": "Mon, 19 Oct 2026 06:10:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
