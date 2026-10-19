@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-19T05:35:55.297938",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 05:07:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France's government under pressure after weekend of widespread violence",
+          "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+          "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "韓女團中籍成員意外揭開遮羞布！中國網友嘆：丟臉低薪被發現了",
+          "summary": "SM娛樂創辦人李秀滿，另組A2O娛樂公司後近日推出9人新女團A2O LITE，孰料13歲中國成員盛艾敬（藝名AIJING）被爆出父母經營公司拖欠員工薪資，被法院強制執行345萬人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611128",
+          "published": "Mon, 19 Oct 2026 13:02:50 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "法國黑衣男洗劫動漫店！店長死守遭飛踢跪地 驚悚畫面曝",
+          "summary": "法國大規模示威活動部分演變成暴力及搶掠事件。尼斯（Nice）一間動漫遊戲連鎖店Micromania遭人闖入洗劫，店長守在門口試圖保護財物期間，被一名黑衣男子從背後偷襲飛踢，當場跪...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611030",
+          "published": "Mon, 19 Oct 2026 12:16:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本神奈川驚傳巴士車禍 14人送醫1命危",
+          "summary": "日本神奈川縣藤澤市今（19日）上午9時許，有1輛巴士與自小客車相撞，導致巴士11名乘客、自小客車3人送醫治療，其中1人失去意識，狀況危急。  據《NHK》報導，車禍地點位於J...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5611046",
+          "published": "Mon, 19 Oct 2026 12:15:34 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
