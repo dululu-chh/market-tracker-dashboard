@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-20T21:08:18.170023",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 20:01:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+          "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 12:08:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Man charged with attack on Australia MP to face court",
+          "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 11:25:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱烏克蘭須展現結束戰爭意願　籲基輔與俄簽和平協議",
+          "summary": "美國總統川普（Donald Trump）今天呼籲烏克蘭與俄羅斯達成協議以終結兩國戰事，並表示基輔須展現出結束戰爭的意願。  路透社報導，川普在白宮橢圓形辦公室（Oval Office）告訴現...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613039",
+          "published": "Wed, 21 Oct 2026 04:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗最高安全官員：絕不容許核材料運出德黑蘭",
+          "summary": "伊朗國家電視台報導，最高國家安全委員會（SNSC）秘書雷札伊（Mohsen Rezaei）今天告訴來訪的巴基斯坦陸軍參謀長穆尼爾（Asim Munir），德黑蘭絕不容許濃縮核材料運出伊朗。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613031",
+          "published": "Wed, 21 Oct 2026 02:36:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國防動亂再起　首都巴黎部分地點連2夜實施宵禁",
+          "summary": "法國首都巴黎市警方今天連續第2夜對部分市區實施宵禁。當局表示，經過週末的暴動和打劫亂象後，昨夜實施的宵禁成功讓市區恢復平靜。  法新社報導，今夜實施宵禁地點，在週末許多衝突發生地、巴黎市中心...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613028",
+          "published": "Wed, 21 Oct 2026 02:12:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
