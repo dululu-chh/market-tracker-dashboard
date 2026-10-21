@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-21T11:00:05.148523",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+          "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 10:52:00 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+          "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+          "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 20 Oct 2026 20:00:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+          "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 06:50:40 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "捍衛台海！美新版陸軍作戰指南曝光：第一島鏈部署遠距精準打擊力",
+          "summary": "美國國防部日前發布新版陸軍作戰指南《陸軍如何作戰》，表明美軍將在第一島鏈集中部署遠程精準打擊力量，確保在台灣海峽等區域爆發軍事衝突的第一天起，駐紮當地的美軍即能迅速投入作戰。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613932",
+          "published": "Wed, 21 Oct 2026 18:38:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "協防台灣？美駐韓陸軍司令：需保持戰略靈活性",
+          "summary": "香港《南華早報》報導，駐韓美軍第八軍團司令希爾伯特（Joe Hilbert）中將表示，他率領的部隊若接獲命令，必須做好部署至韓半島以外地區的準備，並稱若只聚焦於當地的威脅，將是...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613941",
+          "published": "Wed, 21 Oct 2026 18:21:15 +0800",
+          "keywords": []
+        },
+        {
+          "title": "葉門叛軍一週三度攻擊亞丁 沙國軍事據點遭飛彈襲擊",
+          "summary": "葉門叛軍青年運動表示，他們21日襲擊了位於葉門亞丁（Aden）的一處沙烏地阿拉伯軍事據點，當地機場附近可見濃煙升起。這是青年運動在1週內第三度攻擊亞丁，而該城市正是由沙烏地阿拉...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5613921",
+          "published": "Wed, 21 Oct 2026 17:59:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
