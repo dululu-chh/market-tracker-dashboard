@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-21T19:52:53.543539",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 17:42:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 14:04:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+          "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+          "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 18:10:42 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普特使：與普丁會談具建設性　但重要工作仍待完成",
+          "summary": "美國特使魏科夫今天表示，他與俄羅斯總統普丁的會談「具建設性」，但「重要工作」仍待完成。  法新社報導，魏科夫（Steve Witkoff）在社群媒體上寫道：「會談具建設性，接下來美國、俄羅斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614375",
+          "published": "Thu, 22 Oct 2026 03:30:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "普廷點頭恢復美俄烏三方談判 停火協商有望重啟",
+          "summary": "克里姆林宮官員表示，俄羅斯總統普廷（Vladimir Putin）21日同意在下個月恢復與華府及基輔的「三方談判」，以結束烏克蘭戰爭；這可能促成自2月以來的首次此類會談。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614369",
+          "published": "Thu, 22 Oct 2026 02:59:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "Meta因劍橋分析醜聞遭重罰！法官裁定須賠償新墨西哥州250億美元",
+          "summary": "在陪審團裁定社群媒體巨頭Meta在臉書（Facebook）的隱私及內容審查政策上欺騙用戶，必須負起法律責任後，一名法官21日判處Meta須向新墨西哥州支付高達250億美元（約...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614366",
+          "published": "Thu, 22 Oct 2026 02:57:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
