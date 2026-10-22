@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-22T01:17:23.278959",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+          "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 21:27:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 21 Oct 2026 14:04:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "普廷點頭恢復美俄烏三方談判 停火協商有望重啟",
+          "summary": "首次上稿 10-22 02:59更新時間 10-22 07:17 克里姆林宮官員表示，俄羅斯總統普廷（Vladimir Putin）21日同意在下個月恢復與華府及基輔的「三...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614369",
+          "published": "Thu, 22 Oct 2026 07:17:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中東戰火升級！美急撤駐沙烏地外交人員及眷屬 擬擴大至波灣多國",
+          "summary": "路透引述美國官員報導，美國國務院已下令部分外交人員及眷屬撤離駐沙烏地阿拉伯外交機構，並同時計劃撤離駐中東地區其他多個外交機構的人員眷屬。  路透報導，美國國務院發言人皮戈特（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614385",
+          "published": "Thu, 22 Oct 2026 07:05:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美俄柴油協議生效 首艘油輪週四啟航",
+          "summary": "首次上稿 10-21 22:21更新時間 10-22 06:54 為了平抑燃油價格，美國總統川普本月10日與俄羅斯達成協議，將向俄國進口數百萬噸柴油。俄羅斯副總理諾瓦克（Ale...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5614148",
+          "published": "Thu, 22 Oct 2026 06:54:20 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
