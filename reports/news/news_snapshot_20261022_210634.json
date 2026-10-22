@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-22T21:06:32.814884",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+          "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+          "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 15:56:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Race to update services' computer systems after cyber-security flaw found",
+          "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+          "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 17:14:04 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "華爾街日報：川普促馬斯克解除烏克蘭星鏈限制",
+          "summary": "「華爾街日報」今天援引美國官員的說法報導，美國總統川普（Donald Trump）與富豪馬斯克（Elon Musk）通電話，要求他解除對烏克蘭使用星鏈（Starlink）的限制。  路透社報...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5615822",
+          "published": "Fri, 23 Oct 2026 05:00:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普告BBC誹謗求償百億美元　法官限期12/11前宣誓作證",
+          "summary": "美國一名法官今天下令，總統川普必須在12月11日前，就他控告英國廣播公司（BBC）誹謗、求償100億美元（約新台幣3260.6億元）的訴訟案宣誓作證。  法新社報導，邁阿密法官黎特（Enjo...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5615819",
+          "published": "Fri, 23 Oct 2026 04:00:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施",
+          "summary": "伊朗最高國家安全委員會秘書雷札伊（Mohsen Rezaei）警告，如果美國與以色列發動新一波攻擊，伊朗將打擊波斯灣地區多達7個國家的石油設施、海底電纜、資料中心與人工智慧（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5615816",
+          "published": "Fri, 23 Oct 2026 03:32:21 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
