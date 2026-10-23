@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-23T10:52:21.268184",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 23 Oct 2026 09:36:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 23 Oct 2026 10:26:06 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+          "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+          "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 23 Oct 2026 10:14:37 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "克宮預告 下月在阿布達比重啟俄美烏會談",
+          "summary": "俄羅斯克里姆林宮發言人培斯科夫（Dmitry Peskov）23日告訴記者，「計畫」11月在阿拉伯聯合大公國首都阿布達比，重啟俄羅斯、烏克蘭與美國之間的會談。  相關會談自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616678",
+          "published": "Fri, 23 Oct 2026 18:38:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "車載鏡頭、感測器可能情蒐 美軍禁中國比亞迪車進嘉手納基地",
+          "summary": "美軍23日以安全風險為由，宣佈禁止中國電動車製造商比亞迪（BYD）製造的車輛，進入日本沖繩嘉手納空軍基地。  路透23日引述韓聯社報導，這項措施預定26日起生效，將拒絕比亞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616667",
+          "published": "Fri, 23 Oct 2026 18:33:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黑海頻傳商船遇險遭攻擊 羅國總統怪罪俄羅斯升高對烏克蘭的攻擊",
+          "summary": "羅馬尼亞總統達恩（Nicusor Dan）23日將最新1起黑海商船遭攻擊遇險事件，歸咎於俄羅斯，稱此明顯肇因於莫斯科當局升高對烏克蘭的攻擊。  達恩告訴記者，行駛於黑海上的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616665",
+          "published": "Fri, 23 Oct 2026 18:30:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
