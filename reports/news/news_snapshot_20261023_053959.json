@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-23T05:39:57.276691",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 23:16:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 22 Oct 2026 22:27:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共五中全會前狂打虎！美專家揭習近平困境：在「受污染的池子」挑人",
+          "summary": "中共總書記習近平執政以來持續推動反腐，中共高官卻仍不斷遭到查辦。中共第二十屆中央委員會第五次全體會議（五中全會）將於10月26日至29日登場，外界關注這場聚焦「全面從嚴治黨」的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616239",
+          "published": "Fri, 23 Oct 2026 12:42:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "「接近無限透明的藍」作者村上龍辭世 享壽74歲",
+          "summary": "以作品「接近無限透明的藍」聞名的日本作家村上龍17日在家中逝世，享壽74歲。出版社幻冬舍BOOKS今天在官方X帳號公布此消息。  日本共同社、ORICON NEWS報導，出版社發布的公告...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616231",
+          "published": "Fri, 23 Oct 2026 12:41:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "PHP漏洞害慘全球！日電玩大廠千萬筆個資外洩 高市早苗官網也關閉",
+          "summary": "全球網站廣泛使用的PHP程式語言，日前被AI揪出嚴重漏洞，迫使各國緊急展開修補，日本電玩大廠卡普空（CAPCOM）也坦承遭到攻破並有逾千萬筆個資外洩，日本首相高市早苗也一度緊急關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5616092",
+          "published": "Fri, 23 Oct 2026 12:39:22 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
