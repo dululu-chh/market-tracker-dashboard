@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-24T15:14:10.737563",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 14:16:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+          "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+          "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 23 Oct 2026 22:47:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "衛星影像顯示沙國擴大飛彈生產 專家判斷師法中國技術",
+          "summary": "路透報導，衛星影像顯示，因中東衝突陷入安全困境的沙烏地阿拉伯，從去年開始著手擴建飛彈生產工廠，製造飛行距離更遠、威力更加強大的固態燃料彈道飛彈，採用的技術則可能來自中國。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617736",
+          "published": "Sat, 24 Oct 2026 23:05:46 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美英搶熊？ 小熊維尼百歲傳「接他回鄉」呼聲 英國回應了",
+          "summary": "英國經典兒童故事角色「小熊維尼」（Winnie-the-Pooh）今年100歲，近日傳出讓小熊維尼原版玩偶回歸英國的呼聲，看似要掀起一場跨大西洋搶熊風波。不過，英國駐美大使館出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617741",
+          "published": "Sat, 24 Oct 2026 22:55:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "魯比歐收情報機構警告：伊朗對美國公民威脅升高",
+          "summary": "美國國務院下令沙烏地阿拉伯部分外交官員及其眷屬撤離後，進一步指示縮減約旦、黎巴嫩、卡達和阿拉伯聯合大公國使館人力配置。美聯社指出，身兼國家安全顧問的美國國務卿魯比歐收到情報機構...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617724",
+          "published": "Sat, 24 Oct 2026 22:35:31 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
