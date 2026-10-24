@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-24T18:32:33.811199",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+          "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 17:21:42 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 15:21:44 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "金正恩結束訪中行程　分析：盼北京加速兌現承諾",
+          "summary": "北韓領導人金正恩結束中國遼寧省丹東一天的訪問行程後，今天返國。中國官方媒體報導，這次突訪目的尚未明朗。學者分析，金正恩此次或許是為了「敦促中方加速履行」今年中國國家主席習近平訪問北韓期間達成...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617783",
+          "published": "Sun, 25 Oct 2026 01:45:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄羅斯遠東地區列車撞上小型巴士 導致6死1傷",
+          "summary": "俄羅斯遠東地區猶太自治區（Jewish Autonomous Region）鐵路當局指出，一列客運列車撞上一輛試圖穿越平交道的小型巴士，造成6人喪命、1人受傷慘劇。  路透社報導，鐵路當...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617763",
+          "published": "Sun, 25 Oct 2026 00:33:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美31歲婦涉亂倫性侵未滿12歲男童 遭重罪起訴恐面臨終身監禁",
+          "summary": "美國肯塔基州納爾遜郡（Nelson County）31歲女子維南斯（Lauren Winans），因涉嫌對未滿12歲男童以及她的親屬實施性侵，於週四（22日）遭到警方逮捕並起訴。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5617699",
+          "published": "Sun, 25 Oct 2026 00:23:43 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
