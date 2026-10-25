@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-10-25T08:01:49.899151",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 04:16:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 05:15:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+          "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+          "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 24 Oct 2026 23:50:02 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中共五中全會明登場！近1/4中央委員遭撤換 習近平整肅黨紀成焦點",
+          "summary": "中共二十屆中央委員會第五次全體會議（五中全會）明（26）日在北京登場，為期4天。隨著習近平在2027年中共二十一大爭取第四任期之際，這場閉門會議將聚焦全面從嚴治黨與黨內紀律；外...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618206",
+          "published": "Sun, 25 Oct 2026 15:56:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "捍衛人類就業權！美退休教授擋住Uber Eats外送機器人被捕",
+          "summary": "美國賓州大學78歲退休教授馬文（Carolyn Marvin），本月14日在費城街頭擋住Uber Eats外送機器人，隨即遭到警察逮捕，她指稱自己之所以這樣做，是因為機器人對外送...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618147",
+          "published": "Sun, 25 Oct 2026 15:45:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普對伊朗動核武「五五波」？美預言家另預言27年世界大戰",
+          "summary": "美國總統川普是否可能對伊朗動用核武？英國《太陽報》（The Sun）報導，被稱為「美版諾斯特拉達姆斯」的預言作者霍格（John Hogue）聲稱，川普對伊朗發動核攻擊的可能性是...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618109",
+          "published": "Sun, 25 Oct 2026 14:36:27 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
