@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-25T17:22:35.801138",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 16:21:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 16:05:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "流亡近1年　委內瑞拉反對派領袖馬查多返國",
+          "summary": "委內瑞拉反對派領袖、諾貝爾和平獎得主馬查多今天表示，她在流亡將近一年後已經返回祖國。  法新社報導，馬查多（Maria Corina Machado）在社群平台X以西班牙文發文表示：「我在這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618637",
+          "published": "Mon, 26 Oct 2026 01:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中共五中全會將至 金融時報：習近平恐擬鋪路復辟「黨主席」頭銜",
+          "summary": "隨著中共第20屆中央委員會第5次全體會議（五中全會）將於北京召開，外界正密切關注中共總書記習近平是否會藉此進一步鞏固其權力。美國智庫專家預測，習近平有可能在本次會議中，為復辟...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618632",
+          "published": "Mon, 26 Oct 2026 00:53:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國會選舉在即 歐巴馬、川普隔空互嗆",
+          "summary": "美國總統川普在為共和黨籍期中選舉候選人拉票時，總會呼籲選民也把他本人當成候選人，盼其個人政治光環能惠及同黨同志及其選情；選民是否會聽川普之命行事尚不得而知，但至少有1名美國人在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618624",
+          "published": "Sun, 25 Oct 2026 23:59:59 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
