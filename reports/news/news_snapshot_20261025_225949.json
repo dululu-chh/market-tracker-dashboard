@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-10-25T22:59:47.778109",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 22:54:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Deeply divided Israel braces for pivotal election",
+          "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 22:11:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 18:29:00 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普挺納坦雅胡連任 美媒：傳親近幕僚盼以色列換人執政",
+          "summary": "首次上稿 10-26 03:21更新時間 10-26 06:24 以色列27日舉行國會大選，美國總統川普已表態支持現任總理納坦雅胡（Benjamin Netanyahu）連...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618657",
+          "published": "Mon, 26 Oct 2026 06:24:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "猜猜民主黨會怎樣？路透：美國會若變天將終結伊戰、重啟援烏",
+          "summary": "首次上稿 10-26 01:40更新時間 10-26 06:02 獨立政治分析人士指出，美國民主黨在11月3日的期中選舉中，有極大機會贏下聯邦眾議院，甚至拿下參議院；這將使...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618639",
+          "published": "Mon, 26 Oct 2026 06:02:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西投票日公共運輸出狀況　最高法院裁定投票延長兩小時",
+          "summary": "巴西展開選情緊繃的總統選舉決選投票。最高法院一名法官今天宣布，由於接獲公共運輸問題影響投票的投訴，投票時程將延長兩小時。  法新社報導，在總統魯拉（Luiz Inacio Lula da S...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618675",
+          "published": "Mon, 26 Oct 2026 05:30:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
