@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-10-26T01:03:35.745918",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 22:54:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Deeply divided Israel braces for pivotal election",
+          "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 22:11:13 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 25 Oct 2026 23:33:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "重啟和平談判！ 澤倫斯基：烏美俄三方會談將於11月舉行",
+          "summary": "烏克蘭總統澤倫斯基25日表示，烏克蘭、美國與俄羅斯將在11月舉行三方會談，希望能重啟陷入僵局的和平談判。  綜合外媒報導，澤倫斯基在接受烏克蘭電視台訪問時說：「我們已經準備好...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618695",
+          "published": "Mon, 26 Oct 2026 08:16:20 +0800",
+          "keywords": []
+        },
+        {
+          "title": "武契奇認輸！學運壓垮14年執政 塞爾維亞大選反對派勝出",
+          "summary": "塞爾維亞25日提前舉行國會大選，開票結果顯示由青年學生主導、成員組成多元的反對勢力「學生名單黨」（Students’ List）保持領先，隸屬塞爾維亞進步黨（SNS）的塞爾維亞總...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618679",
+          "published": "Mon, 26 Oct 2026 07:25:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中航艦大車拚！遼寧號逆時針繞菲 與羅斯福號互別苗頭",
+          "summary": "首次上稿 10-26 03:14更新時間 10-26 07:24 中國海軍「遼寧號」航空母艦打擊群上週駛出「第一島鏈」，抵達菲律賓最南端水域，此舉被視為意圖向美國和日本正在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5618643",
+          "published": "Mon, 26 Oct 2026 07:24:55 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
