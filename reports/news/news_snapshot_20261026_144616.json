@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-26T14:46:14.879706",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 13:54:21 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 14:34:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 14:41:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "李在明：韓國在他任內不太可能加入CPTPP",
+          "summary": "韓國總統李在明今天表示，韓國在他任內不太可能加入「跨太平洋夥伴全面進步協定」（CPTPP）。  路透社報導，李在明在與農民、漁民及林業工作者會面時指出，韓國若提出申請，需要取得協定所有1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5619312",
+          "published": "Mon, 26 Oct 2026 22:32:40 +0800",
+          "keywords": []
+        },
+        {
+          "title": "阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
+          "summary": "巴西現任左派總統魯拉（Luiz Inacio Lula da Silva）在25日的總統決選中，驚險擊敗右翼候選人佛拉維歐‧波索納洛（Flavio Bolsonaro），顯示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5619568",
+          "published": "Mon, 26 Oct 2026 22:23:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "前北京市政協主席魏小東落馬內幕曝光  與女建商關係匪淺",
+          "summary": "今年6月初遭中共中紀委以「涉嫌嚴重違紀違法」為由官宣落馬的北京市政協黨組書記、主席魏小東，近日遭中媒《財新網》踢爆，他落馬的原因恐與建築業女老闆關係密切，並讓她承接北京多起重大...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5619535",
+          "published": "Mon, 26 Oct 2026 21:45:13 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
