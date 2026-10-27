@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-10-27T00:11:48.544201",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 21:02:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 14:34:52 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 19:27:21 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "暗示再戰伊朗！以色列大選前夕 納坦雅胡：川普支持我",
+          "summary": "以色列大選前夕，以國總理納坦雅胡（Benjamin Netanyahu）大力宣揚其獲得美國總統川普背書，並暗示若由他贏得選舉，兩國領袖可能重新對伊朗發動戰爭。此前川普曾公開表示，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5619661",
+          "published": "Tue, 27 Oct 2026 07:04:18 +0800",
+          "keywords": []
+        },
+        {
+          "title": "掌控西半球 川普拿不到巴西拼圖",
+          "summary": "〔國際新聞中心／綜合報導〕巴西現任左派總統魯拉（Luiz Inacio Lula da Silva）在廿五日的總統決選中，驚險擊敗右翼候選人佛拉維歐‧波索納洛（Flavio Bolsonaro），顯示巴西選民拒絕讓拉丁美洲復甦的右翼勢力奪下最終勝利，中斷了過去十八個月來保守派連續贏得七場總統大選的紀…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1776090",
+          "published": "Tue, 27 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴西總統大選 魯拉逆轉勝連任",
+          "summary": "得票率逾5成 力壓右派前總統波索納洛之子 〔編譯林家宇／綜合報導〕巴西總統大選第二輪投票結果廿五日出爐，力拚連任的現任總統魯拉（Luíz Inácio Lula da Silva）跌破各界眼鏡，以超過五成得票率勝選，不僅成為巴西總統選舉史上首位在第二輪逆轉勝候選人，也成為該國首位四度執政的領袖。…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1776089",
+          "published": "Tue, 27 Oct 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
