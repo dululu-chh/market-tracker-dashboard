@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-27T11:25:15.892723",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+          "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 11:11:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+          "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 01:46:38 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 11:17:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
+          "summary": "美國權威線上詞典Dictionary.com本月25日公布了2026年的年度代表字「極大化」（maxxing），這個詞彙是用來表達你正在盡全力做某件事，或者想盡可能做到最好。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620474",
+          "published": "Tue, 27 Oct 2026 18:43:47 +0800",
+          "keywords": []
+        },
+        {
+          "title": "稱敗選後被要求交護照、禁出境  巴西前總統之子否認要逃亡",
+          "summary": "巴西右翼前總統波索納洛之子、參議員佛拉維歐．波索納洛（Flavio Bolsonaro）在總統大選中落敗後，26日表示，最高法院禁止他出境，聯邦警方並要求他交出護照。  路...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620620",
+          "published": "Tue, 27 Oct 2026 18:15:49 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美俄柴油協議掀爭議 民主黨議員警告業者進口柴油恐觸法",
+          "summary": "美國總統川普之前宣布美國將購買俄羅斯柴油，以壓低燃料價格，此舉引發民主黨與共和黨的批評。美國眾議院司法委員會民主黨首席議員拉斯金（Jamie Raskin）26日在致石油行業負...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620514",
+          "published": "Tue, 27 Oct 2026 17:49:32 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
