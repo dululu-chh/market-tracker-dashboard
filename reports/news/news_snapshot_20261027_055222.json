@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-10-27T05:52:20.643142",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 26 Oct 2026 21:02:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 02:01:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+          "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 02:40:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "姆巴佩「中國獨裁者」暗指毛澤東 多間中企跳腳封殺",
+          "summary": "法國足球天王姆巴佩在26日播出的訪談提到了「中國獨裁者（dictateur chinois）」，被認為是在說毛澤東，此事引發中國全體跳腳，多間中企宣布終止與姆巴佩的合作。  ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620134",
+          "published": "Tue, 27 Oct 2026 13:27:30 +0800",
+          "keywords": []
+        },
+        {
+          "title": "習近平不立接班人有盤算？五中全會前後的權力交接難題",
+          "summary": "中共二十屆五中全會26日在北京開幕，聚焦持續推進全面從嚴治黨。在2027年中共二十一大高層人事布局備受關注之際，中國國家主席習近平至今未公開指定接班人，凸顯權力高度集中於一人所...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620175",
+          "published": "Tue, 27 Oct 2026 13:19:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊",
+          "summary": "美國總統川普對於諾貝爾和平獎沒頒給他一事相當不滿，25日在密西根州休倫港（Port Huron）舉行的政治造勢活動上，批評挪威是「糟糕透頂的國家（shit house count...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5620039",
+          "published": "Tue, 27 Oct 2026 13:02:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
