@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-28T06:32:31.953280",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Norway and Finland leaders hold rare call with Putin",
+          "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 18:28:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 22:11:08 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 27 Oct 2026 13:25:54 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國學生也瘋玩！習近平迷因惡搞小遊戲「合成大邁乎」爆紅",
+          "summary": "法國球星姆巴佩（Kylian Mbappe）日前提到最愛的網路迷因，是一張合成自己與中國前領導人毛澤東頭像的哏圖，未料竟因此引爆中國政府砲轟、企業封殺，以及小粉紅連日出征。值得一...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5621190",
+          "published": "Wed, 28 Oct 2026 13:40:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "納坦雅胡稱美以合作或消除伊朗威脅 遭對手警告勿藉安全議題組閣",
+          "summary": "以色列27日舉行國會大選，這是自從加薩戰爭和美國及以色列聯手對伊朗開戰以來以色列首場全國性選舉。以色列總理納坦雅胡28日誓言將組成政府，並強調以色列與美國合作，有可能終結伊朗所...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5621161",
+          "published": "Wed, 28 Oct 2026 12:38:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普稱將禁用人工智慧一詞 改採超級智慧更準確",
+          "summary": "美國總統川普今天表示，他將在「所有相關文件及其他一切場合」禁用「人工智慧」（AI）一詞。他批評「華爾街日報」使用AI一詞，而非他偏好的「超級智慧」（SI）。  「國會山莊報」（The H...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5621167",
+          "published": "Wed, 28 Oct 2026 11:52:16 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
