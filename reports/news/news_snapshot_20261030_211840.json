@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-30T21:18:37.972603",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 17:07:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 16:26:11 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+          "summary": "葉門叛軍「青年運動」與沙烏地阿拉伯領導的聯軍衝突持續升高。聯軍今天表示，在利雅德附近攔截並摧毀一架無人機，同時攔截一枚朝南部發射的彈道飛彈。美國駐沙烏地大使館因安全風險升高，下令非緊急政府人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5624477",
+          "published": "Sat, 31 Oct 2026 04:30:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美期中選舉提前投票人數創新高　民主黨選民占比領先",
+          "summary": "根據今天公布的統計數據，美國下週舉行期中選舉的提前投票人數已創下歷史新高，達到約4790萬人。多個關鍵搖擺州的投票參與率大幅攀升，而登記為民主黨的選民人數明顯超過共和黨。  法新社報導，佛羅...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5624472",
+          "published": "Sat, 31 Oct 2026 03:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "暫停約兩週 烏克蘭恢復攻擊俄國煉油廠",
+          "summary": "在暫停約兩週後，烏克蘭30日再度對俄羅斯能源設施發動攻擊，鎖定俄國西南部薩馬拉州的諾沃古比雪夫斯克（Novokuibyshevsk）煉油廠。此舉凸顯基輔在面對美國總統川普政府...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5624440",
+          "published": "Fri, 30 Oct 2026 23:35:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
