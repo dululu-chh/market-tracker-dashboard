@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-10-31T22:21:49.448732",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 21:29:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "謠言終結站》美選票回郵信封有洞? 引導協助計票",
+          "summary": "網傳消息：美國期中選舉前夕，網路流傳影片，聲稱加州某些郡的選票回郵信封上打有孔洞，是為了讓選務人員從孔洞窺看選票、辨識候選人，進而非法丟棄特定候選人的選票，以打壓共和黨選民。    查證結果：不實。法新社查證指出，相關說法早在加州2025年特別選舉期間即已被闢謠。據選務官員說明，信封正面的孔…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1776743",
+          "published": "Sun, 01 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐加結盟抗川普 成立未來聯盟深化關係",
+          "summary": "〔編譯張沛元／綜合報導〕共同面對日漸疏離傳統夥伴的美國總統川普，歐洲聯盟（EU）與加拿大十月卅日宣布成立一個新聯盟，加拿大將成為歐盟的第一個「準成員」（associate member），鞏固並深化與擁有廿七個成員國的歐洲聯盟的關係，以便為兩造人民提供能夠蓬勃發展與抵禦地緣政治變化的保護傘。  …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1776742",
+          "published": "Sun, 01 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊最高領袖下令備戰 卡達續斡旋",
+          "summary": "〔編譯張沛元／綜合報導〕值此居中斡旋的卡達積極促成美國與伊朗達成協議以免戰火再起之際，伊朗最高領袖穆吉塔巴．哈米尼十月卅一日透過社群媒體發表聲明，下令伊朗軍方立刻為與美國和以色列的重新對抗做好準備，並指示擴大打擊目標與報復手段。  根據伊朗官方Telegram帳號，穆吉塔巴當天會見了伊斯蘭革命衛…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1776741",
+          "published": "Sun, 01 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
