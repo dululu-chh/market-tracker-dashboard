@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-10-31T14:12:38.093885",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+          "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 13:45:34 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 12:21:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 02:12:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "G20外長會議歐洲批俄砲火猛拒同框 大合照取消",
+          "summary": "二十國集團（G20）外長會議30、31日在美國亞特蘭大舉行，原訂的大合照卻臨時取消。英國廣播公司（BBC）報導，因部分歐洲外交官不願與出席會議的俄羅斯外交部長拉夫羅夫（Serg...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625225",
+          "published": "Sat, 31 Oct 2026 21:00:36 +0800",
+          "keywords": []
+        },
+        {
+          "title": "波蘭憲法法院動盪蔓延  駐中大使請辭引發跟進潮",
+          "summary": "波蘭憲法法院人事任命風波引爆的政治危機持續蔓延。波蘭駐中國大使古天衛今天率先宣布請辭；波蘭駐羅馬尼亞大使索洛克隨後也請辭，已在波蘭官場引發跟進潮。  古天衛（Jakub Kumoch）3...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625162",
+          "published": "Sat, 31 Oct 2026 20:09:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "自由觀點》姆巴佩救了蔡康永！餓死也要愛國？",
+          "summary": "…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625003",
+          "published": "Sat, 31 Oct 2026 20:00:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
