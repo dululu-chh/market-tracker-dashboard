@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-11-01T08:33:38.168331",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Shops looted as German cost of living protests turn violent",
+          "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Nov 2026 07:36:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "扯！日本長野縣醫院遺失硬碟 存有8.7萬名患者個資",
+          "summary": "離譜！日本長野縣佐久市的「佐久綜合醫院」，10月30日證實遺失硬碟，裡頭存有8萬7765名患者的個資，目前尚未發現有任何個資遭到濫用。  據《讀賣新聞》報導，佐久綜合醫院表示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625687",
+          "published": "Sun, 01 Nov 2026 16:11:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美期中選舉倒數》川普國會保衛戰一文看懂 參眾兩院過半門檻與關鍵州解析",
+          "summary": "美國11月3日將舉行期中選舉，總統川普所屬的共和黨能否繼續掌控國會兩院，將影響他任期最後兩年的施政空間。民主黨正力拚翻轉國會，生活成本上升、伊朗戰爭及川普支持度低迷，都成為選戰...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625763",
+          "published": "Sun, 01 Nov 2026 15:43:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國間諜疑刺探輝達AI晶片情資 川普首度表態力挺黃仁勳",
+          "summary": "輝達（NVIDIA）執行長黃仁勳遭捲入中國間諜疑雲，美國總統川普10月31日表示，美方正密切關注相關報導，並稱希望黃仁勳平安，強調美國應保護優秀人才。這起事件受到關注，也與黃仁...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5625742",
+          "published": "Sun, 01 Nov 2026 15:25:03 +0800",
+          "keywords": [
+            "AI",
+            "NVIDIA",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
