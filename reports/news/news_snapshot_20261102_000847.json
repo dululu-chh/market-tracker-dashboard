@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-02T00:08:45.543910",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Nov 2026 22:38:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 01 Nov 2026 21:55:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 00:02:15 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
+          "summary": "美國佛羅里達州一架里爾60型（Learjet 60）噴射客機1日因不明原因俯衝墜毀，現場爆出一大團火球，機上9人全數罹難。運輸部長達菲（Sean Duffy）在聲明中表示：「今天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5626174",
+          "published": "Mon, 02 Nov 2026 07:44:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美選舉牽動對中政策！民主黨拚奪回關稅主導權 擬推「對台六項保證法案」",
+          "summary": "首次上稿 11-02 01:58更新時間 11-02 07:27  美國期中選舉將於3日正式登場，這場選舉不僅是總統川普施政滿意度的期中考，更將深刻影響美國未來2年的外交...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5626152",
+          "published": "Mon, 02 Nov 2026 07:27:09 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防變天！白宮擬「無國會施政」劇本 擴大行政權抗民主黨箝制",
+          "summary": "首次上稿 11-02 02:00更新時間 11-02 07:19  1名白宮官員及2名知情人士透露，美國總統川普的白宮團隊已投入數月時間，為民主黨可能在期中選舉奪回國會控...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5626145",
+          "published": "Mon, 02 Nov 2026 07:19:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
