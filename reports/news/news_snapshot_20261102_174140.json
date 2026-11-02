@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-02T17:41:38.821270",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
+          "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+          "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 14:35:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nine killed as small jet crashes on Florida street",
+          "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美期中選舉牽動2028大選 范斯頻繁輔選蓄積接班資本 並展現與川普差異",
+          "summary": "《華盛頓郵報》報導，美國期中選舉的結果不僅將決定國會控制權，更將為副總統范斯（JD Vance）是否投入2028年總統大選，設定未來的政治環境。  報導指出，儘管范斯陣營...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627225",
+          "published": "Tue, 03 Nov 2026 00:56:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普自知將成跛鴨？11年川式造勢畫句點：未來可能不再有",
+          "summary": "美國期中選舉3日正式投票。過去11年來，美國總統川普喧鬧的造勢活動，已成為重塑共和黨與美國政治版圖的標誌性奇觀，但隨著選舉日逼近與潛在的「跛鴨」（lame-duck）執政危機...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627220",
+          "published": "Tue, 03 Nov 2026 00:37:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "韓媒：總統李在明等168人護照資料外洩 上傳付費網站",
+          "summary": "韓國放送公社（KBS）今天報導，韓國總統李在明及部分幕僚的護照資料外洩，相關檔案於今年6月被張貼在一個付費網站上。  根據韓國放送公社，李在明、其維安人員及國家安保室室長魏聖洛（Wi S...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627213",
+          "published": "Mon, 02 Nov 2026 23:58:06 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
