@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-03T15:43:55.996854",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 11:33:33 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 09:09:18 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Libya's top religious authority rules against wearing Nike clothes",
+          "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+          "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 14:56:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國疑測試新型匿蹤三體船  恐成印太海權新威脅",
+          "summary": "根據社群媒體上流傳的照片，中國似乎正在海上測試一艘新型匿蹤三體船（trimaran），顯示北京正進一步加速發展非傳統的海軍作戰平台，擴充其無人艦隊的實力。  香港「南華早...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628469",
+          "published": "Tue, 03 Nov 2026 23:32:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄3噸巨型炸彈炸穿基輔防空洞釀33死！澤倫斯基批趁美選舉恐攻",
+          "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelensky）3日指控，俄羅斯向烏克蘭東南部一處作為人道物資分發中心的學校建築，投擲至少9枚炸彈，造成至少33人死亡、50人下落不...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628446",
+          "published": "Tue, 03 Nov 2026 22:59:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美軍選前突擊伊朗葛希姆島 川普認了：轟炸剛蓋好的防空設施",
+          "summary": "繼美國媒體日昨披露美軍攻擊位於荷姆茲海峽入口處的伊朗的葛希姆島（Qeshm Island）後，此前揚言要在美國期中選舉過後恢復打擊伊朗的美國總統川普，3日一早接受福斯新聞（Fo...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628440",
+          "published": "Tue, 03 Nov 2026 22:47:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
