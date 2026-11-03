@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-03T00:20:14.945625",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 02 Nov 2026 21:10:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 00:07:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+          "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+          "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 00:08:14 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美控北韓駭幣安竊60億美元 金與正：荒謬言論",
+          "summary": "全球最大加密貨幣交易所幣安遭遇大規模網路攻擊，導致63億美元（約新台幣2063.25億元）資產遭竊，美國直指北韓是幕後黑手。平壤今（3）日否認指控，並稱這是「毫無新意的荒謬言論」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627277",
+          "published": "Tue, 03 Nov 2026 08:04:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國期中選舉共和黨崩盤？專家學者6大理由不認同",
+          "summary": "首次上稿 11-02 22:31更新時間 11-03 07:30 11月3日美國期中選舉進入倒數階段。縱使社會氛圍和民調皆有利民主黨選情，也有望在國會選舉有所斬獲，但據路透引...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627161",
+          "published": "Tue, 03 Nov 2026 07:30:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美期中選舉共和黨選情告急 華郵揭翻盤密碼……",
+          "summary": "首次上稿 11-03 23:54更新時間 11-03 07:28 美國期中選舉3日正式投票，華盛頓郵報指出，共和黨能否避免在國會選舉全面崩盤，全看支持者在投票日當天的動員能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627216",
+          "published": "Tue, 03 Nov 2026 07:28:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
