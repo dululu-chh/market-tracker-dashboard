@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-03T07:28:52.765418",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US strikes Iran ahead of midterm elections",
+          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 03:39:08 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 03:32:36 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+          "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 07:24:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "九寨溝爆流血衝突 老人揮拳痛扁年輕人驚悚畫面曝",
+          "summary": "中國知名旅遊勝地四川九寨溝景區驚傳暴力衝突事件，在擠滿遊客的湖畔觀景台上，兩方遊客疑因爭搶「絕佳拍照打卡點」爆發口角，隨後失控演變成全武行。1名身穿藍色外套的老年男子朝年輕男子連...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627561",
+          "published": "Tue, 03 Nov 2026 15:21:02 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台海能源封鎖恐成2028危機！美智庫揭北京2套劇本 北台供電恐撐不到1個月",
+          "summary": "台海能源安全再敲警鐘！美國智庫大西洋理事會（Atlantic Council）資深研究員韋布斯特（Joseph Webster）發表最新簡報，示警北京可能正為對台實施「能源封鎖...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627917",
+          "published": "Tue, 03 Nov 2026 15:15:54 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國清大高材生赴英留學 疑遭詐騙近200萬後失聯",
+          "summary": "中國北京清華大學化學系今年畢業的高材生施博宇，9月前往英國倫敦大學學院（UCL）攻讀碩士，孰料他疑似被詐騙集團假冒的政府人員所欺騙，陸續轉出40多萬人民幣（40萬人民幣約新台幣1...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5627811",
+          "published": "Tue, 03 Nov 2026 14:50:22 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
