@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-04T01:49:13.319748",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spanish transport minister resigns days after deadly train crash",
+          "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 22:45:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 20:42:47 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 03 Nov 2026 16:19:29 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+          "summary": "美國期中大選3日開始，川普在選舉當日接受《福斯新聞》（Fox News）電話採訪時稱，美國將於2026年底開始停止向以色列提供每年約40億美元（約台幣1314億元）的軍事援助。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628582",
+          "published": "Wed, 04 Nov 2026 09:43:51 +0800",
+          "keywords": []
+        },
+        {
+          "title": "搶救失敗！NASA 「雨燕」衛星本週墜地球 部分殘骸恐砸地表",
+          "summary": "在太空中服役長達22年的美國國家航空暨太空總署（NASA）「雨燕天文台」（Swift Observatory），因軌道急速衰減且日前緊急救援任務告吹，將於本週五（6日）前後墜毀重...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628589",
+          "published": "Wed, 04 Nov 2026 09:41:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "北韓又射了！朝日本海發射1枚不明飛行物",
+          "summary": "南韓合同參謀本部今（4日）早9時50分（台灣時間8時50分）表示，北韓向日本海（南韓稱為東海）方向發射1枚不明飛行物。  據《韓聯社》報導，南韓合同參謀本部正在分析這枚飛行物...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5628636",
+          "published": "Wed, 04 Nov 2026 09:36:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
