@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-11-04T16:45:58.715125",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 14:17:58 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+          "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+          "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 10:03:19 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "挪威國王繼子涉性侵判刑  法院裁定上訴期間續居家監禁",
+          "summary": "挪威的法院4日推翻下級法院日前釋放裁決，裁定挪威國王哈康（King Haakon）的29歲繼子、性侵罪名成立的柏格荷伊比（Marius Borg Hoiby），在等待上訴期間，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5629823",
+          "published": "Thu, 05 Nov 2026 00:07:41 +0800",
+          "keywords": []
+        },
+        {
+          "title": "參院版圖「世代重塑」！ 紅州堡壘失守  民主黨翻轉7席奪回參院",
+          "summary": "美國期中選舉聯邦參議院選戰，民主黨一口氣翻轉至少7席，奪回參院控制權，重創共和黨在華府的執政版圖，也使總統川普這任期最後兩年，面臨民主黨掌控國會的新局面。  參院100席這...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5629818",
+          "published": "Wed, 04 Nov 2026 23:51:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美民主黨重掌眾院！傑福瑞斯將成首位非裔議長 矢言嚴格監督川普",
+          "summary": "隨著美國期中選舉開票陸續出爐，民主黨預期將奪回聯邦眾議院控制權。現任眾院少數黨領袖傑福瑞斯（Hakeem Jeffries）在黨內擁戴下，幾乎篤定將於明年1月獲選為新任眾院議...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5629817",
+          "published": "Wed, 04 Nov 2026 23:50:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
