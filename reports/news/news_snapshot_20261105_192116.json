@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-05T19:21:14.047318",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 17:39:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 17:59:53 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+          "summary": "台灣友邦巴拉圭的總統潘尼亞今天宣布請辭，由副總統阿里亞納接替領導國家。近日一家與潘尼亞有關的銀行遭接管，導致數百萬人無法提領存款，引發該國金融與政治危機。  法新社報導，巴拉圭中央銀行3日以...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5631130",
+          "published": "Fri, 06 Nov 2026 03:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐洲航空大亂！22航班遇炸彈恐嚇緊急轉降 犯案者自稱「男性國家戰士」反女權",
+          "summary": "歐洲航空運輸網5日遭遇疑似協同策劃的大規模擾亂行動！全歐至少有22架航班因接獲炸彈威脅，被迫緊急轉降或進行緊急降落。受影響的包括瑞安航空（Ryanair）、愛爾蘭航空（Aer...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5631121",
+          "published": "Fri, 06 Nov 2026 02:56:17 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普選舉慘敗無悔開戰！專家剖析美軍下一步三大劇本",
+          "summary": "美國總統川普在評估共和黨期中選舉的慘敗後，如今正面臨一個棘手的難題：如何處置已經延燒8個月、且極不受民意歡迎的伊朗戰爭。  美聯社報導，川普在選前曾揚言，一旦期中選舉結束...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5631128",
+          "published": "Fri, 06 Nov 2026 02:53:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
