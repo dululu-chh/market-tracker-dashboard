@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-11-05T11:47:22.533859",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+          "keywords": []
+        },
+        {
+          "title": "What Democrats can and can't do with their new power after taking Congress",
+          "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "France gears up for strikes and protests as unions promise national mobilisation",
+          "summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 10:26:03 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "南韓軍方擴大反海盜任務範圍 可能為參與伊朗戰後荷姆茲掃雷鋪路",
+          "summary": "南韓國國防部5日說，南韓軍方在索馬利亞外海的打擊海盜任務，將擴大範圍到接近荷姆茲海峽的海域，首爾堅稱，不會介入伊朗戰爭。不過，一名國防官員承認，增援的掃雷能力或許可為南韓參與伊...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630889",
+          "published": "Thu, 05 Nov 2026 19:27:28 +0800",
+          "keywords": []
+        },
+        {
+          "title": "涉破壞波羅的海海底電纜 芬蘭法院判「菲特堡號」船長船員有罪",
+          "summary": "芬蘭1家法院5日說，已裁定貨船「菲特堡號」（Fitburg）的船長及1名船員有罪，認定2人去年在波羅的海破壞連接芬蘭與愛沙尼亞的海底電纜。  根據《路透》報導，「菲特堡號」...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630702",
+          "published": "Thu, 05 Nov 2026 18:49:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打臉川普！俄機密軍火訂單曝光 售伊朗90具先進飛彈發射器",
+          "summary": "《金融時報》5日獨家披露，儘管俄羅斯在烏克蘭前線面臨武器需求孔急的壓力，莫斯科當局仍同意向伊朗供應90具先進的直升機飛彈發射器。西方情報官員指出，此舉顯示在今年中東戰火延燒之...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630802",
+          "published": "Thu, 05 Nov 2026 18:27:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
