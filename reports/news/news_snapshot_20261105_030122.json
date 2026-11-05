@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-05T03:01:20.756802",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 18:01:31 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 04 Nov 2026 22:48:43 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "維護荷姆茲海峽暢通 南韓擴大清海部隊部署、增派巡邏機",
+          "summary": "南韓國防部5日表示，將派遣海上巡邏機及爆裂物處理小組前往荷姆茲海峽附近海域，作為協助維護該水道暢通任務的一部分。此項宣布發布之際，南韓當局仍堅持不會派遣軍隊介入伊朗戰爭，但同時...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630055",
+          "published": "Thu, 05 Nov 2026 10:55:55 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遭赫格塞斯無故撤職！前美軍女中將翻轉共和黨票倉當選眾議員",
+          "summary": "去年無故遭到國防部長赫格塞斯（Pete Hegseth）解職的前海軍中將拉蔻兒（Nancy Lacore），在這次美國期中選舉中，代表民主黨參選南卡羅來納州第一國會選區聯邦眾議員...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630007",
+          "published": "Thu, 05 Nov 2026 10:44:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "民主黨奪回國會！川普想和習近平談合作 恐先碰上這道難關",
+          "summary": "美國期中選舉結果揭曉，民主黨重新掌控國會參眾兩院，川普政府未來與中國國家主席習近平交涉，可能面臨更大的國會監督壓力。川普政府希望維持與北京的經貿談判空間，但民主黨掌權的新國會，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5630076",
+          "published": "Thu, 05 Nov 2026 10:44:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
