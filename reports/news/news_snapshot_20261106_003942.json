@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-06T00:39:41.362575",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 00:05:05 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+          "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 05 Nov 2026 23:31:35 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 00:02:57 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "數位銀行倒閉凍結全民存款 我友邦巴拉圭總統遭彈劾前黯然辭職",
+          "summary": "首次上稿 02:48更新時間 07:53 我南美洲友邦巴拉圭爆發嚴重的金融與政治雙重危機！巴拉圭下議院5日以78票對0票的壓倒性票數，全票通過彈劾總統貝尼亞（Santiag...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5631129",
+          "published": "Fri, 06 Nov 2026 07:53:34 +0800",
+          "keywords": []
+        },
+        {
+          "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
+          "summary": "美國第2大城洛杉磯的市長選舉結果揭曉，由民主社會主義者拉曼擊敗同為民主黨籍的現任市長巴斯。這次選舉戰況激烈，兩名昔日盟友圍繞對現狀的不滿交鋒。  法新社報導，巴斯（Karen Bass）今天...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5631138",
+          "published": "Fri, 06 Nov 2026 05:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "民主黨重掌國會 外交約束力有限",
+          "summary": "〔編譯張沛元／綜合報導〕儘管美國民主黨在期中選舉後奪回國會主控權，但在外交政策上對川普總統的約束依然有限；川普若有意藉全球事務創造名留青史的資本，伊朗仍可能在近期遭美國大規模攻擊，以及川普可能會在面對北京時採取協議模式。 華爾街日報報導，部分中東官員說，民主黨勝選並未降低美伊再戰的可能性，而且可能…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1777372",
+          "published": "Fri, 06 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
