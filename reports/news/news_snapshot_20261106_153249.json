@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-11-06T15:32:47.422885",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential…",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 02:08:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 09:19:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Two dead after bus crashes in France, officials say",
+          "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 15:26:30 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "就怕「星盾」又斷  烏克蘭盼盡快與美談續約",
+          "summary": "烏克蘭軍方使用美國太空探索科技公司（SpaceX）衛星網路服務，上月突然遭到速度限制，使軍用版「星盾」（Starshield）受到矚目。烏國官員5日表示，烏國和美國政府簽訂使用...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632278",
+          "published": "Fri, 06 Nov 2026 22:57:14 +0800",
+          "keywords": []
+        },
+        {
+          "title": "APEC峰會與川普、普廷會晤 《紐時》：習近平可能有點尷尬",
+          "summary": "美中俄3國元首可能在深圳APEC峰會期間會晤。《紐約時報》分析指出，中國對雅爾達密約的負面觀感，及會談可能涉及烏克蘭戰爭、核武問題，中國國家主席習近平陷於尷尬處境。  中國4日證實，正與...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632248",
+          "published": "Fri, 06 Nov 2026 22:56:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "確保海纜安全 美軍擴大太平洋網路防禦部署",
+          "summary": "在美國警告中國正鎖定太平洋地區關鍵海底電纜網，並對海纜安全表達憂心之際，美國太平洋司令部擴大在夏威夷的網路安全部署，並成立區域中心，加強防範對此區域通訊電纜網的威脅和破壞。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632262",
+          "published": "Fri, 06 Nov 2026 22:26:57 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
