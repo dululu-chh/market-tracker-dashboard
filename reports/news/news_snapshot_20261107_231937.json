@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-07T23:19:35.556278",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know so far after Krakow gun attack",
+          "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 22:58:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 22:19:59 GMT",
+          "keywords": []
+        },
+        {
+          "title": "No clear winner after tight New Zealand general election",
+          "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 15:56:28 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "保護衛士：1247華人社團或組織淪中國統戰聯絡點",
+          "summary": "加拿大《CTV電視網》6日報導，總部設在西班牙的國際人權組織「保護衛士」（Safeguard Defenders）在最新公布的調查報告中警告，中國正透過海外華人社團及社區組織，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633206",
+          "published": "Sun, 08 Nov 2026 07:13:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "卡達提過渡協議 美國、伊朗建立互信再談核子議題",
+          "summary": "首次上稿 11-07 22:07更新時間 11-08 06:38 美國期中選舉大敗後，美國總統川普宣布，美軍六日對伊朗軍事目標發動新一波有限打擊。與此同時，為防止中東局勢因美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633119",
+          "published": "Sun, 08 Nov 2026 06:38:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "坦承寫作過程3次用AI 法國最高文學獎得主強調沒用AI代筆",
+          "summary": "首次上稿 11-07 23:53更新時間 11-08 06:01 法國最高文學獎「龔固爾獎」（Prix Goncourt）今年得主賈納達（Philippe Jaenada）摘...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633196",
+          "published": "Sun, 08 Nov 2026 06:01:39 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
