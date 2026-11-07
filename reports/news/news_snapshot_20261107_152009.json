@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-11-07T15:20:07.527226",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "No clear winner after tight New Zealand general election",
+          "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 15:00:10 GMT",
+          "keywords": []
+        },
+        {
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "不怕川普否決援助烏克蘭 外媒解析民主黨國會應對手段",
+          "summary": "美國民主黨在期中選舉大勝，一舉取得參、眾議院多數控制權，預料將在烏俄衝突等議題上與美國總統川普過招。外媒指出，美國總統在外交事務上權力廣泛，尤其是川普藉由行政命令等手段迴避國會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633131",
+          "published": "Sat, 07 Nov 2026 22:50:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美國藍色浪潮烏克蘭受惠 民主黨：援助烏國是新國會「優先事項」",
+          "summary": "美國民主黨橫掃期中選舉，取得參、眾議院多數控制權，得以藉由立法權制衡美國總統川普，包括受到削弱的烏克蘭援助事務。民主黨國會幕僚向路透表明，援助基輔會是明年1月新國會上任後的「優...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633126",
+          "published": "Sat, 07 Nov 2026 22:45:27 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防俄軍進犯 芬蘭擬在邊界佈反坦克障礙物",
+          "summary": "俄羅斯侵略烏克蘭，促使與俄羅斯接壤的北歐國家芬蘭重新思考防衛政策，正持續強化國防。芬蘭陸軍司令表示，正在研究在與俄國交界地帶，興建仿效烏克蘭戰場的反戰車設施，強化邊境安全。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633151",
+          "published": "Sat, 07 Nov 2026 22:40:54 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
