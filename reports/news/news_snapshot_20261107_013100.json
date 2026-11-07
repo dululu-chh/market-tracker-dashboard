@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-07T01:30:56.087011",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 21:06:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Four midterms takeaways for 2028 White House race",
+          "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 16:12:22 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Two dead after bus crashes in France, officials say",
+          "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 06 Nov 2026 15:33:52 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
+          "summary": "危險！美國特勤局幹員5日在白宮附近逮捕可疑男子，並在他駕駛的贓車中發現1把步槍、2把手槍和數十發子彈，其威脅要殺害總統川普。  據《CNN》報導，落網嫌犯為委內瑞拉公民奇里諾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632367",
+          "published": "Sat, 07 Nov 2026 09:04:50 +0800",
+          "keywords": []
+        },
+        {
+          "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
+          "summary": "巴拉圭數位銀行倒閉掀起的政壇海嘯持續擴大。巴國參議院6日無異議以44票全票通過彈劾，正式拔除總統潘尼亞（Santiago Peña）職務。潘尼亞隨即因涉嫌背信罪遭檢方下令軟禁家中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632351",
+          "published": "Sat, 07 Nov 2026 08:53:25 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴拉圭總統遭彈劾後居家監禁 副總統接任就職",
+          "summary": "巴拉圭總統潘尼亞涉嫌捲入銀行倒閉醜聞，國會議員今天表決通過彈劾，據報不久後潘尼亞遭到警方逮捕並且居家監禁。潘尼亞遭彈劾後，副總統阿里亞納宣誓接任總統。  綜合法新社和路透社報導，檢察官龔...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5632352",
+          "published": "Sat, 07 Nov 2026 08:28:39 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
