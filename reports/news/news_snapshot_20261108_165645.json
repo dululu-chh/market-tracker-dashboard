@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-08T16:56:43.638434",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know so far after Krakow gun attack",
+          "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 14:32:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
+          "summary": "埃及吉薩省（Giza）週日（8日）發生一起慘重的火車追撞事故，導致多節車廂脫軌，官方已證實這場意外，已知至少4人身亡、88人受傷。  綜合外媒報導，事發地點位於距離首都開羅（...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633996",
+          "published": "Mon, 09 Nov 2026 00:15:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "共和黨慘敗引爆「後川普時代」卡位戰！范斯面臨群雄並起與路線之爭",
+          "summary": "美國期中選舉共和黨遭遇重大挫敗，民主黨掀起的「藍色海嘯」不僅重創總統川普的施政威信，更提早引爆共和黨內2028年總統大選的初選角力。隨著黨內對「後川普時代」的路線展開激辯，原...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5634006",
+          "published": "Mon, 09 Nov 2026 00:07:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "防體制盲點！中共強化數位經濟黨建 外送員、網紅有望成21大代表",
+          "summary": "隨著北京當局試圖讓新興勞動群體更貼近官方意識形態，外送員、網約車司機與網路行銷人員（網紅），將首度有機會成為中共5年一度的全國代表大會代表。  將於明年下半年舉行的中共第...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633991",
+          "published": "Sun, 08 Nov 2026 23:37:48 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
