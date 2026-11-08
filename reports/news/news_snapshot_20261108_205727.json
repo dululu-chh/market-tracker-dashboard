@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-08T20:57:26.380084",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Homes and temples glow across India to mark Diwali",
+          "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+          "summary": "印度幅員遼闊，交通往返太花時間，因此親朋好友少有機會相聚，民眾多會利用排燈節（Diwali）期間與親友團圓，共同歡度這個每年最重要的節慶。  根據印度史詩「羅摩衍那」（Ramayana）記載...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5634029",
+          "published": "Mon, 09 Nov 2026 04:12:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
+          "summary": "美國國會資深議員今天表示，民主黨明年1月掌控國會後，科技業富豪馬斯克、總統川普新任命的白宮幕僚長米勒，以及部分大型企業，很可能成為國會調查對象。  路透社報導，即將分別執掌聯邦眾議院監督暨政...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5634028",
+          "published": "Mon, 09 Nov 2026 03:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
+          "summary": "美國有線電視新聞網（CNN）報導，總統川普今天表示，只要結束衝突的談判持續取得進展，他就極不可能下令對伊朗發動新一波攻擊。  路透社報導，CNN引述川普在電話專訪中指出：「這取決於他們是否簽...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5634027",
+          "published": "Mon, 09 Nov 2026 02:54:03 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
