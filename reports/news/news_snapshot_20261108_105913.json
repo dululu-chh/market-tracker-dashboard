@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-08T10:59:11.875221",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know so far after Krakow gun attack",
+          "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 07:52:33 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "被控使用手榴彈與汽油彈！伊朗處決3名「美以間諜與暴動者」",
+          "summary": "伊朗官方媒體8日報導，當局已於當天處決3名男子，指控他們涉嫌為以色列與美國執行情報與破壞任務，並參與今年1月反政府抗議活動中的武裝暴動。這也是伊朗近月來因應1月示威潮，針對被控勾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633706",
+          "published": "Sun, 08 Nov 2026 18:33:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "歐洲美軍據點危險了？伊朗解除2000公里飛彈射程限制",
+          "summary": "伊朗長期對外宣稱的飛彈射程紅線出現政策鬆動。據美聯社報導，伊朗伊斯蘭革命衛隊（IRGC）發言人莫赫比（Hossein Mohebbi）7日在德黑蘭記者會上表示，伊朗過去自願對彈...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633783",
+          "published": "Sun, 08 Nov 2026 18:02:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "波蘭男子鬧區瘋狂掃射釀6死16傷 家中驚見父母及妹妹遺體",
+          "summary": "波蘭第二大城克拉科夫（Krakow）昨（7）日發生槍擊案，一名全副武裝的槍手在市中心廣場肆意掃射，而後被警員開槍制伏。這起事件共造成6死16人受傷的慘劇，另外警方事後也在槍手家中...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5633668",
+          "published": "Sun, 08 Nov 2026 17:36:51 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
