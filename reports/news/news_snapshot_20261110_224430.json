@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-10T22:44:28.267778",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+          "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 22:17:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+          "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Israel's new parliament sworn in as leaders compete to form government",
+          "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 17:03:16 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普宣告 伊戰已實質結束",
+          "summary": "強調海上軍事封鎖持續 〔編譯林家宇／綜合報導〕美國總統川普九日與卡達總理穆罕默德（Mohammed bin Abdulrahman Al Thani）舉行會談後，宣稱與伊朗的戰事「實質結束」，暫無必要採取軍事行動，但也強調美軍仍蓄勢待發，且會持續對德黑蘭實施海上軍事封鎖。穆罕默德是德黑蘭的重要斡旋…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1778011",
+          "published": "Wed, 11 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中英對照讀新聞》Pentagon revives testosterone testing after pause五角大廈恢復一度暫停的睪固酮檢測",
+          "summary": "◎管淑平 The Pentagon is reinstituting a mandatory testing program for testosterone deficiency among US service members age 30 and older, a spokesperson …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1778070",
+          "published": "Wed, 11 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "近月全歐超市冰箱遭伊侵駭 法嗆推動歐盟層級制裁",
+          "summary": "〔國際新聞中心／綜合報導〕針對上個月震驚全歐洲的超市冷藏設備駭客攻擊事件，法國政府正式將矛頭指向伊朗。法國外交部十日召見伊朗駐法大使表達最強烈抗議；法國外交部長巴霍警告，這起針對法國本土、史無前例的大規模數位破壞，巴黎當局不排除任何報復選項，包括採取「不公開的網路反制行動」。 不排除任何報復選項 …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1778016",
+          "published": "Wed, 11 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
