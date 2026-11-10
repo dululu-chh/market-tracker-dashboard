@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-11-10T01:51:39.611975",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 01:44:53 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 09 Nov 2026 19:58:01 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗",
+          "summary": "共和黨在美國期中選舉中慘敗，民主黨以優勢贏得參議院與眾議院控制權。雖然美國總統川普最初祝賀民主黨，稱願意接受選舉結果，但近期又改變態度，主張此次期中選舉存在選舉舞弊。對此參議院...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635185",
+          "published": "Tue, 10 Nov 2026 09:40:37 +0800",
+          "keywords": []
+        },
+        {
+          "title": "土耳其鋼鐵廠爆炸起火 至少17死12傷",
+          "summary": "土耳其第3大城、伊茲密爾省首府伊茲密爾（Izmir）的鋼鐵廠，9日發生爆炸並起火，土國總統艾爾段（Recep Tayyip Erdogan）原先指稱釀成16死，不過衛生部長（Ke...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635190",
+          "published": "Tue, 10 Nov 2026 09:18:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "高市遭嗆「砍頭」仍克制！矢板明夫曝「2關鍵」：台灣問題堅不退讓",
+          "summary": "日本媒體8日披露日中外交內幕，指出日本首相高市早苗去年因「台灣有事」相關發言，遭中國駐大阪總領事薛劍以激烈言詞威脅，日方一度考慮將薛劍驅逐出境，卻反被中國威脅「日本驅逐一個，中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635123",
+          "published": "Tue, 10 Nov 2026 08:55:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
