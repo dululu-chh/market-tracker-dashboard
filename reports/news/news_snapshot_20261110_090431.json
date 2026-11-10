@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-11-10T09:04:29.240233",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 08:23:21 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 07:58:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 05:33:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "日本首例！在日2中國男利用惡意程式 遠距操作他人手機付款被捕",
+          "summary": "日本福岡縣警察今（10日）表示，2名中國籍30來歲朱姓男子，利用惡意程式以他人手機支付款項被捕，日本境內各地從8月開始就出現類似的案件，這是首次有嫌犯落網。  據《產經新聞》...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635904",
+          "published": "Tue, 10 Nov 2026 16:53:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國陝西大叔開怪手拆政府！身分遭起底 社群帳號滿是這類影片",
+          "summary": "中國陝西省西安市1間政務服務中心9日發生破壞事件，1名47歲男子駕駛挖土機砸毀建築大門與招牌，現場公務人員與洽公民眾緊急疏散，嫌犯隨後遭警方當場控制。涉案司機隨後也遭起底，其社群...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635859",
+          "published": "Tue, 10 Nov 2026 16:50:31 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美俄烏3方會談將在阿布達比登場 歐洲戰後安全架構成焦點",
+          "summary": "俄羅斯代表團1名消息人士表示，預計在10日於阿拉伯聯合大公國首都阿布達比（Abu Dhabi）展開的美俄烏三方會談，主要重點將是設法敲定歐洲戰後新安全架構的關鍵要素。  根...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5635831",
+          "published": "Tue, 10 Nov 2026 16:38:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
