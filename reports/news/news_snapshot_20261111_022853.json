@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-11T02:28:51.511044",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Army soldier suspected of spying for Russia arrested in UK",
+          "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 01:14:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普遭控政治化情報機構 民主黨掌國會後將調查",
+          "summary": "民主黨在美國期中選舉取得大勝，以優勢贏得參議院與眾議院控制權。民主黨人準備針對他們所稱的總統川普將情報機構政治化並大幅削弱運作的行為展開調查，其中也包括調查情報人員是否為了避免...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5636547",
+          "published": "Wed, 11 Nov 2026 10:16:22 +0800",
+          "keywords": []
+        },
+        {
+          "title": "馬世雲當選加州首位亞裔副州長 祖父曾任中華民國陸軍中將",
+          "summary": "美國期中選舉，民主黨籍的加州財務長馬世雲（Fiona Ma）當選副州長，成為亞裔第一人。她出身紐約，祖籍中國雲南，祖父馬鉁曾任中華民國陸軍中將、昆明市首任市長。  根據加州選舉制度，州長...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5636555",
+          "published": "Wed, 11 Nov 2026 10:01:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普當年說了什麼？超暖卸任信曝光 拜登驚呼：好像有2個川普",
+          "summary": "2020年美國總統大選，川普競選連任失敗，儘管他公開質疑選舉結果，最終仍完成政權交接，同時也遵循傳統，留下親筆卸任信給繼任者拜登。當時拜登表示，這是一封非常慷慨的信件，而這封川普...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5636526",
+          "published": "Wed, 11 Nov 2026 09:59:38 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
