@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-11T18:17:24.506126",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spain sees widespread disruption in first general strike for 14 years",
+          "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 17:44:32 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 18:04:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 16:45:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "路透民調：多數美國人盼新國會結束對伊朗戰爭",
+          "summary": "路透社/益普索最新民調發現，多數美國人希望，由民主黨掌握多數席次的新一屆國會採取行動，結束美國對伊朗的戰爭，並撤銷總統川普實施的關稅。  路透社/益普索（Reuters/Ipsos）透過網路...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5637710",
+          "published": "Thu, 12 Nov 2026 01:30:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "G7外長聯合聲明  強調維持台海和平與穩定至關重要",
+          "summary": "根據英國政府網站，七大工業國集團（G7）外長在巴黎舉行會議後於今天發表聯合聲明，強調維持台灣海峽和平與穩定至關重要，並支持台灣有意義地參與國際組織。  法國擔任2026年G7輪值主席國，G7...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5637707",
+          "published": "Thu, 12 Nov 2026 00:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "遠勝黃仁勳小三！中國正妹人大代表火辣私照瘋傳「還穿情趣服」",
+          "summary": "輝達執行長黃仁勳與中國女小三黃樂的婚外情消息鬧得沸沸揚揚之際，中網正熱議著一名外型亮麗的人大代表，其私下的性感生活照也瘋傳。爆料消息指稱該名女子也是「小三博上位」，因此有不少人拿...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5637597",
+          "published": "Thu, 12 Nov 2026 00:11:29 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
