@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-11-12T17:51:04.031920",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 16:31:12 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 12 Nov 2026 12:39:39 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "華府健身房槍擊案釀1死4傷　警方追查犯案動機",
+          "summary": "美國首都華盛頓特區（Washington, D.C.）市中心一處高級住宅區的健身中心和其周邊今天驚傳槍響，造成1人死亡、4人受傷。  綜合法新社和路透社報導，華盛頓特區都會區警察局代理局長卡...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5639075",
+          "published": "Fri, 13 Nov 2026 01:45:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黃仁勳離任　衝擊全球AI產業與改變美晶片輸出政策",
+          "summary": "輝達創辦人黃仁勳辭去執行長職務震撼全球科技圈、金融界及政界。黃仁勳去職預料將衝擊全球人工智慧晶片產業鏈動向，及強化美國政界推動限縮晶片輸出政策。  輝達（NVIDIA）創辦人黃仁勳疑涉中國間...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5639072",
+          "published": "Fri, 13 Nov 2026 01:30:06 +0800",
+          "keywords": [
+            "AI",
+            "NVIDIA",
+            "晶片"
+          ]
+        },
+        {
+          "title": "黃樂被調查卻提供不實資訊  黃仁勳「小三」永久禁止入境新加坡",
+          "summary": "輝達（NVIDIA）執行長黃仁勳與Megaspeed高層黃樂（Alice Huang）傳出婚外情，遭質疑涉及中國間諜活動，輝達今（12日）宣布，黃仁勳已辭去總裁、執行長及董事會成...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5639018",
+          "published": "Thu, 12 Nov 2026 23:32:56 +0800",
+          "keywords": [
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
