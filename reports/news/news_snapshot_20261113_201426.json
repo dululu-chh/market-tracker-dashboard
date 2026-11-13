@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-11-13T20:14:24.291474",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 18:36:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 16:40:31 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "伊朗稱打掉巴林美軍雷達系統  美方否認：已攔截2架無人機",
+          "summary": "伊朗伊斯蘭革命衛隊（IRGC）13日宣稱，已鎖定攻擊位於巴林的1套美國預警雷達系統；美軍否認該雷達系統被摧毀，並稱已擊落2架鎖定巴林的伊朗無人機。  根據伊朗官媒，IRGC...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640186",
+          "published": "Fri, 13 Nov 2026 23:22:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "離地球「1光日」、259億公里！ NASA邀全球民眾11/17向航海家1號致敬",
+          "summary": "距離地球最遠的探測器「航海家1號」（Voyager 1，或譯為「旅行家1號」），下週將成為第一個抵達距離地球「一光日」位置的人造物，為此，美國國家航空暨太空總署（NASA）邀請...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640183",
+          "published": "Fri, 13 Nov 2026 23:22:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "2年經手1300億輝達晶片！黃樂前東家與子公司已人去樓空",
+          "summary": "輝達前執行長黃仁勳出軌對象、疑為中國間諜的黃樂曾任新加坡科技集團Megaspeed董事，該公司曾經手價值數十億美元的輝達AI晶片。然而法新社發現，Megaspeed及其馬來西亞子公司的辦公室...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640127",
+          "published": "Fri, 13 Nov 2026 23:03:12 +0800",
+          "keywords": [
+            "AI",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
