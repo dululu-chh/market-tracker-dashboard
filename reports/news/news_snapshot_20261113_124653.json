@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-11-13T12:46:51.643615",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know about the global Microsoft outage",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 12:31:49 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Watch: How Microsoft services went down around the world",
+          "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+          "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "又是暗黑打工！19歲台男日本當車手 詐8旬婦500萬日圓被捕",
+          "summary": "日本警視廳神田署近日以涉嫌詐欺罪，逮捕一名19歲、無固定住處且無業的台灣籍男子，警方懷疑他以投資名義向高齡女性詐取現金。  《產經新聞》報導，根據神田署表示，該組織是由台灣人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640006",
+          "published": "Fri, 13 Nov 2026 20:35:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "烏俄和談不能沒有它  澤倫斯基：樂見歐洲有「發言權」",
+          "summary": "美國特使庫希納（Jared Kushner）和魏科夫（Steve Witkoff）12日先後在莫斯科、都柏林，與俄羅斯總統普廷、烏克蘭總統澤倫斯基會晤。美、烏會後表示，歐洲將加...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640064",
+          "published": "Fri, 13 Nov 2026 20:29:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "法國醫師「10天就捐精」長達20年   擁160名子女衍生近親生育風險",
+          "summary": "法國一名女子約瑟芬（Josephine）好奇自己的身世，問母親得知是透過捐精所生，進一步追查，發現親生父親竟是長期捐精的醫師，過去20年間平均每10天就捐精一次，約瑟芬可能因此有...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5639960",
+          "published": "Fri, 13 Nov 2026 19:11:56 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
