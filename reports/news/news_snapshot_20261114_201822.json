@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-14T20:18:20.400794",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 19:12:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 19:21:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 18:28:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "全美航班暫停起飛疑因設備問題或人為失誤　15日恢復正常航班",
+          "summary": "美國航空管制中心昨天發生通訊故障，迫使全美航班暫停起飛逾4小時。美官員今天表示，這起事件是承包商在一處偏遠設施更換老舊電信線路時，因設備故障或人為失誤所引起；估計航班將在這週末結束前恢復正常...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641144",
+          "published": "Sun, 15 Nov 2026 04:00:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
+          "summary": "美中俄領袖19日將在中國亞太經濟合作會議（APEC）期間舉行三方領袖峰會，預料核武條約與美國對伊朗的戰爭，將是優先討論議題，但烏克蘭問題不太可能被提及。  白宮昨天證實，美國總統川普（Don...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641142",
+          "published": "Sun, 15 Nov 2026 02:54:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "台裔潘君達當選聯邦眾議員：須確保台海和平 美國仍是現狀保障者",
+          "summary": "台裔民主黨籍政治人物潘君達在美國期中選舉勝出，將成為新科加州聯邦眾議員。他表示，美國數十年來的對台政策承認台灣自決權，維持台海現狀至關重要，而美國仍是現狀的保障者。  現年61歲的潘君達...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641038",
+          "published": "Sat, 14 Nov 2026 23:49:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
