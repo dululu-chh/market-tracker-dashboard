@@ -1,0 +1,141 @@
+{
+  "retrieved_at": "2026-11-14T08:27:02.591587",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know about the longest ground stop since 9/11",
+          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 07:42:11 GMT",
+          "keywords": []
+        },
+        {
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美CIA前局長布瑞南兒子 驚傳持有兒童性虐圖像被捕",
+          "summary": "美國中央情報局（CIA）前局長布瑞南（John Brennan）的兒子凱爾（Kyle），傳出持有兒童性虐待圖像面臨聯邦指控，13日遭到逮捕。  據《美聯社》報導，法院文件顯示...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640729",
+          "published": "Sat, 14 Nov 2026 16:22:17 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中國網友曬出國申請文件引熱議 台網友回「這句」被狂讚",
+          "summary": "知名臉書粉專「姆士捲」截圖分享了一名中國網友在Threads的貼文，貼文內容曬出一大疊申根簽證申請文件，引發討論。發文寫道「中國人為了出國到底要提供多少東西」，照片中可見一疊用迴...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640634",
+          "published": "Sat, 14 Nov 2026 16:08:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本京城電鐵成田機場列車 訂票系統驚傳337萬筆個資外洩",
+          "summary": "日本京城電鐵連接成田機場和東京市中心的「京城Skyliner」列車，今（14日）傳出訂票系統有337萬筆個資外洩，目前已停止網路訂票服務。  綜合日媒報導，京成電鐵表示，公司...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640656",
+          "published": "Sat, 14 Nov 2026 15:38:08 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
