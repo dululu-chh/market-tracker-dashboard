@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-14T15:28:27.069422",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 14:20:57 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 15:15:57 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "坐緊急出口座位不能點酒？ 聯航空服員瞎掰規定遭客訴",
+          "summary": "坐在飛機緊急出口座位不僅肩負協助救援的重任，如今竟然連酒精飲料都不能點？有位美國聯合航空的乘客，日前搭乘飛往波多黎各聖胡安的生日航班時，只因坐在緊急出口座位，遭到空服員以「自創的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640932",
+          "published": "Sat, 14 Nov 2026 23:17:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "打擊AI冒用聲音與肖像！日本擬修法嚴管 唯獨「這些」排除管制",
+          "summary": "日本經濟產業省13日向專家會議提出《不正競爭防止法》的新增管制具體草案，旨在防範透過生成式AI（人工智慧）擅自使用他人聲音或肖像等侵權行為。該草案主要針對未經授權將肖像或聲音所具...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5640885",
+          "published": "Sat, 14 Nov 2026 23:13:23 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普赴中國前先訪菲  出席美日印澳「四方安全對話」峰會",
+          "summary": "據白宮公布的行程表，美國總統川普在出席18、19日的中國深圳「亞太經濟合作會議」（APEC）峰會前，會先在17日抵達菲律賓馬尼拉，出席2年多以來首場美國、日本、印度、澳洲「四方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641059",
+          "published": "Sat, 14 Nov 2026 22:46:40 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
