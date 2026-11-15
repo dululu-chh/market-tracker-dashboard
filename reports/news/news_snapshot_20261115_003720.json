@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-15T00:37:17.691417",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 19:12:25 GMT",
+          "keywords": []
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 18:28:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射台",
+          "summary": "馬斯克（Elon Musk）旗下太空探索科技公司（SpaceX）今天成功完成史上首次太空船捕捉回收作業，星艦（Starship）太空船在軌道飛行一天後，安全返回發射台。  法新社報導，星...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641155",
+          "published": "Sun, 15 Nov 2026 08:29:12 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中俄APEC峰會 將談核議題",
+          "summary": "〔編譯林家宇／綜合報導〕白宮十三日宣布，美國總統川普十八、十九日赴中國深圳參加「亞太經濟合作會議」（APEC）峰會期間，將與中國國家主席習近平、俄羅斯總統普廷舉行首次的三方領袖會談，談論核子武器管制等議題。 討論削減核武與伊朗議題 白宮發言人威爾斯表示，十九日上午川普將先參加APEC會議，之後和…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1778507",
+          "published": "Sun, 15 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "五年三兆日圓! 駐日軍費 美開價三級跳",
+          "summary": "〔編譯張沛元／綜合報導〕日本英文報紙日本時報十四日引述消息人士的話報導，美國白宮已要求日本從二〇二七會計年度起的未來五年，將日方負擔的駐日美軍的經費增加兩倍，即從現行的五年一兆日圓（約二千一百億台幣），增至五年三兆日圓（約六千兩百億台幣），但日本政府目前僅考慮增至一．五兆日圓（約三千一百億台幣） …",
+          "link": "https://news.ltn.com.tw/news/world/paper/1778511",
+          "published": "Sun, 15 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
