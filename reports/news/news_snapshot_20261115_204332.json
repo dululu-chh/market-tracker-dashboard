@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-11-15T20:43:31.008411",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 13:42:58 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 11:06:32 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+          "summary": "美國財政部長貝森特今天呼籲輝達於10天內說明，是否在知情的情況下，允許其最先進人工智慧晶片流入中國，強調這比該公司前執行長黃仁勳與疑似效力北京的間諜有染還更重要。  法新社報導，貝森特（Sc...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641984",
+          "published": "Mon, 16 Nov 2026 03:54:04 +0800",
+          "keywords": [
+            "晶片"
+          ]
+        },
+        {
+          "title": "絲絨革命前夕重返萊特納公園！捷克35萬人示威拒絕「斯洛伐克劇本」 捍衛媒體獨立",
+          "summary": "捷克首都布拉格15日爆發大規模群眾示威，抗議億萬富豪總理巴比斯（Andrej Babiš）政府計畫徹底改變公共廣播電視的資金來源。反對者強烈擔憂，這項修法將侵蝕媒體獨立與民主...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641974",
+          "published": "Mon, 16 Nov 2026 02:14:29 +0800",
+          "keywords": []
+        },
+        {
+          "title": "輝達涉共諜案震撼國會！美兩黨趁「看守會期」火速圍堵 擬將晶片禁令綁定國防授權法",
+          "summary": "在輝達（Nvidia）創辦人黃仁勳（Jensen Huang）因捲入與疑似中國女間諜的桃色醜聞而辭職後，美國國會正加速推動一系列法案，嚴厲打擊先進人工智慧（AI）晶片流入中國...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641979",
+          "published": "Mon, 16 Nov 2026 02:10:39 +0800",
+          "keywords": [
+            "AI",
+            "NVIDIA",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
