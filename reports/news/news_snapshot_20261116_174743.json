@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-11-16T17:47:40.839657",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 16:27:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Yemeni forces retreat to defend port city from Houthis",
+          "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 11:09:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 17:07:55 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+          "summary": "輝達創辦人黃仁勳爆出婚外情並引發美國國安疑慮，辭去執行長職務後，近期多位矽谷知名人士連署支持他回歸。美國總統川普今天表示，他不介意黃仁勳回鍋；川普也說，可能會和中國國家主席習近平提到黃仁勳捲...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643065",
+          "published": "Tue, 17 Nov 2026 01:06:03 +0800",
+          "keywords": []
+        },
+        {
+          "title": "援烏資金大戰！德國總理祭「預算核彈」 逼迫捷克等4國吞下450億歐元援烏案",
+          "summary": "隨著烏克蘭面臨自俄羅斯全面入侵以來最嚴峻的寒冬，歐盟執委會計畫提出一項以歐盟共同預算作為擔保、高達450億歐元（約新台幣1.63兆元）的新貸款案，以協助基輔填補明年高達700...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643044",
+          "published": "Tue, 17 Nov 2026 00:49:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美中俄峰會各取所需！金融時報解析：新3巨頭已無力支配世界",
+          "summary": "即將於中國深圳登場的美國、中國和俄羅斯三方領袖峰會，被外界廣泛比擬為1945年劃分二次世界大戰後勢力範圍的「雅爾達會議」（Yalta Conference）。然而，金融時報指...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643062",
+          "published": "Tue, 17 Nov 2026 00:47:50 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
