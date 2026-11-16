@@ -1,0 +1,149 @@
+{
+  "retrieved_at": "2026-11-16T00:37:58.089694",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 22:24:20 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 23:52:10 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美國各地航班仍混亂 逾5200航班受影響",
+          "summary": "美國各地航班混亂持續到第三天，15日仍有超過5200個航班受到影響，美國運輸部長達菲（Sean Duffy）表示儘管航空公司在全系統停飛後仍努力恢復正常航班，預計16日恢復正常。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5642002",
+          "published": "Mon, 16 Nov 2026 08:05:42 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄國安會傳解除「暗殺禁令」 澤倫斯基與烏軍政高層恐成目標",
+          "summary": "烏俄戰爭持續延燒，俄羅斯媒體近期宣稱俄羅斯國家安全會議已解除一項非正式禁令，不再禁止暗殺烏克蘭總統澤倫斯基及其高級將領，不過相關消息尚未得到官方證實。  《紐約郵報》（New...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641991",
+          "published": "Mon, 16 Nov 2026 07:51:26 +0800",
+          "keywords": []
+        },
+        {
+          "title": "輝達「共諜」震撼！美國會看守期急圍堵 晶片禁令擬綁定國防授權法",
+          "summary": "首次上稿 11-16 02:10更新時間 11-16 07:39 在輝達（Nvidia）創辦人黃仁勳（Jensen Huang）因捲入與疑似中國女間諜的桃色醜聞而辭職後，美...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5641979",
+          "published": "Mon, 16 Nov 2026 07:39:39 +0800",
+          "keywords": [
+            "NVIDIA",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
