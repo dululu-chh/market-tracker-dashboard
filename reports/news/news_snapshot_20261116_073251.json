@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-11-16T07:32:49.000495",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+          "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 07:23:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 01:47:57 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄羅斯力爭聯合國電信機構高階職位 盼擴大數位影響力",
+          "summary": "俄羅斯希望在16日舉行的聯合國電信機構選舉中，取得2個高階職位。聯合國外交官表示，俄羅斯此舉是為了減少因俄烏衝突而遭受的國際孤立，並進一步取得對數位科技更大的掌控權。  根...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5642494",
+          "published": "Mon, 16 Nov 2026 14:58:05 +0800",
+          "keywords": []
+        },
+        {
+          "title": "南韓陷入國考、大學入學考試作弊之亂！陸續有人發文認罪",
+          "summary": "南韓稅務師（CTA）史上最高分、今年榜首韓元錫（한원석，音譯），15日承認自己使用AI作弊，之後在網路論壇陸續有人發文坦承自己過去國考、大學入學考試也有不當行為。  據韓媒《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5642452",
+          "published": "Mon, 16 Nov 2026 14:16:12 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "憂「雅爾達會議」重演！美中俄3巨頭深圳會談 專家：川普恐忽視南韓",
+          "summary": "亞太經濟合作會議（APEC）峰會在即，美國總統川普、中國國家主席習近平及俄羅斯總統普廷預計19日在中國深圳舉行史無前例的三方領袖會談。南韓專家預測，美中俄領袖可能藉機就朝鮮半島問...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5642414",
+          "published": "Mon, 16 Nov 2026 14:03:26 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
