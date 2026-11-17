@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-17T10:00:31.340958",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+          "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 09:27:41 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 05:59:01 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+          "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+          "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 01:26:01 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "連2天刷新紀錄！逾1400架烏克蘭無人機 狂轟俄國22地",
+          "summary": "烏克蘭17日發動自2022年全面開戰以來，最大規模的無人機空襲，俄羅斯國防部證實，防空部隊在22個地區攔截多達1441架烏克蘭無人機，刷新昨日剛創下的1336架紀錄。  據《...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643874",
+          "published": "Tue, 17 Nov 2026 17:44:11 +0800",
+          "keywords": []
+        },
+        {
+          "title": "巴林首都上空驚傳爆炸聲 伊朗5天內3度發動攻擊",
+          "summary": "波斯灣島國巴林首都麥納瑪（Manama）上空17日傳出爆炸聲，伊朗伊斯蘭革命衛隊稱，他們對巴林發動了無人機襲擊。此次事件是伊朗在短短5日內第三次對巴林發動襲擊。  根據《法...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643881",
+          "published": "Tue, 17 Nov 2026 17:24:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "反對黨控貪腐  蒙古總統呼日勒蘇赫今宣布請辭",
+          "summary": "蒙古總統呼日勒蘇赫（Khurelsukh Ukhnaa）今（17）日宣布請辭，此前反對黨民主黨指控他及政府高層涉及貪汙行為與用人唯親。  《路透》報導，2021年就任總統的呼...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643885",
+          "published": "Tue, 17 Nov 2026 17:22:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
