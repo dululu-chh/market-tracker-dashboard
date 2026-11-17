@@ -1,0 +1,154 @@
+{
+  "retrieved_at": "2026-11-17T01:26:35.164390",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 23:20:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 21:40:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 22:21:27 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "全美航班大亂才剛落幕 聯合航空又爆大規模系統故障",
+          "summary": "美國聯邦航空總署（FAA）日前才因通訊故障影響航空交通管制，下令全美航班暫停起飛，導致全美航班大亂，不料美國聯合航空公司（United Airlines）16日又通報「大規模系統...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643105",
+          "published": "Tue, 17 Nov 2026 08:52:36 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國",
+          "summary": "美國川普政府16日宣布，將進一步限制中國取得輝達（Nvidia）等企業生產的先進人工智慧（AI）晶片。在美國總統川普準備前往深圳，與中國國家主席習近平舉行會談之際，美方再度收緊相...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643128",
+          "published": "Tue, 17 Nov 2026 08:42:39 +0800",
+          "keywords": [
+            "AI",
+            "NVIDIA",
+            "晶片"
+          ]
+        },
+        {
+          "title": "川普：不撤換盧特尼克 不介意黃仁勳重掌輝達",
+          "summary": "首次上稿 11-16 23:59更新時間 11-17 05:59 美國總統川普16日指出，他不認為輝達前執行長黃仁勳與疑似中國女間諜黃樂外遇會危及美國國家安全，他也說，儘管商...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5643052",
+          "published": "Tue, 17 Nov 2026 05:59:30 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
