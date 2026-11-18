@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-11-18T01:34:03.524602",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 21:24:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "How the attack on Crimean Bridge unfolded",
+          "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 01:18:18 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "走出雨林討山藥！亞馬遜原住民罕見接觸外人 巴西急啟動防疫",
+          "summary": "巴西亞馬遜雨林中一個數十年來與世隔絕的原住民族群，近日罕見走出森林與外界接觸，巴西原住民族部17日表示，已緊急啟動健康評估與保護機制，嚴防外來病原體與非法盜伐威脅該族群安危。 ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5644454",
+          "published": "Wed, 18 Nov 2026 09:28:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日相高市早苗和川普在菲會晤 傳討論中俄問題",
+          "summary": "美國總統川普17日在菲律賓出席四方安全對話（Quad）領袖會議，和他同場的是日本首相高市早苗、澳洲總理艾班尼斯、印度總理莫迪，日方政府今（18日）透露高市和川普討論了中國、俄羅斯...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5644455",
+          "published": "Wed, 18 Nov 2026 09:24:52 +0800",
+          "keywords": []
+        },
+        {
+          "title": "貝克漢「奢華」香水淪落加油站花車 怒告美妝巨頭求償13億",
+          "summary": "英國足球巨星轉戰時尚商界的「貝克漢爵士」大衛貝克漢（David Beckham），近日發生香水銷售的糾紛，旗下商業公司不滿主打「日常奢華」的香水，竟流落到加油站特價花車與平價商店...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5644423",
+          "published": "Wed, 18 Nov 2026 08:55:11 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
