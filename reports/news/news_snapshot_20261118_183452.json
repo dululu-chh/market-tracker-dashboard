@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-18T18:34:51.279495",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+          "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+          "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紐時：川普不滿范斯未力挺對伊朗開戰　私下盛讚盧比歐",
+          "summary": "紐約時報引述知情人士報導，對於美國副總統范斯批評伊朗戰爭一事，總統川普日益感到不滿，認為范斯在檢討共和黨期中選舉慘敗時，應表態支持他對伊朗開戰的決定。  根據紐約時報（New York Ti...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645691",
+          "published": "Thu, 19 Nov 2026 02:30:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+          "summary": "俄羅斯媒體引述兩名高階官員報導，預計俄羅斯總統普丁與美國總統川普將於19日在亞太經濟合作會議（APEC）峰會期間進行場邊會晤，但未安排進行全面性的雙邊談判。  路透社報導，俄媒引述克里姆林宮...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645683",
+          "published": "Thu, 19 Nov 2026 01:30:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "路透：川普政府擬要求美企　揭露中國AI模型使用情況",
+          "summary": "路透社引述3名知情人士獨家報導，川普政府正考慮要求美國企業，公開揭露使用中國AI模型的情況，希望藉此降低企業對中國AI模型的依賴，同時避免祭出可能引起產業界或中方反彈的新限制措施。  知情人...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645682",
+          "published": "Thu, 19 Nov 2026 01:06:04 +0800",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
