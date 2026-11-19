@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-19T00:55:08.158360",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+          "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+          "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "summary": "No state has ever been found guilty by an international court of committing genocide.",
+          "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 18 Nov 2026 23:04:06 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "國際研討會驚見台灣國旗！多國政要關切台海 矢板明夫：台灣不孤單",
+          "summary": "印太戰略智庫執行長、日本資深媒體人矢板明夫在社群媒體表示，他18日下午出席由日本智庫「國家基本問題研究所」主辦的國際研討會，現場不僅有澳洲前總理艾伯特（Tony Abbott）、...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645708",
+          "published": "Thu, 19 Nov 2026 08:46:10 +0800",
+          "keywords": []
+        },
+        {
+          "title": "飛了49年！ NASA航海家1號離地球達「1光日」 締造人類新歷史",
+          "summary": "美國太空總署（NASA）深空探測器「航海家1號」（Voyager 1）1977年發射升空，飛行49年後，已抵達距離地球1光日（one light-day）的位置，創下人類製造物體...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645734",
+          "published": "Thu, 19 Nov 2026 08:24:56 +0800",
+          "keywords": []
+        },
+        {
+          "title": "創美國會亞裔最高職級 台裔劉雲平當選眾院民主黨黨團主席",
+          "summary": "台灣出生、57歲的劉雲平於18日獲選眾院民主黨黨團主席，他成為美國國會首位擔任黨團主席的台裔暨亞裔美國人，及眾院民主黨排名第4的領袖。  綜合媒體報導，在美國期中選舉後，民主...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5645722",
+          "published": "Thu, 19 Nov 2026 08:20:12 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
