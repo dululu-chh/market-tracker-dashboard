@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-11-20T00:09:29.079144",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 23:33:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 20:07:02 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+          "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 17:38:22 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國核彈頭持續擴增！川普談美中俄限核協議：非常困難",
+          "summary": "美國總統川普19日透露，他與中國國家主席習近平、俄羅斯總統普廷會談後認為，要達成共同限制核子武器的協議非常困難，但他仍將持續推動相關工作。  路透報導，川普在中國出席三方峰會...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5647062",
+          "published": "Fri, 20 Nov 2026 07:58:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "逾30％流向涉軍中企！川普政府放行近90萬顆AI晶片輸中 專家：震驚",
+          "summary": "美國眾議院外交委員會19日證實，川普政府在2025年12月至2026年5月期間，批准向中國企業出口近90萬顆由輝達（Nvidia）及超微（AMD）製造的先進人工智慧（AI）晶片。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5647059",
+          "published": "Fri, 20 Nov 2026 07:18:34 +0800",
+          "keywords": [
+            "AI",
+            "NVIDIA",
+            "晶片"
+          ]
+        },
+        {
+          "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
+          "summary": "根據美國總統川普19日公布的最新財務申報資料，川普今年9月買進最高價值26萬5000美元（約新台幣874萬4500元）的輝達（Nvidia）股票，同時賣出最高價值1萬5000美元...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5647054",
+          "published": "Fri, 20 Nov 2026 06:48:33 +0800",
+          "keywords": [
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
