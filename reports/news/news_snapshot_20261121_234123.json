@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-21T23:41:22.002586",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 19:20:22 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 22:19:43 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "為范斯抱不平 媒體提問讓魯比歐搖頭",
+          "summary": "首次上稿 11-21 22:49更新時間 11-22 06:41 美國總統川普20日率部會首長，到白宮記者室與媒體互動。額外引發關注的是，被視為2028總統大選熱門接班人選的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5649088",
+          "published": "Sun, 22 Nov 2026 06:41:39 +0800",
+          "keywords": []
+        },
+        {
+          "title": "管控軍用AI 美中有共識",
+          "summary": "川普宣揚三方峰會成果 〔編譯林家宇／綜合報導〕美國總統川普在美東時間廿日率部會首長親赴白宮記者室，說明十九日中國深圳進行的美中俄領袖峰會成果。川普稱與中國國家主席習近平、俄羅斯總統普廷關係極佳，彼此「非常來電」（great electricity）。這樣的關係不但對美國與全球安全有益，也有助推動削…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1779441",
+          "published": "Sun, 22 Nov 2026 05:30:00 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "傳美限制防務合作 加國不知情",
+          "summary": "〔編譯張沛元／綜合報導〕華盛頓郵報廿日報導，根據知情官員說法，美國戰爭部（國防部）長赫格塞斯日前透過機密備忘錄，下令對美國與加拿大的防務合作設下新限制，恐為兩國關係增添緊張。報導指出，此舉形同對加拿大「打了一巴掌」，引發外界關注雙方軍事交流是否受到影響，但華郵並未取得備忘錄內容。  防長曾下指令…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1779443",
+          "published": "Sun, 22 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
