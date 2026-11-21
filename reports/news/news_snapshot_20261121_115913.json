@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-21T11:59:12.139309",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 09:52:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "AI破解160年數學聖杯？研究員宣稱攜手Claude證明「黎曼猜想」",
+          "summary": "美國人工智慧（AI）公司Anthropic一名數學研究員20日宣布，他和AI模型Claude合作，找到著名「黎曼猜想」的證明方法，宣稱破解了這個數學界懸而未解逾160年的難題。...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5648979",
+          "published": "Sat, 21 Nov 2026 19:29:55 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "印度又爆假酒釀禍 曼尼普爾邦至少11死、近200人送醫",
+          "summary": "印度東北部曼尼普爾邦（Manipur）近日發生據信肇因於喝假酒的致命食安事件，迄今至少已奪走11條人命，另有超過180人送醫治療。  根據曼尼普爾邦首席部長辛格（Yumna...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5648860",
+          "published": "Sat, 21 Nov 2026 18:58:53 +0800",
+          "keywords": []
+        },
+        {
+          "title": "性平、女權鬥士 南非前副總統、聯合國婦女署前執行長辭世",
+          "summary": "聯合國婦女署（UN Women）前執行主任以及南非史上首位女副總統姆蘭波恩古卡（Phumzile Mlambo-Ngcuka）辭世，各界人士21日悼念，推崇她在推動性別平等與爭...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5648789",
+          "published": "Sat, 21 Nov 2026 17:29:16 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
