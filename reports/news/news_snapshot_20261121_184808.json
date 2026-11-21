@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-21T18:48:07.649228",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 18:22:09 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+          "summary": "墨西哥軍方今天宣布，已逮捕一名名列美國聯邦調查局十大通緝要犯的販毒集團首領。逮捕行動期間，雙方曾爆發激烈槍戰，行動結束後，當地也接連發生暴力事件。  法新社報導，墨西哥國防部在社群平台X指出...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5649165",
+          "published": "Sun, 22 Nov 2026 01:45:06 +0800",
+          "keywords": []
+        },
+        {
+          "title": "ICJ判緬甸種族滅絕可能不利以色列 關鍵在這一點",
+          "summary": "聯合國最高司法機關國際法院（ICJ）19日裁定，緬甸對以穆斯林為主的少數族群羅興亞人犯下種族滅絕罪。路透20日引述法律專家看法，這項歷史性判決確立一項重要先例：種族滅絕意圖可能...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5649133",
+          "published": "Sat, 21 Nov 2026 23:55:13 +0800",
+          "keywords": []
+        },
+        {
+          "title": "追BTS演唱會來高雄！日網首次搭公車無助中 台灣女孩一舉動暖爆",
+          "summary": "韓國天團BTS（防彈少年團）本週在高雄國家體育場（世運主場館）開唱，吸引大批海內外歌迷朝聖。一名特地飛來高雄看演唱會的日本粉絲，近日在社群平台分享在高雄首次搭乘公車的暖心經歷，自...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5648637",
+          "published": "Sat, 21 Nov 2026 23:00:02 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
