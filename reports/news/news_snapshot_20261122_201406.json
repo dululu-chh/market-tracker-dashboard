@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-22T20:14:04.549811",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "What's next after no deal at COP31 climate talks?",
+          "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 19:52:50 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+          "summary": "達美航空公司的載重與平衡自動化系統發生問題，導致今天在其亞特蘭大樞紐和全美各地有超過1000架次航班延誤，在感恩節前夕影響旅客行程。  美聯社報導，達美航空公司（Delta Air Line...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5650023",
+          "published": "Mon, 23 Nov 2026 03:30:03 +0800",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+          "summary": "美國總統川普今天表示，如果民主黨籍聯邦參議員舒默當選參議院多數黨領袖，他將很難與其合作。  路透社報導，川普在自家社群平台真實社群（Truth Social）發文說：「如果舒默（Chuck ...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5650016",
+          "published": "Mon, 23 Nov 2026 01:21:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "缺水停電、空襲警報響不停  基輔餐飲業者面臨經營寒冬",
+          "summary": "烏克蘭首都基輔主要道路赫列沙蒂克街（Khreshchatyk）曾經車馬喧囂，而今卻寂寥冷清；街道兩側曾經人聲鼎沸、觥籌交錯、侍者忙上菜的咖啡館與餐廳，現在則只看到門口掛著的大型...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5649971",
+          "published": "Sun, 22 Nov 2026 23:19:24 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
