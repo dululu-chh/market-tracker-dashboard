@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-11-23T22:23:41.878865",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Nov 2026 22:15:26 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Nov 2026 15:41:23 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Nov 2026 20:48:35 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "紐時分析逾百份中國軍民研究》美AI、晶片優勢 更易偵測摧毀中國核彈",
+          "summary": "危機中將北京逼入「核將死」絕境 〔國際新聞中心／綜合報導〕中國國家主席習近平十年前啟動核武擴張，核心目標在於確保中國在承受首波打擊後，仍具備毀滅性的反擊能力，藉此嚇阻敵手發動核訛詐或戰爭。然而，紐約時報檢視逾百份中國民間與軍方研究人員近期發表的報告後指出，共軍研究人員正深切擔憂，美國在人工智慧（A…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1779662",
+          "published": "Tue, 24 Nov 2026 05:30:00 +0800",
+          "keywords": [
+            "AI",
+            "晶片"
+          ]
+        },
+        {
+          "title": "與機艙門落差多達40公分》日媒驗證︰高市抵達中國時 地勤反覆調登機梯",
+          "summary": "中國被轟故意羞辱 〔駐日特派員林翠儀／東京廿三日報導〕日本首相高市早苗上週前往中國深圳出席亞太經濟合作會議（APEC）領袖峰會時，遭中國刻意冷遇的爭議持續延燒。富士電視台新聞節目「Mr.Sunday」透過影片逐格檢證，發現高市搭乘的政府專機抵達機場時，地勤人員曾反覆調整登機梯高度，最後竟停在與機艙…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1779661",
+          "published": "Tue, 24 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "川普警告 新年過後再打伊朗",
+          "summary": "控德黑蘭上週發射飛彈、無人機 規模達一年來最高 「全數擊落」 〔編譯林家宇／綜合報導〕美國總統川普廿二日指出，拜民主黨在期中選舉大勝所賜，伊朗上週發動的飛彈和無人機攻擊，達到過去一年來的最高規模；如果伊朗與美國未能達成協議，他傾向在新年過後下令對伊朗發起新一輪軍事打擊，並將目前與德黑蘭進行的外交談…",
+          "link": "https://news.ltn.com.tw/news/world/paper/1779659",
+          "published": "Tue, 24 Nov 2026 05:30:00 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
