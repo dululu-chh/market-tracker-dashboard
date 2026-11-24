@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-11-24T06:40:17.514202",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 04:36:31 GMT",
+          "keywords": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Nov 2026 23:16:08 GMT",
+          "keywords": [
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+          "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 02:15:59 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "中國中央部委幹部收境外經費洩情報 犯間諜罪遭判死刑",
+          "summary": "中國國家保密局近日公布，任職於中央部委的麻姓幹部因為向外國情報人員洩密，遭法院以犯間諜罪判處死刑，剝奪政治權利終身，並沒收個人全部財產。  中國國家保密局旗下微信公眾號「保密觀」昨天發文...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5651343",
+          "published": "Tue, 24 Nov 2026 14:35:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傳索羅門群島告知北京不續簽安全協議 改與澳洲簽新約",
+          "summary": "「雪梨晨驅報」（Sydney Morning Herald）今天報導，在索羅門群島總理瓦爾訪問澳洲前夕，這個南太平洋島國已通知中國，將終止兩國2022年簽署的安全協議。  路透社引述報導...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5651642",
+          "published": "Tue, 24 Nov 2026 14:29:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "美參議員追查副總統范斯！疑助金主搶委國石油 對方曾豪捐逾2億",
+          "summary": "美國副總統范斯（JD Vance）捲入利益輸送疑雲。即將接掌參議院重要委員會的民主黨籍聯邦參議員哈桑（Maggie Hassan）已致函展開追查，釐清他是否動用職權，協助一名曾...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5651551",
+          "published": "Tue, 24 Nov 2026 13:18:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
