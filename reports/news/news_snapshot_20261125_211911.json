@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-25T21:19:09.739302",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US announces new tariffs on host of countries including China",
+          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+          "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 17:30:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+          "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 19:47:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "CNN：美情報機構疑遇駭　源頭初步指向中國",
+          "summary": "4名知情人士告訴美國有線電視新聞網（CNN），美國中央情報局（CIA）及國家情報總監辦公室（ODNI）疑似遭駭客入侵，影響非機密資訊。  其中一名消息人士表示，這些機構用來進行開源情報分析的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653614",
+          "published": "Thu, 26 Nov 2026 04:30:07 +0800",
+          "keywords": []
+        },
+        {
+          "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+          "summary": "福斯新聞頻道（Fox News）報導，美國共和黨在期中選舉失利後，國務卿盧比歐在共和黨眾議員間聲勢攀升，多名共和黨議員表示，他們正力促盧比歐考慮參選總統。  紐約州共和黨籍聯邦眾議員瑪里歐塔...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653609",
+          "published": "Thu, 26 Nov 2026 02:54:04 +0800",
+          "keywords": []
+        },
+        {
+          "title": "中柬啟動史上最大「金龍」聯合軍演 逾2900官兵參演 雲壤基地開幕引美關切",
+          "summary": "中國與柬埔寨25日展開第8屆「金龍-2026」（Golden Dragon-2026）聯合軍事演習。這場為期15天、將持續至12月9日的軍演，橫跨3處地點，總計出動逾2900...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653607",
+          "published": "Thu, 26 Nov 2026 02:46:47 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
