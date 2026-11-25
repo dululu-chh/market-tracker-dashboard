@@ -1,0 +1,151 @@
+{
+  "retrieved_at": "2026-11-25T02:54:17.328550",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 21:19:42 GMT",
+          "keywords": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+          "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+          "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+          "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 18:07:46 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "美司法部長稱輝達是良好企業公民 避談黃仁勳復職爭議",
+          "summary": "美國司法部長布蘭希（Todd Blanche）今天稱讚輝達公司（Nvidia）是「良好企業公民」，但對於司法部是否介入總統川普推動執行長黃仁勳復職的爭議，則避而不談。  美國國家廣播公司...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5652453",
+          "published": "Wed, 25 Nov 2026 10:33:10 +0800",
+          "keywords": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "上海市委書記陳吉寧落馬震撼中共政壇 葉耀元：權力越集中接班人越難出現",
+          "summary": "中共中央政治局委員、上海市委書記陳吉寧傳出因「涉嫌嚴重違紀違法」，正接受中央紀律檢查委員會／國家監察委員會審查調查，落馬消息引發震撼。資深媒體人矢板明夫表示，在中國經濟低迷、地方...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5652399",
+          "published": "Wed, 25 Nov 2026 10:25:58 +0800",
+          "keywords": []
+        },
+        {
+          "title": "黃仁勳復職中國官媒叫好！《環時》警告美國別再做這件事",
+          "summary": "輝達（Nvidia）執行長黃仁勳在美國總統川普介入後復職，中國媒體對此反應熱烈。英國《衛報》24日報導，中國官媒《環球時報》不僅指控美國媒體惡意炒作黃仁勳與疑似中國情報人員的婚...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5652463",
+          "published": "Wed, 25 Nov 2026 10:16:56 +0800",
+          "keywords": [
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
