@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-26T03:53:50.636853",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "US announces new tariffs on host of countries including China",
+          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 03:01:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+          "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 17:30:16 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 22:18:06 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "尹錫悅遭控庭上作偽證 韓最高法院駁檢方上訴判無罪",
+          "summary": "南韓前總統尹錫悅被控去年涉嫌在前國務總理韓悳洙內亂案審理期間作偽證，遭內亂特檢小組起訴。不過韓媒最新消息指出，南韓大法院（最高法院）今（26）日駁回特檢組上訴，主審法官認為，尹錫...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653840",
+          "published": "Thu, 26 Nov 2026 11:37:24 +0800",
+          "keywords": []
+        },
+        {
+          "title": "金正恩視察北韓核武設施 強調應擴大發射核武能力",
+          "summary": "北韓領導人金正恩25日視察一處未公開具體地點的核武研究設施時表示，北韓應擴大從不同平台發射核武的能力，並強調此任務對北韓來說重要且迫切。  根據《法新社》報導，北韓官媒《朝...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653831",
+          "published": "Thu, 26 Nov 2026 11:11:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "伊朗駁斥研發化學武器指控 痛批以色列意圖令美發動戰爭",
+          "summary": "以色列總理納坦雅胡所屬陣營因國會選舉未能過半，進入看守政府階段。以色列國防部長卡茲（Israel Katz）24日指控伊朗正研發化學武器，並誓言阻止伊朗取得化學武器。伊朗外交部...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5653747",
+          "published": "Thu, 26 Nov 2026 10:26:19 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
