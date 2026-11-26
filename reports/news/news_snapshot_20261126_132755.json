@@ -1,0 +1,143 @@
+{
+  "retrieved_at": "2026-11-26T13:27:53.989578",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+          "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+          "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+          "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+          "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+          "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+          "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 10:25:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "俄羅斯連夜轟炸基輔 官員稱7人受傷3棟建築受損",
+          "summary": "烏克蘭官員表示，首都基輔（Kyiv）在昨晚深夜到今（26）日清晨再度遭到俄羅斯空襲，造成7人受傷與3棟建築受損。俄羅斯則聲稱，攻擊目標為烏軍無人機生產設施。  《路透》報導，...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654565",
+          "published": "Thu, 26 Nov 2026 20:12:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "MI5才示警俄升高破壞行動  英基地軍機夜間入機棚",
+          "summary": "英國情報機關24日才警告，俄羅斯升高對歐洲國防相關設施的破壞行動企圖，英國媒體25日即披露，皇家空軍（RAF）正加強軍機防護措施，包括在夜間將軍機移入機棚，以防範可能的無人機攻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654617",
+          "published": "Thu, 26 Nov 2026 19:55:21 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本記者遭俄拘留1個月 妻子手寫信淚求：請把爸爸還給年幼女兒",
+          "summary": "《北海道新聞社》記者今井裕紀自2024年起派駐俄國遠東薩哈林州，原定於10月13日結束2年特派員任期、經北京於14日返抵東京羽田機場，卻在啟程當天突遭俄方以涉間諜罪逮捕。今井的妻...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5654441",
+          "published": "Thu, 26 Nov 2026 19:30:07 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
