@@ -1,0 +1,150 @@
+{
+  "retrieved_at": "2026-11-27T14:36:17.272706",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 09:07:48 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+          "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 10:26:28 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+          "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 06:03:39 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "看徵才廣告當上黨魁 紐西蘭華裔黃秋蕾1年逆襲成「造王者」",
+          "summary": "紐西蘭國會大選最終結果27日出爐，首次進入國會的新興中間派「機會黨」（Opportunity Party），成為組閣關鍵。該黨去年8月民調支持率僅約1%，華裔黨魁黃秋蕾（Qiu...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655858",
+          "published": "Fri, 27 Nov 2026 21:33:32 +0800",
+          "keywords": []
+        },
+        {
+          "title": "紐西蘭大選「變盤」 執政聯盟未過半 華裔領軍小黨成組閣關鍵",
+          "summary": "11月初舉行的紐西蘭國會大選，最終結果27日出爐，現任總理盧克森（Christopher Luxon）領導的右翼執政聯盟，以一席之差未能過半，中間偏左聯盟也未能贏得多數席次，盧...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655850",
+          "published": "Fri, 27 Nov 2026 21:21:43 +0800",
+          "keywords": []
+        },
+        {
+          "title": "AI雙雄變狗熊？美晶片管制與反蒸餾奏效  中國模型開發降速",
+          "summary": "路透報導，美國新的晶片出口管制措施與對蒸餾技術的防範，已威脅中國人工智慧（AI）模型的開發進程。兩名知情者透露，智譜下一代旗艦AI模型恐延後至2027年推出，而「月之暗面」在無...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655845",
+          "published": "Fri, 27 Nov 2026 21:17:18 +0800",
+          "keywords": [
+            "AI",
+            "晶片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
