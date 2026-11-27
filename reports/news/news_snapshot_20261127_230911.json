@@ -1,0 +1,147 @@
+{
+  "retrieved_at": "2026-11-27T23:09:08.943933",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 21:55:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 18:00:40 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+          "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+          "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 18:42:50 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "烏克蘭雷射防空武器首傳戰果 擊落俄羅斯噴射無人機",
+          "summary": "烏克蘭國家支持的國防科技中心Brave1今天向法新社表示，烏克蘭首次使用雷射武器擊落一架俄羅斯噴射動力無人機。  本週稍早，烏克蘭總統澤倫斯基（Volodymyr Zelenskyy）的...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655978",
+          "published": "Sat, 28 Nov 2026 06:55:08 +0800",
+          "keywords": []
+        },
+        {
+          "title": "俄艦遭烏軍擊沉 航向利比亞的俄軍事貨運船隊聞訊折返",
+          "summary": "烏克蘭海上無人艇11月22日在利比亞班加西港（Benghazi port）擊沉一艘俄羅斯護衛艦「水星號」（Merkury），引起世界關注。3名軍方人士透露，一支航向利比亞、載有軍...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655975",
+          "published": "Sat, 28 Nov 2026 06:43:00 +0800",
+          "keywords": []
+        },
+        {
+          "title": "傳南韓國情院為營救情報員 擬向中國提供台灣情資惹美震怒",
+          "summary": "南韓「TV朝鮮電視台」26日獨家披露，南韓國家情報院（NIS）為營救2名在中國被拘留的情報員，在與北京交涉期間，竟提議將調查及監控台灣情報人員在南韓境內的活動，並將掌握的相關...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5655970",
+          "published": "Sat, 28 Nov 2026 05:56:28 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
