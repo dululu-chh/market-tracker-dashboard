@@ -1,0 +1,145 @@
+{
+  "retrieved_at": "2026-11-28T05:53:30.255250",
+  "feeds": [
+    {
+      "name": "Reuters Top News",
+      "language": "en",
+      "url": "https://feeds.reuters.com/reuters/topNews",
+      "items": []
+    },
+    {
+      "name": "BBC News - World",
+      "language": "en",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "items": [
+        {
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 27 Nov 2026 21:55:53 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+          "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+          "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Nov 2026 04:13:45 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Eight killed in Peruvian military helicopter crash",
+          "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+          "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 28 Nov 2026 04:19:16 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "AP News",
+      "language": "en",
+      "url": "https://apnews.com/index.rss",
+      "items": []
+    },
+    {
+      "name": "CNN World",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "items": [
+        {
+          "title": "Markets digest bank earnings after recent turmoil",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+          "published": "Fri, 14 Apr 2023 20:00:28 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Still haven't filed your taxes? Here's what you need to know",
+          "summary": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+          "link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+          "published": "Fri, 14 Apr 2023 20:07:40 GMT",
+          "keywords": []
+        },
+        {
+          "title": "Retail spending fell in March as consumers pull back",
+          "summary": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+          "link": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+          "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+          "keywords": [
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CNN Top Stories",
+      "language": "en",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "items": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "published": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "summary": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "published": "",
+          "keywords": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "summary": "• Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "published": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "自由時報國際",
+      "language": "zh",
+      "url": "https://news.ltn.com.tw/rss/world.xml",
+      "items": [
+        {
+          "title": "凱特王妃聽見3子女聲音落淚！抗癌紀錄片憶病房無聲牽手",
+          "summary": "英國凱特王妃（Catherine, Princess of Wales）的抗癌紀錄片《Heal》將於29日在英國首播。她在片中回憶，癌症治療期間曾一度意識時而清醒、時而模糊，在...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656276",
+          "published": "Sat, 28 Nov 2026 13:25:57 +0800",
+          "keywords": []
+        },
+        {
+          "title": "日本靜岡野豬四處衝撞！釀7人受傷",
+          "summary": "日本靜岡縣靜岡市清水區，27日晚間6時20分許驚傳有野豬到處衝撞，一共造成7人受傷，所幸傷者都沒有生命危險，至於野豬已在今（28日）上午8時30分許遭到獵殺。  據《產經新聞...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656234",
+          "published": "Sat, 28 Nov 2026 13:03:33 +0800",
+          "keywords": []
+        },
+        {
+          "title": "拜登回憶錄上架1週僅賣2.1萬本 遠低於歐巴馬、柯林頓",
+          "summary": "美國前總統拜登（Joe Biden）上週出版個人回憶錄《答應我，美國》（Promise Me, America，暫譯），不料反應平平，首週銷售2.1萬冊，遠低於歐巴馬、柯林頓等前...…",
+          "link": "https://news.ltn.com.tw/news/world/breakingnews/5656181",
+          "published": "Sat, 28 Nov 2026 12:58:58 +0800",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "name": "聯合報國際",
+      "language": "zh",
+      "url": "https://udn.com/rssfeed/news/1001/6649/1?type=2",
+      "items": []
+    }
+  ]
+}
